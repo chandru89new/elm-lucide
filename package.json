@@ -5,6 +5,7 @@
     "jsdom": "^27.2.0"
   },
   "scripts": {
+    "rebuild": "node build.js",
     "elm-publish": "elm publish",
     "format": "elm-format src/LucideIcons.elm --yes"
   }

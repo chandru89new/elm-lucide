@@ -53,6 +53,11 @@ const childToList = (child) => {
 
 const toElmString = (icon) => {
   return `
+{-| ${makeElmName(icon.name)}
+
+${icon.classList.split(" ")[1]}
+
+-}
 ${makeElmName(icon.name)} : List (S.Attribute msg) -> H.Html msg
 ${makeElmName(
   icon.name
