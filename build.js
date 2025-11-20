@@ -69,9 +69,7 @@ const fileHeader = (icons) => `module LucideIcons exposing (${icons
 
 {-| Lucide icons in Elm.
 
-Checkout the readme for usage instructions.
-
-@docs ${icons.map((icon) => `${makeElmName(icon)}Icon`).join(", ")}
+Checkout the [readme](https://github.com/chandru89new/elm-lucide) for usage instructions.
 
 -}
 
