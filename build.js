@@ -55,7 +55,7 @@ const toElmString = (icon) => {
   return `
 {-| ${makeElmName(icon.name)}
 
-${icon.classList.split(" ")[1]}
+${icon.classList.split(" ")[1].replaceAll("lucide-", "")}
 
 -}
 ${makeElmName(icon.name)} : List (S.Attribute msg) -> H.Html msg

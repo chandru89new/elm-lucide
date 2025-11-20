@@ -37,7 +37,7 @@ xmlns s =
 
 {-| aArrowDownIcon
 
-lucide-a-arrow-down
+a-arrow-down
 
 -}
 aArrowDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -47,7 +47,7 @@ aArrowDownIcon options =
 
 {-| aArrowUpIcon
 
-lucide-a-arrow-up
+a-arrow-up
 
 -}
 aArrowUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -57,7 +57,7 @@ aArrowUpIcon options =
 
 {-| aLargeSmallIcon
 
-lucide-a-large-small
+a-large-small
 
 -}
 aLargeSmallIcon : List (S.Attribute msg) -> H.Html msg
@@ -67,7 +67,7 @@ aLargeSmallIcon options =
 
 {-| accessibilityIcon
 
-lucide-accessibility
+accessibility
 
 -}
 accessibilityIcon : List (S.Attribute msg) -> H.Html msg
@@ -77,7 +77,7 @@ accessibilityIcon options =
 
 {-| activityIcon
 
-lucide-activity
+activity
 
 -}
 activityIcon : List (S.Attribute msg) -> H.Html msg
@@ -87,7 +87,7 @@ activityIcon options =
 
 {-| activitySquareIcon
 
-lucide-square-activity
+square-activity
 
 -}
 activitySquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -97,7 +97,7 @@ activitySquareIcon options =
 
 {-| airVentIcon
 
-lucide-air-vent
+air-vent
 
 -}
 airVentIcon : List (S.Attribute msg) -> H.Html msg
@@ -107,7 +107,7 @@ airVentIcon options =
 
 {-| airplayIcon
 
-lucide-airplay
+airplay
 
 -}
 airplayIcon : List (S.Attribute msg) -> H.Html msg
@@ -117,7 +117,7 @@ airplayIcon options =
 
 {-| alarmCheckIcon
 
-lucide-alarm-clock-check
+alarm-clock-check
 
 -}
 alarmCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -127,7 +127,7 @@ alarmCheckIcon options =
 
 {-| alarmClockIcon
 
-lucide-alarm-clock
+alarm-clock
 
 -}
 alarmClockIcon : List (S.Attribute msg) -> H.Html msg
@@ -137,7 +137,7 @@ alarmClockIcon options =
 
 {-| alarmClockCheckIcon
 
-lucide-alarm-clock-check
+alarm-clock-check
 
 -}
 alarmClockCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -147,7 +147,7 @@ alarmClockCheckIcon options =
 
 {-| alarmClockMinusIcon
 
-lucide-alarm-clock-minus
+alarm-clock-minus
 
 -}
 alarmClockMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -157,7 +157,7 @@ alarmClockMinusIcon options =
 
 {-| alarmClockOffIcon
 
-lucide-alarm-clock-off
+alarm-clock-off
 
 -}
 alarmClockOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -167,7 +167,7 @@ alarmClockOffIcon options =
 
 {-| alarmClockPlusIcon
 
-lucide-alarm-clock-plus
+alarm-clock-plus
 
 -}
 alarmClockPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -177,7 +177,7 @@ alarmClockPlusIcon options =
 
 {-| alarmMinusIcon
 
-lucide-alarm-clock-minus
+alarm-clock-minus
 
 -}
 alarmMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -187,7 +187,7 @@ alarmMinusIcon options =
 
 {-| alarmPlusIcon
 
-lucide-alarm-clock-plus
+alarm-clock-plus
 
 -}
 alarmPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -197,7 +197,7 @@ alarmPlusIcon options =
 
 {-| alarmSmokeIcon
 
-lucide-alarm-smoke
+alarm-smoke
 
 -}
 alarmSmokeIcon : List (S.Attribute msg) -> H.Html msg
@@ -207,7 +207,7 @@ alarmSmokeIcon options =
 
 {-| albumIcon
 
-lucide-album
+album
 
 -}
 albumIcon : List (S.Attribute msg) -> H.Html msg
@@ -217,7 +217,7 @@ albumIcon options =
 
 {-| alertCircleIcon
 
-lucide-circle-alert
+circle-alert
 
 -}
 alertCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -227,7 +227,7 @@ alertCircleIcon options =
 
 {-| alertOctagonIcon
 
-lucide-octagon-alert
+octagon-alert
 
 -}
 alertOctagonIcon : List (S.Attribute msg) -> H.Html msg
@@ -237,7 +237,7 @@ alertOctagonIcon options =
 
 {-| alertTriangleIcon
 
-lucide-triangle-alert
+triangle-alert
 
 -}
 alertTriangleIcon : List (S.Attribute msg) -> H.Html msg
@@ -247,7 +247,7 @@ alertTriangleIcon options =
 
 {-| alignCenterIcon
 
-lucide-text-align-center
+text-align-center
 
 -}
 alignCenterIcon : List (S.Attribute msg) -> H.Html msg
@@ -257,7 +257,7 @@ alignCenterIcon options =
 
 {-| alignCenterHorizontalIcon
 
-lucide-align-center-horizontal
+align-center-horizontal
 
 -}
 alignCenterHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -267,7 +267,7 @@ alignCenterHorizontalIcon options =
 
 {-| alignCenterVerticalIcon
 
-lucide-align-center-vertical
+align-center-vertical
 
 -}
 alignCenterVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -277,7 +277,7 @@ alignCenterVerticalIcon options =
 
 {-| alignEndHorizontalIcon
 
-lucide-align-end-horizontal
+align-end-horizontal
 
 -}
 alignEndHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -287,7 +287,7 @@ alignEndHorizontalIcon options =
 
 {-| alignEndVerticalIcon
 
-lucide-align-end-vertical
+align-end-vertical
 
 -}
 alignEndVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -297,7 +297,7 @@ alignEndVerticalIcon options =
 
 {-| alignHorizontalDistributeCenterIcon
 
-lucide-align-horizontal-distribute-center
+align-horizontal-distribute-center
 
 -}
 alignHorizontalDistributeCenterIcon : List (S.Attribute msg) -> H.Html msg
@@ -307,7 +307,7 @@ alignHorizontalDistributeCenterIcon options =
 
 {-| alignHorizontalDistributeEndIcon
 
-lucide-align-horizontal-distribute-end
+align-horizontal-distribute-end
 
 -}
 alignHorizontalDistributeEndIcon : List (S.Attribute msg) -> H.Html msg
@@ -317,7 +317,7 @@ alignHorizontalDistributeEndIcon options =
 
 {-| alignHorizontalDistributeStartIcon
 
-lucide-align-horizontal-distribute-start
+align-horizontal-distribute-start
 
 -}
 alignHorizontalDistributeStartIcon : List (S.Attribute msg) -> H.Html msg
@@ -327,7 +327,7 @@ alignHorizontalDistributeStartIcon options =
 
 {-| alignHorizontalJustifyCenterIcon
 
-lucide-align-horizontal-justify-center
+align-horizontal-justify-center
 
 -}
 alignHorizontalJustifyCenterIcon : List (S.Attribute msg) -> H.Html msg
@@ -337,7 +337,7 @@ alignHorizontalJustifyCenterIcon options =
 
 {-| alignHorizontalJustifyEndIcon
 
-lucide-align-horizontal-justify-end
+align-horizontal-justify-end
 
 -}
 alignHorizontalJustifyEndIcon : List (S.Attribute msg) -> H.Html msg
@@ -347,7 +347,7 @@ alignHorizontalJustifyEndIcon options =
 
 {-| alignHorizontalJustifyStartIcon
 
-lucide-align-horizontal-justify-start
+align-horizontal-justify-start
 
 -}
 alignHorizontalJustifyStartIcon : List (S.Attribute msg) -> H.Html msg
@@ -357,7 +357,7 @@ alignHorizontalJustifyStartIcon options =
 
 {-| alignHorizontalSpaceAroundIcon
 
-lucide-align-horizontal-space-around
+align-horizontal-space-around
 
 -}
 alignHorizontalSpaceAroundIcon : List (S.Attribute msg) -> H.Html msg
@@ -367,7 +367,7 @@ alignHorizontalSpaceAroundIcon options =
 
 {-| alignHorizontalSpaceBetweenIcon
 
-lucide-align-horizontal-space-between
+align-horizontal-space-between
 
 -}
 alignHorizontalSpaceBetweenIcon : List (S.Attribute msg) -> H.Html msg
@@ -377,7 +377,7 @@ alignHorizontalSpaceBetweenIcon options =
 
 {-| alignJustifyIcon
 
-lucide-text-align-justify
+text-align-justify
 
 -}
 alignJustifyIcon : List (S.Attribute msg) -> H.Html msg
@@ -387,7 +387,7 @@ alignJustifyIcon options =
 
 {-| alignLeftIcon
 
-lucide-text-align-start
+text-align-start
 
 -}
 alignLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -397,7 +397,7 @@ alignLeftIcon options =
 
 {-| alignRightIcon
 
-lucide-text-align-end
+text-align-end
 
 -}
 alignRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -407,7 +407,7 @@ alignRightIcon options =
 
 {-| alignStartHorizontalIcon
 
-lucide-align-start-horizontal
+align-start-horizontal
 
 -}
 alignStartHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -417,7 +417,7 @@ alignStartHorizontalIcon options =
 
 {-| alignStartVerticalIcon
 
-lucide-align-start-vertical
+align-start-vertical
 
 -}
 alignStartVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -427,7 +427,7 @@ alignStartVerticalIcon options =
 
 {-| alignVerticalDistributeCenterIcon
 
-lucide-align-vertical-distribute-center
+align-vertical-distribute-center
 
 -}
 alignVerticalDistributeCenterIcon : List (S.Attribute msg) -> H.Html msg
@@ -437,7 +437,7 @@ alignVerticalDistributeCenterIcon options =
 
 {-| alignVerticalDistributeEndIcon
 
-lucide-align-vertical-distribute-end
+align-vertical-distribute-end
 
 -}
 alignVerticalDistributeEndIcon : List (S.Attribute msg) -> H.Html msg
@@ -447,7 +447,7 @@ alignVerticalDistributeEndIcon options =
 
 {-| alignVerticalDistributeStartIcon
 
-lucide-align-vertical-distribute-start
+align-vertical-distribute-start
 
 -}
 alignVerticalDistributeStartIcon : List (S.Attribute msg) -> H.Html msg
@@ -457,7 +457,7 @@ alignVerticalDistributeStartIcon options =
 
 {-| alignVerticalJustifyCenterIcon
 
-lucide-align-vertical-justify-center
+align-vertical-justify-center
 
 -}
 alignVerticalJustifyCenterIcon : List (S.Attribute msg) -> H.Html msg
@@ -467,7 +467,7 @@ alignVerticalJustifyCenterIcon options =
 
 {-| alignVerticalJustifyEndIcon
 
-lucide-align-vertical-justify-end
+align-vertical-justify-end
 
 -}
 alignVerticalJustifyEndIcon : List (S.Attribute msg) -> H.Html msg
@@ -477,7 +477,7 @@ alignVerticalJustifyEndIcon options =
 
 {-| alignVerticalJustifyStartIcon
 
-lucide-align-vertical-justify-start
+align-vertical-justify-start
 
 -}
 alignVerticalJustifyStartIcon : List (S.Attribute msg) -> H.Html msg
@@ -487,7 +487,7 @@ alignVerticalJustifyStartIcon options =
 
 {-| alignVerticalSpaceAroundIcon
 
-lucide-align-vertical-space-around
+align-vertical-space-around
 
 -}
 alignVerticalSpaceAroundIcon : List (S.Attribute msg) -> H.Html msg
@@ -497,7 +497,7 @@ alignVerticalSpaceAroundIcon options =
 
 {-| alignVerticalSpaceBetweenIcon
 
-lucide-align-vertical-space-between
+align-vertical-space-between
 
 -}
 alignVerticalSpaceBetweenIcon : List (S.Attribute msg) -> H.Html msg
@@ -507,7 +507,7 @@ alignVerticalSpaceBetweenIcon options =
 
 {-| ambulanceIcon
 
-lucide-ambulance
+ambulance
 
 -}
 ambulanceIcon : List (S.Attribute msg) -> H.Html msg
@@ -517,7 +517,7 @@ ambulanceIcon options =
 
 {-| ampersandIcon
 
-lucide-ampersand
+ampersand
 
 -}
 ampersandIcon : List (S.Attribute msg) -> H.Html msg
@@ -527,7 +527,7 @@ ampersandIcon options =
 
 {-| ampersandsIcon
 
-lucide-ampersands
+ampersands
 
 -}
 ampersandsIcon : List (S.Attribute msg) -> H.Html msg
@@ -537,7 +537,7 @@ ampersandsIcon options =
 
 {-| amphoraIcon
 
-lucide-amphora
+amphora
 
 -}
 amphoraIcon : List (S.Attribute msg) -> H.Html msg
@@ -547,7 +547,7 @@ amphoraIcon options =
 
 {-| anchorIcon
 
-lucide-anchor
+anchor
 
 -}
 anchorIcon : List (S.Attribute msg) -> H.Html msg
@@ -557,7 +557,7 @@ anchorIcon options =
 
 {-| angryIcon
 
-lucide-angry
+angry
 
 -}
 angryIcon : List (S.Attribute msg) -> H.Html msg
@@ -567,7 +567,7 @@ angryIcon options =
 
 {-| annoyedIcon
 
-lucide-annoyed
+annoyed
 
 -}
 annoyedIcon : List (S.Attribute msg) -> H.Html msg
@@ -577,7 +577,7 @@ annoyedIcon options =
 
 {-| antennaIcon
 
-lucide-antenna
+antenna
 
 -}
 antennaIcon : List (S.Attribute msg) -> H.Html msg
@@ -587,7 +587,7 @@ antennaIcon options =
 
 {-| anvilIcon
 
-lucide-anvil
+anvil
 
 -}
 anvilIcon : List (S.Attribute msg) -> H.Html msg
@@ -597,7 +597,7 @@ anvilIcon options =
 
 {-| apertureIcon
 
-lucide-aperture
+aperture
 
 -}
 apertureIcon : List (S.Attribute msg) -> H.Html msg
@@ -607,7 +607,7 @@ apertureIcon options =
 
 {-| appWindowIcon
 
-lucide-app-window
+app-window
 
 -}
 appWindowIcon : List (S.Attribute msg) -> H.Html msg
@@ -617,7 +617,7 @@ appWindowIcon options =
 
 {-| appWindowMacIcon
 
-lucide-app-window-mac
+app-window-mac
 
 -}
 appWindowMacIcon : List (S.Attribute msg) -> H.Html msg
@@ -627,7 +627,7 @@ appWindowMacIcon options =
 
 {-| appleIcon
 
-lucide-apple
+apple
 
 -}
 appleIcon : List (S.Attribute msg) -> H.Html msg
@@ -637,7 +637,7 @@ appleIcon options =
 
 {-| archiveIcon
 
-lucide-archive
+archive
 
 -}
 archiveIcon : List (S.Attribute msg) -> H.Html msg
@@ -647,7 +647,7 @@ archiveIcon options =
 
 {-| archiveRestoreIcon
 
-lucide-archive-restore
+archive-restore
 
 -}
 archiveRestoreIcon : List (S.Attribute msg) -> H.Html msg
@@ -657,7 +657,7 @@ archiveRestoreIcon options =
 
 {-| archiveXIcon
 
-lucide-archive-x
+archive-x
 
 -}
 archiveXIcon : List (S.Attribute msg) -> H.Html msg
@@ -667,7 +667,7 @@ archiveXIcon options =
 
 {-| areaChartIcon
 
-lucide-chart-area
+chart-area
 
 -}
 areaChartIcon : List (S.Attribute msg) -> H.Html msg
@@ -677,7 +677,7 @@ areaChartIcon options =
 
 {-| armchairIcon
 
-lucide-armchair
+armchair
 
 -}
 armchairIcon : List (S.Attribute msg) -> H.Html msg
@@ -687,7 +687,7 @@ armchairIcon options =
 
 {-| arrowBigDownIcon
 
-lucide-arrow-big-down
+arrow-big-down
 
 -}
 arrowBigDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -697,7 +697,7 @@ arrowBigDownIcon options =
 
 {-| arrowBigDownDashIcon
 
-lucide-arrow-big-down-dash
+arrow-big-down-dash
 
 -}
 arrowBigDownDashIcon : List (S.Attribute msg) -> H.Html msg
@@ -707,7 +707,7 @@ arrowBigDownDashIcon options =
 
 {-| arrowBigLeftIcon
 
-lucide-arrow-big-left
+arrow-big-left
 
 -}
 arrowBigLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -717,7 +717,7 @@ arrowBigLeftIcon options =
 
 {-| arrowBigLeftDashIcon
 
-lucide-arrow-big-left-dash
+arrow-big-left-dash
 
 -}
 arrowBigLeftDashIcon : List (S.Attribute msg) -> H.Html msg
@@ -727,7 +727,7 @@ arrowBigLeftDashIcon options =
 
 {-| arrowBigRightIcon
 
-lucide-arrow-big-right
+arrow-big-right
 
 -}
 arrowBigRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -737,7 +737,7 @@ arrowBigRightIcon options =
 
 {-| arrowBigRightDashIcon
 
-lucide-arrow-big-right-dash
+arrow-big-right-dash
 
 -}
 arrowBigRightDashIcon : List (S.Attribute msg) -> H.Html msg
@@ -747,7 +747,7 @@ arrowBigRightDashIcon options =
 
 {-| arrowBigUpIcon
 
-lucide-arrow-big-up
+arrow-big-up
 
 -}
 arrowBigUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -757,7 +757,7 @@ arrowBigUpIcon options =
 
 {-| arrowBigUpDashIcon
 
-lucide-arrow-big-up-dash
+arrow-big-up-dash
 
 -}
 arrowBigUpDashIcon : List (S.Attribute msg) -> H.Html msg
@@ -767,7 +767,7 @@ arrowBigUpDashIcon options =
 
 {-| arrowDownIcon
 
-lucide-arrow-down
+arrow-down
 
 -}
 arrowDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -777,7 +777,7 @@ arrowDownIcon options =
 
 {-| arrowDown01Icon
 
-lucide-arrow-down-0-1
+arrow-down-0-1
 
 -}
 arrowDown01Icon : List (S.Attribute msg) -> H.Html msg
@@ -787,7 +787,7 @@ arrowDown01Icon options =
 
 {-| arrowDown10Icon
 
-lucide-arrow-down-1-0
+arrow-down-1-0
 
 -}
 arrowDown10Icon : List (S.Attribute msg) -> H.Html msg
@@ -797,7 +797,7 @@ arrowDown10Icon options =
 
 {-| arrowDownAZIcon
 
-lucide-arrow-down-a-z
+arrow-down-a-z
 
 -}
 arrowDownAZIcon : List (S.Attribute msg) -> H.Html msg
@@ -807,7 +807,7 @@ arrowDownAZIcon options =
 
 {-| arrowDownAzIcon
 
-lucide-arrow-down-a-z
+arrow-down-a-z
 
 -}
 arrowDownAzIcon : List (S.Attribute msg) -> H.Html msg
@@ -817,7 +817,7 @@ arrowDownAzIcon options =
 
 {-| arrowDownCircleIcon
 
-lucide-circle-arrow-down
+circle-arrow-down
 
 -}
 arrowDownCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -827,7 +827,7 @@ arrowDownCircleIcon options =
 
 {-| arrowDownFromLineIcon
 
-lucide-arrow-down-from-line
+arrow-down-from-line
 
 -}
 arrowDownFromLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -837,7 +837,7 @@ arrowDownFromLineIcon options =
 
 {-| arrowDownLeftIcon
 
-lucide-arrow-down-left
+arrow-down-left
 
 -}
 arrowDownLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -847,7 +847,7 @@ arrowDownLeftIcon options =
 
 {-| arrowDownLeftFromCircleIcon
 
-lucide-circle-arrow-out-down-left
+circle-arrow-out-down-left
 
 -}
 arrowDownLeftFromCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -857,7 +857,7 @@ arrowDownLeftFromCircleIcon options =
 
 {-| arrowDownLeftFromSquareIcon
 
-lucide-square-arrow-out-down-left
+square-arrow-out-down-left
 
 -}
 arrowDownLeftFromSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -867,7 +867,7 @@ arrowDownLeftFromSquareIcon options =
 
 {-| arrowDownLeftSquareIcon
 
-lucide-square-arrow-down-left
+square-arrow-down-left
 
 -}
 arrowDownLeftSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -877,7 +877,7 @@ arrowDownLeftSquareIcon options =
 
 {-| arrowDownNarrowWideIcon
 
-lucide-arrow-down-narrow-wide
+arrow-down-narrow-wide
 
 -}
 arrowDownNarrowWideIcon : List (S.Attribute msg) -> H.Html msg
@@ -887,7 +887,7 @@ arrowDownNarrowWideIcon options =
 
 {-| arrowDownRightIcon
 
-lucide-arrow-down-right
+arrow-down-right
 
 -}
 arrowDownRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -897,7 +897,7 @@ arrowDownRightIcon options =
 
 {-| arrowDownRightFromCircleIcon
 
-lucide-circle-arrow-out-down-right
+circle-arrow-out-down-right
 
 -}
 arrowDownRightFromCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -907,7 +907,7 @@ arrowDownRightFromCircleIcon options =
 
 {-| arrowDownRightFromSquareIcon
 
-lucide-square-arrow-out-down-right
+square-arrow-out-down-right
 
 -}
 arrowDownRightFromSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -917,7 +917,7 @@ arrowDownRightFromSquareIcon options =
 
 {-| arrowDownRightSquareIcon
 
-lucide-square-arrow-down-right
+square-arrow-down-right
 
 -}
 arrowDownRightSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -927,7 +927,7 @@ arrowDownRightSquareIcon options =
 
 {-| arrowDownSquareIcon
 
-lucide-square-arrow-down
+square-arrow-down
 
 -}
 arrowDownSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -937,7 +937,7 @@ arrowDownSquareIcon options =
 
 {-| arrowDownToDotIcon
 
-lucide-arrow-down-to-dot
+arrow-down-to-dot
 
 -}
 arrowDownToDotIcon : List (S.Attribute msg) -> H.Html msg
@@ -947,7 +947,7 @@ arrowDownToDotIcon options =
 
 {-| arrowDownToLineIcon
 
-lucide-arrow-down-to-line
+arrow-down-to-line
 
 -}
 arrowDownToLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -957,7 +957,7 @@ arrowDownToLineIcon options =
 
 {-| arrowDownUpIcon
 
-lucide-arrow-down-up
+arrow-down-up
 
 -}
 arrowDownUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -967,7 +967,7 @@ arrowDownUpIcon options =
 
 {-| arrowDownWideNarrowIcon
 
-lucide-arrow-down-wide-narrow
+arrow-down-wide-narrow
 
 -}
 arrowDownWideNarrowIcon : List (S.Attribute msg) -> H.Html msg
@@ -977,7 +977,7 @@ arrowDownWideNarrowIcon options =
 
 {-| arrowDownZAIcon
 
-lucide-arrow-down-z-a
+arrow-down-z-a
 
 -}
 arrowDownZAIcon : List (S.Attribute msg) -> H.Html msg
@@ -987,7 +987,7 @@ arrowDownZAIcon options =
 
 {-| arrowDownZaIcon
 
-lucide-arrow-down-z-a
+arrow-down-z-a
 
 -}
 arrowDownZaIcon : List (S.Attribute msg) -> H.Html msg
@@ -997,7 +997,7 @@ arrowDownZaIcon options =
 
 {-| arrowLeftIcon
 
-lucide-arrow-left
+arrow-left
 
 -}
 arrowLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -1007,7 +1007,7 @@ arrowLeftIcon options =
 
 {-| arrowLeftCircleIcon
 
-lucide-circle-arrow-left
+circle-arrow-left
 
 -}
 arrowLeftCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -1017,7 +1017,7 @@ arrowLeftCircleIcon options =
 
 {-| arrowLeftFromLineIcon
 
-lucide-arrow-left-from-line
+arrow-left-from-line
 
 -}
 arrowLeftFromLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -1027,7 +1027,7 @@ arrowLeftFromLineIcon options =
 
 {-| arrowLeftRightIcon
 
-lucide-arrow-left-right
+arrow-left-right
 
 -}
 arrowLeftRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -1037,7 +1037,7 @@ arrowLeftRightIcon options =
 
 {-| arrowLeftSquareIcon
 
-lucide-square-arrow-left
+square-arrow-left
 
 -}
 arrowLeftSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -1047,7 +1047,7 @@ arrowLeftSquareIcon options =
 
 {-| arrowLeftToLineIcon
 
-lucide-arrow-left-to-line
+arrow-left-to-line
 
 -}
 arrowLeftToLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -1057,7 +1057,7 @@ arrowLeftToLineIcon options =
 
 {-| arrowRightIcon
 
-lucide-arrow-right
+arrow-right
 
 -}
 arrowRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -1067,7 +1067,7 @@ arrowRightIcon options =
 
 {-| arrowRightCircleIcon
 
-lucide-circle-arrow-right
+circle-arrow-right
 
 -}
 arrowRightCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -1077,7 +1077,7 @@ arrowRightCircleIcon options =
 
 {-| arrowRightFromLineIcon
 
-lucide-arrow-right-from-line
+arrow-right-from-line
 
 -}
 arrowRightFromLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -1087,7 +1087,7 @@ arrowRightFromLineIcon options =
 
 {-| arrowRightLeftIcon
 
-lucide-arrow-right-left
+arrow-right-left
 
 -}
 arrowRightLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -1097,7 +1097,7 @@ arrowRightLeftIcon options =
 
 {-| arrowRightSquareIcon
 
-lucide-square-arrow-right
+square-arrow-right
 
 -}
 arrowRightSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -1107,7 +1107,7 @@ arrowRightSquareIcon options =
 
 {-| arrowRightToLineIcon
 
-lucide-arrow-right-to-line
+arrow-right-to-line
 
 -}
 arrowRightToLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -1117,7 +1117,7 @@ arrowRightToLineIcon options =
 
 {-| arrowUpIcon
 
-lucide-arrow-up
+arrow-up
 
 -}
 arrowUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -1127,7 +1127,7 @@ arrowUpIcon options =
 
 {-| arrowUp01Icon
 
-lucide-arrow-up-0-1
+arrow-up-0-1
 
 -}
 arrowUp01Icon : List (S.Attribute msg) -> H.Html msg
@@ -1137,7 +1137,7 @@ arrowUp01Icon options =
 
 {-| arrowUp10Icon
 
-lucide-arrow-up-1-0
+arrow-up-1-0
 
 -}
 arrowUp10Icon : List (S.Attribute msg) -> H.Html msg
@@ -1147,7 +1147,7 @@ arrowUp10Icon options =
 
 {-| arrowUpAZIcon
 
-lucide-arrow-up-a-z
+arrow-up-a-z
 
 -}
 arrowUpAZIcon : List (S.Attribute msg) -> H.Html msg
@@ -1157,7 +1157,7 @@ arrowUpAZIcon options =
 
 {-| arrowUpAzIcon
 
-lucide-arrow-up-a-z
+arrow-up-a-z
 
 -}
 arrowUpAzIcon : List (S.Attribute msg) -> H.Html msg
@@ -1167,7 +1167,7 @@ arrowUpAzIcon options =
 
 {-| arrowUpCircleIcon
 
-lucide-circle-arrow-up
+circle-arrow-up
 
 -}
 arrowUpCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -1177,7 +1177,7 @@ arrowUpCircleIcon options =
 
 {-| arrowUpDownIcon
 
-lucide-arrow-up-down
+arrow-up-down
 
 -}
 arrowUpDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -1187,7 +1187,7 @@ arrowUpDownIcon options =
 
 {-| arrowUpFromDotIcon
 
-lucide-arrow-up-from-dot
+arrow-up-from-dot
 
 -}
 arrowUpFromDotIcon : List (S.Attribute msg) -> H.Html msg
@@ -1197,7 +1197,7 @@ arrowUpFromDotIcon options =
 
 {-| arrowUpFromLineIcon
 
-lucide-arrow-up-from-line
+arrow-up-from-line
 
 -}
 arrowUpFromLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -1207,7 +1207,7 @@ arrowUpFromLineIcon options =
 
 {-| arrowUpLeftIcon
 
-lucide-arrow-up-left
+arrow-up-left
 
 -}
 arrowUpLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -1217,7 +1217,7 @@ arrowUpLeftIcon options =
 
 {-| arrowUpLeftFromCircleIcon
 
-lucide-circle-arrow-out-up-left
+circle-arrow-out-up-left
 
 -}
 arrowUpLeftFromCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -1227,7 +1227,7 @@ arrowUpLeftFromCircleIcon options =
 
 {-| arrowUpLeftFromSquareIcon
 
-lucide-square-arrow-out-up-left
+square-arrow-out-up-left
 
 -}
 arrowUpLeftFromSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -1237,7 +1237,7 @@ arrowUpLeftFromSquareIcon options =
 
 {-| arrowUpLeftSquareIcon
 
-lucide-square-arrow-up-left
+square-arrow-up-left
 
 -}
 arrowUpLeftSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -1247,7 +1247,7 @@ arrowUpLeftSquareIcon options =
 
 {-| arrowUpNarrowWideIcon
 
-lucide-arrow-up-narrow-wide
+arrow-up-narrow-wide
 
 -}
 arrowUpNarrowWideIcon : List (S.Attribute msg) -> H.Html msg
@@ -1257,7 +1257,7 @@ arrowUpNarrowWideIcon options =
 
 {-| arrowUpRightIcon
 
-lucide-arrow-up-right
+arrow-up-right
 
 -}
 arrowUpRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -1267,7 +1267,7 @@ arrowUpRightIcon options =
 
 {-| arrowUpRightFromCircleIcon
 
-lucide-circle-arrow-out-up-right
+circle-arrow-out-up-right
 
 -}
 arrowUpRightFromCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -1277,7 +1277,7 @@ arrowUpRightFromCircleIcon options =
 
 {-| arrowUpRightFromSquareIcon
 
-lucide-square-arrow-out-up-right
+square-arrow-out-up-right
 
 -}
 arrowUpRightFromSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -1287,7 +1287,7 @@ arrowUpRightFromSquareIcon options =
 
 {-| arrowUpRightSquareIcon
 
-lucide-square-arrow-up-right
+square-arrow-up-right
 
 -}
 arrowUpRightSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -1297,7 +1297,7 @@ arrowUpRightSquareIcon options =
 
 {-| arrowUpSquareIcon
 
-lucide-square-arrow-up
+square-arrow-up
 
 -}
 arrowUpSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -1307,7 +1307,7 @@ arrowUpSquareIcon options =
 
 {-| arrowUpToLineIcon
 
-lucide-arrow-up-to-line
+arrow-up-to-line
 
 -}
 arrowUpToLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -1317,7 +1317,7 @@ arrowUpToLineIcon options =
 
 {-| arrowUpWideNarrowIcon
 
-lucide-arrow-up-wide-narrow
+arrow-up-wide-narrow
 
 -}
 arrowUpWideNarrowIcon : List (S.Attribute msg) -> H.Html msg
@@ -1327,7 +1327,7 @@ arrowUpWideNarrowIcon options =
 
 {-| arrowUpZAIcon
 
-lucide-arrow-up-z-a
+arrow-up-z-a
 
 -}
 arrowUpZAIcon : List (S.Attribute msg) -> H.Html msg
@@ -1337,7 +1337,7 @@ arrowUpZAIcon options =
 
 {-| arrowUpZaIcon
 
-lucide-arrow-up-z-a
+arrow-up-z-a
 
 -}
 arrowUpZaIcon : List (S.Attribute msg) -> H.Html msg
@@ -1347,7 +1347,7 @@ arrowUpZaIcon options =
 
 {-| arrowsUpFromLineIcon
 
-lucide-arrows-up-from-line
+arrows-up-from-line
 
 -}
 arrowsUpFromLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -1357,7 +1357,7 @@ arrowsUpFromLineIcon options =
 
 {-| asteriskIcon
 
-lucide-asterisk
+asterisk
 
 -}
 asteriskIcon : List (S.Attribute msg) -> H.Html msg
@@ -1367,7 +1367,7 @@ asteriskIcon options =
 
 {-| asteriskSquareIcon
 
-lucide-square-asterisk
+square-asterisk
 
 -}
 asteriskSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -1377,7 +1377,7 @@ asteriskSquareIcon options =
 
 {-| atSignIcon
 
-lucide-at-sign
+at-sign
 
 -}
 atSignIcon : List (S.Attribute msg) -> H.Html msg
@@ -1387,7 +1387,7 @@ atSignIcon options =
 
 {-| atomIcon
 
-lucide-atom
+atom
 
 -}
 atomIcon : List (S.Attribute msg) -> H.Html msg
@@ -1397,7 +1397,7 @@ atomIcon options =
 
 {-| audioLinesIcon
 
-lucide-audio-lines
+audio-lines
 
 -}
 audioLinesIcon : List (S.Attribute msg) -> H.Html msg
@@ -1407,7 +1407,7 @@ audioLinesIcon options =
 
 {-| audioWaveformIcon
 
-lucide-audio-waveform
+audio-waveform
 
 -}
 audioWaveformIcon : List (S.Attribute msg) -> H.Html msg
@@ -1417,7 +1417,7 @@ audioWaveformIcon options =
 
 {-| awardIcon
 
-lucide-award
+award
 
 -}
 awardIcon : List (S.Attribute msg) -> H.Html msg
@@ -1427,7 +1427,7 @@ awardIcon options =
 
 {-| axeIcon
 
-lucide-axe
+axe
 
 -}
 axeIcon : List (S.Attribute msg) -> H.Html msg
@@ -1437,7 +1437,7 @@ axeIcon options =
 
 {-| axis3DIcon
 
-lucide-axis-3d
+axis-3d
 
 -}
 axis3DIcon : List (S.Attribute msg) -> H.Html msg
@@ -1447,7 +1447,7 @@ axis3DIcon options =
 
 {-| axis3dIcon
 
-lucide-axis-3d
+axis-3d
 
 -}
 axis3dIcon : List (S.Attribute msg) -> H.Html msg
@@ -1457,7 +1457,7 @@ axis3dIcon options =
 
 {-| babyIcon
 
-lucide-baby
+baby
 
 -}
 babyIcon : List (S.Attribute msg) -> H.Html msg
@@ -1467,7 +1467,7 @@ babyIcon options =
 
 {-| backpackIcon
 
-lucide-backpack
+backpack
 
 -}
 backpackIcon : List (S.Attribute msg) -> H.Html msg
@@ -1477,7 +1477,7 @@ backpackIcon options =
 
 {-| badgeIcon
 
-lucide-badge
+badge
 
 -}
 badgeIcon : List (S.Attribute msg) -> H.Html msg
@@ -1487,7 +1487,7 @@ badgeIcon options =
 
 {-| badgeAlertIcon
 
-lucide-badge-alert
+badge-alert
 
 -}
 badgeAlertIcon : List (S.Attribute msg) -> H.Html msg
@@ -1497,7 +1497,7 @@ badgeAlertIcon options =
 
 {-| badgeCentIcon
 
-lucide-badge-cent
+badge-cent
 
 -}
 badgeCentIcon : List (S.Attribute msg) -> H.Html msg
@@ -1507,7 +1507,7 @@ badgeCentIcon options =
 
 {-| badgeCheckIcon
 
-lucide-badge-check
+badge-check
 
 -}
 badgeCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -1517,7 +1517,7 @@ badgeCheckIcon options =
 
 {-| badgeDollarSignIcon
 
-lucide-badge-dollar-sign
+badge-dollar-sign
 
 -}
 badgeDollarSignIcon : List (S.Attribute msg) -> H.Html msg
@@ -1527,7 +1527,7 @@ badgeDollarSignIcon options =
 
 {-| badgeEuroIcon
 
-lucide-badge-euro
+badge-euro
 
 -}
 badgeEuroIcon : List (S.Attribute msg) -> H.Html msg
@@ -1537,7 +1537,7 @@ badgeEuroIcon options =
 
 {-| badgeHelpIcon
 
-lucide-badge-question-mark
+badge-question-mark
 
 -}
 badgeHelpIcon : List (S.Attribute msg) -> H.Html msg
@@ -1547,7 +1547,7 @@ badgeHelpIcon options =
 
 {-| badgeIndianRupeeIcon
 
-lucide-badge-indian-rupee
+badge-indian-rupee
 
 -}
 badgeIndianRupeeIcon : List (S.Attribute msg) -> H.Html msg
@@ -1557,7 +1557,7 @@ badgeIndianRupeeIcon options =
 
 {-| badgeInfoIcon
 
-lucide-badge-info
+badge-info
 
 -}
 badgeInfoIcon : List (S.Attribute msg) -> H.Html msg
@@ -1567,7 +1567,7 @@ badgeInfoIcon options =
 
 {-| badgeJapaneseYenIcon
 
-lucide-badge-japanese-yen
+badge-japanese-yen
 
 -}
 badgeJapaneseYenIcon : List (S.Attribute msg) -> H.Html msg
@@ -1577,7 +1577,7 @@ badgeJapaneseYenIcon options =
 
 {-| badgeMinusIcon
 
-lucide-badge-minus
+badge-minus
 
 -}
 badgeMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -1587,7 +1587,7 @@ badgeMinusIcon options =
 
 {-| badgePercentIcon
 
-lucide-badge-percent
+badge-percent
 
 -}
 badgePercentIcon : List (S.Attribute msg) -> H.Html msg
@@ -1597,7 +1597,7 @@ badgePercentIcon options =
 
 {-| badgePlusIcon
 
-lucide-badge-plus
+badge-plus
 
 -}
 badgePlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -1607,7 +1607,7 @@ badgePlusIcon options =
 
 {-| badgePoundSterlingIcon
 
-lucide-badge-pound-sterling
+badge-pound-sterling
 
 -}
 badgePoundSterlingIcon : List (S.Attribute msg) -> H.Html msg
@@ -1617,7 +1617,7 @@ badgePoundSterlingIcon options =
 
 {-| badgeQuestionMarkIcon
 
-lucide-badge-question-mark
+badge-question-mark
 
 -}
 badgeQuestionMarkIcon : List (S.Attribute msg) -> H.Html msg
@@ -1627,7 +1627,7 @@ badgeQuestionMarkIcon options =
 
 {-| badgeRussianRubleIcon
 
-lucide-badge-russian-ruble
+badge-russian-ruble
 
 -}
 badgeRussianRubleIcon : List (S.Attribute msg) -> H.Html msg
@@ -1637,7 +1637,7 @@ badgeRussianRubleIcon options =
 
 {-| badgeSwissFrancIcon
 
-lucide-badge-swiss-franc
+badge-swiss-franc
 
 -}
 badgeSwissFrancIcon : List (S.Attribute msg) -> H.Html msg
@@ -1647,7 +1647,7 @@ badgeSwissFrancIcon options =
 
 {-| badgeTurkishLiraIcon
 
-lucide-badge-turkish-lira
+badge-turkish-lira
 
 -}
 badgeTurkishLiraIcon : List (S.Attribute msg) -> H.Html msg
@@ -1657,7 +1657,7 @@ badgeTurkishLiraIcon options =
 
 {-| badgeXIcon
 
-lucide-badge-x
+badge-x
 
 -}
 badgeXIcon : List (S.Attribute msg) -> H.Html msg
@@ -1667,7 +1667,7 @@ badgeXIcon options =
 
 {-| baggageClaimIcon
 
-lucide-baggage-claim
+baggage-claim
 
 -}
 baggageClaimIcon : List (S.Attribute msg) -> H.Html msg
@@ -1677,7 +1677,7 @@ baggageClaimIcon options =
 
 {-| banIcon
 
-lucide-ban
+ban
 
 -}
 banIcon : List (S.Attribute msg) -> H.Html msg
@@ -1687,7 +1687,7 @@ banIcon options =
 
 {-| bananaIcon
 
-lucide-banana
+banana
 
 -}
 bananaIcon : List (S.Attribute msg) -> H.Html msg
@@ -1697,7 +1697,7 @@ bananaIcon options =
 
 {-| bandageIcon
 
-lucide-bandage
+bandage
 
 -}
 bandageIcon : List (S.Attribute msg) -> H.Html msg
@@ -1707,7 +1707,7 @@ bandageIcon options =
 
 {-| banknoteIcon
 
-lucide-banknote
+banknote
 
 -}
 banknoteIcon : List (S.Attribute msg) -> H.Html msg
@@ -1717,7 +1717,7 @@ banknoteIcon options =
 
 {-| banknoteArrowDownIcon
 
-lucide-banknote-arrow-down
+banknote-arrow-down
 
 -}
 banknoteArrowDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -1727,7 +1727,7 @@ banknoteArrowDownIcon options =
 
 {-| banknoteArrowUpIcon
 
-lucide-banknote-arrow-up
+banknote-arrow-up
 
 -}
 banknoteArrowUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -1737,7 +1737,7 @@ banknoteArrowUpIcon options =
 
 {-| banknoteXIcon
 
-lucide-banknote-x
+banknote-x
 
 -}
 banknoteXIcon : List (S.Attribute msg) -> H.Html msg
@@ -1747,7 +1747,7 @@ banknoteXIcon options =
 
 {-| barChartIcon
 
-lucide-chart-no-axes-column-increasing
+chart-no-axes-column-increasing
 
 -}
 barChartIcon : List (S.Attribute msg) -> H.Html msg
@@ -1757,7 +1757,7 @@ barChartIcon options =
 
 {-| barChart2Icon
 
-lucide-chart-no-axes-column
+chart-no-axes-column
 
 -}
 barChart2Icon : List (S.Attribute msg) -> H.Html msg
@@ -1767,7 +1767,7 @@ barChart2Icon options =
 
 {-| barChart3Icon
 
-lucide-chart-column
+chart-column
 
 -}
 barChart3Icon : List (S.Attribute msg) -> H.Html msg
@@ -1777,7 +1777,7 @@ barChart3Icon options =
 
 {-| barChart4Icon
 
-lucide-chart-column-increasing
+chart-column-increasing
 
 -}
 barChart4Icon : List (S.Attribute msg) -> H.Html msg
@@ -1787,7 +1787,7 @@ barChart4Icon options =
 
 {-| barChartBigIcon
 
-lucide-chart-column-big
+chart-column-big
 
 -}
 barChartBigIcon : List (S.Attribute msg) -> H.Html msg
@@ -1797,7 +1797,7 @@ barChartBigIcon options =
 
 {-| barChartHorizontalIcon
 
-lucide-chart-bar
+chart-bar
 
 -}
 barChartHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -1807,7 +1807,7 @@ barChartHorizontalIcon options =
 
 {-| barChartHorizontalBigIcon
 
-lucide-chart-bar-big
+chart-bar-big
 
 -}
 barChartHorizontalBigIcon : List (S.Attribute msg) -> H.Html msg
@@ -1817,7 +1817,7 @@ barChartHorizontalBigIcon options =
 
 {-| barcodeIcon
 
-lucide-barcode
+barcode
 
 -}
 barcodeIcon : List (S.Attribute msg) -> H.Html msg
@@ -1827,7 +1827,7 @@ barcodeIcon options =
 
 {-| barrelIcon
 
-lucide-barrel
+barrel
 
 -}
 barrelIcon : List (S.Attribute msg) -> H.Html msg
@@ -1837,7 +1837,7 @@ barrelIcon options =
 
 {-| baselineIcon
 
-lucide-baseline
+baseline
 
 -}
 baselineIcon : List (S.Attribute msg) -> H.Html msg
@@ -1847,7 +1847,7 @@ baselineIcon options =
 
 {-| bathIcon
 
-lucide-bath
+bath
 
 -}
 bathIcon : List (S.Attribute msg) -> H.Html msg
@@ -1857,7 +1857,7 @@ bathIcon options =
 
 {-| batteryIcon
 
-lucide-battery
+battery
 
 -}
 batteryIcon : List (S.Attribute msg) -> H.Html msg
@@ -1867,7 +1867,7 @@ batteryIcon options =
 
 {-| batteryChargingIcon
 
-lucide-battery-charging
+battery-charging
 
 -}
 batteryChargingIcon : List (S.Attribute msg) -> H.Html msg
@@ -1877,7 +1877,7 @@ batteryChargingIcon options =
 
 {-| batteryFullIcon
 
-lucide-battery-full
+battery-full
 
 -}
 batteryFullIcon : List (S.Attribute msg) -> H.Html msg
@@ -1887,7 +1887,7 @@ batteryFullIcon options =
 
 {-| batteryLowIcon
 
-lucide-battery-low
+battery-low
 
 -}
 batteryLowIcon : List (S.Attribute msg) -> H.Html msg
@@ -1897,7 +1897,7 @@ batteryLowIcon options =
 
 {-| batteryMediumIcon
 
-lucide-battery-medium
+battery-medium
 
 -}
 batteryMediumIcon : List (S.Attribute msg) -> H.Html msg
@@ -1907,7 +1907,7 @@ batteryMediumIcon options =
 
 {-| batteryPlusIcon
 
-lucide-battery-plus
+battery-plus
 
 -}
 batteryPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -1917,7 +1917,7 @@ batteryPlusIcon options =
 
 {-| batteryWarningIcon
 
-lucide-battery-warning
+battery-warning
 
 -}
 batteryWarningIcon : List (S.Attribute msg) -> H.Html msg
@@ -1927,7 +1927,7 @@ batteryWarningIcon options =
 
 {-| beakerIcon
 
-lucide-beaker
+beaker
 
 -}
 beakerIcon : List (S.Attribute msg) -> H.Html msg
@@ -1937,7 +1937,7 @@ beakerIcon options =
 
 {-| beanIcon
 
-lucide-bean
+bean
 
 -}
 beanIcon : List (S.Attribute msg) -> H.Html msg
@@ -1947,7 +1947,7 @@ beanIcon options =
 
 {-| beanOffIcon
 
-lucide-bean-off
+bean-off
 
 -}
 beanOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -1957,7 +1957,7 @@ beanOffIcon options =
 
 {-| bedIcon
 
-lucide-bed
+bed
 
 -}
 bedIcon : List (S.Attribute msg) -> H.Html msg
@@ -1967,7 +1967,7 @@ bedIcon options =
 
 {-| bedDoubleIcon
 
-lucide-bed-double
+bed-double
 
 -}
 bedDoubleIcon : List (S.Attribute msg) -> H.Html msg
@@ -1977,7 +1977,7 @@ bedDoubleIcon options =
 
 {-| bedSingleIcon
 
-lucide-bed-single
+bed-single
 
 -}
 bedSingleIcon : List (S.Attribute msg) -> H.Html msg
@@ -1987,7 +1987,7 @@ bedSingleIcon options =
 
 {-| beefIcon
 
-lucide-beef
+beef
 
 -}
 beefIcon : List (S.Attribute msg) -> H.Html msg
@@ -1997,7 +1997,7 @@ beefIcon options =
 
 {-| beerIcon
 
-lucide-beer
+beer
 
 -}
 beerIcon : List (S.Attribute msg) -> H.Html msg
@@ -2007,7 +2007,7 @@ beerIcon options =
 
 {-| beerOffIcon
 
-lucide-beer-off
+beer-off
 
 -}
 beerOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -2017,7 +2017,7 @@ beerOffIcon options =
 
 {-| bellIcon
 
-lucide-bell
+bell
 
 -}
 bellIcon : List (S.Attribute msg) -> H.Html msg
@@ -2027,7 +2027,7 @@ bellIcon options =
 
 {-| bellDotIcon
 
-lucide-bell-dot
+bell-dot
 
 -}
 bellDotIcon : List (S.Attribute msg) -> H.Html msg
@@ -2037,7 +2037,7 @@ bellDotIcon options =
 
 {-| bellElectricIcon
 
-lucide-bell-electric
+bell-electric
 
 -}
 bellElectricIcon : List (S.Attribute msg) -> H.Html msg
@@ -2047,7 +2047,7 @@ bellElectricIcon options =
 
 {-| bellMinusIcon
 
-lucide-bell-minus
+bell-minus
 
 -}
 bellMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -2057,7 +2057,7 @@ bellMinusIcon options =
 
 {-| bellOffIcon
 
-lucide-bell-off
+bell-off
 
 -}
 bellOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -2067,7 +2067,7 @@ bellOffIcon options =
 
 {-| bellPlusIcon
 
-lucide-bell-plus
+bell-plus
 
 -}
 bellPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -2077,7 +2077,7 @@ bellPlusIcon options =
 
 {-| bellRingIcon
 
-lucide-bell-ring
+bell-ring
 
 -}
 bellRingIcon : List (S.Attribute msg) -> H.Html msg
@@ -2087,7 +2087,7 @@ bellRingIcon options =
 
 {-| betweenHorizonalEndIcon
 
-lucide-between-horizontal-end
+between-horizontal-end
 
 -}
 betweenHorizonalEndIcon : List (S.Attribute msg) -> H.Html msg
@@ -2097,7 +2097,7 @@ betweenHorizonalEndIcon options =
 
 {-| betweenHorizonalStartIcon
 
-lucide-between-horizontal-start
+between-horizontal-start
 
 -}
 betweenHorizonalStartIcon : List (S.Attribute msg) -> H.Html msg
@@ -2107,7 +2107,7 @@ betweenHorizonalStartIcon options =
 
 {-| betweenHorizontalEndIcon
 
-lucide-between-horizontal-end
+between-horizontal-end
 
 -}
 betweenHorizontalEndIcon : List (S.Attribute msg) -> H.Html msg
@@ -2117,7 +2117,7 @@ betweenHorizontalEndIcon options =
 
 {-| betweenHorizontalStartIcon
 
-lucide-between-horizontal-start
+between-horizontal-start
 
 -}
 betweenHorizontalStartIcon : List (S.Attribute msg) -> H.Html msg
@@ -2127,7 +2127,7 @@ betweenHorizontalStartIcon options =
 
 {-| betweenVerticalEndIcon
 
-lucide-between-vertical-end
+between-vertical-end
 
 -}
 betweenVerticalEndIcon : List (S.Attribute msg) -> H.Html msg
@@ -2137,7 +2137,7 @@ betweenVerticalEndIcon options =
 
 {-| betweenVerticalStartIcon
 
-lucide-between-vertical-start
+between-vertical-start
 
 -}
 betweenVerticalStartIcon : List (S.Attribute msg) -> H.Html msg
@@ -2147,7 +2147,7 @@ betweenVerticalStartIcon options =
 
 {-| bicepsFlexedIcon
 
-lucide-biceps-flexed
+biceps-flexed
 
 -}
 bicepsFlexedIcon : List (S.Attribute msg) -> H.Html msg
@@ -2157,7 +2157,7 @@ bicepsFlexedIcon options =
 
 {-| bikeIcon
 
-lucide-bike
+bike
 
 -}
 bikeIcon : List (S.Attribute msg) -> H.Html msg
@@ -2167,7 +2167,7 @@ bikeIcon options =
 
 {-| binaryIcon
 
-lucide-binary
+binary
 
 -}
 binaryIcon : List (S.Attribute msg) -> H.Html msg
@@ -2177,7 +2177,7 @@ binaryIcon options =
 
 {-| binocularsIcon
 
-lucide-binoculars
+binoculars
 
 -}
 binocularsIcon : List (S.Attribute msg) -> H.Html msg
@@ -2187,7 +2187,7 @@ binocularsIcon options =
 
 {-| biohazardIcon
 
-lucide-biohazard
+biohazard
 
 -}
 biohazardIcon : List (S.Attribute msg) -> H.Html msg
@@ -2197,7 +2197,7 @@ biohazardIcon options =
 
 {-| birdIcon
 
-lucide-bird
+bird
 
 -}
 birdIcon : List (S.Attribute msg) -> H.Html msg
@@ -2207,7 +2207,7 @@ birdIcon options =
 
 {-| birdhouseIcon
 
-lucide-birdhouse
+birdhouse
 
 -}
 birdhouseIcon : List (S.Attribute msg) -> H.Html msg
@@ -2217,7 +2217,7 @@ birdhouseIcon options =
 
 {-| bitcoinIcon
 
-lucide-bitcoin
+bitcoin
 
 -}
 bitcoinIcon : List (S.Attribute msg) -> H.Html msg
@@ -2227,7 +2227,7 @@ bitcoinIcon options =
 
 {-| blendIcon
 
-lucide-blend
+blend
 
 -}
 blendIcon : List (S.Attribute msg) -> H.Html msg
@@ -2237,7 +2237,7 @@ blendIcon options =
 
 {-| blindsIcon
 
-lucide-blinds
+blinds
 
 -}
 blindsIcon : List (S.Attribute msg) -> H.Html msg
@@ -2247,7 +2247,7 @@ blindsIcon options =
 
 {-| blocksIcon
 
-lucide-blocks
+blocks
 
 -}
 blocksIcon : List (S.Attribute msg) -> H.Html msg
@@ -2257,7 +2257,7 @@ blocksIcon options =
 
 {-| bluetoothIcon
 
-lucide-bluetooth
+bluetooth
 
 -}
 bluetoothIcon : List (S.Attribute msg) -> H.Html msg
@@ -2267,7 +2267,7 @@ bluetoothIcon options =
 
 {-| bluetoothConnectedIcon
 
-lucide-bluetooth-connected
+bluetooth-connected
 
 -}
 bluetoothConnectedIcon : List (S.Attribute msg) -> H.Html msg
@@ -2277,7 +2277,7 @@ bluetoothConnectedIcon options =
 
 {-| bluetoothOffIcon
 
-lucide-bluetooth-off
+bluetooth-off
 
 -}
 bluetoothOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -2287,7 +2287,7 @@ bluetoothOffIcon options =
 
 {-| bluetoothSearchingIcon
 
-lucide-bluetooth-searching
+bluetooth-searching
 
 -}
 bluetoothSearchingIcon : List (S.Attribute msg) -> H.Html msg
@@ -2297,7 +2297,7 @@ bluetoothSearchingIcon options =
 
 {-| boldIcon
 
-lucide-bold
+bold
 
 -}
 boldIcon : List (S.Attribute msg) -> H.Html msg
@@ -2307,7 +2307,7 @@ boldIcon options =
 
 {-| boltIcon
 
-lucide-bolt
+bolt
 
 -}
 boltIcon : List (S.Attribute msg) -> H.Html msg
@@ -2317,7 +2317,7 @@ boltIcon options =
 
 {-| bombIcon
 
-lucide-bomb
+bomb
 
 -}
 bombIcon : List (S.Attribute msg) -> H.Html msg
@@ -2327,7 +2327,7 @@ bombIcon options =
 
 {-| boneIcon
 
-lucide-bone
+bone
 
 -}
 boneIcon : List (S.Attribute msg) -> H.Html msg
@@ -2337,7 +2337,7 @@ boneIcon options =
 
 {-| bookIcon
 
-lucide-book
+book
 
 -}
 bookIcon : List (S.Attribute msg) -> H.Html msg
@@ -2347,7 +2347,7 @@ bookIcon options =
 
 {-| bookAIcon
 
-lucide-book-a
+book-a
 
 -}
 bookAIcon : List (S.Attribute msg) -> H.Html msg
@@ -2357,7 +2357,7 @@ bookAIcon options =
 
 {-| bookAlertIcon
 
-lucide-book-alert
+book-alert
 
 -}
 bookAlertIcon : List (S.Attribute msg) -> H.Html msg
@@ -2367,7 +2367,7 @@ bookAlertIcon options =
 
 {-| bookAudioIcon
 
-lucide-book-audio
+book-audio
 
 -}
 bookAudioIcon : List (S.Attribute msg) -> H.Html msg
@@ -2377,7 +2377,7 @@ bookAudioIcon options =
 
 {-| bookCheckIcon
 
-lucide-book-check
+book-check
 
 -}
 bookCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -2387,7 +2387,7 @@ bookCheckIcon options =
 
 {-| bookCopyIcon
 
-lucide-book-copy
+book-copy
 
 -}
 bookCopyIcon : List (S.Attribute msg) -> H.Html msg
@@ -2397,7 +2397,7 @@ bookCopyIcon options =
 
 {-| bookDashedIcon
 
-lucide-book-dashed
+book-dashed
 
 -}
 bookDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -2407,7 +2407,7 @@ bookDashedIcon options =
 
 {-| bookDownIcon
 
-lucide-book-down
+book-down
 
 -}
 bookDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -2417,7 +2417,7 @@ bookDownIcon options =
 
 {-| bookHeadphonesIcon
 
-lucide-book-headphones
+book-headphones
 
 -}
 bookHeadphonesIcon : List (S.Attribute msg) -> H.Html msg
@@ -2427,7 +2427,7 @@ bookHeadphonesIcon options =
 
 {-| bookHeartIcon
 
-lucide-book-heart
+book-heart
 
 -}
 bookHeartIcon : List (S.Attribute msg) -> H.Html msg
@@ -2437,7 +2437,7 @@ bookHeartIcon options =
 
 {-| bookImageIcon
 
-lucide-book-image
+book-image
 
 -}
 bookImageIcon : List (S.Attribute msg) -> H.Html msg
@@ -2447,7 +2447,7 @@ bookImageIcon options =
 
 {-| bookKeyIcon
 
-lucide-book-key
+book-key
 
 -}
 bookKeyIcon : List (S.Attribute msg) -> H.Html msg
@@ -2457,7 +2457,7 @@ bookKeyIcon options =
 
 {-| bookLockIcon
 
-lucide-book-lock
+book-lock
 
 -}
 bookLockIcon : List (S.Attribute msg) -> H.Html msg
@@ -2467,7 +2467,7 @@ bookLockIcon options =
 
 {-| bookMarkedIcon
 
-lucide-book-marked
+book-marked
 
 -}
 bookMarkedIcon : List (S.Attribute msg) -> H.Html msg
@@ -2477,7 +2477,7 @@ bookMarkedIcon options =
 
 {-| bookMinusIcon
 
-lucide-book-minus
+book-minus
 
 -}
 bookMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -2487,7 +2487,7 @@ bookMinusIcon options =
 
 {-| bookOpenIcon
 
-lucide-book-open
+book-open
 
 -}
 bookOpenIcon : List (S.Attribute msg) -> H.Html msg
@@ -2497,7 +2497,7 @@ bookOpenIcon options =
 
 {-| bookOpenCheckIcon
 
-lucide-book-open-check
+book-open-check
 
 -}
 bookOpenCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -2507,7 +2507,7 @@ bookOpenCheckIcon options =
 
 {-| bookOpenTextIcon
 
-lucide-book-open-text
+book-open-text
 
 -}
 bookOpenTextIcon : List (S.Attribute msg) -> H.Html msg
@@ -2517,7 +2517,7 @@ bookOpenTextIcon options =
 
 {-| bookPlusIcon
 
-lucide-book-plus
+book-plus
 
 -}
 bookPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -2527,7 +2527,7 @@ bookPlusIcon options =
 
 {-| bookTemplateIcon
 
-lucide-book-dashed
+book-dashed
 
 -}
 bookTemplateIcon : List (S.Attribute msg) -> H.Html msg
@@ -2537,7 +2537,7 @@ bookTemplateIcon options =
 
 {-| bookTextIcon
 
-lucide-book-text
+book-text
 
 -}
 bookTextIcon : List (S.Attribute msg) -> H.Html msg
@@ -2547,7 +2547,7 @@ bookTextIcon options =
 
 {-| bookTypeIcon
 
-lucide-book-type
+book-type
 
 -}
 bookTypeIcon : List (S.Attribute msg) -> H.Html msg
@@ -2557,7 +2557,7 @@ bookTypeIcon options =
 
 {-| bookUpIcon
 
-lucide-book-up
+book-up
 
 -}
 bookUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -2567,7 +2567,7 @@ bookUpIcon options =
 
 {-| bookUp2Icon
 
-lucide-book-up-2
+book-up-2
 
 -}
 bookUp2Icon : List (S.Attribute msg) -> H.Html msg
@@ -2577,7 +2577,7 @@ bookUp2Icon options =
 
 {-| bookUserIcon
 
-lucide-book-user
+book-user
 
 -}
 bookUserIcon : List (S.Attribute msg) -> H.Html msg
@@ -2587,7 +2587,7 @@ bookUserIcon options =
 
 {-| bookXIcon
 
-lucide-book-x
+book-x
 
 -}
 bookXIcon : List (S.Attribute msg) -> H.Html msg
@@ -2597,7 +2597,7 @@ bookXIcon options =
 
 {-| bookmarkIcon
 
-lucide-bookmark
+bookmark
 
 -}
 bookmarkIcon : List (S.Attribute msg) -> H.Html msg
@@ -2607,7 +2607,7 @@ bookmarkIcon options =
 
 {-| bookmarkCheckIcon
 
-lucide-bookmark-check
+bookmark-check
 
 -}
 bookmarkCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -2617,7 +2617,7 @@ bookmarkCheckIcon options =
 
 {-| bookmarkMinusIcon
 
-lucide-bookmark-minus
+bookmark-minus
 
 -}
 bookmarkMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -2627,7 +2627,7 @@ bookmarkMinusIcon options =
 
 {-| bookmarkPlusIcon
 
-lucide-bookmark-plus
+bookmark-plus
 
 -}
 bookmarkPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -2637,7 +2637,7 @@ bookmarkPlusIcon options =
 
 {-| bookmarkXIcon
 
-lucide-bookmark-x
+bookmark-x
 
 -}
 bookmarkXIcon : List (S.Attribute msg) -> H.Html msg
@@ -2647,7 +2647,7 @@ bookmarkXIcon options =
 
 {-| boomBoxIcon
 
-lucide-boom-box
+boom-box
 
 -}
 boomBoxIcon : List (S.Attribute msg) -> H.Html msg
@@ -2657,7 +2657,7 @@ boomBoxIcon options =
 
 {-| botIcon
 
-lucide-bot
+bot
 
 -}
 botIcon : List (S.Attribute msg) -> H.Html msg
@@ -2667,7 +2667,7 @@ botIcon options =
 
 {-| botMessageSquareIcon
 
-lucide-bot-message-square
+bot-message-square
 
 -}
 botMessageSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -2677,7 +2677,7 @@ botMessageSquareIcon options =
 
 {-| botOffIcon
 
-lucide-bot-off
+bot-off
 
 -}
 botOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -2687,7 +2687,7 @@ botOffIcon options =
 
 {-| bottleWineIcon
 
-lucide-bottle-wine
+bottle-wine
 
 -}
 bottleWineIcon : List (S.Attribute msg) -> H.Html msg
@@ -2697,7 +2697,7 @@ bottleWineIcon options =
 
 {-| bowArrowIcon
 
-lucide-bow-arrow
+bow-arrow
 
 -}
 bowArrowIcon : List (S.Attribute msg) -> H.Html msg
@@ -2707,7 +2707,7 @@ bowArrowIcon options =
 
 {-| boxIcon
 
-lucide-box
+box
 
 -}
 boxIcon : List (S.Attribute msg) -> H.Html msg
@@ -2717,7 +2717,7 @@ boxIcon options =
 
 {-| boxSelectIcon
 
-lucide-square-dashed
+square-dashed
 
 -}
 boxSelectIcon : List (S.Attribute msg) -> H.Html msg
@@ -2727,7 +2727,7 @@ boxSelectIcon options =
 
 {-| boxesIcon
 
-lucide-boxes
+boxes
 
 -}
 boxesIcon : List (S.Attribute msg) -> H.Html msg
@@ -2737,7 +2737,7 @@ boxesIcon options =
 
 {-| bracesIcon
 
-lucide-braces
+braces
 
 -}
 bracesIcon : List (S.Attribute msg) -> H.Html msg
@@ -2747,7 +2747,7 @@ bracesIcon options =
 
 {-| bracketsIcon
 
-lucide-brackets
+brackets
 
 -}
 bracketsIcon : List (S.Attribute msg) -> H.Html msg
@@ -2757,7 +2757,7 @@ bracketsIcon options =
 
 {-| brainIcon
 
-lucide-brain
+brain
 
 -}
 brainIcon : List (S.Attribute msg) -> H.Html msg
@@ -2767,7 +2767,7 @@ brainIcon options =
 
 {-| brainCircuitIcon
 
-lucide-brain-circuit
+brain-circuit
 
 -}
 brainCircuitIcon : List (S.Attribute msg) -> H.Html msg
@@ -2777,7 +2777,7 @@ brainCircuitIcon options =
 
 {-| brainCogIcon
 
-lucide-brain-cog
+brain-cog
 
 -}
 brainCogIcon : List (S.Attribute msg) -> H.Html msg
@@ -2787,7 +2787,7 @@ brainCogIcon options =
 
 {-| brickWallIcon
 
-lucide-brick-wall
+brick-wall
 
 -}
 brickWallIcon : List (S.Attribute msg) -> H.Html msg
@@ -2797,7 +2797,7 @@ brickWallIcon options =
 
 {-| brickWallFireIcon
 
-lucide-brick-wall-fire
+brick-wall-fire
 
 -}
 brickWallFireIcon : List (S.Attribute msg) -> H.Html msg
@@ -2807,7 +2807,7 @@ brickWallFireIcon options =
 
 {-| brickWallShieldIcon
 
-lucide-brick-wall-shield
+brick-wall-shield
 
 -}
 brickWallShieldIcon : List (S.Attribute msg) -> H.Html msg
@@ -2817,7 +2817,7 @@ brickWallShieldIcon options =
 
 {-| briefcaseIcon
 
-lucide-briefcase
+briefcase
 
 -}
 briefcaseIcon : List (S.Attribute msg) -> H.Html msg
@@ -2827,7 +2827,7 @@ briefcaseIcon options =
 
 {-| briefcaseBusinessIcon
 
-lucide-briefcase-business
+briefcase-business
 
 -}
 briefcaseBusinessIcon : List (S.Attribute msg) -> H.Html msg
@@ -2837,7 +2837,7 @@ briefcaseBusinessIcon options =
 
 {-| briefcaseConveyorBeltIcon
 
-lucide-briefcase-conveyor-belt
+briefcase-conveyor-belt
 
 -}
 briefcaseConveyorBeltIcon : List (S.Attribute msg) -> H.Html msg
@@ -2847,7 +2847,7 @@ briefcaseConveyorBeltIcon options =
 
 {-| briefcaseMedicalIcon
 
-lucide-briefcase-medical
+briefcase-medical
 
 -}
 briefcaseMedicalIcon : List (S.Attribute msg) -> H.Html msg
@@ -2857,7 +2857,7 @@ briefcaseMedicalIcon options =
 
 {-| bringToFrontIcon
 
-lucide-bring-to-front
+bring-to-front
 
 -}
 bringToFrontIcon : List (S.Attribute msg) -> H.Html msg
@@ -2867,7 +2867,7 @@ bringToFrontIcon options =
 
 {-| brushIcon
 
-lucide-brush
+brush
 
 -}
 brushIcon : List (S.Attribute msg) -> H.Html msg
@@ -2877,7 +2877,7 @@ brushIcon options =
 
 {-| brushCleaningIcon
 
-lucide-brush-cleaning
+brush-cleaning
 
 -}
 brushCleaningIcon : List (S.Attribute msg) -> H.Html msg
@@ -2887,7 +2887,7 @@ brushCleaningIcon options =
 
 {-| bubblesIcon
 
-lucide-bubbles
+bubbles
 
 -}
 bubblesIcon : List (S.Attribute msg) -> H.Html msg
@@ -2897,7 +2897,7 @@ bubblesIcon options =
 
 {-| bugIcon
 
-lucide-bug
+bug
 
 -}
 bugIcon : List (S.Attribute msg) -> H.Html msg
@@ -2907,7 +2907,7 @@ bugIcon options =
 
 {-| bugOffIcon
 
-lucide-bug-off
+bug-off
 
 -}
 bugOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -2917,7 +2917,7 @@ bugOffIcon options =
 
 {-| bugPlayIcon
 
-lucide-bug-play
+bug-play
 
 -}
 bugPlayIcon : List (S.Attribute msg) -> H.Html msg
@@ -2927,7 +2927,7 @@ bugPlayIcon options =
 
 {-| buildingIcon
 
-lucide-building
+building
 
 -}
 buildingIcon : List (S.Attribute msg) -> H.Html msg
@@ -2937,7 +2937,7 @@ buildingIcon options =
 
 {-| building2Icon
 
-lucide-building-2
+building-2
 
 -}
 building2Icon : List (S.Attribute msg) -> H.Html msg
@@ -2947,7 +2947,7 @@ building2Icon options =
 
 {-| busIcon
 
-lucide-bus
+bus
 
 -}
 busIcon : List (S.Attribute msg) -> H.Html msg
@@ -2957,7 +2957,7 @@ busIcon options =
 
 {-| busFrontIcon
 
-lucide-bus-front
+bus-front
 
 -}
 busFrontIcon : List (S.Attribute msg) -> H.Html msg
@@ -2967,7 +2967,7 @@ busFrontIcon options =
 
 {-| cableIcon
 
-lucide-cable
+cable
 
 -}
 cableIcon : List (S.Attribute msg) -> H.Html msg
@@ -2977,7 +2977,7 @@ cableIcon options =
 
 {-| cableCarIcon
 
-lucide-cable-car
+cable-car
 
 -}
 cableCarIcon : List (S.Attribute msg) -> H.Html msg
@@ -2987,7 +2987,7 @@ cableCarIcon options =
 
 {-| cakeIcon
 
-lucide-cake
+cake
 
 -}
 cakeIcon : List (S.Attribute msg) -> H.Html msg
@@ -2997,7 +2997,7 @@ cakeIcon options =
 
 {-| cakeSliceIcon
 
-lucide-cake-slice
+cake-slice
 
 -}
 cakeSliceIcon : List (S.Attribute msg) -> H.Html msg
@@ -3007,7 +3007,7 @@ cakeSliceIcon options =
 
 {-| calculatorIcon
 
-lucide-calculator
+calculator
 
 -}
 calculatorIcon : List (S.Attribute msg) -> H.Html msg
@@ -3017,7 +3017,7 @@ calculatorIcon options =
 
 {-| calendarIcon
 
-lucide-calendar
+calendar
 
 -}
 calendarIcon : List (S.Attribute msg) -> H.Html msg
@@ -3027,7 +3027,7 @@ calendarIcon options =
 
 {-| calendar1Icon
 
-lucide-calendar-1
+calendar-1
 
 -}
 calendar1Icon : List (S.Attribute msg) -> H.Html msg
@@ -3037,7 +3037,7 @@ calendar1Icon options =
 
 {-| calendarArrowDownIcon
 
-lucide-calendar-arrow-down
+calendar-arrow-down
 
 -}
 calendarArrowDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -3047,7 +3047,7 @@ calendarArrowDownIcon options =
 
 {-| calendarArrowUpIcon
 
-lucide-calendar-arrow-up
+calendar-arrow-up
 
 -}
 calendarArrowUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -3057,7 +3057,7 @@ calendarArrowUpIcon options =
 
 {-| calendarCheckIcon
 
-lucide-calendar-check
+calendar-check
 
 -}
 calendarCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -3067,7 +3067,7 @@ calendarCheckIcon options =
 
 {-| calendarCheck2Icon
 
-lucide-calendar-check-2
+calendar-check-2
 
 -}
 calendarCheck2Icon : List (S.Attribute msg) -> H.Html msg
@@ -3077,7 +3077,7 @@ calendarCheck2Icon options =
 
 {-| calendarClockIcon
 
-lucide-calendar-clock
+calendar-clock
 
 -}
 calendarClockIcon : List (S.Attribute msg) -> H.Html msg
@@ -3087,7 +3087,7 @@ calendarClockIcon options =
 
 {-| calendarCogIcon
 
-lucide-calendar-cog
+calendar-cog
 
 -}
 calendarCogIcon : List (S.Attribute msg) -> H.Html msg
@@ -3097,7 +3097,7 @@ calendarCogIcon options =
 
 {-| calendarDaysIcon
 
-lucide-calendar-days
+calendar-days
 
 -}
 calendarDaysIcon : List (S.Attribute msg) -> H.Html msg
@@ -3107,7 +3107,7 @@ calendarDaysIcon options =
 
 {-| calendarFoldIcon
 
-lucide-calendar-fold
+calendar-fold
 
 -}
 calendarFoldIcon : List (S.Attribute msg) -> H.Html msg
@@ -3117,7 +3117,7 @@ calendarFoldIcon options =
 
 {-| calendarHeartIcon
 
-lucide-calendar-heart
+calendar-heart
 
 -}
 calendarHeartIcon : List (S.Attribute msg) -> H.Html msg
@@ -3127,7 +3127,7 @@ calendarHeartIcon options =
 
 {-| calendarMinusIcon
 
-lucide-calendar-minus
+calendar-minus
 
 -}
 calendarMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -3137,7 +3137,7 @@ calendarMinusIcon options =
 
 {-| calendarMinus2Icon
 
-lucide-calendar-minus-2
+calendar-minus-2
 
 -}
 calendarMinus2Icon : List (S.Attribute msg) -> H.Html msg
@@ -3147,7 +3147,7 @@ calendarMinus2Icon options =
 
 {-| calendarOffIcon
 
-lucide-calendar-off
+calendar-off
 
 -}
 calendarOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -3157,7 +3157,7 @@ calendarOffIcon options =
 
 {-| calendarPlusIcon
 
-lucide-calendar-plus
+calendar-plus
 
 -}
 calendarPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -3167,7 +3167,7 @@ calendarPlusIcon options =
 
 {-| calendarPlus2Icon
 
-lucide-calendar-plus-2
+calendar-plus-2
 
 -}
 calendarPlus2Icon : List (S.Attribute msg) -> H.Html msg
@@ -3177,7 +3177,7 @@ calendarPlus2Icon options =
 
 {-| calendarRangeIcon
 
-lucide-calendar-range
+calendar-range
 
 -}
 calendarRangeIcon : List (S.Attribute msg) -> H.Html msg
@@ -3187,7 +3187,7 @@ calendarRangeIcon options =
 
 {-| calendarSearchIcon
 
-lucide-calendar-search
+calendar-search
 
 -}
 calendarSearchIcon : List (S.Attribute msg) -> H.Html msg
@@ -3197,7 +3197,7 @@ calendarSearchIcon options =
 
 {-| calendarSyncIcon
 
-lucide-calendar-sync
+calendar-sync
 
 -}
 calendarSyncIcon : List (S.Attribute msg) -> H.Html msg
@@ -3207,7 +3207,7 @@ calendarSyncIcon options =
 
 {-| calendarXIcon
 
-lucide-calendar-x
+calendar-x
 
 -}
 calendarXIcon : List (S.Attribute msg) -> H.Html msg
@@ -3217,7 +3217,7 @@ calendarXIcon options =
 
 {-| calendarX2Icon
 
-lucide-calendar-x-2
+calendar-x-2
 
 -}
 calendarX2Icon : List (S.Attribute msg) -> H.Html msg
@@ -3227,7 +3227,7 @@ calendarX2Icon options =
 
 {-| calendarsIcon
 
-lucide-calendars
+calendars
 
 -}
 calendarsIcon : List (S.Attribute msg) -> H.Html msg
@@ -3237,7 +3237,7 @@ calendarsIcon options =
 
 {-| cameraIcon
 
-lucide-camera
+camera
 
 -}
 cameraIcon : List (S.Attribute msg) -> H.Html msg
@@ -3247,7 +3247,7 @@ cameraIcon options =
 
 {-| cameraOffIcon
 
-lucide-camera-off
+camera-off
 
 -}
 cameraOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -3257,7 +3257,7 @@ cameraOffIcon options =
 
 {-| candlestickChartIcon
 
-lucide-chart-candlestick
+chart-candlestick
 
 -}
 candlestickChartIcon : List (S.Attribute msg) -> H.Html msg
@@ -3267,7 +3267,7 @@ candlestickChartIcon options =
 
 {-| candyIcon
 
-lucide-candy
+candy
 
 -}
 candyIcon : List (S.Attribute msg) -> H.Html msg
@@ -3277,7 +3277,7 @@ candyIcon options =
 
 {-| candyCaneIcon
 
-lucide-candy-cane
+candy-cane
 
 -}
 candyCaneIcon : List (S.Attribute msg) -> H.Html msg
@@ -3287,7 +3287,7 @@ candyCaneIcon options =
 
 {-| candyOffIcon
 
-lucide-candy-off
+candy-off
 
 -}
 candyOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -3297,7 +3297,7 @@ candyOffIcon options =
 
 {-| cannabisIcon
 
-lucide-cannabis
+cannabis
 
 -}
 cannabisIcon : List (S.Attribute msg) -> H.Html msg
@@ -3307,7 +3307,7 @@ cannabisIcon options =
 
 {-| captionsIcon
 
-lucide-captions
+captions
 
 -}
 captionsIcon : List (S.Attribute msg) -> H.Html msg
@@ -3317,7 +3317,7 @@ captionsIcon options =
 
 {-| captionsOffIcon
 
-lucide-captions-off
+captions-off
 
 -}
 captionsOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -3327,7 +3327,7 @@ captionsOffIcon options =
 
 {-| carIcon
 
-lucide-car
+car
 
 -}
 carIcon : List (S.Attribute msg) -> H.Html msg
@@ -3337,7 +3337,7 @@ carIcon options =
 
 {-| carFrontIcon
 
-lucide-car-front
+car-front
 
 -}
 carFrontIcon : List (S.Attribute msg) -> H.Html msg
@@ -3347,7 +3347,7 @@ carFrontIcon options =
 
 {-| carTaxiFrontIcon
 
-lucide-car-taxi-front
+car-taxi-front
 
 -}
 carTaxiFrontIcon : List (S.Attribute msg) -> H.Html msg
@@ -3357,7 +3357,7 @@ carTaxiFrontIcon options =
 
 {-| caravanIcon
 
-lucide-caravan
+caravan
 
 -}
 caravanIcon : List (S.Attribute msg) -> H.Html msg
@@ -3367,7 +3367,7 @@ caravanIcon options =
 
 {-| cardSimIcon
 
-lucide-card-sim
+card-sim
 
 -}
 cardSimIcon : List (S.Attribute msg) -> H.Html msg
@@ -3377,7 +3377,7 @@ cardSimIcon options =
 
 {-| carrotIcon
 
-lucide-carrot
+carrot
 
 -}
 carrotIcon : List (S.Attribute msg) -> H.Html msg
@@ -3387,7 +3387,7 @@ carrotIcon options =
 
 {-| caseLowerIcon
 
-lucide-case-lower
+case-lower
 
 -}
 caseLowerIcon : List (S.Attribute msg) -> H.Html msg
@@ -3397,7 +3397,7 @@ caseLowerIcon options =
 
 {-| caseSensitiveIcon
 
-lucide-case-sensitive
+case-sensitive
 
 -}
 caseSensitiveIcon : List (S.Attribute msg) -> H.Html msg
@@ -3407,7 +3407,7 @@ caseSensitiveIcon options =
 
 {-| caseUpperIcon
 
-lucide-case-upper
+case-upper
 
 -}
 caseUpperIcon : List (S.Attribute msg) -> H.Html msg
@@ -3417,7 +3417,7 @@ caseUpperIcon options =
 
 {-| cassetteTapeIcon
 
-lucide-cassette-tape
+cassette-tape
 
 -}
 cassetteTapeIcon : List (S.Attribute msg) -> H.Html msg
@@ -3427,7 +3427,7 @@ cassetteTapeIcon options =
 
 {-| castIcon
 
-lucide-cast
+cast
 
 -}
 castIcon : List (S.Attribute msg) -> H.Html msg
@@ -3437,7 +3437,7 @@ castIcon options =
 
 {-| castleIcon
 
-lucide-castle
+castle
 
 -}
 castleIcon : List (S.Attribute msg) -> H.Html msg
@@ -3447,7 +3447,7 @@ castleIcon options =
 
 {-| catIcon
 
-lucide-cat
+cat
 
 -}
 catIcon : List (S.Attribute msg) -> H.Html msg
@@ -3457,7 +3457,7 @@ catIcon options =
 
 {-| cctvIcon
 
-lucide-cctv
+cctv
 
 -}
 cctvIcon : List (S.Attribute msg) -> H.Html msg
@@ -3467,7 +3467,7 @@ cctvIcon options =
 
 {-| chartAreaIcon
 
-lucide-chart-area
+chart-area
 
 -}
 chartAreaIcon : List (S.Attribute msg) -> H.Html msg
@@ -3477,7 +3477,7 @@ chartAreaIcon options =
 
 {-| chartBarIcon
 
-lucide-chart-bar
+chart-bar
 
 -}
 chartBarIcon : List (S.Attribute msg) -> H.Html msg
@@ -3487,7 +3487,7 @@ chartBarIcon options =
 
 {-| chartBarBigIcon
 
-lucide-chart-bar-big
+chart-bar-big
 
 -}
 chartBarBigIcon : List (S.Attribute msg) -> H.Html msg
@@ -3497,7 +3497,7 @@ chartBarBigIcon options =
 
 {-| chartBarDecreasingIcon
 
-lucide-chart-bar-decreasing
+chart-bar-decreasing
 
 -}
 chartBarDecreasingIcon : List (S.Attribute msg) -> H.Html msg
@@ -3507,7 +3507,7 @@ chartBarDecreasingIcon options =
 
 {-| chartBarIncreasingIcon
 
-lucide-chart-bar-increasing
+chart-bar-increasing
 
 -}
 chartBarIncreasingIcon : List (S.Attribute msg) -> H.Html msg
@@ -3517,7 +3517,7 @@ chartBarIncreasingIcon options =
 
 {-| chartBarStackedIcon
 
-lucide-chart-bar-stacked
+chart-bar-stacked
 
 -}
 chartBarStackedIcon : List (S.Attribute msg) -> H.Html msg
@@ -3527,7 +3527,7 @@ chartBarStackedIcon options =
 
 {-| chartCandlestickIcon
 
-lucide-chart-candlestick
+chart-candlestick
 
 -}
 chartCandlestickIcon : List (S.Attribute msg) -> H.Html msg
@@ -3537,7 +3537,7 @@ chartCandlestickIcon options =
 
 {-| chartColumnIcon
 
-lucide-chart-column
+chart-column
 
 -}
 chartColumnIcon : List (S.Attribute msg) -> H.Html msg
@@ -3547,7 +3547,7 @@ chartColumnIcon options =
 
 {-| chartColumnBigIcon
 
-lucide-chart-column-big
+chart-column-big
 
 -}
 chartColumnBigIcon : List (S.Attribute msg) -> H.Html msg
@@ -3557,7 +3557,7 @@ chartColumnBigIcon options =
 
 {-| chartColumnDecreasingIcon
 
-lucide-chart-column-decreasing
+chart-column-decreasing
 
 -}
 chartColumnDecreasingIcon : List (S.Attribute msg) -> H.Html msg
@@ -3567,7 +3567,7 @@ chartColumnDecreasingIcon options =
 
 {-| chartColumnIncreasingIcon
 
-lucide-chart-column-increasing
+chart-column-increasing
 
 -}
 chartColumnIncreasingIcon : List (S.Attribute msg) -> H.Html msg
@@ -3577,7 +3577,7 @@ chartColumnIncreasingIcon options =
 
 {-| chartColumnStackedIcon
 
-lucide-chart-column-stacked
+chart-column-stacked
 
 -}
 chartColumnStackedIcon : List (S.Attribute msg) -> H.Html msg
@@ -3587,7 +3587,7 @@ chartColumnStackedIcon options =
 
 {-| chartGanttIcon
 
-lucide-chart-gantt
+chart-gantt
 
 -}
 chartGanttIcon : List (S.Attribute msg) -> H.Html msg
@@ -3597,7 +3597,7 @@ chartGanttIcon options =
 
 {-| chartLineIcon
 
-lucide-chart-line
+chart-line
 
 -}
 chartLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -3607,7 +3607,7 @@ chartLineIcon options =
 
 {-| chartNetworkIcon
 
-lucide-chart-network
+chart-network
 
 -}
 chartNetworkIcon : List (S.Attribute msg) -> H.Html msg
@@ -3617,7 +3617,7 @@ chartNetworkIcon options =
 
 {-| chartNoAxesColumnIcon
 
-lucide-chart-no-axes-column
+chart-no-axes-column
 
 -}
 chartNoAxesColumnIcon : List (S.Attribute msg) -> H.Html msg
@@ -3627,7 +3627,7 @@ chartNoAxesColumnIcon options =
 
 {-| chartNoAxesColumnDecreasingIcon
 
-lucide-chart-no-axes-column-decreasing
+chart-no-axes-column-decreasing
 
 -}
 chartNoAxesColumnDecreasingIcon : List (S.Attribute msg) -> H.Html msg
@@ -3637,7 +3637,7 @@ chartNoAxesColumnDecreasingIcon options =
 
 {-| chartNoAxesColumnIncreasingIcon
 
-lucide-chart-no-axes-column-increasing
+chart-no-axes-column-increasing
 
 -}
 chartNoAxesColumnIncreasingIcon : List (S.Attribute msg) -> H.Html msg
@@ -3647,7 +3647,7 @@ chartNoAxesColumnIncreasingIcon options =
 
 {-| chartNoAxesCombinedIcon
 
-lucide-chart-no-axes-combined
+chart-no-axes-combined
 
 -}
 chartNoAxesCombinedIcon : List (S.Attribute msg) -> H.Html msg
@@ -3657,7 +3657,7 @@ chartNoAxesCombinedIcon options =
 
 {-| chartNoAxesGanttIcon
 
-lucide-chart-no-axes-gantt
+chart-no-axes-gantt
 
 -}
 chartNoAxesGanttIcon : List (S.Attribute msg) -> H.Html msg
@@ -3667,7 +3667,7 @@ chartNoAxesGanttIcon options =
 
 {-| chartPieIcon
 
-lucide-chart-pie
+chart-pie
 
 -}
 chartPieIcon : List (S.Attribute msg) -> H.Html msg
@@ -3677,7 +3677,7 @@ chartPieIcon options =
 
 {-| chartScatterIcon
 
-lucide-chart-scatter
+chart-scatter
 
 -}
 chartScatterIcon : List (S.Attribute msg) -> H.Html msg
@@ -3687,7 +3687,7 @@ chartScatterIcon options =
 
 {-| chartSplineIcon
 
-lucide-chart-spline
+chart-spline
 
 -}
 chartSplineIcon : List (S.Attribute msg) -> H.Html msg
@@ -3697,7 +3697,7 @@ chartSplineIcon options =
 
 {-| checkIcon
 
-lucide-check
+check
 
 -}
 checkIcon : List (S.Attribute msg) -> H.Html msg
@@ -3707,7 +3707,7 @@ checkIcon options =
 
 {-| checkCheckIcon
 
-lucide-check-check
+check-check
 
 -}
 checkCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -3717,7 +3717,7 @@ checkCheckIcon options =
 
 {-| checkCircleIcon
 
-lucide-circle-check-big
+circle-check-big
 
 -}
 checkCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -3727,7 +3727,7 @@ checkCircleIcon options =
 
 {-| checkCircle2Icon
 
-lucide-circle-check
+circle-check
 
 -}
 checkCircle2Icon : List (S.Attribute msg) -> H.Html msg
@@ -3737,7 +3737,7 @@ checkCircle2Icon options =
 
 {-| checkLineIcon
 
-lucide-check-line
+check-line
 
 -}
 checkLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -3747,7 +3747,7 @@ checkLineIcon options =
 
 {-| checkSquareIcon
 
-lucide-square-check-big
+square-check-big
 
 -}
 checkSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -3757,7 +3757,7 @@ checkSquareIcon options =
 
 {-| checkSquare2Icon
 
-lucide-square-check
+square-check
 
 -}
 checkSquare2Icon : List (S.Attribute msg) -> H.Html msg
@@ -3767,7 +3767,7 @@ checkSquare2Icon options =
 
 {-| chefHatIcon
 
-lucide-chef-hat
+chef-hat
 
 -}
 chefHatIcon : List (S.Attribute msg) -> H.Html msg
@@ -3777,7 +3777,7 @@ chefHatIcon options =
 
 {-| cherryIcon
 
-lucide-cherry
+cherry
 
 -}
 cherryIcon : List (S.Attribute msg) -> H.Html msg
@@ -3787,7 +3787,7 @@ cherryIcon options =
 
 {-| chessBishopIcon
 
-lucide-chess-bishop
+chess-bishop
 
 -}
 chessBishopIcon : List (S.Attribute msg) -> H.Html msg
@@ -3797,7 +3797,7 @@ chessBishopIcon options =
 
 {-| chessKingIcon
 
-lucide-chess-king
+chess-king
 
 -}
 chessKingIcon : List (S.Attribute msg) -> H.Html msg
@@ -3807,7 +3807,7 @@ chessKingIcon options =
 
 {-| chessKnightIcon
 
-lucide-chess-knight
+chess-knight
 
 -}
 chessKnightIcon : List (S.Attribute msg) -> H.Html msg
@@ -3817,7 +3817,7 @@ chessKnightIcon options =
 
 {-| chessPawnIcon
 
-lucide-chess-pawn
+chess-pawn
 
 -}
 chessPawnIcon : List (S.Attribute msg) -> H.Html msg
@@ -3827,7 +3827,7 @@ chessPawnIcon options =
 
 {-| chessQueenIcon
 
-lucide-chess-queen
+chess-queen
 
 -}
 chessQueenIcon : List (S.Attribute msg) -> H.Html msg
@@ -3837,7 +3837,7 @@ chessQueenIcon options =
 
 {-| chessRookIcon
 
-lucide-chess-rook
+chess-rook
 
 -}
 chessRookIcon : List (S.Attribute msg) -> H.Html msg
@@ -3847,7 +3847,7 @@ chessRookIcon options =
 
 {-| chevronDownIcon
 
-lucide-chevron-down
+chevron-down
 
 -}
 chevronDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -3857,7 +3857,7 @@ chevronDownIcon options =
 
 {-| chevronDownCircleIcon
 
-lucide-circle-chevron-down
+circle-chevron-down
 
 -}
 chevronDownCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -3867,7 +3867,7 @@ chevronDownCircleIcon options =
 
 {-| chevronDownSquareIcon
 
-lucide-square-chevron-down
+square-chevron-down
 
 -}
 chevronDownSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -3877,7 +3877,7 @@ chevronDownSquareIcon options =
 
 {-| chevronFirstIcon
 
-lucide-chevron-first
+chevron-first
 
 -}
 chevronFirstIcon : List (S.Attribute msg) -> H.Html msg
@@ -3887,7 +3887,7 @@ chevronFirstIcon options =
 
 {-| chevronLastIcon
 
-lucide-chevron-last
+chevron-last
 
 -}
 chevronLastIcon : List (S.Attribute msg) -> H.Html msg
@@ -3897,7 +3897,7 @@ chevronLastIcon options =
 
 {-| chevronLeftIcon
 
-lucide-chevron-left
+chevron-left
 
 -}
 chevronLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -3907,7 +3907,7 @@ chevronLeftIcon options =
 
 {-| chevronLeftCircleIcon
 
-lucide-circle-chevron-left
+circle-chevron-left
 
 -}
 chevronLeftCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -3917,7 +3917,7 @@ chevronLeftCircleIcon options =
 
 {-| chevronLeftSquareIcon
 
-lucide-square-chevron-left
+square-chevron-left
 
 -}
 chevronLeftSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -3927,7 +3927,7 @@ chevronLeftSquareIcon options =
 
 {-| chevronRightIcon
 
-lucide-chevron-right
+chevron-right
 
 -}
 chevronRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -3937,7 +3937,7 @@ chevronRightIcon options =
 
 {-| chevronRightCircleIcon
 
-lucide-circle-chevron-right
+circle-chevron-right
 
 -}
 chevronRightCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -3947,7 +3947,7 @@ chevronRightCircleIcon options =
 
 {-| chevronRightSquareIcon
 
-lucide-square-chevron-right
+square-chevron-right
 
 -}
 chevronRightSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -3957,7 +3957,7 @@ chevronRightSquareIcon options =
 
 {-| chevronUpIcon
 
-lucide-chevron-up
+chevron-up
 
 -}
 chevronUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -3967,7 +3967,7 @@ chevronUpIcon options =
 
 {-| chevronUpCircleIcon
 
-lucide-circle-chevron-up
+circle-chevron-up
 
 -}
 chevronUpCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -3977,7 +3977,7 @@ chevronUpCircleIcon options =
 
 {-| chevronUpSquareIcon
 
-lucide-square-chevron-up
+square-chevron-up
 
 -}
 chevronUpSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -3987,7 +3987,7 @@ chevronUpSquareIcon options =
 
 {-| chevronsDownIcon
 
-lucide-chevrons-down
+chevrons-down
 
 -}
 chevronsDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -3997,7 +3997,7 @@ chevronsDownIcon options =
 
 {-| chevronsDownUpIcon
 
-lucide-chevrons-down-up
+chevrons-down-up
 
 -}
 chevronsDownUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -4007,7 +4007,7 @@ chevronsDownUpIcon options =
 
 {-| chevronsLeftIcon
 
-lucide-chevrons-left
+chevrons-left
 
 -}
 chevronsLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -4017,7 +4017,7 @@ chevronsLeftIcon options =
 
 {-| chevronsLeftRightIcon
 
-lucide-chevrons-left-right
+chevrons-left-right
 
 -}
 chevronsLeftRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -4027,7 +4027,7 @@ chevronsLeftRightIcon options =
 
 {-| chevronsLeftRightEllipsisIcon
 
-lucide-chevrons-left-right-ellipsis
+chevrons-left-right-ellipsis
 
 -}
 chevronsLeftRightEllipsisIcon : List (S.Attribute msg) -> H.Html msg
@@ -4037,7 +4037,7 @@ chevronsLeftRightEllipsisIcon options =
 
 {-| chevronsRightIcon
 
-lucide-chevrons-right
+chevrons-right
 
 -}
 chevronsRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -4047,7 +4047,7 @@ chevronsRightIcon options =
 
 {-| chevronsRightLeftIcon
 
-lucide-chevrons-right-left
+chevrons-right-left
 
 -}
 chevronsRightLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -4057,7 +4057,7 @@ chevronsRightLeftIcon options =
 
 {-| chevronsUpIcon
 
-lucide-chevrons-up
+chevrons-up
 
 -}
 chevronsUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -4067,7 +4067,7 @@ chevronsUpIcon options =
 
 {-| chevronsUpDownIcon
 
-lucide-chevrons-up-down
+chevrons-up-down
 
 -}
 chevronsUpDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -4077,7 +4077,7 @@ chevronsUpDownIcon options =
 
 {-| chromeIcon
 
-lucide-chromium
+chromium
 
 -}
 chromeIcon : List (S.Attribute msg) -> H.Html msg
@@ -4087,7 +4087,7 @@ chromeIcon options =
 
 {-| chromiumIcon
 
-lucide-chromium
+chromium
 
 -}
 chromiumIcon : List (S.Attribute msg) -> H.Html msg
@@ -4097,7 +4097,7 @@ chromiumIcon options =
 
 {-| churchIcon
 
-lucide-church
+church
 
 -}
 churchIcon : List (S.Attribute msg) -> H.Html msg
@@ -4107,7 +4107,7 @@ churchIcon options =
 
 {-| cigaretteIcon
 
-lucide-cigarette
+cigarette
 
 -}
 cigaretteIcon : List (S.Attribute msg) -> H.Html msg
@@ -4117,7 +4117,7 @@ cigaretteIcon options =
 
 {-| cigaretteOffIcon
 
-lucide-cigarette-off
+cigarette-off
 
 -}
 cigaretteOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -4127,7 +4127,7 @@ cigaretteOffIcon options =
 
 {-| circleIcon
 
-lucide-circle
+circle
 
 -}
 circleIcon : List (S.Attribute msg) -> H.Html msg
@@ -4137,7 +4137,7 @@ circleIcon options =
 
 {-| circleAlertIcon
 
-lucide-circle-alert
+circle-alert
 
 -}
 circleAlertIcon : List (S.Attribute msg) -> H.Html msg
@@ -4147,7 +4147,7 @@ circleAlertIcon options =
 
 {-| circleArrowDownIcon
 
-lucide-circle-arrow-down
+circle-arrow-down
 
 -}
 circleArrowDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -4157,7 +4157,7 @@ circleArrowDownIcon options =
 
 {-| circleArrowLeftIcon
 
-lucide-circle-arrow-left
+circle-arrow-left
 
 -}
 circleArrowLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -4167,7 +4167,7 @@ circleArrowLeftIcon options =
 
 {-| circleArrowOutDownLeftIcon
 
-lucide-circle-arrow-out-down-left
+circle-arrow-out-down-left
 
 -}
 circleArrowOutDownLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -4177,7 +4177,7 @@ circleArrowOutDownLeftIcon options =
 
 {-| circleArrowOutDownRightIcon
 
-lucide-circle-arrow-out-down-right
+circle-arrow-out-down-right
 
 -}
 circleArrowOutDownRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -4187,7 +4187,7 @@ circleArrowOutDownRightIcon options =
 
 {-| circleArrowOutUpLeftIcon
 
-lucide-circle-arrow-out-up-left
+circle-arrow-out-up-left
 
 -}
 circleArrowOutUpLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -4197,7 +4197,7 @@ circleArrowOutUpLeftIcon options =
 
 {-| circleArrowOutUpRightIcon
 
-lucide-circle-arrow-out-up-right
+circle-arrow-out-up-right
 
 -}
 circleArrowOutUpRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -4207,7 +4207,7 @@ circleArrowOutUpRightIcon options =
 
 {-| circleArrowRightIcon
 
-lucide-circle-arrow-right
+circle-arrow-right
 
 -}
 circleArrowRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -4217,7 +4217,7 @@ circleArrowRightIcon options =
 
 {-| circleArrowUpIcon
 
-lucide-circle-arrow-up
+circle-arrow-up
 
 -}
 circleArrowUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -4227,7 +4227,7 @@ circleArrowUpIcon options =
 
 {-| circleCheckIcon
 
-lucide-circle-check
+circle-check
 
 -}
 circleCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -4237,7 +4237,7 @@ circleCheckIcon options =
 
 {-| circleCheckBigIcon
 
-lucide-circle-check-big
+circle-check-big
 
 -}
 circleCheckBigIcon : List (S.Attribute msg) -> H.Html msg
@@ -4247,7 +4247,7 @@ circleCheckBigIcon options =
 
 {-| circleChevronDownIcon
 
-lucide-circle-chevron-down
+circle-chevron-down
 
 -}
 circleChevronDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -4257,7 +4257,7 @@ circleChevronDownIcon options =
 
 {-| circleChevronLeftIcon
 
-lucide-circle-chevron-left
+circle-chevron-left
 
 -}
 circleChevronLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -4267,7 +4267,7 @@ circleChevronLeftIcon options =
 
 {-| circleChevronRightIcon
 
-lucide-circle-chevron-right
+circle-chevron-right
 
 -}
 circleChevronRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -4277,7 +4277,7 @@ circleChevronRightIcon options =
 
 {-| circleChevronUpIcon
 
-lucide-circle-chevron-up
+circle-chevron-up
 
 -}
 circleChevronUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -4287,7 +4287,7 @@ circleChevronUpIcon options =
 
 {-| circleDashedIcon
 
-lucide-circle-dashed
+circle-dashed
 
 -}
 circleDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -4297,7 +4297,7 @@ circleDashedIcon options =
 
 {-| circleDivideIcon
 
-lucide-circle-divide
+circle-divide
 
 -}
 circleDivideIcon : List (S.Attribute msg) -> H.Html msg
@@ -4307,7 +4307,7 @@ circleDivideIcon options =
 
 {-| circleDollarSignIcon
 
-lucide-circle-dollar-sign
+circle-dollar-sign
 
 -}
 circleDollarSignIcon : List (S.Attribute msg) -> H.Html msg
@@ -4317,7 +4317,7 @@ circleDollarSignIcon options =
 
 {-| circleDotIcon
 
-lucide-circle-dot
+circle-dot
 
 -}
 circleDotIcon : List (S.Attribute msg) -> H.Html msg
@@ -4327,7 +4327,7 @@ circleDotIcon options =
 
 {-| circleDotDashedIcon
 
-lucide-circle-dot-dashed
+circle-dot-dashed
 
 -}
 circleDotDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -4337,7 +4337,7 @@ circleDotDashedIcon options =
 
 {-| circleEllipsisIcon
 
-lucide-circle-ellipsis
+circle-ellipsis
 
 -}
 circleEllipsisIcon : List (S.Attribute msg) -> H.Html msg
@@ -4347,7 +4347,7 @@ circleEllipsisIcon options =
 
 {-| circleEqualIcon
 
-lucide-circle-equal
+circle-equal
 
 -}
 circleEqualIcon : List (S.Attribute msg) -> H.Html msg
@@ -4357,7 +4357,7 @@ circleEqualIcon options =
 
 {-| circleFadingArrowUpIcon
 
-lucide-circle-fading-arrow-up
+circle-fading-arrow-up
 
 -}
 circleFadingArrowUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -4367,7 +4367,7 @@ circleFadingArrowUpIcon options =
 
 {-| circleFadingPlusIcon
 
-lucide-circle-fading-plus
+circle-fading-plus
 
 -}
 circleFadingPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -4377,7 +4377,7 @@ circleFadingPlusIcon options =
 
 {-| circleGaugeIcon
 
-lucide-circle-gauge
+circle-gauge
 
 -}
 circleGaugeIcon : List (S.Attribute msg) -> H.Html msg
@@ -4387,7 +4387,7 @@ circleGaugeIcon options =
 
 {-| circleHelpIcon
 
-lucide-circle-question-mark
+circle-question-mark
 
 -}
 circleHelpIcon : List (S.Attribute msg) -> H.Html msg
@@ -4397,7 +4397,7 @@ circleHelpIcon options =
 
 {-| circleMinusIcon
 
-lucide-circle-minus
+circle-minus
 
 -}
 circleMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -4407,7 +4407,7 @@ circleMinusIcon options =
 
 {-| circleOffIcon
 
-lucide-circle-off
+circle-off
 
 -}
 circleOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -4417,7 +4417,7 @@ circleOffIcon options =
 
 {-| circleParkingIcon
 
-lucide-circle-parking
+circle-parking
 
 -}
 circleParkingIcon : List (S.Attribute msg) -> H.Html msg
@@ -4427,7 +4427,7 @@ circleParkingIcon options =
 
 {-| circleParkingOffIcon
 
-lucide-circle-parking-off
+circle-parking-off
 
 -}
 circleParkingOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -4437,7 +4437,7 @@ circleParkingOffIcon options =
 
 {-| circlePauseIcon
 
-lucide-circle-pause
+circle-pause
 
 -}
 circlePauseIcon : List (S.Attribute msg) -> H.Html msg
@@ -4447,7 +4447,7 @@ circlePauseIcon options =
 
 {-| circlePercentIcon
 
-lucide-circle-percent
+circle-percent
 
 -}
 circlePercentIcon : List (S.Attribute msg) -> H.Html msg
@@ -4457,7 +4457,7 @@ circlePercentIcon options =
 
 {-| circlePlayIcon
 
-lucide-circle-play
+circle-play
 
 -}
 circlePlayIcon : List (S.Attribute msg) -> H.Html msg
@@ -4467,7 +4467,7 @@ circlePlayIcon options =
 
 {-| circlePlusIcon
 
-lucide-circle-plus
+circle-plus
 
 -}
 circlePlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -4477,7 +4477,7 @@ circlePlusIcon options =
 
 {-| circlePoundSterlingIcon
 
-lucide-circle-pound-sterling
+circle-pound-sterling
 
 -}
 circlePoundSterlingIcon : List (S.Attribute msg) -> H.Html msg
@@ -4487,7 +4487,7 @@ circlePoundSterlingIcon options =
 
 {-| circlePowerIcon
 
-lucide-circle-power
+circle-power
 
 -}
 circlePowerIcon : List (S.Attribute msg) -> H.Html msg
@@ -4497,7 +4497,7 @@ circlePowerIcon options =
 
 {-| circleQuestionMarkIcon
 
-lucide-circle-question-mark
+circle-question-mark
 
 -}
 circleQuestionMarkIcon : List (S.Attribute msg) -> H.Html msg
@@ -4507,7 +4507,7 @@ circleQuestionMarkIcon options =
 
 {-| circleSlashIcon
 
-lucide-circle-slash
+circle-slash
 
 -}
 circleSlashIcon : List (S.Attribute msg) -> H.Html msg
@@ -4517,7 +4517,7 @@ circleSlashIcon options =
 
 {-| circleSlash2Icon
 
-lucide-circle-slash-2
+circle-slash-2
 
 -}
 circleSlash2Icon : List (S.Attribute msg) -> H.Html msg
@@ -4527,7 +4527,7 @@ circleSlash2Icon options =
 
 {-| circleSlashedIcon
 
-lucide-circle-slash-2
+circle-slash-2
 
 -}
 circleSlashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -4537,7 +4537,7 @@ circleSlashedIcon options =
 
 {-| circleSmallIcon
 
-lucide-circle-small
+circle-small
 
 -}
 circleSmallIcon : List (S.Attribute msg) -> H.Html msg
@@ -4547,7 +4547,7 @@ circleSmallIcon options =
 
 {-| circleStarIcon
 
-lucide-circle-star
+circle-star
 
 -}
 circleStarIcon : List (S.Attribute msg) -> H.Html msg
@@ -4557,7 +4557,7 @@ circleStarIcon options =
 
 {-| circleStopIcon
 
-lucide-circle-stop
+circle-stop
 
 -}
 circleStopIcon : List (S.Attribute msg) -> H.Html msg
@@ -4567,7 +4567,7 @@ circleStopIcon options =
 
 {-| circleUserIcon
 
-lucide-circle-user
+circle-user
 
 -}
 circleUserIcon : List (S.Attribute msg) -> H.Html msg
@@ -4577,7 +4577,7 @@ circleUserIcon options =
 
 {-| circleUserRoundIcon
 
-lucide-circle-user-round
+circle-user-round
 
 -}
 circleUserRoundIcon : List (S.Attribute msg) -> H.Html msg
@@ -4587,7 +4587,7 @@ circleUserRoundIcon options =
 
 {-| circleXIcon
 
-lucide-circle-x
+circle-x
 
 -}
 circleXIcon : List (S.Attribute msg) -> H.Html msg
@@ -4597,7 +4597,7 @@ circleXIcon options =
 
 {-| circuitBoardIcon
 
-lucide-circuit-board
+circuit-board
 
 -}
 circuitBoardIcon : List (S.Attribute msg) -> H.Html msg
@@ -4607,7 +4607,7 @@ circuitBoardIcon options =
 
 {-| citrusIcon
 
-lucide-citrus
+citrus
 
 -}
 citrusIcon : List (S.Attribute msg) -> H.Html msg
@@ -4617,7 +4617,7 @@ citrusIcon options =
 
 {-| clapperboardIcon
 
-lucide-clapperboard
+clapperboard
 
 -}
 clapperboardIcon : List (S.Attribute msg) -> H.Html msg
@@ -4627,7 +4627,7 @@ clapperboardIcon options =
 
 {-| clipboardIcon
 
-lucide-clipboard
+clipboard
 
 -}
 clipboardIcon : List (S.Attribute msg) -> H.Html msg
@@ -4637,7 +4637,7 @@ clipboardIcon options =
 
 {-| clipboardCheckIcon
 
-lucide-clipboard-check
+clipboard-check
 
 -}
 clipboardCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -4647,7 +4647,7 @@ clipboardCheckIcon options =
 
 {-| clipboardClockIcon
 
-lucide-clipboard-clock
+clipboard-clock
 
 -}
 clipboardClockIcon : List (S.Attribute msg) -> H.Html msg
@@ -4657,7 +4657,7 @@ clipboardClockIcon options =
 
 {-| clipboardCopyIcon
 
-lucide-clipboard-copy
+clipboard-copy
 
 -}
 clipboardCopyIcon : List (S.Attribute msg) -> H.Html msg
@@ -4667,7 +4667,7 @@ clipboardCopyIcon options =
 
 {-| clipboardEditIcon
 
-lucide-clipboard-pen
+clipboard-pen
 
 -}
 clipboardEditIcon : List (S.Attribute msg) -> H.Html msg
@@ -4677,7 +4677,7 @@ clipboardEditIcon options =
 
 {-| clipboardListIcon
 
-lucide-clipboard-list
+clipboard-list
 
 -}
 clipboardListIcon : List (S.Attribute msg) -> H.Html msg
@@ -4687,7 +4687,7 @@ clipboardListIcon options =
 
 {-| clipboardMinusIcon
 
-lucide-clipboard-minus
+clipboard-minus
 
 -}
 clipboardMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -4697,7 +4697,7 @@ clipboardMinusIcon options =
 
 {-| clipboardPasteIcon
 
-lucide-clipboard-paste
+clipboard-paste
 
 -}
 clipboardPasteIcon : List (S.Attribute msg) -> H.Html msg
@@ -4707,7 +4707,7 @@ clipboardPasteIcon options =
 
 {-| clipboardPenIcon
 
-lucide-clipboard-pen
+clipboard-pen
 
 -}
 clipboardPenIcon : List (S.Attribute msg) -> H.Html msg
@@ -4717,7 +4717,7 @@ clipboardPenIcon options =
 
 {-| clipboardPenLineIcon
 
-lucide-clipboard-pen-line
+clipboard-pen-line
 
 -}
 clipboardPenLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -4727,7 +4727,7 @@ clipboardPenLineIcon options =
 
 {-| clipboardPlusIcon
 
-lucide-clipboard-plus
+clipboard-plus
 
 -}
 clipboardPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -4737,7 +4737,7 @@ clipboardPlusIcon options =
 
 {-| clipboardSignatureIcon
 
-lucide-clipboard-pen-line
+clipboard-pen-line
 
 -}
 clipboardSignatureIcon : List (S.Attribute msg) -> H.Html msg
@@ -4747,7 +4747,7 @@ clipboardSignatureIcon options =
 
 {-| clipboardTypeIcon
 
-lucide-clipboard-type
+clipboard-type
 
 -}
 clipboardTypeIcon : List (S.Attribute msg) -> H.Html msg
@@ -4757,7 +4757,7 @@ clipboardTypeIcon options =
 
 {-| clipboardXIcon
 
-lucide-clipboard-x
+clipboard-x
 
 -}
 clipboardXIcon : List (S.Attribute msg) -> H.Html msg
@@ -4767,7 +4767,7 @@ clipboardXIcon options =
 
 {-| clockIcon
 
-lucide-clock
+clock
 
 -}
 clockIcon : List (S.Attribute msg) -> H.Html msg
@@ -4777,7 +4777,7 @@ clockIcon options =
 
 {-| clock1Icon
 
-lucide-clock-1
+clock-1
 
 -}
 clock1Icon : List (S.Attribute msg) -> H.Html msg
@@ -4787,7 +4787,7 @@ clock1Icon options =
 
 {-| clock10Icon
 
-lucide-clock-10
+clock-10
 
 -}
 clock10Icon : List (S.Attribute msg) -> H.Html msg
@@ -4797,7 +4797,7 @@ clock10Icon options =
 
 {-| clock11Icon
 
-lucide-clock-11
+clock-11
 
 -}
 clock11Icon : List (S.Attribute msg) -> H.Html msg
@@ -4807,7 +4807,7 @@ clock11Icon options =
 
 {-| clock12Icon
 
-lucide-clock-12
+clock-12
 
 -}
 clock12Icon : List (S.Attribute msg) -> H.Html msg
@@ -4817,7 +4817,7 @@ clock12Icon options =
 
 {-| clock2Icon
 
-lucide-clock-2
+clock-2
 
 -}
 clock2Icon : List (S.Attribute msg) -> H.Html msg
@@ -4827,7 +4827,7 @@ clock2Icon options =
 
 {-| clock3Icon
 
-lucide-clock-3
+clock-3
 
 -}
 clock3Icon : List (S.Attribute msg) -> H.Html msg
@@ -4837,7 +4837,7 @@ clock3Icon options =
 
 {-| clock4Icon
 
-lucide-clock-4
+clock-4
 
 -}
 clock4Icon : List (S.Attribute msg) -> H.Html msg
@@ -4847,7 +4847,7 @@ clock4Icon options =
 
 {-| clock5Icon
 
-lucide-clock-5
+clock-5
 
 -}
 clock5Icon : List (S.Attribute msg) -> H.Html msg
@@ -4857,7 +4857,7 @@ clock5Icon options =
 
 {-| clock6Icon
 
-lucide-clock-6
+clock-6
 
 -}
 clock6Icon : List (S.Attribute msg) -> H.Html msg
@@ -4867,7 +4867,7 @@ clock6Icon options =
 
 {-| clock7Icon
 
-lucide-clock-7
+clock-7
 
 -}
 clock7Icon : List (S.Attribute msg) -> H.Html msg
@@ -4877,7 +4877,7 @@ clock7Icon options =
 
 {-| clock8Icon
 
-lucide-clock-8
+clock-8
 
 -}
 clock8Icon : List (S.Attribute msg) -> H.Html msg
@@ -4887,7 +4887,7 @@ clock8Icon options =
 
 {-| clock9Icon
 
-lucide-clock-9
+clock-9
 
 -}
 clock9Icon : List (S.Attribute msg) -> H.Html msg
@@ -4897,7 +4897,7 @@ clock9Icon options =
 
 {-| clockAlertIcon
 
-lucide-clock-alert
+clock-alert
 
 -}
 clockAlertIcon : List (S.Attribute msg) -> H.Html msg
@@ -4907,7 +4907,7 @@ clockAlertIcon options =
 
 {-| clockArrowDownIcon
 
-lucide-clock-arrow-down
+clock-arrow-down
 
 -}
 clockArrowDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -4917,7 +4917,7 @@ clockArrowDownIcon options =
 
 {-| clockArrowUpIcon
 
-lucide-clock-arrow-up
+clock-arrow-up
 
 -}
 clockArrowUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -4927,7 +4927,7 @@ clockArrowUpIcon options =
 
 {-| clockCheckIcon
 
-lucide-clock-check
+clock-check
 
 -}
 clockCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -4937,7 +4937,7 @@ clockCheckIcon options =
 
 {-| clockFadingIcon
 
-lucide-clock-fading
+clock-fading
 
 -}
 clockFadingIcon : List (S.Attribute msg) -> H.Html msg
@@ -4947,7 +4947,7 @@ clockFadingIcon options =
 
 {-| clockPlusIcon
 
-lucide-clock-plus
+clock-plus
 
 -}
 clockPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -4957,7 +4957,7 @@ clockPlusIcon options =
 
 {-| closedCaptionIcon
 
-lucide-closed-caption
+closed-caption
 
 -}
 closedCaptionIcon : List (S.Attribute msg) -> H.Html msg
@@ -4967,7 +4967,7 @@ closedCaptionIcon options =
 
 {-| cloudIcon
 
-lucide-cloud
+cloud
 
 -}
 cloudIcon : List (S.Attribute msg) -> H.Html msg
@@ -4977,7 +4977,7 @@ cloudIcon options =
 
 {-| cloudAlertIcon
 
-lucide-cloud-alert
+cloud-alert
 
 -}
 cloudAlertIcon : List (S.Attribute msg) -> H.Html msg
@@ -4987,7 +4987,7 @@ cloudAlertIcon options =
 
 {-| cloudCheckIcon
 
-lucide-cloud-check
+cloud-check
 
 -}
 cloudCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -4997,7 +4997,7 @@ cloudCheckIcon options =
 
 {-| cloudCogIcon
 
-lucide-cloud-cog
+cloud-cog
 
 -}
 cloudCogIcon : List (S.Attribute msg) -> H.Html msg
@@ -5007,7 +5007,7 @@ cloudCogIcon options =
 
 {-| cloudDownloadIcon
 
-lucide-cloud-download
+cloud-download
 
 -}
 cloudDownloadIcon : List (S.Attribute msg) -> H.Html msg
@@ -5017,7 +5017,7 @@ cloudDownloadIcon options =
 
 {-| cloudDrizzleIcon
 
-lucide-cloud-drizzle
+cloud-drizzle
 
 -}
 cloudDrizzleIcon : List (S.Attribute msg) -> H.Html msg
@@ -5027,7 +5027,7 @@ cloudDrizzleIcon options =
 
 {-| cloudFogIcon
 
-lucide-cloud-fog
+cloud-fog
 
 -}
 cloudFogIcon : List (S.Attribute msg) -> H.Html msg
@@ -5037,7 +5037,7 @@ cloudFogIcon options =
 
 {-| cloudHailIcon
 
-lucide-cloud-hail
+cloud-hail
 
 -}
 cloudHailIcon : List (S.Attribute msg) -> H.Html msg
@@ -5047,7 +5047,7 @@ cloudHailIcon options =
 
 {-| cloudLightningIcon
 
-lucide-cloud-lightning
+cloud-lightning
 
 -}
 cloudLightningIcon : List (S.Attribute msg) -> H.Html msg
@@ -5057,7 +5057,7 @@ cloudLightningIcon options =
 
 {-| cloudMoonIcon
 
-lucide-cloud-moon
+cloud-moon
 
 -}
 cloudMoonIcon : List (S.Attribute msg) -> H.Html msg
@@ -5067,7 +5067,7 @@ cloudMoonIcon options =
 
 {-| cloudMoonRainIcon
 
-lucide-cloud-moon-rain
+cloud-moon-rain
 
 -}
 cloudMoonRainIcon : List (S.Attribute msg) -> H.Html msg
@@ -5077,7 +5077,7 @@ cloudMoonRainIcon options =
 
 {-| cloudOffIcon
 
-lucide-cloud-off
+cloud-off
 
 -}
 cloudOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -5087,7 +5087,7 @@ cloudOffIcon options =
 
 {-| cloudRainIcon
 
-lucide-cloud-rain
+cloud-rain
 
 -}
 cloudRainIcon : List (S.Attribute msg) -> H.Html msg
@@ -5097,7 +5097,7 @@ cloudRainIcon options =
 
 {-| cloudRainWindIcon
 
-lucide-cloud-rain-wind
+cloud-rain-wind
 
 -}
 cloudRainWindIcon : List (S.Attribute msg) -> H.Html msg
@@ -5107,7 +5107,7 @@ cloudRainWindIcon options =
 
 {-| cloudSnowIcon
 
-lucide-cloud-snow
+cloud-snow
 
 -}
 cloudSnowIcon : List (S.Attribute msg) -> H.Html msg
@@ -5117,7 +5117,7 @@ cloudSnowIcon options =
 
 {-| cloudSunIcon
 
-lucide-cloud-sun
+cloud-sun
 
 -}
 cloudSunIcon : List (S.Attribute msg) -> H.Html msg
@@ -5127,7 +5127,7 @@ cloudSunIcon options =
 
 {-| cloudSunRainIcon
 
-lucide-cloud-sun-rain
+cloud-sun-rain
 
 -}
 cloudSunRainIcon : List (S.Attribute msg) -> H.Html msg
@@ -5137,7 +5137,7 @@ cloudSunRainIcon options =
 
 {-| cloudUploadIcon
 
-lucide-cloud-upload
+cloud-upload
 
 -}
 cloudUploadIcon : List (S.Attribute msg) -> H.Html msg
@@ -5147,7 +5147,7 @@ cloudUploadIcon options =
 
 {-| cloudyIcon
 
-lucide-cloudy
+cloudy
 
 -}
 cloudyIcon : List (S.Attribute msg) -> H.Html msg
@@ -5157,7 +5157,7 @@ cloudyIcon options =
 
 {-| cloverIcon
 
-lucide-clover
+clover
 
 -}
 cloverIcon : List (S.Attribute msg) -> H.Html msg
@@ -5167,7 +5167,7 @@ cloverIcon options =
 
 {-| clubIcon
 
-lucide-club
+club
 
 -}
 clubIcon : List (S.Attribute msg) -> H.Html msg
@@ -5177,7 +5177,7 @@ clubIcon options =
 
 {-| codeIcon
 
-lucide-code
+code
 
 -}
 codeIcon : List (S.Attribute msg) -> H.Html msg
@@ -5187,7 +5187,7 @@ codeIcon options =
 
 {-| code2Icon
 
-lucide-code-xml
+code-xml
 
 -}
 code2Icon : List (S.Attribute msg) -> H.Html msg
@@ -5197,7 +5197,7 @@ code2Icon options =
 
 {-| codeSquareIcon
 
-lucide-square-code
+square-code
 
 -}
 codeSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -5207,7 +5207,7 @@ codeSquareIcon options =
 
 {-| codeXmlIcon
 
-lucide-code-xml
+code-xml
 
 -}
 codeXmlIcon : List (S.Attribute msg) -> H.Html msg
@@ -5217,7 +5217,7 @@ codeXmlIcon options =
 
 {-| codepenIcon
 
-lucide-codepen
+codepen
 
 -}
 codepenIcon : List (S.Attribute msg) -> H.Html msg
@@ -5227,7 +5227,7 @@ codepenIcon options =
 
 {-| codesandboxIcon
 
-lucide-codesandbox
+codesandbox
 
 -}
 codesandboxIcon : List (S.Attribute msg) -> H.Html msg
@@ -5237,7 +5237,7 @@ codesandboxIcon options =
 
 {-| coffeeIcon
 
-lucide-coffee
+coffee
 
 -}
 coffeeIcon : List (S.Attribute msg) -> H.Html msg
@@ -5247,7 +5247,7 @@ coffeeIcon options =
 
 {-| cogIcon
 
-lucide-cog
+cog
 
 -}
 cogIcon : List (S.Attribute msg) -> H.Html msg
@@ -5257,7 +5257,7 @@ cogIcon options =
 
 {-| coinsIcon
 
-lucide-coins
+coins
 
 -}
 coinsIcon : List (S.Attribute msg) -> H.Html msg
@@ -5267,7 +5267,7 @@ coinsIcon options =
 
 {-| columnsIcon
 
-lucide-columns-2
+columns-2
 
 -}
 columnsIcon : List (S.Attribute msg) -> H.Html msg
@@ -5277,7 +5277,7 @@ columnsIcon options =
 
 {-| columns2Icon
 
-lucide-columns-2
+columns-2
 
 -}
 columns2Icon : List (S.Attribute msg) -> H.Html msg
@@ -5287,7 +5287,7 @@ columns2Icon options =
 
 {-| columns3Icon
 
-lucide-columns-3
+columns-3
 
 -}
 columns3Icon : List (S.Attribute msg) -> H.Html msg
@@ -5297,7 +5297,7 @@ columns3Icon options =
 
 {-| columns3CogIcon
 
-lucide-columns-3-cog
+columns-3-cog
 
 -}
 columns3CogIcon : List (S.Attribute msg) -> H.Html msg
@@ -5307,7 +5307,7 @@ columns3CogIcon options =
 
 {-| columns4Icon
 
-lucide-columns-4
+columns-4
 
 -}
 columns4Icon : List (S.Attribute msg) -> H.Html msg
@@ -5317,7 +5317,7 @@ columns4Icon options =
 
 {-| columnsSettingsIcon
 
-lucide-columns-3-cog
+columns-3-cog
 
 -}
 columnsSettingsIcon : List (S.Attribute msg) -> H.Html msg
@@ -5327,7 +5327,7 @@ columnsSettingsIcon options =
 
 {-| combineIcon
 
-lucide-combine
+combine
 
 -}
 combineIcon : List (S.Attribute msg) -> H.Html msg
@@ -5337,7 +5337,7 @@ combineIcon options =
 
 {-| commandIcon
 
-lucide-command
+command
 
 -}
 commandIcon : List (S.Attribute msg) -> H.Html msg
@@ -5347,7 +5347,7 @@ commandIcon options =
 
 {-| compassIcon
 
-lucide-compass
+compass
 
 -}
 compassIcon : List (S.Attribute msg) -> H.Html msg
@@ -5357,7 +5357,7 @@ compassIcon options =
 
 {-| componentIcon
 
-lucide-component
+component
 
 -}
 componentIcon : List (S.Attribute msg) -> H.Html msg
@@ -5367,7 +5367,7 @@ componentIcon options =
 
 {-| computerIcon
 
-lucide-computer
+computer
 
 -}
 computerIcon : List (S.Attribute msg) -> H.Html msg
@@ -5377,7 +5377,7 @@ computerIcon options =
 
 {-| conciergeBellIcon
 
-lucide-concierge-bell
+concierge-bell
 
 -}
 conciergeBellIcon : List (S.Attribute msg) -> H.Html msg
@@ -5387,7 +5387,7 @@ conciergeBellIcon options =
 
 {-| coneIcon
 
-lucide-cone
+cone
 
 -}
 coneIcon : List (S.Attribute msg) -> H.Html msg
@@ -5397,7 +5397,7 @@ coneIcon options =
 
 {-| constructionIcon
 
-lucide-construction
+construction
 
 -}
 constructionIcon : List (S.Attribute msg) -> H.Html msg
@@ -5407,7 +5407,7 @@ constructionIcon options =
 
 {-| contactIcon
 
-lucide-contact
+contact
 
 -}
 contactIcon : List (S.Attribute msg) -> H.Html msg
@@ -5417,7 +5417,7 @@ contactIcon options =
 
 {-| contact2Icon
 
-lucide-contact-round
+contact-round
 
 -}
 contact2Icon : List (S.Attribute msg) -> H.Html msg
@@ -5427,7 +5427,7 @@ contact2Icon options =
 
 {-| contactRoundIcon
 
-lucide-contact-round
+contact-round
 
 -}
 contactRoundIcon : List (S.Attribute msg) -> H.Html msg
@@ -5437,7 +5437,7 @@ contactRoundIcon options =
 
 {-| containerIcon
 
-lucide-container
+container
 
 -}
 containerIcon : List (S.Attribute msg) -> H.Html msg
@@ -5447,7 +5447,7 @@ containerIcon options =
 
 {-| contrastIcon
 
-lucide-contrast
+contrast
 
 -}
 contrastIcon : List (S.Attribute msg) -> H.Html msg
@@ -5457,7 +5457,7 @@ contrastIcon options =
 
 {-| cookieIcon
 
-lucide-cookie
+cookie
 
 -}
 cookieIcon : List (S.Attribute msg) -> H.Html msg
@@ -5467,7 +5467,7 @@ cookieIcon options =
 
 {-| cookingPotIcon
 
-lucide-cooking-pot
+cooking-pot
 
 -}
 cookingPotIcon : List (S.Attribute msg) -> H.Html msg
@@ -5477,7 +5477,7 @@ cookingPotIcon options =
 
 {-| copyIcon
 
-lucide-copy
+copy
 
 -}
 copyIcon : List (S.Attribute msg) -> H.Html msg
@@ -5487,7 +5487,7 @@ copyIcon options =
 
 {-| copyCheckIcon
 
-lucide-copy-check
+copy-check
 
 -}
 copyCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -5497,7 +5497,7 @@ copyCheckIcon options =
 
 {-| copyMinusIcon
 
-lucide-copy-minus
+copy-minus
 
 -}
 copyMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -5507,7 +5507,7 @@ copyMinusIcon options =
 
 {-| copyPlusIcon
 
-lucide-copy-plus
+copy-plus
 
 -}
 copyPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -5517,7 +5517,7 @@ copyPlusIcon options =
 
 {-| copySlashIcon
 
-lucide-copy-slash
+copy-slash
 
 -}
 copySlashIcon : List (S.Attribute msg) -> H.Html msg
@@ -5527,7 +5527,7 @@ copySlashIcon options =
 
 {-| copyXIcon
 
-lucide-copy-x
+copy-x
 
 -}
 copyXIcon : List (S.Attribute msg) -> H.Html msg
@@ -5537,7 +5537,7 @@ copyXIcon options =
 
 {-| copyleftIcon
 
-lucide-copyleft
+copyleft
 
 -}
 copyleftIcon : List (S.Attribute msg) -> H.Html msg
@@ -5547,7 +5547,7 @@ copyleftIcon options =
 
 {-| copyrightIcon
 
-lucide-copyright
+copyright
 
 -}
 copyrightIcon : List (S.Attribute msg) -> H.Html msg
@@ -5557,7 +5557,7 @@ copyrightIcon options =
 
 {-| cornerDownLeftIcon
 
-lucide-corner-down-left
+corner-down-left
 
 -}
 cornerDownLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -5567,7 +5567,7 @@ cornerDownLeftIcon options =
 
 {-| cornerDownRightIcon
 
-lucide-corner-down-right
+corner-down-right
 
 -}
 cornerDownRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -5577,7 +5577,7 @@ cornerDownRightIcon options =
 
 {-| cornerLeftDownIcon
 
-lucide-corner-left-down
+corner-left-down
 
 -}
 cornerLeftDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -5587,7 +5587,7 @@ cornerLeftDownIcon options =
 
 {-| cornerLeftUpIcon
 
-lucide-corner-left-up
+corner-left-up
 
 -}
 cornerLeftUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -5597,7 +5597,7 @@ cornerLeftUpIcon options =
 
 {-| cornerRightDownIcon
 
-lucide-corner-right-down
+corner-right-down
 
 -}
 cornerRightDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -5607,7 +5607,7 @@ cornerRightDownIcon options =
 
 {-| cornerRightUpIcon
 
-lucide-corner-right-up
+corner-right-up
 
 -}
 cornerRightUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -5617,7 +5617,7 @@ cornerRightUpIcon options =
 
 {-| cornerUpLeftIcon
 
-lucide-corner-up-left
+corner-up-left
 
 -}
 cornerUpLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -5627,7 +5627,7 @@ cornerUpLeftIcon options =
 
 {-| cornerUpRightIcon
 
-lucide-corner-up-right
+corner-up-right
 
 -}
 cornerUpRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -5637,7 +5637,7 @@ cornerUpRightIcon options =
 
 {-| cpuIcon
 
-lucide-cpu
+cpu
 
 -}
 cpuIcon : List (S.Attribute msg) -> H.Html msg
@@ -5647,7 +5647,7 @@ cpuIcon options =
 
 {-| creativeCommonsIcon
 
-lucide-creative-commons
+creative-commons
 
 -}
 creativeCommonsIcon : List (S.Attribute msg) -> H.Html msg
@@ -5657,7 +5657,7 @@ creativeCommonsIcon options =
 
 {-| creditCardIcon
 
-lucide-credit-card
+credit-card
 
 -}
 creditCardIcon : List (S.Attribute msg) -> H.Html msg
@@ -5667,7 +5667,7 @@ creditCardIcon options =
 
 {-| croissantIcon
 
-lucide-croissant
+croissant
 
 -}
 croissantIcon : List (S.Attribute msg) -> H.Html msg
@@ -5677,7 +5677,7 @@ croissantIcon options =
 
 {-| cropIcon
 
-lucide-crop
+crop
 
 -}
 cropIcon : List (S.Attribute msg) -> H.Html msg
@@ -5687,7 +5687,7 @@ cropIcon options =
 
 {-| crossIcon
 
-lucide-cross
+cross
 
 -}
 crossIcon : List (S.Attribute msg) -> H.Html msg
@@ -5697,7 +5697,7 @@ crossIcon options =
 
 {-| crosshairIcon
 
-lucide-crosshair
+crosshair
 
 -}
 crosshairIcon : List (S.Attribute msg) -> H.Html msg
@@ -5707,7 +5707,7 @@ crosshairIcon options =
 
 {-| crownIcon
 
-lucide-crown
+crown
 
 -}
 crownIcon : List (S.Attribute msg) -> H.Html msg
@@ -5717,7 +5717,7 @@ crownIcon options =
 
 {-| cuboidIcon
 
-lucide-cuboid
+cuboid
 
 -}
 cuboidIcon : List (S.Attribute msg) -> H.Html msg
@@ -5727,7 +5727,7 @@ cuboidIcon options =
 
 {-| cupSodaIcon
 
-lucide-cup-soda
+cup-soda
 
 -}
 cupSodaIcon : List (S.Attribute msg) -> H.Html msg
@@ -5737,7 +5737,7 @@ cupSodaIcon options =
 
 {-| curlyBracesIcon
 
-lucide-braces
+braces
 
 -}
 curlyBracesIcon : List (S.Attribute msg) -> H.Html msg
@@ -5747,7 +5747,7 @@ curlyBracesIcon options =
 
 {-| currencyIcon
 
-lucide-currency
+currency
 
 -}
 currencyIcon : List (S.Attribute msg) -> H.Html msg
@@ -5757,7 +5757,7 @@ currencyIcon options =
 
 {-| cylinderIcon
 
-lucide-cylinder
+cylinder
 
 -}
 cylinderIcon : List (S.Attribute msg) -> H.Html msg
@@ -5767,7 +5767,7 @@ cylinderIcon options =
 
 {-| damIcon
 
-lucide-dam
+dam
 
 -}
 damIcon : List (S.Attribute msg) -> H.Html msg
@@ -5777,7 +5777,7 @@ damIcon options =
 
 {-| databaseIcon
 
-lucide-database
+database
 
 -}
 databaseIcon : List (S.Attribute msg) -> H.Html msg
@@ -5787,7 +5787,7 @@ databaseIcon options =
 
 {-| databaseBackupIcon
 
-lucide-database-backup
+database-backup
 
 -}
 databaseBackupIcon : List (S.Attribute msg) -> H.Html msg
@@ -5797,7 +5797,7 @@ databaseBackupIcon options =
 
 {-| databaseZapIcon
 
-lucide-database-zap
+database-zap
 
 -}
 databaseZapIcon : List (S.Attribute msg) -> H.Html msg
@@ -5807,7 +5807,7 @@ databaseZapIcon options =
 
 {-| decimalsArrowLeftIcon
 
-lucide-decimals-arrow-left
+decimals-arrow-left
 
 -}
 decimalsArrowLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -5817,7 +5817,7 @@ decimalsArrowLeftIcon options =
 
 {-| decimalsArrowRightIcon
 
-lucide-decimals-arrow-right
+decimals-arrow-right
 
 -}
 decimalsArrowRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -5827,7 +5827,7 @@ decimalsArrowRightIcon options =
 
 {-| deleteIcon
 
-lucide-delete
+delete
 
 -}
 deleteIcon : List (S.Attribute msg) -> H.Html msg
@@ -5837,7 +5837,7 @@ deleteIcon options =
 
 {-| dessertIcon
 
-lucide-dessert
+dessert
 
 -}
 dessertIcon : List (S.Attribute msg) -> H.Html msg
@@ -5847,7 +5847,7 @@ dessertIcon options =
 
 {-| diameterIcon
 
-lucide-diameter
+diameter
 
 -}
 diameterIcon : List (S.Attribute msg) -> H.Html msg
@@ -5857,7 +5857,7 @@ diameterIcon options =
 
 {-| diamondIcon
 
-lucide-diamond
+diamond
 
 -}
 diamondIcon : List (S.Attribute msg) -> H.Html msg
@@ -5867,7 +5867,7 @@ diamondIcon options =
 
 {-| diamondMinusIcon
 
-lucide-diamond-minus
+diamond-minus
 
 -}
 diamondMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -5877,7 +5877,7 @@ diamondMinusIcon options =
 
 {-| diamondPercentIcon
 
-lucide-diamond-percent
+diamond-percent
 
 -}
 diamondPercentIcon : List (S.Attribute msg) -> H.Html msg
@@ -5887,7 +5887,7 @@ diamondPercentIcon options =
 
 {-| diamondPlusIcon
 
-lucide-diamond-plus
+diamond-plus
 
 -}
 diamondPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -5897,7 +5897,7 @@ diamondPlusIcon options =
 
 {-| dice1Icon
 
-lucide-dice-1
+dice-1
 
 -}
 dice1Icon : List (S.Attribute msg) -> H.Html msg
@@ -5907,7 +5907,7 @@ dice1Icon options =
 
 {-| dice2Icon
 
-lucide-dice-2
+dice-2
 
 -}
 dice2Icon : List (S.Attribute msg) -> H.Html msg
@@ -5917,7 +5917,7 @@ dice2Icon options =
 
 {-| dice3Icon
 
-lucide-dice-3
+dice-3
 
 -}
 dice3Icon : List (S.Attribute msg) -> H.Html msg
@@ -5927,7 +5927,7 @@ dice3Icon options =
 
 {-| dice4Icon
 
-lucide-dice-4
+dice-4
 
 -}
 dice4Icon : List (S.Attribute msg) -> H.Html msg
@@ -5937,7 +5937,7 @@ dice4Icon options =
 
 {-| dice5Icon
 
-lucide-dice-5
+dice-5
 
 -}
 dice5Icon : List (S.Attribute msg) -> H.Html msg
@@ -5947,7 +5947,7 @@ dice5Icon options =
 
 {-| dice6Icon
 
-lucide-dice-6
+dice-6
 
 -}
 dice6Icon : List (S.Attribute msg) -> H.Html msg
@@ -5957,7 +5957,7 @@ dice6Icon options =
 
 {-| dicesIcon
 
-lucide-dices
+dices
 
 -}
 dicesIcon : List (S.Attribute msg) -> H.Html msg
@@ -5967,7 +5967,7 @@ dicesIcon options =
 
 {-| diffIcon
 
-lucide-diff
+diff
 
 -}
 diffIcon : List (S.Attribute msg) -> H.Html msg
@@ -5977,7 +5977,7 @@ diffIcon options =
 
 {-| discIcon
 
-lucide-disc
+disc
 
 -}
 discIcon : List (S.Attribute msg) -> H.Html msg
@@ -5987,7 +5987,7 @@ discIcon options =
 
 {-| disc2Icon
 
-lucide-disc-2
+disc-2
 
 -}
 disc2Icon : List (S.Attribute msg) -> H.Html msg
@@ -5997,7 +5997,7 @@ disc2Icon options =
 
 {-| disc3Icon
 
-lucide-disc-3
+disc-3
 
 -}
 disc3Icon : List (S.Attribute msg) -> H.Html msg
@@ -6007,7 +6007,7 @@ disc3Icon options =
 
 {-| discAlbumIcon
 
-lucide-disc-album
+disc-album
 
 -}
 discAlbumIcon : List (S.Attribute msg) -> H.Html msg
@@ -6017,7 +6017,7 @@ discAlbumIcon options =
 
 {-| divideIcon
 
-lucide-divide
+divide
 
 -}
 divideIcon : List (S.Attribute msg) -> H.Html msg
@@ -6027,7 +6027,7 @@ divideIcon options =
 
 {-| divideCircleIcon
 
-lucide-circle-divide
+circle-divide
 
 -}
 divideCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -6037,7 +6037,7 @@ divideCircleIcon options =
 
 {-| divideSquareIcon
 
-lucide-square-divide
+square-divide
 
 -}
 divideSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -6047,7 +6047,7 @@ divideSquareIcon options =
 
 {-| dnaIcon
 
-lucide-dna
+dna
 
 -}
 dnaIcon : List (S.Attribute msg) -> H.Html msg
@@ -6057,7 +6057,7 @@ dnaIcon options =
 
 {-| dnaOffIcon
 
-lucide-dna-off
+dna-off
 
 -}
 dnaOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -6067,7 +6067,7 @@ dnaOffIcon options =
 
 {-| dockIcon
 
-lucide-dock
+dock
 
 -}
 dockIcon : List (S.Attribute msg) -> H.Html msg
@@ -6077,7 +6077,7 @@ dockIcon options =
 
 {-| dogIcon
 
-lucide-dog
+dog
 
 -}
 dogIcon : List (S.Attribute msg) -> H.Html msg
@@ -6087,7 +6087,7 @@ dogIcon options =
 
 {-| dollarSignIcon
 
-lucide-dollar-sign
+dollar-sign
 
 -}
 dollarSignIcon : List (S.Attribute msg) -> H.Html msg
@@ -6097,7 +6097,7 @@ dollarSignIcon options =
 
 {-| donutIcon
 
-lucide-donut
+donut
 
 -}
 donutIcon : List (S.Attribute msg) -> H.Html msg
@@ -6107,7 +6107,7 @@ donutIcon options =
 
 {-| doorClosedIcon
 
-lucide-door-closed
+door-closed
 
 -}
 doorClosedIcon : List (S.Attribute msg) -> H.Html msg
@@ -6117,7 +6117,7 @@ doorClosedIcon options =
 
 {-| doorClosedLockedIcon
 
-lucide-door-closed-locked
+door-closed-locked
 
 -}
 doorClosedLockedIcon : List (S.Attribute msg) -> H.Html msg
@@ -6127,7 +6127,7 @@ doorClosedLockedIcon options =
 
 {-| doorOpenIcon
 
-lucide-door-open
+door-open
 
 -}
 doorOpenIcon : List (S.Attribute msg) -> H.Html msg
@@ -6137,7 +6137,7 @@ doorOpenIcon options =
 
 {-| dotIcon
 
-lucide-dot
+dot
 
 -}
 dotIcon : List (S.Attribute msg) -> H.Html msg
@@ -6147,7 +6147,7 @@ dotIcon options =
 
 {-| dotSquareIcon
 
-lucide-square-dot
+square-dot
 
 -}
 dotSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -6157,7 +6157,7 @@ dotSquareIcon options =
 
 {-| downloadIcon
 
-lucide-download
+download
 
 -}
 downloadIcon : List (S.Attribute msg) -> H.Html msg
@@ -6167,7 +6167,7 @@ downloadIcon options =
 
 {-| downloadCloudIcon
 
-lucide-cloud-download
+cloud-download
 
 -}
 downloadCloudIcon : List (S.Attribute msg) -> H.Html msg
@@ -6177,7 +6177,7 @@ downloadCloudIcon options =
 
 {-| draftingCompassIcon
 
-lucide-drafting-compass
+drafting-compass
 
 -}
 draftingCompassIcon : List (S.Attribute msg) -> H.Html msg
@@ -6187,7 +6187,7 @@ draftingCompassIcon options =
 
 {-| dramaIcon
 
-lucide-drama
+drama
 
 -}
 dramaIcon : List (S.Attribute msg) -> H.Html msg
@@ -6197,7 +6197,7 @@ dramaIcon options =
 
 {-| dribbbleIcon
 
-lucide-dribbble
+dribbble
 
 -}
 dribbbleIcon : List (S.Attribute msg) -> H.Html msg
@@ -6207,7 +6207,7 @@ dribbbleIcon options =
 
 {-| drillIcon
 
-lucide-drill
+drill
 
 -}
 drillIcon : List (S.Attribute msg) -> H.Html msg
@@ -6217,7 +6217,7 @@ drillIcon options =
 
 {-| droneIcon
 
-lucide-drone
+drone
 
 -}
 droneIcon : List (S.Attribute msg) -> H.Html msg
@@ -6227,7 +6227,7 @@ droneIcon options =
 
 {-| dropletIcon
 
-lucide-droplet
+droplet
 
 -}
 dropletIcon : List (S.Attribute msg) -> H.Html msg
@@ -6237,7 +6237,7 @@ dropletIcon options =
 
 {-| dropletOffIcon
 
-lucide-droplet-off
+droplet-off
 
 -}
 dropletOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -6247,7 +6247,7 @@ dropletOffIcon options =
 
 {-| dropletsIcon
 
-lucide-droplets
+droplets
 
 -}
 dropletsIcon : List (S.Attribute msg) -> H.Html msg
@@ -6257,7 +6257,7 @@ dropletsIcon options =
 
 {-| drumIcon
 
-lucide-drum
+drum
 
 -}
 drumIcon : List (S.Attribute msg) -> H.Html msg
@@ -6267,7 +6267,7 @@ drumIcon options =
 
 {-| drumstickIcon
 
-lucide-drumstick
+drumstick
 
 -}
 drumstickIcon : List (S.Attribute msg) -> H.Html msg
@@ -6277,7 +6277,7 @@ drumstickIcon options =
 
 {-| dumbbellIcon
 
-lucide-dumbbell
+dumbbell
 
 -}
 dumbbellIcon : List (S.Attribute msg) -> H.Html msg
@@ -6287,7 +6287,7 @@ dumbbellIcon options =
 
 {-| earIcon
 
-lucide-ear
+ear
 
 -}
 earIcon : List (S.Attribute msg) -> H.Html msg
@@ -6297,7 +6297,7 @@ earIcon options =
 
 {-| earOffIcon
 
-lucide-ear-off
+ear-off
 
 -}
 earOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -6307,7 +6307,7 @@ earOffIcon options =
 
 {-| earthIcon
 
-lucide-earth
+earth
 
 -}
 earthIcon : List (S.Attribute msg) -> H.Html msg
@@ -6317,7 +6317,7 @@ earthIcon options =
 
 {-| earthLockIcon
 
-lucide-earth-lock
+earth-lock
 
 -}
 earthLockIcon : List (S.Attribute msg) -> H.Html msg
@@ -6327,7 +6327,7 @@ earthLockIcon options =
 
 {-| eclipseIcon
 
-lucide-eclipse
+eclipse
 
 -}
 eclipseIcon : List (S.Attribute msg) -> H.Html msg
@@ -6337,7 +6337,7 @@ eclipseIcon options =
 
 {-| editIcon
 
-lucide-square-pen
+square-pen
 
 -}
 editIcon : List (S.Attribute msg) -> H.Html msg
@@ -6347,7 +6347,7 @@ editIcon options =
 
 {-| edit2Icon
 
-lucide-pen
+pen
 
 -}
 edit2Icon : List (S.Attribute msg) -> H.Html msg
@@ -6357,7 +6357,7 @@ edit2Icon options =
 
 {-| edit3Icon
 
-lucide-pen-line
+pen-line
 
 -}
 edit3Icon : List (S.Attribute msg) -> H.Html msg
@@ -6367,7 +6367,7 @@ edit3Icon options =
 
 {-| eggIcon
 
-lucide-egg
+egg
 
 -}
 eggIcon : List (S.Attribute msg) -> H.Html msg
@@ -6377,7 +6377,7 @@ eggIcon options =
 
 {-| eggFriedIcon
 
-lucide-egg-fried
+egg-fried
 
 -}
 eggFriedIcon : List (S.Attribute msg) -> H.Html msg
@@ -6387,7 +6387,7 @@ eggFriedIcon options =
 
 {-| eggOffIcon
 
-lucide-egg-off
+egg-off
 
 -}
 eggOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -6397,7 +6397,7 @@ eggOffIcon options =
 
 {-| ellipsisIcon
 
-lucide-ellipsis
+ellipsis
 
 -}
 ellipsisIcon : List (S.Attribute msg) -> H.Html msg
@@ -6407,7 +6407,7 @@ ellipsisIcon options =
 
 {-| ellipsisVerticalIcon
 
-lucide-ellipsis-vertical
+ellipsis-vertical
 
 -}
 ellipsisVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -6417,7 +6417,7 @@ ellipsisVerticalIcon options =
 
 {-| equalIcon
 
-lucide-equal
+equal
 
 -}
 equalIcon : List (S.Attribute msg) -> H.Html msg
@@ -6427,7 +6427,7 @@ equalIcon options =
 
 {-| equalApproximatelyIcon
 
-lucide-equal-approximately
+equal-approximately
 
 -}
 equalApproximatelyIcon : List (S.Attribute msg) -> H.Html msg
@@ -6437,7 +6437,7 @@ equalApproximatelyIcon options =
 
 {-| equalNotIcon
 
-lucide-equal-not
+equal-not
 
 -}
 equalNotIcon : List (S.Attribute msg) -> H.Html msg
@@ -6447,7 +6447,7 @@ equalNotIcon options =
 
 {-| equalSquareIcon
 
-lucide-square-equal
+square-equal
 
 -}
 equalSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -6457,7 +6457,7 @@ equalSquareIcon options =
 
 {-| eraserIcon
 
-lucide-eraser
+eraser
 
 -}
 eraserIcon : List (S.Attribute msg) -> H.Html msg
@@ -6467,7 +6467,7 @@ eraserIcon options =
 
 {-| ethernetPortIcon
 
-lucide-ethernet-port
+ethernet-port
 
 -}
 ethernetPortIcon : List (S.Attribute msg) -> H.Html msg
@@ -6477,7 +6477,7 @@ ethernetPortIcon options =
 
 {-| euroIcon
 
-lucide-euro
+euro
 
 -}
 euroIcon : List (S.Attribute msg) -> H.Html msg
@@ -6487,7 +6487,7 @@ euroIcon options =
 
 {-| evChargerIcon
 
-lucide-ev-charger
+ev-charger
 
 -}
 evChargerIcon : List (S.Attribute msg) -> H.Html msg
@@ -6497,7 +6497,7 @@ evChargerIcon options =
 
 {-| expandIcon
 
-lucide-expand
+expand
 
 -}
 expandIcon : List (S.Attribute msg) -> H.Html msg
@@ -6507,7 +6507,7 @@ expandIcon options =
 
 {-| externalLinkIcon
 
-lucide-external-link
+external-link
 
 -}
 externalLinkIcon : List (S.Attribute msg) -> H.Html msg
@@ -6517,7 +6517,7 @@ externalLinkIcon options =
 
 {-| eyeIcon
 
-lucide-eye
+eye
 
 -}
 eyeIcon : List (S.Attribute msg) -> H.Html msg
@@ -6527,7 +6527,7 @@ eyeIcon options =
 
 {-| eyeClosedIcon
 
-lucide-eye-closed
+eye-closed
 
 -}
 eyeClosedIcon : List (S.Attribute msg) -> H.Html msg
@@ -6537,7 +6537,7 @@ eyeClosedIcon options =
 
 {-| eyeOffIcon
 
-lucide-eye-off
+eye-off
 
 -}
 eyeOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -6547,7 +6547,7 @@ eyeOffIcon options =
 
 {-| facebookIcon
 
-lucide-facebook
+facebook
 
 -}
 facebookIcon : List (S.Attribute msg) -> H.Html msg
@@ -6557,7 +6557,7 @@ facebookIcon options =
 
 {-| factoryIcon
 
-lucide-factory
+factory
 
 -}
 factoryIcon : List (S.Attribute msg) -> H.Html msg
@@ -6567,7 +6567,7 @@ factoryIcon options =
 
 {-| fanIcon
 
-lucide-fan
+fan
 
 -}
 fanIcon : List (S.Attribute msg) -> H.Html msg
@@ -6577,7 +6577,7 @@ fanIcon options =
 
 {-| fastForwardIcon
 
-lucide-fast-forward
+fast-forward
 
 -}
 fastForwardIcon : List (S.Attribute msg) -> H.Html msg
@@ -6587,7 +6587,7 @@ fastForwardIcon options =
 
 {-| featherIcon
 
-lucide-feather
+feather
 
 -}
 featherIcon : List (S.Attribute msg) -> H.Html msg
@@ -6597,7 +6597,7 @@ featherIcon options =
 
 {-| fenceIcon
 
-lucide-fence
+fence
 
 -}
 fenceIcon : List (S.Attribute msg) -> H.Html msg
@@ -6607,7 +6607,7 @@ fenceIcon options =
 
 {-| ferrisWheelIcon
 
-lucide-ferris-wheel
+ferris-wheel
 
 -}
 ferrisWheelIcon : List (S.Attribute msg) -> H.Html msg
@@ -6617,7 +6617,7 @@ ferrisWheelIcon options =
 
 {-| figmaIcon
 
-lucide-figma
+figma
 
 -}
 figmaIcon : List (S.Attribute msg) -> H.Html msg
@@ -6627,7 +6627,7 @@ figmaIcon options =
 
 {-| fileIcon
 
-lucide-file
+file
 
 -}
 fileIcon : List (S.Attribute msg) -> H.Html msg
@@ -6637,7 +6637,7 @@ fileIcon options =
 
 {-| fileArchiveIcon
 
-lucide-file-archive
+file-archive
 
 -}
 fileArchiveIcon : List (S.Attribute msg) -> H.Html msg
@@ -6647,7 +6647,7 @@ fileArchiveIcon options =
 
 {-| fileAudioIcon
 
-lucide-file-headphone
+file-headphone
 
 -}
 fileAudioIcon : List (S.Attribute msg) -> H.Html msg
@@ -6657,7 +6657,7 @@ fileAudioIcon options =
 
 {-| fileAudio2Icon
 
-lucide-file-headphone
+file-headphone
 
 -}
 fileAudio2Icon : List (S.Attribute msg) -> H.Html msg
@@ -6667,7 +6667,7 @@ fileAudio2Icon options =
 
 {-| fileAxis3DIcon
 
-lucide-file-axis-3d
+file-axis-3d
 
 -}
 fileAxis3DIcon : List (S.Attribute msg) -> H.Html msg
@@ -6677,7 +6677,7 @@ fileAxis3DIcon options =
 
 {-| fileAxis3dIcon
 
-lucide-file-axis-3d
+file-axis-3d
 
 -}
 fileAxis3dIcon : List (S.Attribute msg) -> H.Html msg
@@ -6687,7 +6687,7 @@ fileAxis3dIcon options =
 
 {-| fileBadgeIcon
 
-lucide-file-badge
+file-badge
 
 -}
 fileBadgeIcon : List (S.Attribute msg) -> H.Html msg
@@ -6697,7 +6697,7 @@ fileBadgeIcon options =
 
 {-| fileBadge2Icon
 
-lucide-file-badge
+file-badge
 
 -}
 fileBadge2Icon : List (S.Attribute msg) -> H.Html msg
@@ -6707,7 +6707,7 @@ fileBadge2Icon options =
 
 {-| fileBarChartIcon
 
-lucide-file-chart-column-increasing
+file-chart-column-increasing
 
 -}
 fileBarChartIcon : List (S.Attribute msg) -> H.Html msg
@@ -6717,7 +6717,7 @@ fileBarChartIcon options =
 
 {-| fileBarChart2Icon
 
-lucide-file-chart-column
+file-chart-column
 
 -}
 fileBarChart2Icon : List (S.Attribute msg) -> H.Html msg
@@ -6727,7 +6727,7 @@ fileBarChart2Icon options =
 
 {-| fileBoxIcon
 
-lucide-file-box
+file-box
 
 -}
 fileBoxIcon : List (S.Attribute msg) -> H.Html msg
@@ -6737,7 +6737,7 @@ fileBoxIcon options =
 
 {-| fileBracesIcon
 
-lucide-file-braces
+file-braces
 
 -}
 fileBracesIcon : List (S.Attribute msg) -> H.Html msg
@@ -6747,7 +6747,7 @@ fileBracesIcon options =
 
 {-| fileBracesCornerIcon
 
-lucide-file-braces-corner
+file-braces-corner
 
 -}
 fileBracesCornerIcon : List (S.Attribute msg) -> H.Html msg
@@ -6757,7 +6757,7 @@ fileBracesCornerIcon options =
 
 {-| fileChartColumnIcon
 
-lucide-file-chart-column
+file-chart-column
 
 -}
 fileChartColumnIcon : List (S.Attribute msg) -> H.Html msg
@@ -6767,7 +6767,7 @@ fileChartColumnIcon options =
 
 {-| fileChartColumnIncreasingIcon
 
-lucide-file-chart-column-increasing
+file-chart-column-increasing
 
 -}
 fileChartColumnIncreasingIcon : List (S.Attribute msg) -> H.Html msg
@@ -6777,7 +6777,7 @@ fileChartColumnIncreasingIcon options =
 
 {-| fileChartLineIcon
 
-lucide-file-chart-line
+file-chart-line
 
 -}
 fileChartLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -6787,7 +6787,7 @@ fileChartLineIcon options =
 
 {-| fileChartPieIcon
 
-lucide-file-chart-pie
+file-chart-pie
 
 -}
 fileChartPieIcon : List (S.Attribute msg) -> H.Html msg
@@ -6797,7 +6797,7 @@ fileChartPieIcon options =
 
 {-| fileCheckIcon
 
-lucide-file-check
+file-check
 
 -}
 fileCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -6807,7 +6807,7 @@ fileCheckIcon options =
 
 {-| fileCheck2Icon
 
-lucide-file-check-corner
+file-check-corner
 
 -}
 fileCheck2Icon : List (S.Attribute msg) -> H.Html msg
@@ -6817,7 +6817,7 @@ fileCheck2Icon options =
 
 {-| fileCheckCornerIcon
 
-lucide-file-check-corner
+file-check-corner
 
 -}
 fileCheckCornerIcon : List (S.Attribute msg) -> H.Html msg
@@ -6827,7 +6827,7 @@ fileCheckCornerIcon options =
 
 {-| fileClockIcon
 
-lucide-file-clock
+file-clock
 
 -}
 fileClockIcon : List (S.Attribute msg) -> H.Html msg
@@ -6837,7 +6837,7 @@ fileClockIcon options =
 
 {-| fileCodeIcon
 
-lucide-file-code
+file-code
 
 -}
 fileCodeIcon : List (S.Attribute msg) -> H.Html msg
@@ -6847,7 +6847,7 @@ fileCodeIcon options =
 
 {-| fileCode2Icon
 
-lucide-file-code-corner
+file-code-corner
 
 -}
 fileCode2Icon : List (S.Attribute msg) -> H.Html msg
@@ -6857,7 +6857,7 @@ fileCode2Icon options =
 
 {-| fileCodeCornerIcon
 
-lucide-file-code-corner
+file-code-corner
 
 -}
 fileCodeCornerIcon : List (S.Attribute msg) -> H.Html msg
@@ -6867,7 +6867,7 @@ fileCodeCornerIcon options =
 
 {-| fileCogIcon
 
-lucide-file-cog
+file-cog
 
 -}
 fileCogIcon : List (S.Attribute msg) -> H.Html msg
@@ -6877,7 +6877,7 @@ fileCogIcon options =
 
 {-| fileCog2Icon
 
-lucide-file-cog
+file-cog
 
 -}
 fileCog2Icon : List (S.Attribute msg) -> H.Html msg
@@ -6887,7 +6887,7 @@ fileCog2Icon options =
 
 {-| fileDiffIcon
 
-lucide-file-diff
+file-diff
 
 -}
 fileDiffIcon : List (S.Attribute msg) -> H.Html msg
@@ -6897,7 +6897,7 @@ fileDiffIcon options =
 
 {-| fileDigitIcon
 
-lucide-file-digit
+file-digit
 
 -}
 fileDigitIcon : List (S.Attribute msg) -> H.Html msg
@@ -6907,7 +6907,7 @@ fileDigitIcon options =
 
 {-| fileDownIcon
 
-lucide-file-down
+file-down
 
 -}
 fileDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -6917,7 +6917,7 @@ fileDownIcon options =
 
 {-| fileEditIcon
 
-lucide-file-pen
+file-pen
 
 -}
 fileEditIcon : List (S.Attribute msg) -> H.Html msg
@@ -6927,7 +6927,7 @@ fileEditIcon options =
 
 {-| fileExclamationPointIcon
 
-lucide-file-exclamation-point
+file-exclamation-point
 
 -}
 fileExclamationPointIcon : List (S.Attribute msg) -> H.Html msg
@@ -6937,7 +6937,7 @@ fileExclamationPointIcon options =
 
 {-| fileHeadphoneIcon
 
-lucide-file-headphone
+file-headphone
 
 -}
 fileHeadphoneIcon : List (S.Attribute msg) -> H.Html msg
@@ -6947,7 +6947,7 @@ fileHeadphoneIcon options =
 
 {-| fileHeartIcon
 
-lucide-file-heart
+file-heart
 
 -}
 fileHeartIcon : List (S.Attribute msg) -> H.Html msg
@@ -6957,7 +6957,7 @@ fileHeartIcon options =
 
 {-| fileImageIcon
 
-lucide-file-image
+file-image
 
 -}
 fileImageIcon : List (S.Attribute msg) -> H.Html msg
@@ -6967,7 +6967,7 @@ fileImageIcon options =
 
 {-| fileInputIcon
 
-lucide-file-input
+file-input
 
 -}
 fileInputIcon : List (S.Attribute msg) -> H.Html msg
@@ -6977,7 +6977,7 @@ fileInputIcon options =
 
 {-| fileJsonIcon
 
-lucide-file-braces
+file-braces
 
 -}
 fileJsonIcon : List (S.Attribute msg) -> H.Html msg
@@ -6987,7 +6987,7 @@ fileJsonIcon options =
 
 {-| fileJson2Icon
 
-lucide-file-braces-corner
+file-braces-corner
 
 -}
 fileJson2Icon : List (S.Attribute msg) -> H.Html msg
@@ -6997,7 +6997,7 @@ fileJson2Icon options =
 
 {-| fileKeyIcon
 
-lucide-file-key
+file-key
 
 -}
 fileKeyIcon : List (S.Attribute msg) -> H.Html msg
@@ -7007,7 +7007,7 @@ fileKeyIcon options =
 
 {-| fileKey2Icon
 
-lucide-file-key
+file-key
 
 -}
 fileKey2Icon : List (S.Attribute msg) -> H.Html msg
@@ -7017,7 +7017,7 @@ fileKey2Icon options =
 
 {-| fileLineChartIcon
 
-lucide-file-chart-line
+file-chart-line
 
 -}
 fileLineChartIcon : List (S.Attribute msg) -> H.Html msg
@@ -7027,7 +7027,7 @@ fileLineChartIcon options =
 
 {-| fileLockIcon
 
-lucide-file-lock
+file-lock
 
 -}
 fileLockIcon : List (S.Attribute msg) -> H.Html msg
@@ -7037,7 +7037,7 @@ fileLockIcon options =
 
 {-| fileLock2Icon
 
-lucide-file-lock
+file-lock
 
 -}
 fileLock2Icon : List (S.Attribute msg) -> H.Html msg
@@ -7047,7 +7047,7 @@ fileLock2Icon options =
 
 {-| fileMinusIcon
 
-lucide-file-minus
+file-minus
 
 -}
 fileMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -7057,7 +7057,7 @@ fileMinusIcon options =
 
 {-| fileMinus2Icon
 
-lucide-file-minus-corner
+file-minus-corner
 
 -}
 fileMinus2Icon : List (S.Attribute msg) -> H.Html msg
@@ -7067,7 +7067,7 @@ fileMinus2Icon options =
 
 {-| fileMinusCornerIcon
 
-lucide-file-minus-corner
+file-minus-corner
 
 -}
 fileMinusCornerIcon : List (S.Attribute msg) -> H.Html msg
@@ -7077,7 +7077,7 @@ fileMinusCornerIcon options =
 
 {-| fileMusicIcon
 
-lucide-file-music
+file-music
 
 -}
 fileMusicIcon : List (S.Attribute msg) -> H.Html msg
@@ -7087,7 +7087,7 @@ fileMusicIcon options =
 
 {-| fileOutputIcon
 
-lucide-file-output
+file-output
 
 -}
 fileOutputIcon : List (S.Attribute msg) -> H.Html msg
@@ -7097,7 +7097,7 @@ fileOutputIcon options =
 
 {-| filePenIcon
 
-lucide-file-pen
+file-pen
 
 -}
 filePenIcon : List (S.Attribute msg) -> H.Html msg
@@ -7107,7 +7107,7 @@ filePenIcon options =
 
 {-| filePenLineIcon
 
-lucide-file-pen-line
+file-pen-line
 
 -}
 filePenLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -7117,7 +7117,7 @@ filePenLineIcon options =
 
 {-| filePieChartIcon
 
-lucide-file-chart-pie
+file-chart-pie
 
 -}
 filePieChartIcon : List (S.Attribute msg) -> H.Html msg
@@ -7127,7 +7127,7 @@ filePieChartIcon options =
 
 {-| filePlayIcon
 
-lucide-file-play
+file-play
 
 -}
 filePlayIcon : List (S.Attribute msg) -> H.Html msg
@@ -7137,7 +7137,7 @@ filePlayIcon options =
 
 {-| filePlusIcon
 
-lucide-file-plus
+file-plus
 
 -}
 filePlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -7147,7 +7147,7 @@ filePlusIcon options =
 
 {-| filePlus2Icon
 
-lucide-file-plus-corner
+file-plus-corner
 
 -}
 filePlus2Icon : List (S.Attribute msg) -> H.Html msg
@@ -7157,7 +7157,7 @@ filePlus2Icon options =
 
 {-| filePlusCornerIcon
 
-lucide-file-plus-corner
+file-plus-corner
 
 -}
 filePlusCornerIcon : List (S.Attribute msg) -> H.Html msg
@@ -7167,7 +7167,7 @@ filePlusCornerIcon options =
 
 {-| fileQuestionIcon
 
-lucide-file-question-mark
+file-question-mark
 
 -}
 fileQuestionIcon : List (S.Attribute msg) -> H.Html msg
@@ -7177,7 +7177,7 @@ fileQuestionIcon options =
 
 {-| fileQuestionMarkIcon
 
-lucide-file-question-mark
+file-question-mark
 
 -}
 fileQuestionMarkIcon : List (S.Attribute msg) -> H.Html msg
@@ -7187,7 +7187,7 @@ fileQuestionMarkIcon options =
 
 {-| fileScanIcon
 
-lucide-file-scan
+file-scan
 
 -}
 fileScanIcon : List (S.Attribute msg) -> H.Html msg
@@ -7197,7 +7197,7 @@ fileScanIcon options =
 
 {-| fileSearchIcon
 
-lucide-file-search
+file-search
 
 -}
 fileSearchIcon : List (S.Attribute msg) -> H.Html msg
@@ -7207,7 +7207,7 @@ fileSearchIcon options =
 
 {-| fileSearch2Icon
 
-lucide-file-search-corner
+file-search-corner
 
 -}
 fileSearch2Icon : List (S.Attribute msg) -> H.Html msg
@@ -7217,7 +7217,7 @@ fileSearch2Icon options =
 
 {-| fileSearchCornerIcon
 
-lucide-file-search-corner
+file-search-corner
 
 -}
 fileSearchCornerIcon : List (S.Attribute msg) -> H.Html msg
@@ -7227,7 +7227,7 @@ fileSearchCornerIcon options =
 
 {-| fileSignalIcon
 
-lucide-file-signal
+file-signal
 
 -}
 fileSignalIcon : List (S.Attribute msg) -> H.Html msg
@@ -7237,7 +7237,7 @@ fileSignalIcon options =
 
 {-| fileSignatureIcon
 
-lucide-file-pen-line
+file-pen-line
 
 -}
 fileSignatureIcon : List (S.Attribute msg) -> H.Html msg
@@ -7247,7 +7247,7 @@ fileSignatureIcon options =
 
 {-| fileSlidersIcon
 
-lucide-file-sliders
+file-sliders
 
 -}
 fileSlidersIcon : List (S.Attribute msg) -> H.Html msg
@@ -7257,7 +7257,7 @@ fileSlidersIcon options =
 
 {-| fileSpreadsheetIcon
 
-lucide-file-spreadsheet
+file-spreadsheet
 
 -}
 fileSpreadsheetIcon : List (S.Attribute msg) -> H.Html msg
@@ -7267,7 +7267,7 @@ fileSpreadsheetIcon options =
 
 {-| fileStackIcon
 
-lucide-file-stack
+file-stack
 
 -}
 fileStackIcon : List (S.Attribute msg) -> H.Html msg
@@ -7277,7 +7277,7 @@ fileStackIcon options =
 
 {-| fileSymlinkIcon
 
-lucide-file-symlink
+file-symlink
 
 -}
 fileSymlinkIcon : List (S.Attribute msg) -> H.Html msg
@@ -7287,7 +7287,7 @@ fileSymlinkIcon options =
 
 {-| fileTerminalIcon
 
-lucide-file-terminal
+file-terminal
 
 -}
 fileTerminalIcon : List (S.Attribute msg) -> H.Html msg
@@ -7297,7 +7297,7 @@ fileTerminalIcon options =
 
 {-| fileTextIcon
 
-lucide-file-text
+file-text
 
 -}
 fileTextIcon : List (S.Attribute msg) -> H.Html msg
@@ -7307,7 +7307,7 @@ fileTextIcon options =
 
 {-| fileTypeIcon
 
-lucide-file-type
+file-type
 
 -}
 fileTypeIcon : List (S.Attribute msg) -> H.Html msg
@@ -7317,7 +7317,7 @@ fileTypeIcon options =
 
 {-| fileType2Icon
 
-lucide-file-type-corner
+file-type-corner
 
 -}
 fileType2Icon : List (S.Attribute msg) -> H.Html msg
@@ -7327,7 +7327,7 @@ fileType2Icon options =
 
 {-| fileTypeCornerIcon
 
-lucide-file-type-corner
+file-type-corner
 
 -}
 fileTypeCornerIcon : List (S.Attribute msg) -> H.Html msg
@@ -7337,7 +7337,7 @@ fileTypeCornerIcon options =
 
 {-| fileUpIcon
 
-lucide-file-up
+file-up
 
 -}
 fileUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -7347,7 +7347,7 @@ fileUpIcon options =
 
 {-| fileUserIcon
 
-lucide-file-user
+file-user
 
 -}
 fileUserIcon : List (S.Attribute msg) -> H.Html msg
@@ -7357,7 +7357,7 @@ fileUserIcon options =
 
 {-| fileVideoIcon
 
-lucide-file-play
+file-play
 
 -}
 fileVideoIcon : List (S.Attribute msg) -> H.Html msg
@@ -7367,7 +7367,7 @@ fileVideoIcon options =
 
 {-| fileVideo2Icon
 
-lucide-file-video-camera
+file-video-camera
 
 -}
 fileVideo2Icon : List (S.Attribute msg) -> H.Html msg
@@ -7377,7 +7377,7 @@ fileVideo2Icon options =
 
 {-| fileVideoCameraIcon
 
-lucide-file-video-camera
+file-video-camera
 
 -}
 fileVideoCameraIcon : List (S.Attribute msg) -> H.Html msg
@@ -7387,7 +7387,7 @@ fileVideoCameraIcon options =
 
 {-| fileVolumeIcon
 
-lucide-file-volume
+file-volume
 
 -}
 fileVolumeIcon : List (S.Attribute msg) -> H.Html msg
@@ -7397,7 +7397,7 @@ fileVolumeIcon options =
 
 {-| fileVolume2Icon
 
-lucide-file-signal
+file-signal
 
 -}
 fileVolume2Icon : List (S.Attribute msg) -> H.Html msg
@@ -7407,7 +7407,7 @@ fileVolume2Icon options =
 
 {-| fileWarningIcon
 
-lucide-file-exclamation-point
+file-exclamation-point
 
 -}
 fileWarningIcon : List (S.Attribute msg) -> H.Html msg
@@ -7417,7 +7417,7 @@ fileWarningIcon options =
 
 {-| fileXIcon
 
-lucide-file-x
+file-x
 
 -}
 fileXIcon : List (S.Attribute msg) -> H.Html msg
@@ -7427,7 +7427,7 @@ fileXIcon options =
 
 {-| fileX2Icon
 
-lucide-file-x-corner
+file-x-corner
 
 -}
 fileX2Icon : List (S.Attribute msg) -> H.Html msg
@@ -7437,7 +7437,7 @@ fileX2Icon options =
 
 {-| fileXCornerIcon
 
-lucide-file-x-corner
+file-x-corner
 
 -}
 fileXCornerIcon : List (S.Attribute msg) -> H.Html msg
@@ -7447,7 +7447,7 @@ fileXCornerIcon options =
 
 {-| filesIcon
 
-lucide-files
+files
 
 -}
 filesIcon : List (S.Attribute msg) -> H.Html msg
@@ -7457,7 +7457,7 @@ filesIcon options =
 
 {-| filmIcon
 
-lucide-film
+film
 
 -}
 filmIcon : List (S.Attribute msg) -> H.Html msg
@@ -7467,7 +7467,7 @@ filmIcon options =
 
 {-| filterIcon
 
-lucide-funnel
+funnel
 
 -}
 filterIcon : List (S.Attribute msg) -> H.Html msg
@@ -7477,7 +7477,7 @@ filterIcon options =
 
 {-| filterXIcon
 
-lucide-funnel-x
+funnel-x
 
 -}
 filterXIcon : List (S.Attribute msg) -> H.Html msg
@@ -7487,7 +7487,7 @@ filterXIcon options =
 
 {-| fingerprintIcon
 
-lucide-fingerprint-pattern
+fingerprint-pattern
 
 -}
 fingerprintIcon : List (S.Attribute msg) -> H.Html msg
@@ -7497,7 +7497,7 @@ fingerprintIcon options =
 
 {-| fingerprintPatternIcon
 
-lucide-fingerprint-pattern
+fingerprint-pattern
 
 -}
 fingerprintPatternIcon : List (S.Attribute msg) -> H.Html msg
@@ -7507,7 +7507,7 @@ fingerprintPatternIcon options =
 
 {-| fireExtinguisherIcon
 
-lucide-fire-extinguisher
+fire-extinguisher
 
 -}
 fireExtinguisherIcon : List (S.Attribute msg) -> H.Html msg
@@ -7517,7 +7517,7 @@ fireExtinguisherIcon options =
 
 {-| fishIcon
 
-lucide-fish
+fish
 
 -}
 fishIcon : List (S.Attribute msg) -> H.Html msg
@@ -7527,7 +7527,7 @@ fishIcon options =
 
 {-| fishOffIcon
 
-lucide-fish-off
+fish-off
 
 -}
 fishOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -7537,7 +7537,7 @@ fishOffIcon options =
 
 {-| fishSymbolIcon
 
-lucide-fish-symbol
+fish-symbol
 
 -}
 fishSymbolIcon : List (S.Attribute msg) -> H.Html msg
@@ -7547,7 +7547,7 @@ fishSymbolIcon options =
 
 {-| flagIcon
 
-lucide-flag
+flag
 
 -}
 flagIcon : List (S.Attribute msg) -> H.Html msg
@@ -7557,7 +7557,7 @@ flagIcon options =
 
 {-| flagOffIcon
 
-lucide-flag-off
+flag-off
 
 -}
 flagOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -7567,7 +7567,7 @@ flagOffIcon options =
 
 {-| flagTriangleLeftIcon
 
-lucide-flag-triangle-left
+flag-triangle-left
 
 -}
 flagTriangleLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -7577,7 +7577,7 @@ flagTriangleLeftIcon options =
 
 {-| flagTriangleRightIcon
 
-lucide-flag-triangle-right
+flag-triangle-right
 
 -}
 flagTriangleRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -7587,7 +7587,7 @@ flagTriangleRightIcon options =
 
 {-| flameIcon
 
-lucide-flame
+flame
 
 -}
 flameIcon : List (S.Attribute msg) -> H.Html msg
@@ -7597,7 +7597,7 @@ flameIcon options =
 
 {-| flameKindlingIcon
 
-lucide-flame-kindling
+flame-kindling
 
 -}
 flameKindlingIcon : List (S.Attribute msg) -> H.Html msg
@@ -7607,7 +7607,7 @@ flameKindlingIcon options =
 
 {-| flashlightIcon
 
-lucide-flashlight
+flashlight
 
 -}
 flashlightIcon : List (S.Attribute msg) -> H.Html msg
@@ -7617,7 +7617,7 @@ flashlightIcon options =
 
 {-| flashlightOffIcon
 
-lucide-flashlight-off
+flashlight-off
 
 -}
 flashlightOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -7627,7 +7627,7 @@ flashlightOffIcon options =
 
 {-| flaskConicalIcon
 
-lucide-flask-conical
+flask-conical
 
 -}
 flaskConicalIcon : List (S.Attribute msg) -> H.Html msg
@@ -7637,7 +7637,7 @@ flaskConicalIcon options =
 
 {-| flaskConicalOffIcon
 
-lucide-flask-conical-off
+flask-conical-off
 
 -}
 flaskConicalOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -7647,7 +7647,7 @@ flaskConicalOffIcon options =
 
 {-| flaskRoundIcon
 
-lucide-flask-round
+flask-round
 
 -}
 flaskRoundIcon : List (S.Attribute msg) -> H.Html msg
@@ -7657,7 +7657,7 @@ flaskRoundIcon options =
 
 {-| flipHorizontalIcon
 
-lucide-flip-horizontal
+flip-horizontal
 
 -}
 flipHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -7667,7 +7667,7 @@ flipHorizontalIcon options =
 
 {-| flipHorizontal2Icon
 
-lucide-flip-horizontal-2
+flip-horizontal-2
 
 -}
 flipHorizontal2Icon : List (S.Attribute msg) -> H.Html msg
@@ -7677,7 +7677,7 @@ flipHorizontal2Icon options =
 
 {-| flipVerticalIcon
 
-lucide-flip-vertical
+flip-vertical
 
 -}
 flipVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -7687,7 +7687,7 @@ flipVerticalIcon options =
 
 {-| flipVertical2Icon
 
-lucide-flip-vertical-2
+flip-vertical-2
 
 -}
 flipVertical2Icon : List (S.Attribute msg) -> H.Html msg
@@ -7697,7 +7697,7 @@ flipVertical2Icon options =
 
 {-| flowerIcon
 
-lucide-flower
+flower
 
 -}
 flowerIcon : List (S.Attribute msg) -> H.Html msg
@@ -7707,7 +7707,7 @@ flowerIcon options =
 
 {-| flower2Icon
 
-lucide-flower-2
+flower-2
 
 -}
 flower2Icon : List (S.Attribute msg) -> H.Html msg
@@ -7717,7 +7717,7 @@ flower2Icon options =
 
 {-| focusIcon
 
-lucide-focus
+focus
 
 -}
 focusIcon : List (S.Attribute msg) -> H.Html msg
@@ -7727,7 +7727,7 @@ focusIcon options =
 
 {-| foldHorizontalIcon
 
-lucide-fold-horizontal
+fold-horizontal
 
 -}
 foldHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -7737,7 +7737,7 @@ foldHorizontalIcon options =
 
 {-| foldVerticalIcon
 
-lucide-fold-vertical
+fold-vertical
 
 -}
 foldVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -7747,7 +7747,7 @@ foldVerticalIcon options =
 
 {-| folderIcon
 
-lucide-folder
+folder
 
 -}
 folderIcon : List (S.Attribute msg) -> H.Html msg
@@ -7757,7 +7757,7 @@ folderIcon options =
 
 {-| folderArchiveIcon
 
-lucide-folder-archive
+folder-archive
 
 -}
 folderArchiveIcon : List (S.Attribute msg) -> H.Html msg
@@ -7767,7 +7767,7 @@ folderArchiveIcon options =
 
 {-| folderCheckIcon
 
-lucide-folder-check
+folder-check
 
 -}
 folderCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -7777,7 +7777,7 @@ folderCheckIcon options =
 
 {-| folderClockIcon
 
-lucide-folder-clock
+folder-clock
 
 -}
 folderClockIcon : List (S.Attribute msg) -> H.Html msg
@@ -7787,7 +7787,7 @@ folderClockIcon options =
 
 {-| folderClosedIcon
 
-lucide-folder-closed
+folder-closed
 
 -}
 folderClosedIcon : List (S.Attribute msg) -> H.Html msg
@@ -7797,7 +7797,7 @@ folderClosedIcon options =
 
 {-| folderCodeIcon
 
-lucide-folder-code
+folder-code
 
 -}
 folderCodeIcon : List (S.Attribute msg) -> H.Html msg
@@ -7807,7 +7807,7 @@ folderCodeIcon options =
 
 {-| folderCogIcon
 
-lucide-folder-cog
+folder-cog
 
 -}
 folderCogIcon : List (S.Attribute msg) -> H.Html msg
@@ -7817,7 +7817,7 @@ folderCogIcon options =
 
 {-| folderCog2Icon
 
-lucide-folder-cog
+folder-cog
 
 -}
 folderCog2Icon : List (S.Attribute msg) -> H.Html msg
@@ -7827,7 +7827,7 @@ folderCog2Icon options =
 
 {-| folderDotIcon
 
-lucide-folder-dot
+folder-dot
 
 -}
 folderDotIcon : List (S.Attribute msg) -> H.Html msg
@@ -7837,7 +7837,7 @@ folderDotIcon options =
 
 {-| folderDownIcon
 
-lucide-folder-down
+folder-down
 
 -}
 folderDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -7847,7 +7847,7 @@ folderDownIcon options =
 
 {-| folderEditIcon
 
-lucide-folder-pen
+folder-pen
 
 -}
 folderEditIcon : List (S.Attribute msg) -> H.Html msg
@@ -7857,7 +7857,7 @@ folderEditIcon options =
 
 {-| folderGitIcon
 
-lucide-folder-git
+folder-git
 
 -}
 folderGitIcon : List (S.Attribute msg) -> H.Html msg
@@ -7867,7 +7867,7 @@ folderGitIcon options =
 
 {-| folderGit2Icon
 
-lucide-folder-git-2
+folder-git-2
 
 -}
 folderGit2Icon : List (S.Attribute msg) -> H.Html msg
@@ -7877,7 +7877,7 @@ folderGit2Icon options =
 
 {-| folderHeartIcon
 
-lucide-folder-heart
+folder-heart
 
 -}
 folderHeartIcon : List (S.Attribute msg) -> H.Html msg
@@ -7887,7 +7887,7 @@ folderHeartIcon options =
 
 {-| folderInputIcon
 
-lucide-folder-input
+folder-input
 
 -}
 folderInputIcon : List (S.Attribute msg) -> H.Html msg
@@ -7897,7 +7897,7 @@ folderInputIcon options =
 
 {-| folderKanbanIcon
 
-lucide-folder-kanban
+folder-kanban
 
 -}
 folderKanbanIcon : List (S.Attribute msg) -> H.Html msg
@@ -7907,7 +7907,7 @@ folderKanbanIcon options =
 
 {-| folderKeyIcon
 
-lucide-folder-key
+folder-key
 
 -}
 folderKeyIcon : List (S.Attribute msg) -> H.Html msg
@@ -7917,7 +7917,7 @@ folderKeyIcon options =
 
 {-| folderLockIcon
 
-lucide-folder-lock
+folder-lock
 
 -}
 folderLockIcon : List (S.Attribute msg) -> H.Html msg
@@ -7927,7 +7927,7 @@ folderLockIcon options =
 
 {-| folderMinusIcon
 
-lucide-folder-minus
+folder-minus
 
 -}
 folderMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -7937,7 +7937,7 @@ folderMinusIcon options =
 
 {-| folderOpenIcon
 
-lucide-folder-open
+folder-open
 
 -}
 folderOpenIcon : List (S.Attribute msg) -> H.Html msg
@@ -7947,7 +7947,7 @@ folderOpenIcon options =
 
 {-| folderOpenDotIcon
 
-lucide-folder-open-dot
+folder-open-dot
 
 -}
 folderOpenDotIcon : List (S.Attribute msg) -> H.Html msg
@@ -7957,7 +7957,7 @@ folderOpenDotIcon options =
 
 {-| folderOutputIcon
 
-lucide-folder-output
+folder-output
 
 -}
 folderOutputIcon : List (S.Attribute msg) -> H.Html msg
@@ -7967,7 +7967,7 @@ folderOutputIcon options =
 
 {-| folderPenIcon
 
-lucide-folder-pen
+folder-pen
 
 -}
 folderPenIcon : List (S.Attribute msg) -> H.Html msg
@@ -7977,7 +7977,7 @@ folderPenIcon options =
 
 {-| folderPlusIcon
 
-lucide-folder-plus
+folder-plus
 
 -}
 folderPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -7987,7 +7987,7 @@ folderPlusIcon options =
 
 {-| folderRootIcon
 
-lucide-folder-root
+folder-root
 
 -}
 folderRootIcon : List (S.Attribute msg) -> H.Html msg
@@ -7997,7 +7997,7 @@ folderRootIcon options =
 
 {-| folderSearchIcon
 
-lucide-folder-search
+folder-search
 
 -}
 folderSearchIcon : List (S.Attribute msg) -> H.Html msg
@@ -8007,7 +8007,7 @@ folderSearchIcon options =
 
 {-| folderSearch2Icon
 
-lucide-folder-search-2
+folder-search-2
 
 -}
 folderSearch2Icon : List (S.Attribute msg) -> H.Html msg
@@ -8017,7 +8017,7 @@ folderSearch2Icon options =
 
 {-| folderSymlinkIcon
 
-lucide-folder-symlink
+folder-symlink
 
 -}
 folderSymlinkIcon : List (S.Attribute msg) -> H.Html msg
@@ -8027,7 +8027,7 @@ folderSymlinkIcon options =
 
 {-| folderSyncIcon
 
-lucide-folder-sync
+folder-sync
 
 -}
 folderSyncIcon : List (S.Attribute msg) -> H.Html msg
@@ -8037,7 +8037,7 @@ folderSyncIcon options =
 
 {-| folderTreeIcon
 
-lucide-folder-tree
+folder-tree
 
 -}
 folderTreeIcon : List (S.Attribute msg) -> H.Html msg
@@ -8047,7 +8047,7 @@ folderTreeIcon options =
 
 {-| folderUpIcon
 
-lucide-folder-up
+folder-up
 
 -}
 folderUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -8057,7 +8057,7 @@ folderUpIcon options =
 
 {-| folderXIcon
 
-lucide-folder-x
+folder-x
 
 -}
 folderXIcon : List (S.Attribute msg) -> H.Html msg
@@ -8067,7 +8067,7 @@ folderXIcon options =
 
 {-| foldersIcon
 
-lucide-folders
+folders
 
 -}
 foldersIcon : List (S.Attribute msg) -> H.Html msg
@@ -8077,7 +8077,7 @@ foldersIcon options =
 
 {-| footprintsIcon
 
-lucide-footprints
+footprints
 
 -}
 footprintsIcon : List (S.Attribute msg) -> H.Html msg
@@ -8087,7 +8087,7 @@ footprintsIcon options =
 
 {-| forkKnifeIcon
 
-lucide-utensils
+utensils
 
 -}
 forkKnifeIcon : List (S.Attribute msg) -> H.Html msg
@@ -8097,7 +8097,7 @@ forkKnifeIcon options =
 
 {-| forkKnifeCrossedIcon
 
-lucide-utensils-crossed
+utensils-crossed
 
 -}
 forkKnifeCrossedIcon : List (S.Attribute msg) -> H.Html msg
@@ -8107,7 +8107,7 @@ forkKnifeCrossedIcon options =
 
 {-| forkliftIcon
 
-lucide-forklift
+forklift
 
 -}
 forkliftIcon : List (S.Attribute msg) -> H.Html msg
@@ -8117,7 +8117,7 @@ forkliftIcon options =
 
 {-| formInputIcon
 
-lucide-rectangle-ellipsis
+rectangle-ellipsis
 
 -}
 formInputIcon : List (S.Attribute msg) -> H.Html msg
@@ -8127,7 +8127,7 @@ formInputIcon options =
 
 {-| forwardIcon
 
-lucide-forward
+forward
 
 -}
 forwardIcon : List (S.Attribute msg) -> H.Html msg
@@ -8137,7 +8137,7 @@ forwardIcon options =
 
 {-| frameIcon
 
-lucide-frame
+frame
 
 -}
 frameIcon : List (S.Attribute msg) -> H.Html msg
@@ -8147,7 +8147,7 @@ frameIcon options =
 
 {-| framerIcon
 
-lucide-framer
+framer
 
 -}
 framerIcon : List (S.Attribute msg) -> H.Html msg
@@ -8157,7 +8157,7 @@ framerIcon options =
 
 {-| frownIcon
 
-lucide-frown
+frown
 
 -}
 frownIcon : List (S.Attribute msg) -> H.Html msg
@@ -8167,7 +8167,7 @@ frownIcon options =
 
 {-| fuelIcon
 
-lucide-fuel
+fuel
 
 -}
 fuelIcon : List (S.Attribute msg) -> H.Html msg
@@ -8177,7 +8177,7 @@ fuelIcon options =
 
 {-| fullscreenIcon
 
-lucide-fullscreen
+fullscreen
 
 -}
 fullscreenIcon : List (S.Attribute msg) -> H.Html msg
@@ -8187,7 +8187,7 @@ fullscreenIcon options =
 
 {-| functionSquareIcon
 
-lucide-square-function
+square-function
 
 -}
 functionSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -8197,7 +8197,7 @@ functionSquareIcon options =
 
 {-| funnelIcon
 
-lucide-funnel
+funnel
 
 -}
 funnelIcon : List (S.Attribute msg) -> H.Html msg
@@ -8207,7 +8207,7 @@ funnelIcon options =
 
 {-| funnelPlusIcon
 
-lucide-funnel-plus
+funnel-plus
 
 -}
 funnelPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -8217,7 +8217,7 @@ funnelPlusIcon options =
 
 {-| funnelXIcon
 
-lucide-funnel-x
+funnel-x
 
 -}
 funnelXIcon : List (S.Attribute msg) -> H.Html msg
@@ -8227,7 +8227,7 @@ funnelXIcon options =
 
 {-| galleryHorizontalIcon
 
-lucide-gallery-horizontal
+gallery-horizontal
 
 -}
 galleryHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -8237,7 +8237,7 @@ galleryHorizontalIcon options =
 
 {-| galleryHorizontalEndIcon
 
-lucide-gallery-horizontal-end
+gallery-horizontal-end
 
 -}
 galleryHorizontalEndIcon : List (S.Attribute msg) -> H.Html msg
@@ -8247,7 +8247,7 @@ galleryHorizontalEndIcon options =
 
 {-| galleryThumbnailsIcon
 
-lucide-gallery-thumbnails
+gallery-thumbnails
 
 -}
 galleryThumbnailsIcon : List (S.Attribute msg) -> H.Html msg
@@ -8257,7 +8257,7 @@ galleryThumbnailsIcon options =
 
 {-| galleryVerticalIcon
 
-lucide-gallery-vertical
+gallery-vertical
 
 -}
 galleryVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -8267,7 +8267,7 @@ galleryVerticalIcon options =
 
 {-| galleryVerticalEndIcon
 
-lucide-gallery-vertical-end
+gallery-vertical-end
 
 -}
 galleryVerticalEndIcon : List (S.Attribute msg) -> H.Html msg
@@ -8277,7 +8277,7 @@ galleryVerticalEndIcon options =
 
 {-| gamepadIcon
 
-lucide-gamepad
+gamepad
 
 -}
 gamepadIcon : List (S.Attribute msg) -> H.Html msg
@@ -8287,7 +8287,7 @@ gamepadIcon options =
 
 {-| gamepad2Icon
 
-lucide-gamepad-2
+gamepad-2
 
 -}
 gamepad2Icon : List (S.Attribute msg) -> H.Html msg
@@ -8297,7 +8297,7 @@ gamepad2Icon options =
 
 {-| gamepadDirectionalIcon
 
-lucide-gamepad-directional
+gamepad-directional
 
 -}
 gamepadDirectionalIcon : List (S.Attribute msg) -> H.Html msg
@@ -8307,7 +8307,7 @@ gamepadDirectionalIcon options =
 
 {-| ganttChartIcon
 
-lucide-chart-no-axes-gantt
+chart-no-axes-gantt
 
 -}
 ganttChartIcon : List (S.Attribute msg) -> H.Html msg
@@ -8317,7 +8317,7 @@ ganttChartIcon options =
 
 {-| ganttChartSquareIcon
 
-lucide-square-chart-gantt
+square-chart-gantt
 
 -}
 ganttChartSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -8327,7 +8327,7 @@ ganttChartSquareIcon options =
 
 {-| gaugeIcon
 
-lucide-gauge
+gauge
 
 -}
 gaugeIcon : List (S.Attribute msg) -> H.Html msg
@@ -8337,7 +8337,7 @@ gaugeIcon options =
 
 {-| gaugeCircleIcon
 
-lucide-circle-gauge
+circle-gauge
 
 -}
 gaugeCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -8347,7 +8347,7 @@ gaugeCircleIcon options =
 
 {-| gavelIcon
 
-lucide-gavel
+gavel
 
 -}
 gavelIcon : List (S.Attribute msg) -> H.Html msg
@@ -8357,7 +8357,7 @@ gavelIcon options =
 
 {-| gemIcon
 
-lucide-gem
+gem
 
 -}
 gemIcon : List (S.Attribute msg) -> H.Html msg
@@ -8367,7 +8367,7 @@ gemIcon options =
 
 {-| georgianLariIcon
 
-lucide-georgian-lari
+georgian-lari
 
 -}
 georgianLariIcon : List (S.Attribute msg) -> H.Html msg
@@ -8377,7 +8377,7 @@ georgianLariIcon options =
 
 {-| ghostIcon
 
-lucide-ghost
+ghost
 
 -}
 ghostIcon : List (S.Attribute msg) -> H.Html msg
@@ -8387,7 +8387,7 @@ ghostIcon options =
 
 {-| giftIcon
 
-lucide-gift
+gift
 
 -}
 giftIcon : List (S.Attribute msg) -> H.Html msg
@@ -8397,7 +8397,7 @@ giftIcon options =
 
 {-| gitBranchIcon
 
-lucide-git-branch
+git-branch
 
 -}
 gitBranchIcon : List (S.Attribute msg) -> H.Html msg
@@ -8407,7 +8407,7 @@ gitBranchIcon options =
 
 {-| gitBranchMinusIcon
 
-lucide-git-branch-minus
+git-branch-minus
 
 -}
 gitBranchMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -8417,7 +8417,7 @@ gitBranchMinusIcon options =
 
 {-| gitBranchPlusIcon
 
-lucide-git-branch-plus
+git-branch-plus
 
 -}
 gitBranchPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -8427,7 +8427,7 @@ gitBranchPlusIcon options =
 
 {-| gitCommitIcon
 
-lucide-git-commit-horizontal
+git-commit-horizontal
 
 -}
 gitCommitIcon : List (S.Attribute msg) -> H.Html msg
@@ -8437,7 +8437,7 @@ gitCommitIcon options =
 
 {-| gitCommitHorizontalIcon
 
-lucide-git-commit-horizontal
+git-commit-horizontal
 
 -}
 gitCommitHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -8447,7 +8447,7 @@ gitCommitHorizontalIcon options =
 
 {-| gitCommitVerticalIcon
 
-lucide-git-commit-vertical
+git-commit-vertical
 
 -}
 gitCommitVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -8457,7 +8457,7 @@ gitCommitVerticalIcon options =
 
 {-| gitCompareIcon
 
-lucide-git-compare
+git-compare
 
 -}
 gitCompareIcon : List (S.Attribute msg) -> H.Html msg
@@ -8467,7 +8467,7 @@ gitCompareIcon options =
 
 {-| gitCompareArrowsIcon
 
-lucide-git-compare-arrows
+git-compare-arrows
 
 -}
 gitCompareArrowsIcon : List (S.Attribute msg) -> H.Html msg
@@ -8477,7 +8477,7 @@ gitCompareArrowsIcon options =
 
 {-| gitForkIcon
 
-lucide-git-fork
+git-fork
 
 -}
 gitForkIcon : List (S.Attribute msg) -> H.Html msg
@@ -8487,7 +8487,7 @@ gitForkIcon options =
 
 {-| gitGraphIcon
 
-lucide-git-graph
+git-graph
 
 -}
 gitGraphIcon : List (S.Attribute msg) -> H.Html msg
@@ -8497,7 +8497,7 @@ gitGraphIcon options =
 
 {-| gitMergeIcon
 
-lucide-git-merge
+git-merge
 
 -}
 gitMergeIcon : List (S.Attribute msg) -> H.Html msg
@@ -8507,7 +8507,7 @@ gitMergeIcon options =
 
 {-| gitPullRequestIcon
 
-lucide-git-pull-request
+git-pull-request
 
 -}
 gitPullRequestIcon : List (S.Attribute msg) -> H.Html msg
@@ -8517,7 +8517,7 @@ gitPullRequestIcon options =
 
 {-| gitPullRequestArrowIcon
 
-lucide-git-pull-request-arrow
+git-pull-request-arrow
 
 -}
 gitPullRequestArrowIcon : List (S.Attribute msg) -> H.Html msg
@@ -8527,7 +8527,7 @@ gitPullRequestArrowIcon options =
 
 {-| gitPullRequestClosedIcon
 
-lucide-git-pull-request-closed
+git-pull-request-closed
 
 -}
 gitPullRequestClosedIcon : List (S.Attribute msg) -> H.Html msg
@@ -8537,7 +8537,7 @@ gitPullRequestClosedIcon options =
 
 {-| gitPullRequestCreateIcon
 
-lucide-git-pull-request-create
+git-pull-request-create
 
 -}
 gitPullRequestCreateIcon : List (S.Attribute msg) -> H.Html msg
@@ -8547,7 +8547,7 @@ gitPullRequestCreateIcon options =
 
 {-| gitPullRequestCreateArrowIcon
 
-lucide-git-pull-request-create-arrow
+git-pull-request-create-arrow
 
 -}
 gitPullRequestCreateArrowIcon : List (S.Attribute msg) -> H.Html msg
@@ -8557,7 +8557,7 @@ gitPullRequestCreateArrowIcon options =
 
 {-| gitPullRequestDraftIcon
 
-lucide-git-pull-request-draft
+git-pull-request-draft
 
 -}
 gitPullRequestDraftIcon : List (S.Attribute msg) -> H.Html msg
@@ -8567,7 +8567,7 @@ gitPullRequestDraftIcon options =
 
 {-| githubIcon
 
-lucide-github
+github
 
 -}
 githubIcon : List (S.Attribute msg) -> H.Html msg
@@ -8577,7 +8577,7 @@ githubIcon options =
 
 {-| gitlabIcon
 
-lucide-gitlab
+gitlab
 
 -}
 gitlabIcon : List (S.Attribute msg) -> H.Html msg
@@ -8587,7 +8587,7 @@ gitlabIcon options =
 
 {-| glassWaterIcon
 
-lucide-glass-water
+glass-water
 
 -}
 glassWaterIcon : List (S.Attribute msg) -> H.Html msg
@@ -8597,7 +8597,7 @@ glassWaterIcon options =
 
 {-| glassesIcon
 
-lucide-glasses
+glasses
 
 -}
 glassesIcon : List (S.Attribute msg) -> H.Html msg
@@ -8607,7 +8607,7 @@ glassesIcon options =
 
 {-| globeIcon
 
-lucide-globe
+globe
 
 -}
 globeIcon : List (S.Attribute msg) -> H.Html msg
@@ -8617,7 +8617,7 @@ globeIcon options =
 
 {-| globe2Icon
 
-lucide-earth
+earth
 
 -}
 globe2Icon : List (S.Attribute msg) -> H.Html msg
@@ -8627,7 +8627,7 @@ globe2Icon options =
 
 {-| globeLockIcon
 
-lucide-globe-lock
+globe-lock
 
 -}
 globeLockIcon : List (S.Attribute msg) -> H.Html msg
@@ -8637,7 +8637,7 @@ globeLockIcon options =
 
 {-| goalIcon
 
-lucide-goal
+goal
 
 -}
 goalIcon : List (S.Attribute msg) -> H.Html msg
@@ -8647,7 +8647,7 @@ goalIcon options =
 
 {-| gpuIcon
 
-lucide-gpu
+gpu
 
 -}
 gpuIcon : List (S.Attribute msg) -> H.Html msg
@@ -8657,7 +8657,7 @@ gpuIcon options =
 
 {-| grabIcon
 
-lucide-hand-grab
+hand-grab
 
 -}
 grabIcon : List (S.Attribute msg) -> H.Html msg
@@ -8667,7 +8667,7 @@ grabIcon options =
 
 {-| graduationCapIcon
 
-lucide-graduation-cap
+graduation-cap
 
 -}
 graduationCapIcon : List (S.Attribute msg) -> H.Html msg
@@ -8677,7 +8677,7 @@ graduationCapIcon options =
 
 {-| grapeIcon
 
-lucide-grape
+grape
 
 -}
 grapeIcon : List (S.Attribute msg) -> H.Html msg
@@ -8687,7 +8687,7 @@ grapeIcon options =
 
 {-| gridIcon
 
-lucide-grid-3x3
+grid-3x3
 
 -}
 gridIcon : List (S.Attribute msg) -> H.Html msg
@@ -8697,7 +8697,7 @@ gridIcon options =
 
 {-| grid2X2Icon
 
-lucide-grid-2x2
+grid-2x2
 
 -}
 grid2X2Icon : List (S.Attribute msg) -> H.Html msg
@@ -8707,7 +8707,7 @@ grid2X2Icon options =
 
 {-| grid2X2CheckIcon
 
-lucide-grid-2x2-check
+grid-2x2-check
 
 -}
 grid2X2CheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -8717,7 +8717,7 @@ grid2X2CheckIcon options =
 
 {-| grid2X2PlusIcon
 
-lucide-grid-2x2-plus
+grid-2x2-plus
 
 -}
 grid2X2PlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -8727,7 +8727,7 @@ grid2X2PlusIcon options =
 
 {-| grid2X2XIcon
 
-lucide-grid-2x2-x
+grid-2x2-x
 
 -}
 grid2X2XIcon : List (S.Attribute msg) -> H.Html msg
@@ -8737,7 +8737,7 @@ grid2X2XIcon options =
 
 {-| grid2x2Icon
 
-lucide-grid-2x2
+grid-2x2
 
 -}
 grid2x2Icon : List (S.Attribute msg) -> H.Html msg
@@ -8747,7 +8747,7 @@ grid2x2Icon options =
 
 {-| grid2x2CheckIcon
 
-lucide-grid-2x2-check
+grid-2x2-check
 
 -}
 grid2x2CheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -8757,7 +8757,7 @@ grid2x2CheckIcon options =
 
 {-| grid2x2PlusIcon
 
-lucide-grid-2x2-plus
+grid-2x2-plus
 
 -}
 grid2x2PlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -8767,7 +8767,7 @@ grid2x2PlusIcon options =
 
 {-| grid2x2XIcon
 
-lucide-grid-2x2-x
+grid-2x2-x
 
 -}
 grid2x2XIcon : List (S.Attribute msg) -> H.Html msg
@@ -8777,7 +8777,7 @@ grid2x2XIcon options =
 
 {-| grid3X3Icon
 
-lucide-grid-3x3
+grid-3x3
 
 -}
 grid3X3Icon : List (S.Attribute msg) -> H.Html msg
@@ -8787,7 +8787,7 @@ grid3X3Icon options =
 
 {-| grid3x2Icon
 
-lucide-grid-3x2
+grid-3x2
 
 -}
 grid3x2Icon : List (S.Attribute msg) -> H.Html msg
@@ -8797,7 +8797,7 @@ grid3x2Icon options =
 
 {-| grid3x3Icon
 
-lucide-grid-3x3
+grid-3x3
 
 -}
 grid3x3Icon : List (S.Attribute msg) -> H.Html msg
@@ -8807,7 +8807,7 @@ grid3x3Icon options =
 
 {-| gripIcon
 
-lucide-grip
+grip
 
 -}
 gripIcon : List (S.Attribute msg) -> H.Html msg
@@ -8817,7 +8817,7 @@ gripIcon options =
 
 {-| gripHorizontalIcon
 
-lucide-grip-horizontal
+grip-horizontal
 
 -}
 gripHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -8827,7 +8827,7 @@ gripHorizontalIcon options =
 
 {-| gripVerticalIcon
 
-lucide-grip-vertical
+grip-vertical
 
 -}
 gripVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -8837,7 +8837,7 @@ gripVerticalIcon options =
 
 {-| groupIcon
 
-lucide-group
+group
 
 -}
 groupIcon : List (S.Attribute msg) -> H.Html msg
@@ -8847,7 +8847,7 @@ groupIcon options =
 
 {-| guitarIcon
 
-lucide-guitar
+guitar
 
 -}
 guitarIcon : List (S.Attribute msg) -> H.Html msg
@@ -8857,7 +8857,7 @@ guitarIcon options =
 
 {-| hamIcon
 
-lucide-ham
+ham
 
 -}
 hamIcon : List (S.Attribute msg) -> H.Html msg
@@ -8867,7 +8867,7 @@ hamIcon options =
 
 {-| hamburgerIcon
 
-lucide-hamburger
+hamburger
 
 -}
 hamburgerIcon : List (S.Attribute msg) -> H.Html msg
@@ -8877,7 +8877,7 @@ hamburgerIcon options =
 
 {-| hammerIcon
 
-lucide-hammer
+hammer
 
 -}
 hammerIcon : List (S.Attribute msg) -> H.Html msg
@@ -8887,7 +8887,7 @@ hammerIcon options =
 
 {-| handIcon
 
-lucide-hand
+hand
 
 -}
 handIcon : List (S.Attribute msg) -> H.Html msg
@@ -8897,7 +8897,7 @@ handIcon options =
 
 {-| handCoinsIcon
 
-lucide-hand-coins
+hand-coins
 
 -}
 handCoinsIcon : List (S.Attribute msg) -> H.Html msg
@@ -8907,7 +8907,7 @@ handCoinsIcon options =
 
 {-| handFistIcon
 
-lucide-hand-fist
+hand-fist
 
 -}
 handFistIcon : List (S.Attribute msg) -> H.Html msg
@@ -8917,7 +8917,7 @@ handFistIcon options =
 
 {-| handGrabIcon
 
-lucide-hand-grab
+hand-grab
 
 -}
 handGrabIcon : List (S.Attribute msg) -> H.Html msg
@@ -8927,7 +8927,7 @@ handGrabIcon options =
 
 {-| handHeartIcon
 
-lucide-hand-heart
+hand-heart
 
 -}
 handHeartIcon : List (S.Attribute msg) -> H.Html msg
@@ -8937,7 +8937,7 @@ handHeartIcon options =
 
 {-| handHelpingIcon
 
-lucide-hand-helping
+hand-helping
 
 -}
 handHelpingIcon : List (S.Attribute msg) -> H.Html msg
@@ -8947,7 +8947,7 @@ handHelpingIcon options =
 
 {-| handMetalIcon
 
-lucide-hand-metal
+hand-metal
 
 -}
 handMetalIcon : List (S.Attribute msg) -> H.Html msg
@@ -8957,7 +8957,7 @@ handMetalIcon options =
 
 {-| handPlatterIcon
 
-lucide-hand-platter
+hand-platter
 
 -}
 handPlatterIcon : List (S.Attribute msg) -> H.Html msg
@@ -8967,7 +8967,7 @@ handPlatterIcon options =
 
 {-| handbagIcon
 
-lucide-handbag
+handbag
 
 -}
 handbagIcon : List (S.Attribute msg) -> H.Html msg
@@ -8977,7 +8977,7 @@ handbagIcon options =
 
 {-| handshakeIcon
 
-lucide-handshake
+handshake
 
 -}
 handshakeIcon : List (S.Attribute msg) -> H.Html msg
@@ -8987,7 +8987,7 @@ handshakeIcon options =
 
 {-| hardDriveIcon
 
-lucide-hard-drive
+hard-drive
 
 -}
 hardDriveIcon : List (S.Attribute msg) -> H.Html msg
@@ -8997,7 +8997,7 @@ hardDriveIcon options =
 
 {-| hardDriveDownloadIcon
 
-lucide-hard-drive-download
+hard-drive-download
 
 -}
 hardDriveDownloadIcon : List (S.Attribute msg) -> H.Html msg
@@ -9007,7 +9007,7 @@ hardDriveDownloadIcon options =
 
 {-| hardDriveUploadIcon
 
-lucide-hard-drive-upload
+hard-drive-upload
 
 -}
 hardDriveUploadIcon : List (S.Attribute msg) -> H.Html msg
@@ -9017,7 +9017,7 @@ hardDriveUploadIcon options =
 
 {-| hardHatIcon
 
-lucide-hard-hat
+hard-hat
 
 -}
 hardHatIcon : List (S.Attribute msg) -> H.Html msg
@@ -9027,7 +9027,7 @@ hardHatIcon options =
 
 {-| hashIcon
 
-lucide-hash
+hash
 
 -}
 hashIcon : List (S.Attribute msg) -> H.Html msg
@@ -9037,7 +9037,7 @@ hashIcon options =
 
 {-| hatGlassesIcon
 
-lucide-hat-glasses
+hat-glasses
 
 -}
 hatGlassesIcon : List (S.Attribute msg) -> H.Html msg
@@ -9047,7 +9047,7 @@ hatGlassesIcon options =
 
 {-| hazeIcon
 
-lucide-haze
+haze
 
 -}
 hazeIcon : List (S.Attribute msg) -> H.Html msg
@@ -9057,7 +9057,7 @@ hazeIcon options =
 
 {-| hdmiPortIcon
 
-lucide-hdmi-port
+hdmi-port
 
 -}
 hdmiPortIcon : List (S.Attribute msg) -> H.Html msg
@@ -9067,7 +9067,7 @@ hdmiPortIcon options =
 
 {-| headingIcon
 
-lucide-heading
+heading
 
 -}
 headingIcon : List (S.Attribute msg) -> H.Html msg
@@ -9077,7 +9077,7 @@ headingIcon options =
 
 {-| heading1Icon
 
-lucide-heading-1
+heading-1
 
 -}
 heading1Icon : List (S.Attribute msg) -> H.Html msg
@@ -9087,7 +9087,7 @@ heading1Icon options =
 
 {-| heading2Icon
 
-lucide-heading-2
+heading-2
 
 -}
 heading2Icon : List (S.Attribute msg) -> H.Html msg
@@ -9097,7 +9097,7 @@ heading2Icon options =
 
 {-| heading3Icon
 
-lucide-heading-3
+heading-3
 
 -}
 heading3Icon : List (S.Attribute msg) -> H.Html msg
@@ -9107,7 +9107,7 @@ heading3Icon options =
 
 {-| heading4Icon
 
-lucide-heading-4
+heading-4
 
 -}
 heading4Icon : List (S.Attribute msg) -> H.Html msg
@@ -9117,7 +9117,7 @@ heading4Icon options =
 
 {-| heading5Icon
 
-lucide-heading-5
+heading-5
 
 -}
 heading5Icon : List (S.Attribute msg) -> H.Html msg
@@ -9127,7 +9127,7 @@ heading5Icon options =
 
 {-| heading6Icon
 
-lucide-heading-6
+heading-6
 
 -}
 heading6Icon : List (S.Attribute msg) -> H.Html msg
@@ -9137,7 +9137,7 @@ heading6Icon options =
 
 {-| headphoneOffIcon
 
-lucide-headphone-off
+headphone-off
 
 -}
 headphoneOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -9147,7 +9147,7 @@ headphoneOffIcon options =
 
 {-| headphonesIcon
 
-lucide-headphones
+headphones
 
 -}
 headphonesIcon : List (S.Attribute msg) -> H.Html msg
@@ -9157,7 +9157,7 @@ headphonesIcon options =
 
 {-| headsetIcon
 
-lucide-headset
+headset
 
 -}
 headsetIcon : List (S.Attribute msg) -> H.Html msg
@@ -9167,7 +9167,7 @@ headsetIcon options =
 
 {-| heartIcon
 
-lucide-heart
+heart
 
 -}
 heartIcon : List (S.Attribute msg) -> H.Html msg
@@ -9177,7 +9177,7 @@ heartIcon options =
 
 {-| heartCrackIcon
 
-lucide-heart-crack
+heart-crack
 
 -}
 heartCrackIcon : List (S.Attribute msg) -> H.Html msg
@@ -9187,7 +9187,7 @@ heartCrackIcon options =
 
 {-| heartHandshakeIcon
 
-lucide-heart-handshake
+heart-handshake
 
 -}
 heartHandshakeIcon : List (S.Attribute msg) -> H.Html msg
@@ -9197,7 +9197,7 @@ heartHandshakeIcon options =
 
 {-| heartMinusIcon
 
-lucide-heart-minus
+heart-minus
 
 -}
 heartMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -9207,7 +9207,7 @@ heartMinusIcon options =
 
 {-| heartOffIcon
 
-lucide-heart-off
+heart-off
 
 -}
 heartOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -9217,7 +9217,7 @@ heartOffIcon options =
 
 {-| heartPlusIcon
 
-lucide-heart-plus
+heart-plus
 
 -}
 heartPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -9227,7 +9227,7 @@ heartPlusIcon options =
 
 {-| heartPulseIcon
 
-lucide-heart-pulse
+heart-pulse
 
 -}
 heartPulseIcon : List (S.Attribute msg) -> H.Html msg
@@ -9237,7 +9237,7 @@ heartPulseIcon options =
 
 {-| heaterIcon
 
-lucide-heater
+heater
 
 -}
 heaterIcon : List (S.Attribute msg) -> H.Html msg
@@ -9247,7 +9247,7 @@ heaterIcon options =
 
 {-| helicopterIcon
 
-lucide-helicopter
+helicopter
 
 -}
 helicopterIcon : List (S.Attribute msg) -> H.Html msg
@@ -9257,7 +9257,7 @@ helicopterIcon options =
 
 {-| helpCircleIcon
 
-lucide-circle-question-mark
+circle-question-mark
 
 -}
 helpCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -9267,7 +9267,7 @@ helpCircleIcon options =
 
 {-| helpingHandIcon
 
-lucide-hand-helping
+hand-helping
 
 -}
 helpingHandIcon : List (S.Attribute msg) -> H.Html msg
@@ -9277,7 +9277,7 @@ helpingHandIcon options =
 
 {-| hexagonIcon
 
-lucide-hexagon
+hexagon
 
 -}
 hexagonIcon : List (S.Attribute msg) -> H.Html msg
@@ -9287,7 +9287,7 @@ hexagonIcon options =
 
 {-| highlighterIcon
 
-lucide-highlighter
+highlighter
 
 -}
 highlighterIcon : List (S.Attribute msg) -> H.Html msg
@@ -9297,7 +9297,7 @@ highlighterIcon options =
 
 {-| historyIcon
 
-lucide-history
+history
 
 -}
 historyIcon : List (S.Attribute msg) -> H.Html msg
@@ -9307,7 +9307,7 @@ historyIcon options =
 
 {-| homeIcon
 
-lucide-house
+house
 
 -}
 homeIcon : List (S.Attribute msg) -> H.Html msg
@@ -9317,7 +9317,7 @@ homeIcon options =
 
 {-| hopIcon
 
-lucide-hop
+hop
 
 -}
 hopIcon : List (S.Attribute msg) -> H.Html msg
@@ -9327,7 +9327,7 @@ hopIcon options =
 
 {-| hopOffIcon
 
-lucide-hop-off
+hop-off
 
 -}
 hopOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -9337,7 +9337,7 @@ hopOffIcon options =
 
 {-| hospitalIcon
 
-lucide-hospital
+hospital
 
 -}
 hospitalIcon : List (S.Attribute msg) -> H.Html msg
@@ -9347,7 +9347,7 @@ hospitalIcon options =
 
 {-| hotelIcon
 
-lucide-hotel
+hotel
 
 -}
 hotelIcon : List (S.Attribute msg) -> H.Html msg
@@ -9357,7 +9357,7 @@ hotelIcon options =
 
 {-| hourglassIcon
 
-lucide-hourglass
+hourglass
 
 -}
 hourglassIcon : List (S.Attribute msg) -> H.Html msg
@@ -9367,7 +9367,7 @@ hourglassIcon options =
 
 {-| houseIcon
 
-lucide-house
+house
 
 -}
 houseIcon : List (S.Attribute msg) -> H.Html msg
@@ -9377,7 +9377,7 @@ houseIcon options =
 
 {-| houseHeartIcon
 
-lucide-house-heart
+house-heart
 
 -}
 houseHeartIcon : List (S.Attribute msg) -> H.Html msg
@@ -9387,7 +9387,7 @@ houseHeartIcon options =
 
 {-| housePlugIcon
 
-lucide-house-plug
+house-plug
 
 -}
 housePlugIcon : List (S.Attribute msg) -> H.Html msg
@@ -9397,7 +9397,7 @@ housePlugIcon options =
 
 {-| housePlusIcon
 
-lucide-house-plus
+house-plus
 
 -}
 housePlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -9407,7 +9407,7 @@ housePlusIcon options =
 
 {-| houseWifiIcon
 
-lucide-house-wifi
+house-wifi
 
 -}
 houseWifiIcon : List (S.Attribute msg) -> H.Html msg
@@ -9417,7 +9417,7 @@ houseWifiIcon options =
 
 {-| iceCreamIcon
 
-lucide-ice-cream-cone
+ice-cream-cone
 
 -}
 iceCreamIcon : List (S.Attribute msg) -> H.Html msg
@@ -9427,7 +9427,7 @@ iceCreamIcon options =
 
 {-| iceCream2Icon
 
-lucide-ice-cream-bowl
+ice-cream-bowl
 
 -}
 iceCream2Icon : List (S.Attribute msg) -> H.Html msg
@@ -9437,7 +9437,7 @@ iceCream2Icon options =
 
 {-| iceCreamBowlIcon
 
-lucide-ice-cream-bowl
+ice-cream-bowl
 
 -}
 iceCreamBowlIcon : List (S.Attribute msg) -> H.Html msg
@@ -9447,7 +9447,7 @@ iceCreamBowlIcon options =
 
 {-| iceCreamConeIcon
 
-lucide-ice-cream-cone
+ice-cream-cone
 
 -}
 iceCreamConeIcon : List (S.Attribute msg) -> H.Html msg
@@ -9457,7 +9457,7 @@ iceCreamConeIcon options =
 
 {-| idCardIcon
 
-lucide-id-card
+id-card
 
 -}
 idCardIcon : List (S.Attribute msg) -> H.Html msg
@@ -9467,7 +9467,7 @@ idCardIcon options =
 
 {-| idCardLanyardIcon
 
-lucide-id-card-lanyard
+id-card-lanyard
 
 -}
 idCardLanyardIcon : List (S.Attribute msg) -> H.Html msg
@@ -9477,7 +9477,7 @@ idCardLanyardIcon options =
 
 {-| imageIcon
 
-lucide-image
+image
 
 -}
 imageIcon : List (S.Attribute msg) -> H.Html msg
@@ -9487,7 +9487,7 @@ imageIcon options =
 
 {-| imageDownIcon
 
-lucide-image-down
+image-down
 
 -}
 imageDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -9497,7 +9497,7 @@ imageDownIcon options =
 
 {-| imageMinusIcon
 
-lucide-image-minus
+image-minus
 
 -}
 imageMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -9507,7 +9507,7 @@ imageMinusIcon options =
 
 {-| imageOffIcon
 
-lucide-image-off
+image-off
 
 -}
 imageOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -9517,7 +9517,7 @@ imageOffIcon options =
 
 {-| imagePlayIcon
 
-lucide-image-play
+image-play
 
 -}
 imagePlayIcon : List (S.Attribute msg) -> H.Html msg
@@ -9527,7 +9527,7 @@ imagePlayIcon options =
 
 {-| imagePlusIcon
 
-lucide-image-plus
+image-plus
 
 -}
 imagePlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -9537,7 +9537,7 @@ imagePlusIcon options =
 
 {-| imageUpIcon
 
-lucide-image-up
+image-up
 
 -}
 imageUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -9547,7 +9547,7 @@ imageUpIcon options =
 
 {-| imageUpscaleIcon
 
-lucide-image-upscale
+image-upscale
 
 -}
 imageUpscaleIcon : List (S.Attribute msg) -> H.Html msg
@@ -9557,7 +9557,7 @@ imageUpscaleIcon options =
 
 {-| imagesIcon
 
-lucide-images
+images
 
 -}
 imagesIcon : List (S.Attribute msg) -> H.Html msg
@@ -9567,7 +9567,7 @@ imagesIcon options =
 
 {-| importIcon
 
-lucide-import
+import
 
 -}
 importIcon : List (S.Attribute msg) -> H.Html msg
@@ -9577,7 +9577,7 @@ importIcon options =
 
 {-| inboxIcon
 
-lucide-inbox
+inbox
 
 -}
 inboxIcon : List (S.Attribute msg) -> H.Html msg
@@ -9587,7 +9587,7 @@ inboxIcon options =
 
 {-| indentIcon
 
-lucide-list-indent-increase
+list-indent-increase
 
 -}
 indentIcon : List (S.Attribute msg) -> H.Html msg
@@ -9597,7 +9597,7 @@ indentIcon options =
 
 {-| indentDecreaseIcon
 
-lucide-list-indent-decrease
+list-indent-decrease
 
 -}
 indentDecreaseIcon : List (S.Attribute msg) -> H.Html msg
@@ -9607,7 +9607,7 @@ indentDecreaseIcon options =
 
 {-| indentIncreaseIcon
 
-lucide-list-indent-increase
+list-indent-increase
 
 -}
 indentIncreaseIcon : List (S.Attribute msg) -> H.Html msg
@@ -9617,7 +9617,7 @@ indentIncreaseIcon options =
 
 {-| indianRupeeIcon
 
-lucide-indian-rupee
+indian-rupee
 
 -}
 indianRupeeIcon : List (S.Attribute msg) -> H.Html msg
@@ -9627,7 +9627,7 @@ indianRupeeIcon options =
 
 {-| infinityIcon
 
-lucide-infinity
+infinity
 
 -}
 infinityIcon : List (S.Attribute msg) -> H.Html msg
@@ -9637,7 +9637,7 @@ infinityIcon options =
 
 {-| infoIcon
 
-lucide-info
+info
 
 -}
 infoIcon : List (S.Attribute msg) -> H.Html msg
@@ -9647,7 +9647,7 @@ infoIcon options =
 
 {-| inspectIcon
 
-lucide-square-mouse-pointer
+square-mouse-pointer
 
 -}
 inspectIcon : List (S.Attribute msg) -> H.Html msg
@@ -9657,7 +9657,7 @@ inspectIcon options =
 
 {-| inspectionPanelIcon
 
-lucide-inspection-panel
+inspection-panel
 
 -}
 inspectionPanelIcon : List (S.Attribute msg) -> H.Html msg
@@ -9667,7 +9667,7 @@ inspectionPanelIcon options =
 
 {-| instagramIcon
 
-lucide-instagram
+instagram
 
 -}
 instagramIcon : List (S.Attribute msg) -> H.Html msg
@@ -9677,7 +9677,7 @@ instagramIcon options =
 
 {-| italicIcon
 
-lucide-italic
+italic
 
 -}
 italicIcon : List (S.Attribute msg) -> H.Html msg
@@ -9687,7 +9687,7 @@ italicIcon options =
 
 {-| iterationCcwIcon
 
-lucide-iteration-ccw
+iteration-ccw
 
 -}
 iterationCcwIcon : List (S.Attribute msg) -> H.Html msg
@@ -9697,7 +9697,7 @@ iterationCcwIcon options =
 
 {-| iterationCwIcon
 
-lucide-iteration-cw
+iteration-cw
 
 -}
 iterationCwIcon : List (S.Attribute msg) -> H.Html msg
@@ -9707,7 +9707,7 @@ iterationCwIcon options =
 
 {-| japaneseYenIcon
 
-lucide-japanese-yen
+japanese-yen
 
 -}
 japaneseYenIcon : List (S.Attribute msg) -> H.Html msg
@@ -9717,7 +9717,7 @@ japaneseYenIcon options =
 
 {-| joystickIcon
 
-lucide-joystick
+joystick
 
 -}
 joystickIcon : List (S.Attribute msg) -> H.Html msg
@@ -9727,7 +9727,7 @@ joystickIcon options =
 
 {-| kanbanIcon
 
-lucide-kanban
+kanban
 
 -}
 kanbanIcon : List (S.Attribute msg) -> H.Html msg
@@ -9737,7 +9737,7 @@ kanbanIcon options =
 
 {-| kanbanSquareIcon
 
-lucide-square-kanban
+square-kanban
 
 -}
 kanbanSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -9747,7 +9747,7 @@ kanbanSquareIcon options =
 
 {-| kanbanSquareDashedIcon
 
-lucide-square-dashed-kanban
+square-dashed-kanban
 
 -}
 kanbanSquareDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -9757,7 +9757,7 @@ kanbanSquareDashedIcon options =
 
 {-| kayakIcon
 
-lucide-kayak
+kayak
 
 -}
 kayakIcon : List (S.Attribute msg) -> H.Html msg
@@ -9767,7 +9767,7 @@ kayakIcon options =
 
 {-| keyIcon
 
-lucide-key
+key
 
 -}
 keyIcon : List (S.Attribute msg) -> H.Html msg
@@ -9777,7 +9777,7 @@ keyIcon options =
 
 {-| keyRoundIcon
 
-lucide-key-round
+key-round
 
 -}
 keyRoundIcon : List (S.Attribute msg) -> H.Html msg
@@ -9787,7 +9787,7 @@ keyRoundIcon options =
 
 {-| keySquareIcon
 
-lucide-key-square
+key-square
 
 -}
 keySquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -9797,7 +9797,7 @@ keySquareIcon options =
 
 {-| keyboardIcon
 
-lucide-keyboard
+keyboard
 
 -}
 keyboardIcon : List (S.Attribute msg) -> H.Html msg
@@ -9807,7 +9807,7 @@ keyboardIcon options =
 
 {-| keyboardMusicIcon
 
-lucide-keyboard-music
+keyboard-music
 
 -}
 keyboardMusicIcon : List (S.Attribute msg) -> H.Html msg
@@ -9817,7 +9817,7 @@ keyboardMusicIcon options =
 
 {-| keyboardOffIcon
 
-lucide-keyboard-off
+keyboard-off
 
 -}
 keyboardOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -9827,7 +9827,7 @@ keyboardOffIcon options =
 
 {-| lampIcon
 
-lucide-lamp
+lamp
 
 -}
 lampIcon : List (S.Attribute msg) -> H.Html msg
@@ -9837,7 +9837,7 @@ lampIcon options =
 
 {-| lampCeilingIcon
 
-lucide-lamp-ceiling
+lamp-ceiling
 
 -}
 lampCeilingIcon : List (S.Attribute msg) -> H.Html msg
@@ -9847,7 +9847,7 @@ lampCeilingIcon options =
 
 {-| lampDeskIcon
 
-lucide-lamp-desk
+lamp-desk
 
 -}
 lampDeskIcon : List (S.Attribute msg) -> H.Html msg
@@ -9857,7 +9857,7 @@ lampDeskIcon options =
 
 {-| lampFloorIcon
 
-lucide-lamp-floor
+lamp-floor
 
 -}
 lampFloorIcon : List (S.Attribute msg) -> H.Html msg
@@ -9867,7 +9867,7 @@ lampFloorIcon options =
 
 {-| lampWallDownIcon
 
-lucide-lamp-wall-down
+lamp-wall-down
 
 -}
 lampWallDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -9877,7 +9877,7 @@ lampWallDownIcon options =
 
 {-| lampWallUpIcon
 
-lucide-lamp-wall-up
+lamp-wall-up
 
 -}
 lampWallUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -9887,7 +9887,7 @@ lampWallUpIcon options =
 
 {-| landPlotIcon
 
-lucide-land-plot
+land-plot
 
 -}
 landPlotIcon : List (S.Attribute msg) -> H.Html msg
@@ -9897,7 +9897,7 @@ landPlotIcon options =
 
 {-| landmarkIcon
 
-lucide-landmark
+landmark
 
 -}
 landmarkIcon : List (S.Attribute msg) -> H.Html msg
@@ -9907,7 +9907,7 @@ landmarkIcon options =
 
 {-| languagesIcon
 
-lucide-languages
+languages
 
 -}
 languagesIcon : List (S.Attribute msg) -> H.Html msg
@@ -9917,7 +9917,7 @@ languagesIcon options =
 
 {-| laptopIcon
 
-lucide-laptop
+laptop
 
 -}
 laptopIcon : List (S.Attribute msg) -> H.Html msg
@@ -9927,7 +9927,7 @@ laptopIcon options =
 
 {-| laptop2Icon
 
-lucide-laptop-minimal
+laptop-minimal
 
 -}
 laptop2Icon : List (S.Attribute msg) -> H.Html msg
@@ -9937,7 +9937,7 @@ laptop2Icon options =
 
 {-| laptopMinimalIcon
 
-lucide-laptop-minimal
+laptop-minimal
 
 -}
 laptopMinimalIcon : List (S.Attribute msg) -> H.Html msg
@@ -9947,7 +9947,7 @@ laptopMinimalIcon options =
 
 {-| laptopMinimalCheckIcon
 
-lucide-laptop-minimal-check
+laptop-minimal-check
 
 -}
 laptopMinimalCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -9957,7 +9957,7 @@ laptopMinimalCheckIcon options =
 
 {-| lassoIcon
 
-lucide-lasso
+lasso
 
 -}
 lassoIcon : List (S.Attribute msg) -> H.Html msg
@@ -9967,7 +9967,7 @@ lassoIcon options =
 
 {-| lassoSelectIcon
 
-lucide-lasso-select
+lasso-select
 
 -}
 lassoSelectIcon : List (S.Attribute msg) -> H.Html msg
@@ -9977,7 +9977,7 @@ lassoSelectIcon options =
 
 {-| laughIcon
 
-lucide-laugh
+laugh
 
 -}
 laughIcon : List (S.Attribute msg) -> H.Html msg
@@ -9987,7 +9987,7 @@ laughIcon options =
 
 {-| layersIcon
 
-lucide-layers
+layers
 
 -}
 layersIcon : List (S.Attribute msg) -> H.Html msg
@@ -9997,7 +9997,7 @@ layersIcon options =
 
 {-| layers2Icon
 
-lucide-layers-2
+layers-2
 
 -}
 layers2Icon : List (S.Attribute msg) -> H.Html msg
@@ -10007,7 +10007,7 @@ layers2Icon options =
 
 {-| layers3Icon
 
-lucide-layers
+layers
 
 -}
 layers3Icon : List (S.Attribute msg) -> H.Html msg
@@ -10017,7 +10017,7 @@ layers3Icon options =
 
 {-| layoutIcon
 
-lucide-panels-top-left
+panels-top-left
 
 -}
 layoutIcon : List (S.Attribute msg) -> H.Html msg
@@ -10027,7 +10027,7 @@ layoutIcon options =
 
 {-| layoutDashboardIcon
 
-lucide-layout-dashboard
+layout-dashboard
 
 -}
 layoutDashboardIcon : List (S.Attribute msg) -> H.Html msg
@@ -10037,7 +10037,7 @@ layoutDashboardIcon options =
 
 {-| layoutGridIcon
 
-lucide-layout-grid
+layout-grid
 
 -}
 layoutGridIcon : List (S.Attribute msg) -> H.Html msg
@@ -10047,7 +10047,7 @@ layoutGridIcon options =
 
 {-| layoutListIcon
 
-lucide-layout-list
+layout-list
 
 -}
 layoutListIcon : List (S.Attribute msg) -> H.Html msg
@@ -10057,7 +10057,7 @@ layoutListIcon options =
 
 {-| layoutPanelLeftIcon
 
-lucide-layout-panel-left
+layout-panel-left
 
 -}
 layoutPanelLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -10067,7 +10067,7 @@ layoutPanelLeftIcon options =
 
 {-| layoutPanelTopIcon
 
-lucide-layout-panel-top
+layout-panel-top
 
 -}
 layoutPanelTopIcon : List (S.Attribute msg) -> H.Html msg
@@ -10077,7 +10077,7 @@ layoutPanelTopIcon options =
 
 {-| layoutTemplateIcon
 
-lucide-layout-template
+layout-template
 
 -}
 layoutTemplateIcon : List (S.Attribute msg) -> H.Html msg
@@ -10087,7 +10087,7 @@ layoutTemplateIcon options =
 
 {-| leafIcon
 
-lucide-leaf
+leaf
 
 -}
 leafIcon : List (S.Attribute msg) -> H.Html msg
@@ -10097,7 +10097,7 @@ leafIcon options =
 
 {-| leafyGreenIcon
 
-lucide-leafy-green
+leafy-green
 
 -}
 leafyGreenIcon : List (S.Attribute msg) -> H.Html msg
@@ -10107,7 +10107,7 @@ leafyGreenIcon options =
 
 {-| lecternIcon
 
-lucide-lectern
+lectern
 
 -}
 lecternIcon : List (S.Attribute msg) -> H.Html msg
@@ -10117,7 +10117,7 @@ lecternIcon options =
 
 {-| letterTextIcon
 
-lucide-text-initial
+text-initial
 
 -}
 letterTextIcon : List (S.Attribute msg) -> H.Html msg
@@ -10127,7 +10127,7 @@ letterTextIcon options =
 
 {-| libraryIcon
 
-lucide-library
+library
 
 -}
 libraryIcon : List (S.Attribute msg) -> H.Html msg
@@ -10137,7 +10137,7 @@ libraryIcon options =
 
 {-| libraryBigIcon
 
-lucide-library-big
+library-big
 
 -}
 libraryBigIcon : List (S.Attribute msg) -> H.Html msg
@@ -10147,7 +10147,7 @@ libraryBigIcon options =
 
 {-| librarySquareIcon
 
-lucide-square-library
+square-library
 
 -}
 librarySquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -10157,7 +10157,7 @@ librarySquareIcon options =
 
 {-| lifeBuoyIcon
 
-lucide-life-buoy
+life-buoy
 
 -}
 lifeBuoyIcon : List (S.Attribute msg) -> H.Html msg
@@ -10167,7 +10167,7 @@ lifeBuoyIcon options =
 
 {-| ligatureIcon
 
-lucide-ligature
+ligature
 
 -}
 ligatureIcon : List (S.Attribute msg) -> H.Html msg
@@ -10177,7 +10177,7 @@ ligatureIcon options =
 
 {-| lightbulbIcon
 
-lucide-lightbulb
+lightbulb
 
 -}
 lightbulbIcon : List (S.Attribute msg) -> H.Html msg
@@ -10187,7 +10187,7 @@ lightbulbIcon options =
 
 {-| lightbulbOffIcon
 
-lucide-lightbulb-off
+lightbulb-off
 
 -}
 lightbulbOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -10197,7 +10197,7 @@ lightbulbOffIcon options =
 
 {-| lineChartIcon
 
-lucide-chart-line
+chart-line
 
 -}
 lineChartIcon : List (S.Attribute msg) -> H.Html msg
@@ -10207,7 +10207,7 @@ lineChartIcon options =
 
 {-| lineSquiggleIcon
 
-lucide-line-squiggle
+line-squiggle
 
 -}
 lineSquiggleIcon : List (S.Attribute msg) -> H.Html msg
@@ -10217,7 +10217,7 @@ lineSquiggleIcon options =
 
 {-| linkIcon
 
-lucide-link
+link
 
 -}
 linkIcon : List (S.Attribute msg) -> H.Html msg
@@ -10227,7 +10227,7 @@ linkIcon options =
 
 {-| link2Icon
 
-lucide-link-2
+link-2
 
 -}
 link2Icon : List (S.Attribute msg) -> H.Html msg
@@ -10237,7 +10237,7 @@ link2Icon options =
 
 {-| link2OffIcon
 
-lucide-link-2-off
+link-2-off
 
 -}
 link2OffIcon : List (S.Attribute msg) -> H.Html msg
@@ -10247,7 +10247,7 @@ link2OffIcon options =
 
 {-| linkedinIcon
 
-lucide-linkedin
+linkedin
 
 -}
 linkedinIcon : List (S.Attribute msg) -> H.Html msg
@@ -10257,7 +10257,7 @@ linkedinIcon options =
 
 {-| listIcon
 
-lucide-list
+list
 
 -}
 listIcon : List (S.Attribute msg) -> H.Html msg
@@ -10267,7 +10267,7 @@ listIcon options =
 
 {-| listCheckIcon
 
-lucide-list-check
+list-check
 
 -}
 listCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -10277,7 +10277,7 @@ listCheckIcon options =
 
 {-| listChecksIcon
 
-lucide-list-checks
+list-checks
 
 -}
 listChecksIcon : List (S.Attribute msg) -> H.Html msg
@@ -10287,7 +10287,7 @@ listChecksIcon options =
 
 {-| listChevronsDownUpIcon
 
-lucide-list-chevrons-down-up
+list-chevrons-down-up
 
 -}
 listChevronsDownUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -10297,7 +10297,7 @@ listChevronsDownUpIcon options =
 
 {-| listChevronsUpDownIcon
 
-lucide-list-chevrons-up-down
+list-chevrons-up-down
 
 -}
 listChevronsUpDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -10307,7 +10307,7 @@ listChevronsUpDownIcon options =
 
 {-| listCollapseIcon
 
-lucide-list-collapse
+list-collapse
 
 -}
 listCollapseIcon : List (S.Attribute msg) -> H.Html msg
@@ -10317,7 +10317,7 @@ listCollapseIcon options =
 
 {-| listEndIcon
 
-lucide-list-end
+list-end
 
 -}
 listEndIcon : List (S.Attribute msg) -> H.Html msg
@@ -10327,7 +10327,7 @@ listEndIcon options =
 
 {-| listFilterIcon
 
-lucide-list-filter
+list-filter
 
 -}
 listFilterIcon : List (S.Attribute msg) -> H.Html msg
@@ -10337,7 +10337,7 @@ listFilterIcon options =
 
 {-| listFilterPlusIcon
 
-lucide-list-filter-plus
+list-filter-plus
 
 -}
 listFilterPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -10347,7 +10347,7 @@ listFilterPlusIcon options =
 
 {-| listIndentDecreaseIcon
 
-lucide-list-indent-decrease
+list-indent-decrease
 
 -}
 listIndentDecreaseIcon : List (S.Attribute msg) -> H.Html msg
@@ -10357,7 +10357,7 @@ listIndentDecreaseIcon options =
 
 {-| listIndentIncreaseIcon
 
-lucide-list-indent-increase
+list-indent-increase
 
 -}
 listIndentIncreaseIcon : List (S.Attribute msg) -> H.Html msg
@@ -10367,7 +10367,7 @@ listIndentIncreaseIcon options =
 
 {-| listMinusIcon
 
-lucide-list-minus
+list-minus
 
 -}
 listMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -10377,7 +10377,7 @@ listMinusIcon options =
 
 {-| listMusicIcon
 
-lucide-list-music
+list-music
 
 -}
 listMusicIcon : List (S.Attribute msg) -> H.Html msg
@@ -10387,7 +10387,7 @@ listMusicIcon options =
 
 {-| listOrderedIcon
 
-lucide-list-ordered
+list-ordered
 
 -}
 listOrderedIcon : List (S.Attribute msg) -> H.Html msg
@@ -10397,7 +10397,7 @@ listOrderedIcon options =
 
 {-| listPlusIcon
 
-lucide-list-plus
+list-plus
 
 -}
 listPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -10407,7 +10407,7 @@ listPlusIcon options =
 
 {-| listRestartIcon
 
-lucide-list-restart
+list-restart
 
 -}
 listRestartIcon : List (S.Attribute msg) -> H.Html msg
@@ -10417,7 +10417,7 @@ listRestartIcon options =
 
 {-| listStartIcon
 
-lucide-list-start
+list-start
 
 -}
 listStartIcon : List (S.Attribute msg) -> H.Html msg
@@ -10427,7 +10427,7 @@ listStartIcon options =
 
 {-| listTodoIcon
 
-lucide-list-todo
+list-todo
 
 -}
 listTodoIcon : List (S.Attribute msg) -> H.Html msg
@@ -10437,7 +10437,7 @@ listTodoIcon options =
 
 {-| listTreeIcon
 
-lucide-list-tree
+list-tree
 
 -}
 listTreeIcon : List (S.Attribute msg) -> H.Html msg
@@ -10447,7 +10447,7 @@ listTreeIcon options =
 
 {-| listVideoIcon
 
-lucide-list-video
+list-video
 
 -}
 listVideoIcon : List (S.Attribute msg) -> H.Html msg
@@ -10457,7 +10457,7 @@ listVideoIcon options =
 
 {-| listXIcon
 
-lucide-list-x
+list-x
 
 -}
 listXIcon : List (S.Attribute msg) -> H.Html msg
@@ -10467,7 +10467,7 @@ listXIcon options =
 
 {-| loaderIcon
 
-lucide-loader
+loader
 
 -}
 loaderIcon : List (S.Attribute msg) -> H.Html msg
@@ -10477,7 +10477,7 @@ loaderIcon options =
 
 {-| loader2Icon
 
-lucide-loader-circle
+loader-circle
 
 -}
 loader2Icon : List (S.Attribute msg) -> H.Html msg
@@ -10487,7 +10487,7 @@ loader2Icon options =
 
 {-| loaderCircleIcon
 
-lucide-loader-circle
+loader-circle
 
 -}
 loaderCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -10497,7 +10497,7 @@ loaderCircleIcon options =
 
 {-| loaderPinwheelIcon
 
-lucide-loader-pinwheel
+loader-pinwheel
 
 -}
 loaderPinwheelIcon : List (S.Attribute msg) -> H.Html msg
@@ -10507,7 +10507,7 @@ loaderPinwheelIcon options =
 
 {-| locateIcon
 
-lucide-locate
+locate
 
 -}
 locateIcon : List (S.Attribute msg) -> H.Html msg
@@ -10517,7 +10517,7 @@ locateIcon options =
 
 {-| locateFixedIcon
 
-lucide-locate-fixed
+locate-fixed
 
 -}
 locateFixedIcon : List (S.Attribute msg) -> H.Html msg
@@ -10527,7 +10527,7 @@ locateFixedIcon options =
 
 {-| locateOffIcon
 
-lucide-locate-off
+locate-off
 
 -}
 locateOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -10537,7 +10537,7 @@ locateOffIcon options =
 
 {-| locationEditIcon
 
-lucide-map-pin-pen
+map-pin-pen
 
 -}
 locationEditIcon : List (S.Attribute msg) -> H.Html msg
@@ -10547,7 +10547,7 @@ locationEditIcon options =
 
 {-| lockIcon
 
-lucide-lock
+lock
 
 -}
 lockIcon : List (S.Attribute msg) -> H.Html msg
@@ -10557,7 +10557,7 @@ lockIcon options =
 
 {-| lockKeyholeIcon
 
-lucide-lock-keyhole
+lock-keyhole
 
 -}
 lockKeyholeIcon : List (S.Attribute msg) -> H.Html msg
@@ -10567,7 +10567,7 @@ lockKeyholeIcon options =
 
 {-| lockKeyholeOpenIcon
 
-lucide-lock-keyhole-open
+lock-keyhole-open
 
 -}
 lockKeyholeOpenIcon : List (S.Attribute msg) -> H.Html msg
@@ -10577,7 +10577,7 @@ lockKeyholeOpenIcon options =
 
 {-| lockOpenIcon
 
-lucide-lock-open
+lock-open
 
 -}
 lockOpenIcon : List (S.Attribute msg) -> H.Html msg
@@ -10587,7 +10587,7 @@ lockOpenIcon options =
 
 {-| logInIcon
 
-lucide-log-in
+log-in
 
 -}
 logInIcon : List (S.Attribute msg) -> H.Html msg
@@ -10597,7 +10597,7 @@ logInIcon options =
 
 {-| logOutIcon
 
-lucide-log-out
+log-out
 
 -}
 logOutIcon : List (S.Attribute msg) -> H.Html msg
@@ -10607,7 +10607,7 @@ logOutIcon options =
 
 {-| logsIcon
 
-lucide-logs
+logs
 
 -}
 logsIcon : List (S.Attribute msg) -> H.Html msg
@@ -10617,7 +10617,7 @@ logsIcon options =
 
 {-| lollipopIcon
 
-lucide-lollipop
+lollipop
 
 -}
 lollipopIcon : List (S.Attribute msg) -> H.Html msg
@@ -10627,7 +10627,7 @@ lollipopIcon options =
 
 {-| luggageIcon
 
-lucide-luggage
+luggage
 
 -}
 luggageIcon : List (S.Attribute msg) -> H.Html msg
@@ -10637,7 +10637,7 @@ luggageIcon options =
 
 {-| mSquareIcon
 
-lucide-square-m
+square-m
 
 -}
 mSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -10647,7 +10647,7 @@ mSquareIcon options =
 
 {-| magnetIcon
 
-lucide-magnet
+magnet
 
 -}
 magnetIcon : List (S.Attribute msg) -> H.Html msg
@@ -10657,7 +10657,7 @@ magnetIcon options =
 
 {-| mailIcon
 
-lucide-mail
+mail
 
 -}
 mailIcon : List (S.Attribute msg) -> H.Html msg
@@ -10667,7 +10667,7 @@ mailIcon options =
 
 {-| mailCheckIcon
 
-lucide-mail-check
+mail-check
 
 -}
 mailCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -10677,7 +10677,7 @@ mailCheckIcon options =
 
 {-| mailMinusIcon
 
-lucide-mail-minus
+mail-minus
 
 -}
 mailMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -10687,7 +10687,7 @@ mailMinusIcon options =
 
 {-| mailOpenIcon
 
-lucide-mail-open
+mail-open
 
 -}
 mailOpenIcon : List (S.Attribute msg) -> H.Html msg
@@ -10697,7 +10697,7 @@ mailOpenIcon options =
 
 {-| mailPlusIcon
 
-lucide-mail-plus
+mail-plus
 
 -}
 mailPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -10707,7 +10707,7 @@ mailPlusIcon options =
 
 {-| mailQuestionIcon
 
-lucide-mail-question-mark
+mail-question-mark
 
 -}
 mailQuestionIcon : List (S.Attribute msg) -> H.Html msg
@@ -10717,7 +10717,7 @@ mailQuestionIcon options =
 
 {-| mailQuestionMarkIcon
 
-lucide-mail-question-mark
+mail-question-mark
 
 -}
 mailQuestionMarkIcon : List (S.Attribute msg) -> H.Html msg
@@ -10727,7 +10727,7 @@ mailQuestionMarkIcon options =
 
 {-| mailSearchIcon
 
-lucide-mail-search
+mail-search
 
 -}
 mailSearchIcon : List (S.Attribute msg) -> H.Html msg
@@ -10737,7 +10737,7 @@ mailSearchIcon options =
 
 {-| mailWarningIcon
 
-lucide-mail-warning
+mail-warning
 
 -}
 mailWarningIcon : List (S.Attribute msg) -> H.Html msg
@@ -10747,7 +10747,7 @@ mailWarningIcon options =
 
 {-| mailXIcon
 
-lucide-mail-x
+mail-x
 
 -}
 mailXIcon : List (S.Attribute msg) -> H.Html msg
@@ -10757,7 +10757,7 @@ mailXIcon options =
 
 {-| mailboxIcon
 
-lucide-mailbox
+mailbox
 
 -}
 mailboxIcon : List (S.Attribute msg) -> H.Html msg
@@ -10767,7 +10767,7 @@ mailboxIcon options =
 
 {-| mailsIcon
 
-lucide-mails
+mails
 
 -}
 mailsIcon : List (S.Attribute msg) -> H.Html msg
@@ -10777,7 +10777,7 @@ mailsIcon options =
 
 {-| mapIcon
 
-lucide-map
+map
 
 -}
 mapIcon : List (S.Attribute msg) -> H.Html msg
@@ -10787,7 +10787,7 @@ mapIcon options =
 
 {-| mapMinusIcon
 
-lucide-map-minus
+map-minus
 
 -}
 mapMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -10797,7 +10797,7 @@ mapMinusIcon options =
 
 {-| mapPinIcon
 
-lucide-map-pin
+map-pin
 
 -}
 mapPinIcon : List (S.Attribute msg) -> H.Html msg
@@ -10807,7 +10807,7 @@ mapPinIcon options =
 
 {-| mapPinCheckIcon
 
-lucide-map-pin-check
+map-pin-check
 
 -}
 mapPinCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -10817,7 +10817,7 @@ mapPinCheckIcon options =
 
 {-| mapPinCheckInsideIcon
 
-lucide-map-pin-check-inside
+map-pin-check-inside
 
 -}
 mapPinCheckInsideIcon : List (S.Attribute msg) -> H.Html msg
@@ -10827,7 +10827,7 @@ mapPinCheckInsideIcon options =
 
 {-| mapPinHouseIcon
 
-lucide-map-pin-house
+map-pin-house
 
 -}
 mapPinHouseIcon : List (S.Attribute msg) -> H.Html msg
@@ -10837,7 +10837,7 @@ mapPinHouseIcon options =
 
 {-| mapPinMinusIcon
 
-lucide-map-pin-minus
+map-pin-minus
 
 -}
 mapPinMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -10847,7 +10847,7 @@ mapPinMinusIcon options =
 
 {-| mapPinMinusInsideIcon
 
-lucide-map-pin-minus-inside
+map-pin-minus-inside
 
 -}
 mapPinMinusInsideIcon : List (S.Attribute msg) -> H.Html msg
@@ -10857,7 +10857,7 @@ mapPinMinusInsideIcon options =
 
 {-| mapPinOffIcon
 
-lucide-map-pin-off
+map-pin-off
 
 -}
 mapPinOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -10867,7 +10867,7 @@ mapPinOffIcon options =
 
 {-| mapPinPenIcon
 
-lucide-map-pin-pen
+map-pin-pen
 
 -}
 mapPinPenIcon : List (S.Attribute msg) -> H.Html msg
@@ -10877,7 +10877,7 @@ mapPinPenIcon options =
 
 {-| mapPinPlusIcon
 
-lucide-map-pin-plus
+map-pin-plus
 
 -}
 mapPinPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -10887,7 +10887,7 @@ mapPinPlusIcon options =
 
 {-| mapPinPlusInsideIcon
 
-lucide-map-pin-plus-inside
+map-pin-plus-inside
 
 -}
 mapPinPlusInsideIcon : List (S.Attribute msg) -> H.Html msg
@@ -10897,7 +10897,7 @@ mapPinPlusInsideIcon options =
 
 {-| mapPinXIcon
 
-lucide-map-pin-x
+map-pin-x
 
 -}
 mapPinXIcon : List (S.Attribute msg) -> H.Html msg
@@ -10907,7 +10907,7 @@ mapPinXIcon options =
 
 {-| mapPinXInsideIcon
 
-lucide-map-pin-x-inside
+map-pin-x-inside
 
 -}
 mapPinXInsideIcon : List (S.Attribute msg) -> H.Html msg
@@ -10917,7 +10917,7 @@ mapPinXInsideIcon options =
 
 {-| mapPinnedIcon
 
-lucide-map-pinned
+map-pinned
 
 -}
 mapPinnedIcon : List (S.Attribute msg) -> H.Html msg
@@ -10927,7 +10927,7 @@ mapPinnedIcon options =
 
 {-| mapPlusIcon
 
-lucide-map-plus
+map-plus
 
 -}
 mapPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -10937,7 +10937,7 @@ mapPlusIcon options =
 
 {-| marsIcon
 
-lucide-mars
+mars
 
 -}
 marsIcon : List (S.Attribute msg) -> H.Html msg
@@ -10947,7 +10947,7 @@ marsIcon options =
 
 {-| marsStrokeIcon
 
-lucide-mars-stroke
+mars-stroke
 
 -}
 marsStrokeIcon : List (S.Attribute msg) -> H.Html msg
@@ -10957,7 +10957,7 @@ marsStrokeIcon options =
 
 {-| martiniIcon
 
-lucide-martini
+martini
 
 -}
 martiniIcon : List (S.Attribute msg) -> H.Html msg
@@ -10967,7 +10967,7 @@ martiniIcon options =
 
 {-| maximizeIcon
 
-lucide-maximize
+maximize
 
 -}
 maximizeIcon : List (S.Attribute msg) -> H.Html msg
@@ -10977,7 +10977,7 @@ maximizeIcon options =
 
 {-| maximize2Icon
 
-lucide-maximize-2
+maximize-2
 
 -}
 maximize2Icon : List (S.Attribute msg) -> H.Html msg
@@ -10987,7 +10987,7 @@ maximize2Icon options =
 
 {-| medalIcon
 
-lucide-medal
+medal
 
 -}
 medalIcon : List (S.Attribute msg) -> H.Html msg
@@ -10997,7 +10997,7 @@ medalIcon options =
 
 {-| megaphoneIcon
 
-lucide-megaphone
+megaphone
 
 -}
 megaphoneIcon : List (S.Attribute msg) -> H.Html msg
@@ -11007,7 +11007,7 @@ megaphoneIcon options =
 
 {-| megaphoneOffIcon
 
-lucide-megaphone-off
+megaphone-off
 
 -}
 megaphoneOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -11017,7 +11017,7 @@ megaphoneOffIcon options =
 
 {-| mehIcon
 
-lucide-meh
+meh
 
 -}
 mehIcon : List (S.Attribute msg) -> H.Html msg
@@ -11027,7 +11027,7 @@ mehIcon options =
 
 {-| memoryStickIcon
 
-lucide-memory-stick
+memory-stick
 
 -}
 memoryStickIcon : List (S.Attribute msg) -> H.Html msg
@@ -11037,7 +11037,7 @@ memoryStickIcon options =
 
 {-| menuIcon
 
-lucide-menu
+menu
 
 -}
 menuIcon : List (S.Attribute msg) -> H.Html msg
@@ -11047,7 +11047,7 @@ menuIcon options =
 
 {-| menuSquareIcon
 
-lucide-square-menu
+square-menu
 
 -}
 menuSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -11057,7 +11057,7 @@ menuSquareIcon options =
 
 {-| mergeIcon
 
-lucide-merge
+merge
 
 -}
 mergeIcon : List (S.Attribute msg) -> H.Html msg
@@ -11067,7 +11067,7 @@ mergeIcon options =
 
 {-| messageCircleIcon
 
-lucide-message-circle
+message-circle
 
 -}
 messageCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -11077,7 +11077,7 @@ messageCircleIcon options =
 
 {-| messageCircleCodeIcon
 
-lucide-message-circle-code
+message-circle-code
 
 -}
 messageCircleCodeIcon : List (S.Attribute msg) -> H.Html msg
@@ -11087,7 +11087,7 @@ messageCircleCodeIcon options =
 
 {-| messageCircleDashedIcon
 
-lucide-message-circle-dashed
+message-circle-dashed
 
 -}
 messageCircleDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -11097,7 +11097,7 @@ messageCircleDashedIcon options =
 
 {-| messageCircleHeartIcon
 
-lucide-message-circle-heart
+message-circle-heart
 
 -}
 messageCircleHeartIcon : List (S.Attribute msg) -> H.Html msg
@@ -11107,7 +11107,7 @@ messageCircleHeartIcon options =
 
 {-| messageCircleMoreIcon
 
-lucide-message-circle-more
+message-circle-more
 
 -}
 messageCircleMoreIcon : List (S.Attribute msg) -> H.Html msg
@@ -11117,7 +11117,7 @@ messageCircleMoreIcon options =
 
 {-| messageCircleOffIcon
 
-lucide-message-circle-off
+message-circle-off
 
 -}
 messageCircleOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -11127,7 +11127,7 @@ messageCircleOffIcon options =
 
 {-| messageCirclePlusIcon
 
-lucide-message-circle-plus
+message-circle-plus
 
 -}
 messageCirclePlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -11137,7 +11137,7 @@ messageCirclePlusIcon options =
 
 {-| messageCircleQuestionIcon
 
-lucide-message-circle-question-mark
+message-circle-question-mark
 
 -}
 messageCircleQuestionIcon : List (S.Attribute msg) -> H.Html msg
@@ -11147,7 +11147,7 @@ messageCircleQuestionIcon options =
 
 {-| messageCircleQuestionMarkIcon
 
-lucide-message-circle-question-mark
+message-circle-question-mark
 
 -}
 messageCircleQuestionMarkIcon : List (S.Attribute msg) -> H.Html msg
@@ -11157,7 +11157,7 @@ messageCircleQuestionMarkIcon options =
 
 {-| messageCircleReplyIcon
 
-lucide-message-circle-reply
+message-circle-reply
 
 -}
 messageCircleReplyIcon : List (S.Attribute msg) -> H.Html msg
@@ -11167,7 +11167,7 @@ messageCircleReplyIcon options =
 
 {-| messageCircleWarningIcon
 
-lucide-message-circle-warning
+message-circle-warning
 
 -}
 messageCircleWarningIcon : List (S.Attribute msg) -> H.Html msg
@@ -11177,7 +11177,7 @@ messageCircleWarningIcon options =
 
 {-| messageCircleXIcon
 
-lucide-message-circle-x
+message-circle-x
 
 -}
 messageCircleXIcon : List (S.Attribute msg) -> H.Html msg
@@ -11187,7 +11187,7 @@ messageCircleXIcon options =
 
 {-| messageSquareIcon
 
-lucide-message-square
+message-square
 
 -}
 messageSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -11197,7 +11197,7 @@ messageSquareIcon options =
 
 {-| messageSquareCodeIcon
 
-lucide-message-square-code
+message-square-code
 
 -}
 messageSquareCodeIcon : List (S.Attribute msg) -> H.Html msg
@@ -11207,7 +11207,7 @@ messageSquareCodeIcon options =
 
 {-| messageSquareDashedIcon
 
-lucide-message-square-dashed
+message-square-dashed
 
 -}
 messageSquareDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -11217,7 +11217,7 @@ messageSquareDashedIcon options =
 
 {-| messageSquareDiffIcon
 
-lucide-message-square-diff
+message-square-diff
 
 -}
 messageSquareDiffIcon : List (S.Attribute msg) -> H.Html msg
@@ -11227,7 +11227,7 @@ messageSquareDiffIcon options =
 
 {-| messageSquareDotIcon
 
-lucide-message-square-dot
+message-square-dot
 
 -}
 messageSquareDotIcon : List (S.Attribute msg) -> H.Html msg
@@ -11237,7 +11237,7 @@ messageSquareDotIcon options =
 
 {-| messageSquareHeartIcon
 
-lucide-message-square-heart
+message-square-heart
 
 -}
 messageSquareHeartIcon : List (S.Attribute msg) -> H.Html msg
@@ -11247,7 +11247,7 @@ messageSquareHeartIcon options =
 
 {-| messageSquareLockIcon
 
-lucide-message-square-lock
+message-square-lock
 
 -}
 messageSquareLockIcon : List (S.Attribute msg) -> H.Html msg
@@ -11257,7 +11257,7 @@ messageSquareLockIcon options =
 
 {-| messageSquareMoreIcon
 
-lucide-message-square-more
+message-square-more
 
 -}
 messageSquareMoreIcon : List (S.Attribute msg) -> H.Html msg
@@ -11267,7 +11267,7 @@ messageSquareMoreIcon options =
 
 {-| messageSquareOffIcon
 
-lucide-message-square-off
+message-square-off
 
 -}
 messageSquareOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -11277,7 +11277,7 @@ messageSquareOffIcon options =
 
 {-| messageSquarePlusIcon
 
-lucide-message-square-plus
+message-square-plus
 
 -}
 messageSquarePlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -11287,7 +11287,7 @@ messageSquarePlusIcon options =
 
 {-| messageSquareQuoteIcon
 
-lucide-message-square-quote
+message-square-quote
 
 -}
 messageSquareQuoteIcon : List (S.Attribute msg) -> H.Html msg
@@ -11297,7 +11297,7 @@ messageSquareQuoteIcon options =
 
 {-| messageSquareReplyIcon
 
-lucide-message-square-reply
+message-square-reply
 
 -}
 messageSquareReplyIcon : List (S.Attribute msg) -> H.Html msg
@@ -11307,7 +11307,7 @@ messageSquareReplyIcon options =
 
 {-| messageSquareShareIcon
 
-lucide-message-square-share
+message-square-share
 
 -}
 messageSquareShareIcon : List (S.Attribute msg) -> H.Html msg
@@ -11317,7 +11317,7 @@ messageSquareShareIcon options =
 
 {-| messageSquareTextIcon
 
-lucide-message-square-text
+message-square-text
 
 -}
 messageSquareTextIcon : List (S.Attribute msg) -> H.Html msg
@@ -11327,7 +11327,7 @@ messageSquareTextIcon options =
 
 {-| messageSquareWarningIcon
 
-lucide-message-square-warning
+message-square-warning
 
 -}
 messageSquareWarningIcon : List (S.Attribute msg) -> H.Html msg
@@ -11337,7 +11337,7 @@ messageSquareWarningIcon options =
 
 {-| messageSquareXIcon
 
-lucide-message-square-x
+message-square-x
 
 -}
 messageSquareXIcon : List (S.Attribute msg) -> H.Html msg
@@ -11347,7 +11347,7 @@ messageSquareXIcon options =
 
 {-| messagesSquareIcon
 
-lucide-messages-square
+messages-square
 
 -}
 messagesSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -11357,7 +11357,7 @@ messagesSquareIcon options =
 
 {-| micIcon
 
-lucide-mic
+mic
 
 -}
 micIcon : List (S.Attribute msg) -> H.Html msg
@@ -11367,7 +11367,7 @@ micIcon options =
 
 {-| mic2Icon
 
-lucide-mic-vocal
+mic-vocal
 
 -}
 mic2Icon : List (S.Attribute msg) -> H.Html msg
@@ -11377,7 +11377,7 @@ mic2Icon options =
 
 {-| micOffIcon
 
-lucide-mic-off
+mic-off
 
 -}
 micOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -11387,7 +11387,7 @@ micOffIcon options =
 
 {-| micVocalIcon
 
-lucide-mic-vocal
+mic-vocal
 
 -}
 micVocalIcon : List (S.Attribute msg) -> H.Html msg
@@ -11397,7 +11397,7 @@ micVocalIcon options =
 
 {-| microchipIcon
 
-lucide-microchip
+microchip
 
 -}
 microchipIcon : List (S.Attribute msg) -> H.Html msg
@@ -11407,7 +11407,7 @@ microchipIcon options =
 
 {-| microscopeIcon
 
-lucide-microscope
+microscope
 
 -}
 microscopeIcon : List (S.Attribute msg) -> H.Html msg
@@ -11417,7 +11417,7 @@ microscopeIcon options =
 
 {-| microwaveIcon
 
-lucide-microwave
+microwave
 
 -}
 microwaveIcon : List (S.Attribute msg) -> H.Html msg
@@ -11427,7 +11427,7 @@ microwaveIcon options =
 
 {-| milestoneIcon
 
-lucide-milestone
+milestone
 
 -}
 milestoneIcon : List (S.Attribute msg) -> H.Html msg
@@ -11437,7 +11437,7 @@ milestoneIcon options =
 
 {-| milkIcon
 
-lucide-milk
+milk
 
 -}
 milkIcon : List (S.Attribute msg) -> H.Html msg
@@ -11447,7 +11447,7 @@ milkIcon options =
 
 {-| milkOffIcon
 
-lucide-milk-off
+milk-off
 
 -}
 milkOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -11457,7 +11457,7 @@ milkOffIcon options =
 
 {-| minimizeIcon
 
-lucide-minimize
+minimize
 
 -}
 minimizeIcon : List (S.Attribute msg) -> H.Html msg
@@ -11467,7 +11467,7 @@ minimizeIcon options =
 
 {-| minimize2Icon
 
-lucide-minimize-2
+minimize-2
 
 -}
 minimize2Icon : List (S.Attribute msg) -> H.Html msg
@@ -11477,7 +11477,7 @@ minimize2Icon options =
 
 {-| minusIcon
 
-lucide-minus
+minus
 
 -}
 minusIcon : List (S.Attribute msg) -> H.Html msg
@@ -11487,7 +11487,7 @@ minusIcon options =
 
 {-| minusCircleIcon
 
-lucide-circle-minus
+circle-minus
 
 -}
 minusCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -11497,7 +11497,7 @@ minusCircleIcon options =
 
 {-| minusSquareIcon
 
-lucide-square-minus
+square-minus
 
 -}
 minusSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -11507,7 +11507,7 @@ minusSquareIcon options =
 
 {-| monitorIcon
 
-lucide-monitor
+monitor
 
 -}
 monitorIcon : List (S.Attribute msg) -> H.Html msg
@@ -11517,7 +11517,7 @@ monitorIcon options =
 
 {-| monitorCheckIcon
 
-lucide-monitor-check
+monitor-check
 
 -}
 monitorCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -11527,7 +11527,7 @@ monitorCheckIcon options =
 
 {-| monitorCloudIcon
 
-lucide-monitor-cloud
+monitor-cloud
 
 -}
 monitorCloudIcon : List (S.Attribute msg) -> H.Html msg
@@ -11537,7 +11537,7 @@ monitorCloudIcon options =
 
 {-| monitorCogIcon
 
-lucide-monitor-cog
+monitor-cog
 
 -}
 monitorCogIcon : List (S.Attribute msg) -> H.Html msg
@@ -11547,7 +11547,7 @@ monitorCogIcon options =
 
 {-| monitorDotIcon
 
-lucide-monitor-dot
+monitor-dot
 
 -}
 monitorDotIcon : List (S.Attribute msg) -> H.Html msg
@@ -11557,7 +11557,7 @@ monitorDotIcon options =
 
 {-| monitorDownIcon
 
-lucide-monitor-down
+monitor-down
 
 -}
 monitorDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -11567,7 +11567,7 @@ monitorDownIcon options =
 
 {-| monitorOffIcon
 
-lucide-monitor-off
+monitor-off
 
 -}
 monitorOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -11577,7 +11577,7 @@ monitorOffIcon options =
 
 {-| monitorPauseIcon
 
-lucide-monitor-pause
+monitor-pause
 
 -}
 monitorPauseIcon : List (S.Attribute msg) -> H.Html msg
@@ -11587,7 +11587,7 @@ monitorPauseIcon options =
 
 {-| monitorPlayIcon
 
-lucide-monitor-play
+monitor-play
 
 -}
 monitorPlayIcon : List (S.Attribute msg) -> H.Html msg
@@ -11597,7 +11597,7 @@ monitorPlayIcon options =
 
 {-| monitorSmartphoneIcon
 
-lucide-monitor-smartphone
+monitor-smartphone
 
 -}
 monitorSmartphoneIcon : List (S.Attribute msg) -> H.Html msg
@@ -11607,7 +11607,7 @@ monitorSmartphoneIcon options =
 
 {-| monitorSpeakerIcon
 
-lucide-monitor-speaker
+monitor-speaker
 
 -}
 monitorSpeakerIcon : List (S.Attribute msg) -> H.Html msg
@@ -11617,7 +11617,7 @@ monitorSpeakerIcon options =
 
 {-| monitorStopIcon
 
-lucide-monitor-stop
+monitor-stop
 
 -}
 monitorStopIcon : List (S.Attribute msg) -> H.Html msg
@@ -11627,7 +11627,7 @@ monitorStopIcon options =
 
 {-| monitorUpIcon
 
-lucide-monitor-up
+monitor-up
 
 -}
 monitorUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -11637,7 +11637,7 @@ monitorUpIcon options =
 
 {-| monitorXIcon
 
-lucide-monitor-x
+monitor-x
 
 -}
 monitorXIcon : List (S.Attribute msg) -> H.Html msg
@@ -11647,7 +11647,7 @@ monitorXIcon options =
 
 {-| moonIcon
 
-lucide-moon
+moon
 
 -}
 moonIcon : List (S.Attribute msg) -> H.Html msg
@@ -11657,7 +11657,7 @@ moonIcon options =
 
 {-| moonStarIcon
 
-lucide-moon-star
+moon-star
 
 -}
 moonStarIcon : List (S.Attribute msg) -> H.Html msg
@@ -11667,7 +11667,7 @@ moonStarIcon options =
 
 {-| moreHorizontalIcon
 
-lucide-ellipsis
+ellipsis
 
 -}
 moreHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -11677,7 +11677,7 @@ moreHorizontalIcon options =
 
 {-| moreVerticalIcon
 
-lucide-ellipsis-vertical
+ellipsis-vertical
 
 -}
 moreVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -11687,7 +11687,7 @@ moreVerticalIcon options =
 
 {-| motorbikeIcon
 
-lucide-motorbike
+motorbike
 
 -}
 motorbikeIcon : List (S.Attribute msg) -> H.Html msg
@@ -11697,7 +11697,7 @@ motorbikeIcon options =
 
 {-| mountainIcon
 
-lucide-mountain
+mountain
 
 -}
 mountainIcon : List (S.Attribute msg) -> H.Html msg
@@ -11707,7 +11707,7 @@ mountainIcon options =
 
 {-| mountainSnowIcon
 
-lucide-mountain-snow
+mountain-snow
 
 -}
 mountainSnowIcon : List (S.Attribute msg) -> H.Html msg
@@ -11717,7 +11717,7 @@ mountainSnowIcon options =
 
 {-| mouseIcon
 
-lucide-mouse
+mouse
 
 -}
 mouseIcon : List (S.Attribute msg) -> H.Html msg
@@ -11727,7 +11727,7 @@ mouseIcon options =
 
 {-| mouseOffIcon
 
-lucide-mouse-off
+mouse-off
 
 -}
 mouseOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -11737,7 +11737,7 @@ mouseOffIcon options =
 
 {-| mousePointerIcon
 
-lucide-mouse-pointer
+mouse-pointer
 
 -}
 mousePointerIcon : List (S.Attribute msg) -> H.Html msg
@@ -11747,7 +11747,7 @@ mousePointerIcon options =
 
 {-| mousePointer2Icon
 
-lucide-mouse-pointer-2
+mouse-pointer-2
 
 -}
 mousePointer2Icon : List (S.Attribute msg) -> H.Html msg
@@ -11757,7 +11757,7 @@ mousePointer2Icon options =
 
 {-| mousePointer2OffIcon
 
-lucide-mouse-pointer-2-off
+mouse-pointer-2-off
 
 -}
 mousePointer2OffIcon : List (S.Attribute msg) -> H.Html msg
@@ -11767,7 +11767,7 @@ mousePointer2OffIcon options =
 
 {-| mousePointerBanIcon
 
-lucide-mouse-pointer-ban
+mouse-pointer-ban
 
 -}
 mousePointerBanIcon : List (S.Attribute msg) -> H.Html msg
@@ -11777,7 +11777,7 @@ mousePointerBanIcon options =
 
 {-| mousePointerClickIcon
 
-lucide-mouse-pointer-click
+mouse-pointer-click
 
 -}
 mousePointerClickIcon : List (S.Attribute msg) -> H.Html msg
@@ -11787,7 +11787,7 @@ mousePointerClickIcon options =
 
 {-| mousePointerSquareDashedIcon
 
-lucide-square-dashed-mouse-pointer
+square-dashed-mouse-pointer
 
 -}
 mousePointerSquareDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -11797,7 +11797,7 @@ mousePointerSquareDashedIcon options =
 
 {-| moveIcon
 
-lucide-move
+move
 
 -}
 moveIcon : List (S.Attribute msg) -> H.Html msg
@@ -11807,7 +11807,7 @@ moveIcon options =
 
 {-| move3DIcon
 
-lucide-move-3d
+move-3d
 
 -}
 move3DIcon : List (S.Attribute msg) -> H.Html msg
@@ -11817,7 +11817,7 @@ move3DIcon options =
 
 {-| move3dIcon
 
-lucide-move-3d
+move-3d
 
 -}
 move3dIcon : List (S.Attribute msg) -> H.Html msg
@@ -11827,7 +11827,7 @@ move3dIcon options =
 
 {-| moveDiagonalIcon
 
-lucide-move-diagonal
+move-diagonal
 
 -}
 moveDiagonalIcon : List (S.Attribute msg) -> H.Html msg
@@ -11837,7 +11837,7 @@ moveDiagonalIcon options =
 
 {-| moveDiagonal2Icon
 
-lucide-move-diagonal-2
+move-diagonal-2
 
 -}
 moveDiagonal2Icon : List (S.Attribute msg) -> H.Html msg
@@ -11847,7 +11847,7 @@ moveDiagonal2Icon options =
 
 {-| moveDownIcon
 
-lucide-move-down
+move-down
 
 -}
 moveDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -11857,7 +11857,7 @@ moveDownIcon options =
 
 {-| moveDownLeftIcon
 
-lucide-move-down-left
+move-down-left
 
 -}
 moveDownLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -11867,7 +11867,7 @@ moveDownLeftIcon options =
 
 {-| moveDownRightIcon
 
-lucide-move-down-right
+move-down-right
 
 -}
 moveDownRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -11877,7 +11877,7 @@ moveDownRightIcon options =
 
 {-| moveHorizontalIcon
 
-lucide-move-horizontal
+move-horizontal
 
 -}
 moveHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -11887,7 +11887,7 @@ moveHorizontalIcon options =
 
 {-| moveLeftIcon
 
-lucide-move-left
+move-left
 
 -}
 moveLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -11897,7 +11897,7 @@ moveLeftIcon options =
 
 {-| moveRightIcon
 
-lucide-move-right
+move-right
 
 -}
 moveRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -11907,7 +11907,7 @@ moveRightIcon options =
 
 {-| moveUpIcon
 
-lucide-move-up
+move-up
 
 -}
 moveUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -11917,7 +11917,7 @@ moveUpIcon options =
 
 {-| moveUpLeftIcon
 
-lucide-move-up-left
+move-up-left
 
 -}
 moveUpLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -11927,7 +11927,7 @@ moveUpLeftIcon options =
 
 {-| moveUpRightIcon
 
-lucide-move-up-right
+move-up-right
 
 -}
 moveUpRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -11937,7 +11937,7 @@ moveUpRightIcon options =
 
 {-| moveVerticalIcon
 
-lucide-move-vertical
+move-vertical
 
 -}
 moveVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -11947,7 +11947,7 @@ moveVerticalIcon options =
 
 {-| musicIcon
 
-lucide-music
+music
 
 -}
 musicIcon : List (S.Attribute msg) -> H.Html msg
@@ -11957,7 +11957,7 @@ musicIcon options =
 
 {-| music2Icon
 
-lucide-music-2
+music-2
 
 -}
 music2Icon : List (S.Attribute msg) -> H.Html msg
@@ -11967,7 +11967,7 @@ music2Icon options =
 
 {-| music3Icon
 
-lucide-music-3
+music-3
 
 -}
 music3Icon : List (S.Attribute msg) -> H.Html msg
@@ -11977,7 +11977,7 @@ music3Icon options =
 
 {-| music4Icon
 
-lucide-music-4
+music-4
 
 -}
 music4Icon : List (S.Attribute msg) -> H.Html msg
@@ -11987,7 +11987,7 @@ music4Icon options =
 
 {-| navigationIcon
 
-lucide-navigation
+navigation
 
 -}
 navigationIcon : List (S.Attribute msg) -> H.Html msg
@@ -11997,7 +11997,7 @@ navigationIcon options =
 
 {-| navigation2Icon
 
-lucide-navigation-2
+navigation-2
 
 -}
 navigation2Icon : List (S.Attribute msg) -> H.Html msg
@@ -12007,7 +12007,7 @@ navigation2Icon options =
 
 {-| navigation2OffIcon
 
-lucide-navigation-2-off
+navigation-2-off
 
 -}
 navigation2OffIcon : List (S.Attribute msg) -> H.Html msg
@@ -12017,7 +12017,7 @@ navigation2OffIcon options =
 
 {-| navigationOffIcon
 
-lucide-navigation-off
+navigation-off
 
 -}
 navigationOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -12027,7 +12027,7 @@ navigationOffIcon options =
 
 {-| networkIcon
 
-lucide-network
+network
 
 -}
 networkIcon : List (S.Attribute msg) -> H.Html msg
@@ -12037,7 +12037,7 @@ networkIcon options =
 
 {-| newspaperIcon
 
-lucide-newspaper
+newspaper
 
 -}
 newspaperIcon : List (S.Attribute msg) -> H.Html msg
@@ -12047,7 +12047,7 @@ newspaperIcon options =
 
 {-| nfcIcon
 
-lucide-nfc
+nfc
 
 -}
 nfcIcon : List (S.Attribute msg) -> H.Html msg
@@ -12057,7 +12057,7 @@ nfcIcon options =
 
 {-| nonBinaryIcon
 
-lucide-non-binary
+non-binary
 
 -}
 nonBinaryIcon : List (S.Attribute msg) -> H.Html msg
@@ -12067,7 +12067,7 @@ nonBinaryIcon options =
 
 {-| notebookIcon
 
-lucide-notebook
+notebook
 
 -}
 notebookIcon : List (S.Attribute msg) -> H.Html msg
@@ -12077,7 +12077,7 @@ notebookIcon options =
 
 {-| notebookPenIcon
 
-lucide-notebook-pen
+notebook-pen
 
 -}
 notebookPenIcon : List (S.Attribute msg) -> H.Html msg
@@ -12087,7 +12087,7 @@ notebookPenIcon options =
 
 {-| notebookTabsIcon
 
-lucide-notebook-tabs
+notebook-tabs
 
 -}
 notebookTabsIcon : List (S.Attribute msg) -> H.Html msg
@@ -12097,7 +12097,7 @@ notebookTabsIcon options =
 
 {-| notebookTextIcon
 
-lucide-notebook-text
+notebook-text
 
 -}
 notebookTextIcon : List (S.Attribute msg) -> H.Html msg
@@ -12107,7 +12107,7 @@ notebookTextIcon options =
 
 {-| notepadTextIcon
 
-lucide-notepad-text
+notepad-text
 
 -}
 notepadTextIcon : List (S.Attribute msg) -> H.Html msg
@@ -12117,7 +12117,7 @@ notepadTextIcon options =
 
 {-| notepadTextDashedIcon
 
-lucide-notepad-text-dashed
+notepad-text-dashed
 
 -}
 notepadTextDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -12127,7 +12127,7 @@ notepadTextDashedIcon options =
 
 {-| nutIcon
 
-lucide-nut
+nut
 
 -}
 nutIcon : List (S.Attribute msg) -> H.Html msg
@@ -12137,7 +12137,7 @@ nutIcon options =
 
 {-| nutOffIcon
 
-lucide-nut-off
+nut-off
 
 -}
 nutOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -12147,7 +12147,7 @@ nutOffIcon options =
 
 {-| octagonIcon
 
-lucide-octagon
+octagon
 
 -}
 octagonIcon : List (S.Attribute msg) -> H.Html msg
@@ -12157,7 +12157,7 @@ octagonIcon options =
 
 {-| octagonAlertIcon
 
-lucide-octagon-alert
+octagon-alert
 
 -}
 octagonAlertIcon : List (S.Attribute msg) -> H.Html msg
@@ -12167,7 +12167,7 @@ octagonAlertIcon options =
 
 {-| octagonMinusIcon
 
-lucide-octagon-minus
+octagon-minus
 
 -}
 octagonMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -12177,7 +12177,7 @@ octagonMinusIcon options =
 
 {-| octagonPauseIcon
 
-lucide-octagon-pause
+octagon-pause
 
 -}
 octagonPauseIcon : List (S.Attribute msg) -> H.Html msg
@@ -12187,7 +12187,7 @@ octagonPauseIcon options =
 
 {-| octagonXIcon
 
-lucide-octagon-x
+octagon-x
 
 -}
 octagonXIcon : List (S.Attribute msg) -> H.Html msg
@@ -12197,7 +12197,7 @@ octagonXIcon options =
 
 {-| omegaIcon
 
-lucide-omega
+omega
 
 -}
 omegaIcon : List (S.Attribute msg) -> H.Html msg
@@ -12207,7 +12207,7 @@ omegaIcon options =
 
 {-| optionIcon
 
-lucide-option
+option
 
 -}
 optionIcon : List (S.Attribute msg) -> H.Html msg
@@ -12217,7 +12217,7 @@ optionIcon options =
 
 {-| orbitIcon
 
-lucide-orbit
+orbit
 
 -}
 orbitIcon : List (S.Attribute msg) -> H.Html msg
@@ -12227,7 +12227,7 @@ orbitIcon options =
 
 {-| origamiIcon
 
-lucide-origami
+origami
 
 -}
 origamiIcon : List (S.Attribute msg) -> H.Html msg
@@ -12237,7 +12237,7 @@ origamiIcon options =
 
 {-| outdentIcon
 
-lucide-list-indent-decrease
+list-indent-decrease
 
 -}
 outdentIcon : List (S.Attribute msg) -> H.Html msg
@@ -12247,7 +12247,7 @@ outdentIcon options =
 
 {-| packageIcon
 
-lucide-package
+package
 
 -}
 packageIcon : List (S.Attribute msg) -> H.Html msg
@@ -12257,7 +12257,7 @@ packageIcon options =
 
 {-| package2Icon
 
-lucide-package-2
+package-2
 
 -}
 package2Icon : List (S.Attribute msg) -> H.Html msg
@@ -12267,7 +12267,7 @@ package2Icon options =
 
 {-| packageCheckIcon
 
-lucide-package-check
+package-check
 
 -}
 packageCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -12277,7 +12277,7 @@ packageCheckIcon options =
 
 {-| packageMinusIcon
 
-lucide-package-minus
+package-minus
 
 -}
 packageMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -12287,7 +12287,7 @@ packageMinusIcon options =
 
 {-| packageOpenIcon
 
-lucide-package-open
+package-open
 
 -}
 packageOpenIcon : List (S.Attribute msg) -> H.Html msg
@@ -12297,7 +12297,7 @@ packageOpenIcon options =
 
 {-| packagePlusIcon
 
-lucide-package-plus
+package-plus
 
 -}
 packagePlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -12307,7 +12307,7 @@ packagePlusIcon options =
 
 {-| packageSearchIcon
 
-lucide-package-search
+package-search
 
 -}
 packageSearchIcon : List (S.Attribute msg) -> H.Html msg
@@ -12317,7 +12317,7 @@ packageSearchIcon options =
 
 {-| packageXIcon
 
-lucide-package-x
+package-x
 
 -}
 packageXIcon : List (S.Attribute msg) -> H.Html msg
@@ -12327,7 +12327,7 @@ packageXIcon options =
 
 {-| paintBucketIcon
 
-lucide-paint-bucket
+paint-bucket
 
 -}
 paintBucketIcon : List (S.Attribute msg) -> H.Html msg
@@ -12337,7 +12337,7 @@ paintBucketIcon options =
 
 {-| paintRollerIcon
 
-lucide-paint-roller
+paint-roller
 
 -}
 paintRollerIcon : List (S.Attribute msg) -> H.Html msg
@@ -12347,7 +12347,7 @@ paintRollerIcon options =
 
 {-| paintbrushIcon
 
-lucide-paintbrush
+paintbrush
 
 -}
 paintbrushIcon : List (S.Attribute msg) -> H.Html msg
@@ -12357,7 +12357,7 @@ paintbrushIcon options =
 
 {-| paintbrush2Icon
 
-lucide-paintbrush-vertical
+paintbrush-vertical
 
 -}
 paintbrush2Icon : List (S.Attribute msg) -> H.Html msg
@@ -12367,7 +12367,7 @@ paintbrush2Icon options =
 
 {-| paintbrushVerticalIcon
 
-lucide-paintbrush-vertical
+paintbrush-vertical
 
 -}
 paintbrushVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -12377,7 +12377,7 @@ paintbrushVerticalIcon options =
 
 {-| paletteIcon
 
-lucide-palette
+palette
 
 -}
 paletteIcon : List (S.Attribute msg) -> H.Html msg
@@ -12387,7 +12387,7 @@ paletteIcon options =
 
 {-| palmtreeIcon
 
-lucide-tree-palm
+tree-palm
 
 -}
 palmtreeIcon : List (S.Attribute msg) -> H.Html msg
@@ -12397,7 +12397,7 @@ palmtreeIcon options =
 
 {-| pandaIcon
 
-lucide-panda
+panda
 
 -}
 pandaIcon : List (S.Attribute msg) -> H.Html msg
@@ -12407,7 +12407,7 @@ pandaIcon options =
 
 {-| panelBottomIcon
 
-lucide-panel-bottom
+panel-bottom
 
 -}
 panelBottomIcon : List (S.Attribute msg) -> H.Html msg
@@ -12417,7 +12417,7 @@ panelBottomIcon options =
 
 {-| panelBottomCloseIcon
 
-lucide-panel-bottom-close
+panel-bottom-close
 
 -}
 panelBottomCloseIcon : List (S.Attribute msg) -> H.Html msg
@@ -12427,7 +12427,7 @@ panelBottomCloseIcon options =
 
 {-| panelBottomDashedIcon
 
-lucide-panel-bottom-dashed
+panel-bottom-dashed
 
 -}
 panelBottomDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -12437,7 +12437,7 @@ panelBottomDashedIcon options =
 
 {-| panelBottomInactiveIcon
 
-lucide-panel-bottom-dashed
+panel-bottom-dashed
 
 -}
 panelBottomInactiveIcon : List (S.Attribute msg) -> H.Html msg
@@ -12447,7 +12447,7 @@ panelBottomInactiveIcon options =
 
 {-| panelBottomOpenIcon
 
-lucide-panel-bottom-open
+panel-bottom-open
 
 -}
 panelBottomOpenIcon : List (S.Attribute msg) -> H.Html msg
@@ -12457,7 +12457,7 @@ panelBottomOpenIcon options =
 
 {-| panelLeftIcon
 
-lucide-panel-left
+panel-left
 
 -}
 panelLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -12467,7 +12467,7 @@ panelLeftIcon options =
 
 {-| panelLeftCloseIcon
 
-lucide-panel-left-close
+panel-left-close
 
 -}
 panelLeftCloseIcon : List (S.Attribute msg) -> H.Html msg
@@ -12477,7 +12477,7 @@ panelLeftCloseIcon options =
 
 {-| panelLeftDashedIcon
 
-lucide-panel-left-dashed
+panel-left-dashed
 
 -}
 panelLeftDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -12487,7 +12487,7 @@ panelLeftDashedIcon options =
 
 {-| panelLeftInactiveIcon
 
-lucide-panel-left-dashed
+panel-left-dashed
 
 -}
 panelLeftInactiveIcon : List (S.Attribute msg) -> H.Html msg
@@ -12497,7 +12497,7 @@ panelLeftInactiveIcon options =
 
 {-| panelLeftOpenIcon
 
-lucide-panel-left-open
+panel-left-open
 
 -}
 panelLeftOpenIcon : List (S.Attribute msg) -> H.Html msg
@@ -12507,7 +12507,7 @@ panelLeftOpenIcon options =
 
 {-| panelLeftRightDashedIcon
 
-lucide-panel-left-right-dashed
+panel-left-right-dashed
 
 -}
 panelLeftRightDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -12517,7 +12517,7 @@ panelLeftRightDashedIcon options =
 
 {-| panelRightIcon
 
-lucide-panel-right
+panel-right
 
 -}
 panelRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -12527,7 +12527,7 @@ panelRightIcon options =
 
 {-| panelRightCloseIcon
 
-lucide-panel-right-close
+panel-right-close
 
 -}
 panelRightCloseIcon : List (S.Attribute msg) -> H.Html msg
@@ -12537,7 +12537,7 @@ panelRightCloseIcon options =
 
 {-| panelRightDashedIcon
 
-lucide-panel-right-dashed
+panel-right-dashed
 
 -}
 panelRightDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -12547,7 +12547,7 @@ panelRightDashedIcon options =
 
 {-| panelRightInactiveIcon
 
-lucide-panel-right-dashed
+panel-right-dashed
 
 -}
 panelRightInactiveIcon : List (S.Attribute msg) -> H.Html msg
@@ -12557,7 +12557,7 @@ panelRightInactiveIcon options =
 
 {-| panelRightOpenIcon
 
-lucide-panel-right-open
+panel-right-open
 
 -}
 panelRightOpenIcon : List (S.Attribute msg) -> H.Html msg
@@ -12567,7 +12567,7 @@ panelRightOpenIcon options =
 
 {-| panelTopIcon
 
-lucide-panel-top
+panel-top
 
 -}
 panelTopIcon : List (S.Attribute msg) -> H.Html msg
@@ -12577,7 +12577,7 @@ panelTopIcon options =
 
 {-| panelTopBottomDashedIcon
 
-lucide-panel-top-bottom-dashed
+panel-top-bottom-dashed
 
 -}
 panelTopBottomDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -12587,7 +12587,7 @@ panelTopBottomDashedIcon options =
 
 {-| panelTopCloseIcon
 
-lucide-panel-top-close
+panel-top-close
 
 -}
 panelTopCloseIcon : List (S.Attribute msg) -> H.Html msg
@@ -12597,7 +12597,7 @@ panelTopCloseIcon options =
 
 {-| panelTopDashedIcon
 
-lucide-panel-top-dashed
+panel-top-dashed
 
 -}
 panelTopDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -12607,7 +12607,7 @@ panelTopDashedIcon options =
 
 {-| panelTopInactiveIcon
 
-lucide-panel-top-dashed
+panel-top-dashed
 
 -}
 panelTopInactiveIcon : List (S.Attribute msg) -> H.Html msg
@@ -12617,7 +12617,7 @@ panelTopInactiveIcon options =
 
 {-| panelTopOpenIcon
 
-lucide-panel-top-open
+panel-top-open
 
 -}
 panelTopOpenIcon : List (S.Attribute msg) -> H.Html msg
@@ -12627,7 +12627,7 @@ panelTopOpenIcon options =
 
 {-| panelsLeftBottomIcon
 
-lucide-panels-left-bottom
+panels-left-bottom
 
 -}
 panelsLeftBottomIcon : List (S.Attribute msg) -> H.Html msg
@@ -12637,7 +12637,7 @@ panelsLeftBottomIcon options =
 
 {-| panelsLeftRightIcon
 
-lucide-columns-3
+columns-3
 
 -}
 panelsLeftRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -12647,7 +12647,7 @@ panelsLeftRightIcon options =
 
 {-| panelsRightBottomIcon
 
-lucide-panels-right-bottom
+panels-right-bottom
 
 -}
 panelsRightBottomIcon : List (S.Attribute msg) -> H.Html msg
@@ -12657,7 +12657,7 @@ panelsRightBottomIcon options =
 
 {-| panelsTopBottomIcon
 
-lucide-rows-3
+rows-3
 
 -}
 panelsTopBottomIcon : List (S.Attribute msg) -> H.Html msg
@@ -12667,7 +12667,7 @@ panelsTopBottomIcon options =
 
 {-| panelsTopLeftIcon
 
-lucide-panels-top-left
+panels-top-left
 
 -}
 panelsTopLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -12677,7 +12677,7 @@ panelsTopLeftIcon options =
 
 {-| paperclipIcon
 
-lucide-paperclip
+paperclip
 
 -}
 paperclipIcon : List (S.Attribute msg) -> H.Html msg
@@ -12687,7 +12687,7 @@ paperclipIcon options =
 
 {-| parenthesesIcon
 
-lucide-parentheses
+parentheses
 
 -}
 parenthesesIcon : List (S.Attribute msg) -> H.Html msg
@@ -12697,7 +12697,7 @@ parenthesesIcon options =
 
 {-| parkingCircleIcon
 
-lucide-circle-parking
+circle-parking
 
 -}
 parkingCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -12707,7 +12707,7 @@ parkingCircleIcon options =
 
 {-| parkingCircleOffIcon
 
-lucide-circle-parking-off
+circle-parking-off
 
 -}
 parkingCircleOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -12717,7 +12717,7 @@ parkingCircleOffIcon options =
 
 {-| parkingMeterIcon
 
-lucide-parking-meter
+parking-meter
 
 -}
 parkingMeterIcon : List (S.Attribute msg) -> H.Html msg
@@ -12727,7 +12727,7 @@ parkingMeterIcon options =
 
 {-| parkingSquareIcon
 
-lucide-square-parking
+square-parking
 
 -}
 parkingSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -12737,7 +12737,7 @@ parkingSquareIcon options =
 
 {-| parkingSquareOffIcon
 
-lucide-square-parking-off
+square-parking-off
 
 -}
 parkingSquareOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -12747,7 +12747,7 @@ parkingSquareOffIcon options =
 
 {-| partyPopperIcon
 
-lucide-party-popper
+party-popper
 
 -}
 partyPopperIcon : List (S.Attribute msg) -> H.Html msg
@@ -12757,7 +12757,7 @@ partyPopperIcon options =
 
 {-| pauseIcon
 
-lucide-pause
+pause
 
 -}
 pauseIcon : List (S.Attribute msg) -> H.Html msg
@@ -12767,7 +12767,7 @@ pauseIcon options =
 
 {-| pauseCircleIcon
 
-lucide-circle-pause
+circle-pause
 
 -}
 pauseCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -12777,7 +12777,7 @@ pauseCircleIcon options =
 
 {-| pauseOctagonIcon
 
-lucide-octagon-pause
+octagon-pause
 
 -}
 pauseOctagonIcon : List (S.Attribute msg) -> H.Html msg
@@ -12787,7 +12787,7 @@ pauseOctagonIcon options =
 
 {-| pawPrintIcon
 
-lucide-paw-print
+paw-print
 
 -}
 pawPrintIcon : List (S.Attribute msg) -> H.Html msg
@@ -12797,7 +12797,7 @@ pawPrintIcon options =
 
 {-| pcCaseIcon
 
-lucide-pc-case
+pc-case
 
 -}
 pcCaseIcon : List (S.Attribute msg) -> H.Html msg
@@ -12807,7 +12807,7 @@ pcCaseIcon options =
 
 {-| penIcon
 
-lucide-pen
+pen
 
 -}
 penIcon : List (S.Attribute msg) -> H.Html msg
@@ -12817,7 +12817,7 @@ penIcon options =
 
 {-| penBoxIcon
 
-lucide-square-pen
+square-pen
 
 -}
 penBoxIcon : List (S.Attribute msg) -> H.Html msg
@@ -12827,7 +12827,7 @@ penBoxIcon options =
 
 {-| penLineIcon
 
-lucide-pen-line
+pen-line
 
 -}
 penLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -12837,7 +12837,7 @@ penLineIcon options =
 
 {-| penOffIcon
 
-lucide-pen-off
+pen-off
 
 -}
 penOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -12847,7 +12847,7 @@ penOffIcon options =
 
 {-| penSquareIcon
 
-lucide-square-pen
+square-pen
 
 -}
 penSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -12857,7 +12857,7 @@ penSquareIcon options =
 
 {-| penToolIcon
 
-lucide-pen-tool
+pen-tool
 
 -}
 penToolIcon : List (S.Attribute msg) -> H.Html msg
@@ -12867,7 +12867,7 @@ penToolIcon options =
 
 {-| pencilIcon
 
-lucide-pencil
+pencil
 
 -}
 pencilIcon : List (S.Attribute msg) -> H.Html msg
@@ -12877,7 +12877,7 @@ pencilIcon options =
 
 {-| pencilLineIcon
 
-lucide-pencil-line
+pencil-line
 
 -}
 pencilLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -12887,7 +12887,7 @@ pencilLineIcon options =
 
 {-| pencilOffIcon
 
-lucide-pencil-off
+pencil-off
 
 -}
 pencilOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -12897,7 +12897,7 @@ pencilOffIcon options =
 
 {-| pencilRulerIcon
 
-lucide-pencil-ruler
+pencil-ruler
 
 -}
 pencilRulerIcon : List (S.Attribute msg) -> H.Html msg
@@ -12907,7 +12907,7 @@ pencilRulerIcon options =
 
 {-| pentagonIcon
 
-lucide-pentagon
+pentagon
 
 -}
 pentagonIcon : List (S.Attribute msg) -> H.Html msg
@@ -12917,7 +12917,7 @@ pentagonIcon options =
 
 {-| percentIcon
 
-lucide-percent
+percent
 
 -}
 percentIcon : List (S.Attribute msg) -> H.Html msg
@@ -12927,7 +12927,7 @@ percentIcon options =
 
 {-| percentCircleIcon
 
-lucide-circle-percent
+circle-percent
 
 -}
 percentCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -12937,7 +12937,7 @@ percentCircleIcon options =
 
 {-| percentDiamondIcon
 
-lucide-diamond-percent
+diamond-percent
 
 -}
 percentDiamondIcon : List (S.Attribute msg) -> H.Html msg
@@ -12947,7 +12947,7 @@ percentDiamondIcon options =
 
 {-| percentSquareIcon
 
-lucide-square-percent
+square-percent
 
 -}
 percentSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -12957,7 +12957,7 @@ percentSquareIcon options =
 
 {-| personStandingIcon
 
-lucide-person-standing
+person-standing
 
 -}
 personStandingIcon : List (S.Attribute msg) -> H.Html msg
@@ -12967,7 +12967,7 @@ personStandingIcon options =
 
 {-| philippinePesoIcon
 
-lucide-philippine-peso
+philippine-peso
 
 -}
 philippinePesoIcon : List (S.Attribute msg) -> H.Html msg
@@ -12977,7 +12977,7 @@ philippinePesoIcon options =
 
 {-| phoneIcon
 
-lucide-phone
+phone
 
 -}
 phoneIcon : List (S.Attribute msg) -> H.Html msg
@@ -12987,7 +12987,7 @@ phoneIcon options =
 
 {-| phoneCallIcon
 
-lucide-phone-call
+phone-call
 
 -}
 phoneCallIcon : List (S.Attribute msg) -> H.Html msg
@@ -12997,7 +12997,7 @@ phoneCallIcon options =
 
 {-| phoneForwardedIcon
 
-lucide-phone-forwarded
+phone-forwarded
 
 -}
 phoneForwardedIcon : List (S.Attribute msg) -> H.Html msg
@@ -13007,7 +13007,7 @@ phoneForwardedIcon options =
 
 {-| phoneIncomingIcon
 
-lucide-phone-incoming
+phone-incoming
 
 -}
 phoneIncomingIcon : List (S.Attribute msg) -> H.Html msg
@@ -13017,7 +13017,7 @@ phoneIncomingIcon options =
 
 {-| phoneMissedIcon
 
-lucide-phone-missed
+phone-missed
 
 -}
 phoneMissedIcon : List (S.Attribute msg) -> H.Html msg
@@ -13027,7 +13027,7 @@ phoneMissedIcon options =
 
 {-| phoneOffIcon
 
-lucide-phone-off
+phone-off
 
 -}
 phoneOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -13037,7 +13037,7 @@ phoneOffIcon options =
 
 {-| phoneOutgoingIcon
 
-lucide-phone-outgoing
+phone-outgoing
 
 -}
 phoneOutgoingIcon : List (S.Attribute msg) -> H.Html msg
@@ -13047,7 +13047,7 @@ phoneOutgoingIcon options =
 
 {-| piIcon
 
-lucide-pi
+pi
 
 -}
 piIcon : List (S.Attribute msg) -> H.Html msg
@@ -13057,7 +13057,7 @@ piIcon options =
 
 {-| piSquareIcon
 
-lucide-square-pi
+square-pi
 
 -}
 piSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -13067,7 +13067,7 @@ piSquareIcon options =
 
 {-| pianoIcon
 
-lucide-piano
+piano
 
 -}
 pianoIcon : List (S.Attribute msg) -> H.Html msg
@@ -13077,7 +13077,7 @@ pianoIcon options =
 
 {-| pickaxeIcon
 
-lucide-pickaxe
+pickaxe
 
 -}
 pickaxeIcon : List (S.Attribute msg) -> H.Html msg
@@ -13087,7 +13087,7 @@ pickaxeIcon options =
 
 {-| pictureInPictureIcon
 
-lucide-picture-in-picture
+picture-in-picture
 
 -}
 pictureInPictureIcon : List (S.Attribute msg) -> H.Html msg
@@ -13097,7 +13097,7 @@ pictureInPictureIcon options =
 
 {-| pictureInPicture2Icon
 
-lucide-picture-in-picture-2
+picture-in-picture-2
 
 -}
 pictureInPicture2Icon : List (S.Attribute msg) -> H.Html msg
@@ -13107,7 +13107,7 @@ pictureInPicture2Icon options =
 
 {-| pieChartIcon
 
-lucide-chart-pie
+chart-pie
 
 -}
 pieChartIcon : List (S.Attribute msg) -> H.Html msg
@@ -13117,7 +13117,7 @@ pieChartIcon options =
 
 {-| piggyBankIcon
 
-lucide-piggy-bank
+piggy-bank
 
 -}
 piggyBankIcon : List (S.Attribute msg) -> H.Html msg
@@ -13127,7 +13127,7 @@ piggyBankIcon options =
 
 {-| pilcrowIcon
 
-lucide-pilcrow
+pilcrow
 
 -}
 pilcrowIcon : List (S.Attribute msg) -> H.Html msg
@@ -13137,7 +13137,7 @@ pilcrowIcon options =
 
 {-| pilcrowLeftIcon
 
-lucide-pilcrow-left
+pilcrow-left
 
 -}
 pilcrowLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -13147,7 +13147,7 @@ pilcrowLeftIcon options =
 
 {-| pilcrowRightIcon
 
-lucide-pilcrow-right
+pilcrow-right
 
 -}
 pilcrowRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -13157,7 +13157,7 @@ pilcrowRightIcon options =
 
 {-| pilcrowSquareIcon
 
-lucide-square-pilcrow
+square-pilcrow
 
 -}
 pilcrowSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -13167,7 +13167,7 @@ pilcrowSquareIcon options =
 
 {-| pillIcon
 
-lucide-pill
+pill
 
 -}
 pillIcon : List (S.Attribute msg) -> H.Html msg
@@ -13177,7 +13177,7 @@ pillIcon options =
 
 {-| pillBottleIcon
 
-lucide-pill-bottle
+pill-bottle
 
 -}
 pillBottleIcon : List (S.Attribute msg) -> H.Html msg
@@ -13187,7 +13187,7 @@ pillBottleIcon options =
 
 {-| pinIcon
 
-lucide-pin
+pin
 
 -}
 pinIcon : List (S.Attribute msg) -> H.Html msg
@@ -13197,7 +13197,7 @@ pinIcon options =
 
 {-| pinOffIcon
 
-lucide-pin-off
+pin-off
 
 -}
 pinOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -13207,7 +13207,7 @@ pinOffIcon options =
 
 {-| pipetteIcon
 
-lucide-pipette
+pipette
 
 -}
 pipetteIcon : List (S.Attribute msg) -> H.Html msg
@@ -13217,7 +13217,7 @@ pipetteIcon options =
 
 {-| pizzaIcon
 
-lucide-pizza
+pizza
 
 -}
 pizzaIcon : List (S.Attribute msg) -> H.Html msg
@@ -13227,7 +13227,7 @@ pizzaIcon options =
 
 {-| planeIcon
 
-lucide-plane
+plane
 
 -}
 planeIcon : List (S.Attribute msg) -> H.Html msg
@@ -13237,7 +13237,7 @@ planeIcon options =
 
 {-| planeLandingIcon
 
-lucide-plane-landing
+plane-landing
 
 -}
 planeLandingIcon : List (S.Attribute msg) -> H.Html msg
@@ -13247,7 +13247,7 @@ planeLandingIcon options =
 
 {-| planeTakeoffIcon
 
-lucide-plane-takeoff
+plane-takeoff
 
 -}
 planeTakeoffIcon : List (S.Attribute msg) -> H.Html msg
@@ -13257,7 +13257,7 @@ planeTakeoffIcon options =
 
 {-| playIcon
 
-lucide-play
+play
 
 -}
 playIcon : List (S.Attribute msg) -> H.Html msg
@@ -13267,7 +13267,7 @@ playIcon options =
 
 {-| playCircleIcon
 
-lucide-circle-play
+circle-play
 
 -}
 playCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -13277,7 +13277,7 @@ playCircleIcon options =
 
 {-| playSquareIcon
 
-lucide-square-play
+square-play
 
 -}
 playSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -13287,7 +13287,7 @@ playSquareIcon options =
 
 {-| plugIcon
 
-lucide-plug
+plug
 
 -}
 plugIcon : List (S.Attribute msg) -> H.Html msg
@@ -13297,7 +13297,7 @@ plugIcon options =
 
 {-| plug2Icon
 
-lucide-plug-2
+plug-2
 
 -}
 plug2Icon : List (S.Attribute msg) -> H.Html msg
@@ -13307,7 +13307,7 @@ plug2Icon options =
 
 {-| plugZapIcon
 
-lucide-plug-zap
+plug-zap
 
 -}
 plugZapIcon : List (S.Attribute msg) -> H.Html msg
@@ -13317,7 +13317,7 @@ plugZapIcon options =
 
 {-| plugZap2Icon
 
-lucide-plug-zap
+plug-zap
 
 -}
 plugZap2Icon : List (S.Attribute msg) -> H.Html msg
@@ -13327,7 +13327,7 @@ plugZap2Icon options =
 
 {-| plusIcon
 
-lucide-plus
+plus
 
 -}
 plusIcon : List (S.Attribute msg) -> H.Html msg
@@ -13337,7 +13337,7 @@ plusIcon options =
 
 {-| plusCircleIcon
 
-lucide-circle-plus
+circle-plus
 
 -}
 plusCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -13347,7 +13347,7 @@ plusCircleIcon options =
 
 {-| plusSquareIcon
 
-lucide-square-plus
+square-plus
 
 -}
 plusSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -13357,7 +13357,7 @@ plusSquareIcon options =
 
 {-| pocketIcon
 
-lucide-pocket
+pocket
 
 -}
 pocketIcon : List (S.Attribute msg) -> H.Html msg
@@ -13367,7 +13367,7 @@ pocketIcon options =
 
 {-| pocketKnifeIcon
 
-lucide-pocket-knife
+pocket-knife
 
 -}
 pocketKnifeIcon : List (S.Attribute msg) -> H.Html msg
@@ -13377,7 +13377,7 @@ pocketKnifeIcon options =
 
 {-| podcastIcon
 
-lucide-podcast
+podcast
 
 -}
 podcastIcon : List (S.Attribute msg) -> H.Html msg
@@ -13387,7 +13387,7 @@ podcastIcon options =
 
 {-| pointerIcon
 
-lucide-pointer
+pointer
 
 -}
 pointerIcon : List (S.Attribute msg) -> H.Html msg
@@ -13397,7 +13397,7 @@ pointerIcon options =
 
 {-| pointerOffIcon
 
-lucide-pointer-off
+pointer-off
 
 -}
 pointerOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -13407,7 +13407,7 @@ pointerOffIcon options =
 
 {-| popcornIcon
 
-lucide-popcorn
+popcorn
 
 -}
 popcornIcon : List (S.Attribute msg) -> H.Html msg
@@ -13417,7 +13417,7 @@ popcornIcon options =
 
 {-| popsicleIcon
 
-lucide-popsicle
+popsicle
 
 -}
 popsicleIcon : List (S.Attribute msg) -> H.Html msg
@@ -13427,7 +13427,7 @@ popsicleIcon options =
 
 {-| poundSterlingIcon
 
-lucide-pound-sterling
+pound-sterling
 
 -}
 poundSterlingIcon : List (S.Attribute msg) -> H.Html msg
@@ -13437,7 +13437,7 @@ poundSterlingIcon options =
 
 {-| powerIcon
 
-lucide-power
+power
 
 -}
 powerIcon : List (S.Attribute msg) -> H.Html msg
@@ -13447,7 +13447,7 @@ powerIcon options =
 
 {-| powerCircleIcon
 
-lucide-circle-power
+circle-power
 
 -}
 powerCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -13457,7 +13457,7 @@ powerCircleIcon options =
 
 {-| powerOffIcon
 
-lucide-power-off
+power-off
 
 -}
 powerOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -13467,7 +13467,7 @@ powerOffIcon options =
 
 {-| powerSquareIcon
 
-lucide-square-power
+square-power
 
 -}
 powerSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -13477,7 +13477,7 @@ powerSquareIcon options =
 
 {-| presentationIcon
 
-lucide-presentation
+presentation
 
 -}
 presentationIcon : List (S.Attribute msg) -> H.Html msg
@@ -13487,7 +13487,7 @@ presentationIcon options =
 
 {-| printerIcon
 
-lucide-printer
+printer
 
 -}
 printerIcon : List (S.Attribute msg) -> H.Html msg
@@ -13497,7 +13497,7 @@ printerIcon options =
 
 {-| printerCheckIcon
 
-lucide-printer-check
+printer-check
 
 -}
 printerCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -13507,7 +13507,7 @@ printerCheckIcon options =
 
 {-| projectorIcon
 
-lucide-projector
+projector
 
 -}
 projectorIcon : List (S.Attribute msg) -> H.Html msg
@@ -13517,7 +13517,7 @@ projectorIcon options =
 
 {-| proportionsIcon
 
-lucide-proportions
+proportions
 
 -}
 proportionsIcon : List (S.Attribute msg) -> H.Html msg
@@ -13527,7 +13527,7 @@ proportionsIcon options =
 
 {-| puzzleIcon
 
-lucide-puzzle
+puzzle
 
 -}
 puzzleIcon : List (S.Attribute msg) -> H.Html msg
@@ -13537,7 +13537,7 @@ puzzleIcon options =
 
 {-| pyramidIcon
 
-lucide-pyramid
+pyramid
 
 -}
 pyramidIcon : List (S.Attribute msg) -> H.Html msg
@@ -13547,7 +13547,7 @@ pyramidIcon options =
 
 {-| qrCodeIcon
 
-lucide-qr-code
+qr-code
 
 -}
 qrCodeIcon : List (S.Attribute msg) -> H.Html msg
@@ -13557,7 +13557,7 @@ qrCodeIcon options =
 
 {-| quoteIcon
 
-lucide-quote
+quote
 
 -}
 quoteIcon : List (S.Attribute msg) -> H.Html msg
@@ -13567,7 +13567,7 @@ quoteIcon options =
 
 {-| rabbitIcon
 
-lucide-rabbit
+rabbit
 
 -}
 rabbitIcon : List (S.Attribute msg) -> H.Html msg
@@ -13577,7 +13577,7 @@ rabbitIcon options =
 
 {-| radarIcon
 
-lucide-radar
+radar
 
 -}
 radarIcon : List (S.Attribute msg) -> H.Html msg
@@ -13587,7 +13587,7 @@ radarIcon options =
 
 {-| radiationIcon
 
-lucide-radiation
+radiation
 
 -}
 radiationIcon : List (S.Attribute msg) -> H.Html msg
@@ -13597,7 +13597,7 @@ radiationIcon options =
 
 {-| radicalIcon
 
-lucide-radical
+radical
 
 -}
 radicalIcon : List (S.Attribute msg) -> H.Html msg
@@ -13607,7 +13607,7 @@ radicalIcon options =
 
 {-| radioIcon
 
-lucide-radio
+radio
 
 -}
 radioIcon : List (S.Attribute msg) -> H.Html msg
@@ -13617,7 +13617,7 @@ radioIcon options =
 
 {-| radioReceiverIcon
 
-lucide-radio-receiver
+radio-receiver
 
 -}
 radioReceiverIcon : List (S.Attribute msg) -> H.Html msg
@@ -13627,7 +13627,7 @@ radioReceiverIcon options =
 
 {-| radioTowerIcon
 
-lucide-radio-tower
+radio-tower
 
 -}
 radioTowerIcon : List (S.Attribute msg) -> H.Html msg
@@ -13637,7 +13637,7 @@ radioTowerIcon options =
 
 {-| radiusIcon
 
-lucide-radius
+radius
 
 -}
 radiusIcon : List (S.Attribute msg) -> H.Html msg
@@ -13647,7 +13647,7 @@ radiusIcon options =
 
 {-| railSymbolIcon
 
-lucide-rail-symbol
+rail-symbol
 
 -}
 railSymbolIcon : List (S.Attribute msg) -> H.Html msg
@@ -13657,7 +13657,7 @@ railSymbolIcon options =
 
 {-| rainbowIcon
 
-lucide-rainbow
+rainbow
 
 -}
 rainbowIcon : List (S.Attribute msg) -> H.Html msg
@@ -13667,7 +13667,7 @@ rainbowIcon options =
 
 {-| ratIcon
 
-lucide-rat
+rat
 
 -}
 ratIcon : List (S.Attribute msg) -> H.Html msg
@@ -13677,7 +13677,7 @@ ratIcon options =
 
 {-| ratioIcon
 
-lucide-ratio
+ratio
 
 -}
 ratioIcon : List (S.Attribute msg) -> H.Html msg
@@ -13687,7 +13687,7 @@ ratioIcon options =
 
 {-| receiptIcon
 
-lucide-receipt
+receipt
 
 -}
 receiptIcon : List (S.Attribute msg) -> H.Html msg
@@ -13697,7 +13697,7 @@ receiptIcon options =
 
 {-| receiptCentIcon
 
-lucide-receipt-cent
+receipt-cent
 
 -}
 receiptCentIcon : List (S.Attribute msg) -> H.Html msg
@@ -13707,7 +13707,7 @@ receiptCentIcon options =
 
 {-| receiptEuroIcon
 
-lucide-receipt-euro
+receipt-euro
 
 -}
 receiptEuroIcon : List (S.Attribute msg) -> H.Html msg
@@ -13717,7 +13717,7 @@ receiptEuroIcon options =
 
 {-| receiptIndianRupeeIcon
 
-lucide-receipt-indian-rupee
+receipt-indian-rupee
 
 -}
 receiptIndianRupeeIcon : List (S.Attribute msg) -> H.Html msg
@@ -13727,7 +13727,7 @@ receiptIndianRupeeIcon options =
 
 {-| receiptJapaneseYenIcon
 
-lucide-receipt-japanese-yen
+receipt-japanese-yen
 
 -}
 receiptJapaneseYenIcon : List (S.Attribute msg) -> H.Html msg
@@ -13737,7 +13737,7 @@ receiptJapaneseYenIcon options =
 
 {-| receiptPoundSterlingIcon
 
-lucide-receipt-pound-sterling
+receipt-pound-sterling
 
 -}
 receiptPoundSterlingIcon : List (S.Attribute msg) -> H.Html msg
@@ -13747,7 +13747,7 @@ receiptPoundSterlingIcon options =
 
 {-| receiptRussianRubleIcon
 
-lucide-receipt-russian-ruble
+receipt-russian-ruble
 
 -}
 receiptRussianRubleIcon : List (S.Attribute msg) -> H.Html msg
@@ -13757,7 +13757,7 @@ receiptRussianRubleIcon options =
 
 {-| receiptSwissFrancIcon
 
-lucide-receipt-swiss-franc
+receipt-swiss-franc
 
 -}
 receiptSwissFrancIcon : List (S.Attribute msg) -> H.Html msg
@@ -13767,7 +13767,7 @@ receiptSwissFrancIcon options =
 
 {-| receiptTextIcon
 
-lucide-receipt-text
+receipt-text
 
 -}
 receiptTextIcon : List (S.Attribute msg) -> H.Html msg
@@ -13777,7 +13777,7 @@ receiptTextIcon options =
 
 {-| receiptTurkishLiraIcon
 
-lucide-receipt-turkish-lira
+receipt-turkish-lira
 
 -}
 receiptTurkishLiraIcon : List (S.Attribute msg) -> H.Html msg
@@ -13787,7 +13787,7 @@ receiptTurkishLiraIcon options =
 
 {-| rectangleCircleIcon
 
-lucide-rectangle-circle
+rectangle-circle
 
 -}
 rectangleCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -13797,7 +13797,7 @@ rectangleCircleIcon options =
 
 {-| rectangleEllipsisIcon
 
-lucide-rectangle-ellipsis
+rectangle-ellipsis
 
 -}
 rectangleEllipsisIcon : List (S.Attribute msg) -> H.Html msg
@@ -13807,7 +13807,7 @@ rectangleEllipsisIcon options =
 
 {-| rectangleGogglesIcon
 
-lucide-rectangle-goggles
+rectangle-goggles
 
 -}
 rectangleGogglesIcon : List (S.Attribute msg) -> H.Html msg
@@ -13817,7 +13817,7 @@ rectangleGogglesIcon options =
 
 {-| rectangleHorizontalIcon
 
-lucide-rectangle-horizontal
+rectangle-horizontal
 
 -}
 rectangleHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -13827,7 +13827,7 @@ rectangleHorizontalIcon options =
 
 {-| rectangleVerticalIcon
 
-lucide-rectangle-vertical
+rectangle-vertical
 
 -}
 rectangleVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -13837,7 +13837,7 @@ rectangleVerticalIcon options =
 
 {-| recycleIcon
 
-lucide-recycle
+recycle
 
 -}
 recycleIcon : List (S.Attribute msg) -> H.Html msg
@@ -13847,7 +13847,7 @@ recycleIcon options =
 
 {-| redoIcon
 
-lucide-redo
+redo
 
 -}
 redoIcon : List (S.Attribute msg) -> H.Html msg
@@ -13857,7 +13857,7 @@ redoIcon options =
 
 {-| redo2Icon
 
-lucide-redo-2
+redo-2
 
 -}
 redo2Icon : List (S.Attribute msg) -> H.Html msg
@@ -13867,7 +13867,7 @@ redo2Icon options =
 
 {-| redoDotIcon
 
-lucide-redo-dot
+redo-dot
 
 -}
 redoDotIcon : List (S.Attribute msg) -> H.Html msg
@@ -13877,7 +13877,7 @@ redoDotIcon options =
 
 {-| refreshCcwIcon
 
-lucide-refresh-ccw
+refresh-ccw
 
 -}
 refreshCcwIcon : List (S.Attribute msg) -> H.Html msg
@@ -13887,7 +13887,7 @@ refreshCcwIcon options =
 
 {-| refreshCcwDotIcon
 
-lucide-refresh-ccw-dot
+refresh-ccw-dot
 
 -}
 refreshCcwDotIcon : List (S.Attribute msg) -> H.Html msg
@@ -13897,7 +13897,7 @@ refreshCcwDotIcon options =
 
 {-| refreshCwIcon
 
-lucide-refresh-cw
+refresh-cw
 
 -}
 refreshCwIcon : List (S.Attribute msg) -> H.Html msg
@@ -13907,7 +13907,7 @@ refreshCwIcon options =
 
 {-| refreshCwOffIcon
 
-lucide-refresh-cw-off
+refresh-cw-off
 
 -}
 refreshCwOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -13917,7 +13917,7 @@ refreshCwOffIcon options =
 
 {-| refrigeratorIcon
 
-lucide-refrigerator
+refrigerator
 
 -}
 refrigeratorIcon : List (S.Attribute msg) -> H.Html msg
@@ -13927,7 +13927,7 @@ refrigeratorIcon options =
 
 {-| regexIcon
 
-lucide-regex
+regex
 
 -}
 regexIcon : List (S.Attribute msg) -> H.Html msg
@@ -13937,7 +13937,7 @@ regexIcon options =
 
 {-| removeFormattingIcon
 
-lucide-remove-formatting
+remove-formatting
 
 -}
 removeFormattingIcon : List (S.Attribute msg) -> H.Html msg
@@ -13947,7 +13947,7 @@ removeFormattingIcon options =
 
 {-| repeatIcon
 
-lucide-repeat
+repeat
 
 -}
 repeatIcon : List (S.Attribute msg) -> H.Html msg
@@ -13957,7 +13957,7 @@ repeatIcon options =
 
 {-| repeat1Icon
 
-lucide-repeat-1
+repeat-1
 
 -}
 repeat1Icon : List (S.Attribute msg) -> H.Html msg
@@ -13967,7 +13967,7 @@ repeat1Icon options =
 
 {-| repeat2Icon
 
-lucide-repeat-2
+repeat-2
 
 -}
 repeat2Icon : List (S.Attribute msg) -> H.Html msg
@@ -13977,7 +13977,7 @@ repeat2Icon options =
 
 {-| replaceIcon
 
-lucide-replace
+replace
 
 -}
 replaceIcon : List (S.Attribute msg) -> H.Html msg
@@ -13987,7 +13987,7 @@ replaceIcon options =
 
 {-| replaceAllIcon
 
-lucide-replace-all
+replace-all
 
 -}
 replaceAllIcon : List (S.Attribute msg) -> H.Html msg
@@ -13997,7 +13997,7 @@ replaceAllIcon options =
 
 {-| replyIcon
 
-lucide-reply
+reply
 
 -}
 replyIcon : List (S.Attribute msg) -> H.Html msg
@@ -14007,7 +14007,7 @@ replyIcon options =
 
 {-| replyAllIcon
 
-lucide-reply-all
+reply-all
 
 -}
 replyAllIcon : List (S.Attribute msg) -> H.Html msg
@@ -14017,7 +14017,7 @@ replyAllIcon options =
 
 {-| rewindIcon
 
-lucide-rewind
+rewind
 
 -}
 rewindIcon : List (S.Attribute msg) -> H.Html msg
@@ -14027,7 +14027,7 @@ rewindIcon options =
 
 {-| ribbonIcon
 
-lucide-ribbon
+ribbon
 
 -}
 ribbonIcon : List (S.Attribute msg) -> H.Html msg
@@ -14037,7 +14037,7 @@ ribbonIcon options =
 
 {-| rocketIcon
 
-lucide-rocket
+rocket
 
 -}
 rocketIcon : List (S.Attribute msg) -> H.Html msg
@@ -14047,7 +14047,7 @@ rocketIcon options =
 
 {-| rockingChairIcon
 
-lucide-rocking-chair
+rocking-chair
 
 -}
 rockingChairIcon : List (S.Attribute msg) -> H.Html msg
@@ -14057,7 +14057,7 @@ rockingChairIcon options =
 
 {-| rollerCoasterIcon
 
-lucide-roller-coaster
+roller-coaster
 
 -}
 rollerCoasterIcon : List (S.Attribute msg) -> H.Html msg
@@ -14067,7 +14067,7 @@ rollerCoasterIcon options =
 
 {-| roseIcon
 
-lucide-rose
+rose
 
 -}
 roseIcon : List (S.Attribute msg) -> H.Html msg
@@ -14077,7 +14077,7 @@ roseIcon options =
 
 {-| rotate3DIcon
 
-lucide-rotate-3d
+rotate-3d
 
 -}
 rotate3DIcon : List (S.Attribute msg) -> H.Html msg
@@ -14087,7 +14087,7 @@ rotate3DIcon options =
 
 {-| rotate3dIcon
 
-lucide-rotate-3d
+rotate-3d
 
 -}
 rotate3dIcon : List (S.Attribute msg) -> H.Html msg
@@ -14097,7 +14097,7 @@ rotate3dIcon options =
 
 {-| rotateCcwIcon
 
-lucide-rotate-ccw
+rotate-ccw
 
 -}
 rotateCcwIcon : List (S.Attribute msg) -> H.Html msg
@@ -14107,7 +14107,7 @@ rotateCcwIcon options =
 
 {-| rotateCcwKeyIcon
 
-lucide-rotate-ccw-key
+rotate-ccw-key
 
 -}
 rotateCcwKeyIcon : List (S.Attribute msg) -> H.Html msg
@@ -14117,7 +14117,7 @@ rotateCcwKeyIcon options =
 
 {-| rotateCcwSquareIcon
 
-lucide-rotate-ccw-square
+rotate-ccw-square
 
 -}
 rotateCcwSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -14127,7 +14127,7 @@ rotateCcwSquareIcon options =
 
 {-| rotateCwIcon
 
-lucide-rotate-cw
+rotate-cw
 
 -}
 rotateCwIcon : List (S.Attribute msg) -> H.Html msg
@@ -14137,7 +14137,7 @@ rotateCwIcon options =
 
 {-| rotateCwSquareIcon
 
-lucide-rotate-cw-square
+rotate-cw-square
 
 -}
 rotateCwSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -14147,7 +14147,7 @@ rotateCwSquareIcon options =
 
 {-| routeIcon
 
-lucide-route
+route
 
 -}
 routeIcon : List (S.Attribute msg) -> H.Html msg
@@ -14157,7 +14157,7 @@ routeIcon options =
 
 {-| routeOffIcon
 
-lucide-route-off
+route-off
 
 -}
 routeOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -14167,7 +14167,7 @@ routeOffIcon options =
 
 {-| routerIcon
 
-lucide-router
+router
 
 -}
 routerIcon : List (S.Attribute msg) -> H.Html msg
@@ -14177,7 +14177,7 @@ routerIcon options =
 
 {-| rowsIcon
 
-lucide-rows-2
+rows-2
 
 -}
 rowsIcon : List (S.Attribute msg) -> H.Html msg
@@ -14187,7 +14187,7 @@ rowsIcon options =
 
 {-| rows2Icon
 
-lucide-rows-2
+rows-2
 
 -}
 rows2Icon : List (S.Attribute msg) -> H.Html msg
@@ -14197,7 +14197,7 @@ rows2Icon options =
 
 {-| rows3Icon
 
-lucide-rows-3
+rows-3
 
 -}
 rows3Icon : List (S.Attribute msg) -> H.Html msg
@@ -14207,7 +14207,7 @@ rows3Icon options =
 
 {-| rows4Icon
 
-lucide-rows-4
+rows-4
 
 -}
 rows4Icon : List (S.Attribute msg) -> H.Html msg
@@ -14217,7 +14217,7 @@ rows4Icon options =
 
 {-| rssIcon
 
-lucide-rss
+rss
 
 -}
 rssIcon : List (S.Attribute msg) -> H.Html msg
@@ -14227,7 +14227,7 @@ rssIcon options =
 
 {-| rulerIcon
 
-lucide-ruler
+ruler
 
 -}
 rulerIcon : List (S.Attribute msg) -> H.Html msg
@@ -14237,7 +14237,7 @@ rulerIcon options =
 
 {-| rulerDimensionLineIcon
 
-lucide-ruler-dimension-line
+ruler-dimension-line
 
 -}
 rulerDimensionLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -14247,7 +14247,7 @@ rulerDimensionLineIcon options =
 
 {-| russianRubleIcon
 
-lucide-russian-ruble
+russian-ruble
 
 -}
 russianRubleIcon : List (S.Attribute msg) -> H.Html msg
@@ -14257,7 +14257,7 @@ russianRubleIcon options =
 
 {-| sailboatIcon
 
-lucide-sailboat
+sailboat
 
 -}
 sailboatIcon : List (S.Attribute msg) -> H.Html msg
@@ -14267,7 +14267,7 @@ sailboatIcon options =
 
 {-| saladIcon
 
-lucide-salad
+salad
 
 -}
 saladIcon : List (S.Attribute msg) -> H.Html msg
@@ -14277,7 +14277,7 @@ saladIcon options =
 
 {-| sandwichIcon
 
-lucide-sandwich
+sandwich
 
 -}
 sandwichIcon : List (S.Attribute msg) -> H.Html msg
@@ -14287,7 +14287,7 @@ sandwichIcon options =
 
 {-| satelliteIcon
 
-lucide-satellite
+satellite
 
 -}
 satelliteIcon : List (S.Attribute msg) -> H.Html msg
@@ -14297,7 +14297,7 @@ satelliteIcon options =
 
 {-| satelliteDishIcon
 
-lucide-satellite-dish
+satellite-dish
 
 -}
 satelliteDishIcon : List (S.Attribute msg) -> H.Html msg
@@ -14307,7 +14307,7 @@ satelliteDishIcon options =
 
 {-| saudiRiyalIcon
 
-lucide-saudi-riyal
+saudi-riyal
 
 -}
 saudiRiyalIcon : List (S.Attribute msg) -> H.Html msg
@@ -14317,7 +14317,7 @@ saudiRiyalIcon options =
 
 {-| saveIcon
 
-lucide-save
+save
 
 -}
 saveIcon : List (S.Attribute msg) -> H.Html msg
@@ -14327,7 +14327,7 @@ saveIcon options =
 
 {-| saveAllIcon
 
-lucide-save-all
+save-all
 
 -}
 saveAllIcon : List (S.Attribute msg) -> H.Html msg
@@ -14337,7 +14337,7 @@ saveAllIcon options =
 
 {-| saveOffIcon
 
-lucide-save-off
+save-off
 
 -}
 saveOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -14347,7 +14347,7 @@ saveOffIcon options =
 
 {-| scaleIcon
 
-lucide-scale
+scale
 
 -}
 scaleIcon : List (S.Attribute msg) -> H.Html msg
@@ -14357,7 +14357,7 @@ scaleIcon options =
 
 {-| scale3DIcon
 
-lucide-scale-3d
+scale-3d
 
 -}
 scale3DIcon : List (S.Attribute msg) -> H.Html msg
@@ -14367,7 +14367,7 @@ scale3DIcon options =
 
 {-| scale3dIcon
 
-lucide-scale-3d
+scale-3d
 
 -}
 scale3dIcon : List (S.Attribute msg) -> H.Html msg
@@ -14377,7 +14377,7 @@ scale3dIcon options =
 
 {-| scalingIcon
 
-lucide-scaling
+scaling
 
 -}
 scalingIcon : List (S.Attribute msg) -> H.Html msg
@@ -14387,7 +14387,7 @@ scalingIcon options =
 
 {-| scanIcon
 
-lucide-scan
+scan
 
 -}
 scanIcon : List (S.Attribute msg) -> H.Html msg
@@ -14397,7 +14397,7 @@ scanIcon options =
 
 {-| scanBarcodeIcon
 
-lucide-scan-barcode
+scan-barcode
 
 -}
 scanBarcodeIcon : List (S.Attribute msg) -> H.Html msg
@@ -14407,7 +14407,7 @@ scanBarcodeIcon options =
 
 {-| scanEyeIcon
 
-lucide-scan-eye
+scan-eye
 
 -}
 scanEyeIcon : List (S.Attribute msg) -> H.Html msg
@@ -14417,7 +14417,7 @@ scanEyeIcon options =
 
 {-| scanFaceIcon
 
-lucide-scan-face
+scan-face
 
 -}
 scanFaceIcon : List (S.Attribute msg) -> H.Html msg
@@ -14427,7 +14427,7 @@ scanFaceIcon options =
 
 {-| scanHeartIcon
 
-lucide-scan-heart
+scan-heart
 
 -}
 scanHeartIcon : List (S.Attribute msg) -> H.Html msg
@@ -14437,7 +14437,7 @@ scanHeartIcon options =
 
 {-| scanLineIcon
 
-lucide-scan-line
+scan-line
 
 -}
 scanLineIcon : List (S.Attribute msg) -> H.Html msg
@@ -14447,7 +14447,7 @@ scanLineIcon options =
 
 {-| scanQrCodeIcon
 
-lucide-scan-qr-code
+scan-qr-code
 
 -}
 scanQrCodeIcon : List (S.Attribute msg) -> H.Html msg
@@ -14457,7 +14457,7 @@ scanQrCodeIcon options =
 
 {-| scanSearchIcon
 
-lucide-scan-search
+scan-search
 
 -}
 scanSearchIcon : List (S.Attribute msg) -> H.Html msg
@@ -14467,7 +14467,7 @@ scanSearchIcon options =
 
 {-| scanTextIcon
 
-lucide-scan-text
+scan-text
 
 -}
 scanTextIcon : List (S.Attribute msg) -> H.Html msg
@@ -14477,7 +14477,7 @@ scanTextIcon options =
 
 {-| scatterChartIcon
 
-lucide-chart-scatter
+chart-scatter
 
 -}
 scatterChartIcon : List (S.Attribute msg) -> H.Html msg
@@ -14487,7 +14487,7 @@ scatterChartIcon options =
 
 {-| schoolIcon
 
-lucide-school
+school
 
 -}
 schoolIcon : List (S.Attribute msg) -> H.Html msg
@@ -14497,7 +14497,7 @@ schoolIcon options =
 
 {-| school2Icon
 
-lucide-university
+university
 
 -}
 school2Icon : List (S.Attribute msg) -> H.Html msg
@@ -14507,7 +14507,7 @@ school2Icon options =
 
 {-| scissorsIcon
 
-lucide-scissors
+scissors
 
 -}
 scissorsIcon : List (S.Attribute msg) -> H.Html msg
@@ -14517,7 +14517,7 @@ scissorsIcon options =
 
 {-| scissorsLineDashedIcon
 
-lucide-scissors-line-dashed
+scissors-line-dashed
 
 -}
 scissorsLineDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -14527,7 +14527,7 @@ scissorsLineDashedIcon options =
 
 {-| scissorsSquareIcon
 
-lucide-square-scissors
+square-scissors
 
 -}
 scissorsSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -14537,7 +14537,7 @@ scissorsSquareIcon options =
 
 {-| scissorsSquareDashedBottomIcon
 
-lucide-square-bottom-dashed-scissors
+square-bottom-dashed-scissors
 
 -}
 scissorsSquareDashedBottomIcon : List (S.Attribute msg) -> H.Html msg
@@ -14547,7 +14547,7 @@ scissorsSquareDashedBottomIcon options =
 
 {-| screenShareIcon
 
-lucide-screen-share
+screen-share
 
 -}
 screenShareIcon : List (S.Attribute msg) -> H.Html msg
@@ -14557,7 +14557,7 @@ screenShareIcon options =
 
 {-| screenShareOffIcon
 
-lucide-screen-share-off
+screen-share-off
 
 -}
 screenShareOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -14567,7 +14567,7 @@ screenShareOffIcon options =
 
 {-| scrollIcon
 
-lucide-scroll
+scroll
 
 -}
 scrollIcon : List (S.Attribute msg) -> H.Html msg
@@ -14577,7 +14577,7 @@ scrollIcon options =
 
 {-| scrollTextIcon
 
-lucide-scroll-text
+scroll-text
 
 -}
 scrollTextIcon : List (S.Attribute msg) -> H.Html msg
@@ -14587,7 +14587,7 @@ scrollTextIcon options =
 
 {-| searchIcon
 
-lucide-search
+search
 
 -}
 searchIcon : List (S.Attribute msg) -> H.Html msg
@@ -14597,7 +14597,7 @@ searchIcon options =
 
 {-| searchCheckIcon
 
-lucide-search-check
+search-check
 
 -}
 searchCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -14607,7 +14607,7 @@ searchCheckIcon options =
 
 {-| searchCodeIcon
 
-lucide-search-code
+search-code
 
 -}
 searchCodeIcon : List (S.Attribute msg) -> H.Html msg
@@ -14617,7 +14617,7 @@ searchCodeIcon options =
 
 {-| searchSlashIcon
 
-lucide-search-slash
+search-slash
 
 -}
 searchSlashIcon : List (S.Attribute msg) -> H.Html msg
@@ -14627,7 +14627,7 @@ searchSlashIcon options =
 
 {-| searchXIcon
 
-lucide-search-x
+search-x
 
 -}
 searchXIcon : List (S.Attribute msg) -> H.Html msg
@@ -14637,7 +14637,7 @@ searchXIcon options =
 
 {-| sectionIcon
 
-lucide-section
+section
 
 -}
 sectionIcon : List (S.Attribute msg) -> H.Html msg
@@ -14647,7 +14647,7 @@ sectionIcon options =
 
 {-| sendIcon
 
-lucide-send
+send
 
 -}
 sendIcon : List (S.Attribute msg) -> H.Html msg
@@ -14657,7 +14657,7 @@ sendIcon options =
 
 {-| sendHorizonalIcon
 
-lucide-send-horizontal
+send-horizontal
 
 -}
 sendHorizonalIcon : List (S.Attribute msg) -> H.Html msg
@@ -14667,7 +14667,7 @@ sendHorizonalIcon options =
 
 {-| sendHorizontalIcon
 
-lucide-send-horizontal
+send-horizontal
 
 -}
 sendHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -14677,7 +14677,7 @@ sendHorizontalIcon options =
 
 {-| sendToBackIcon
 
-lucide-send-to-back
+send-to-back
 
 -}
 sendToBackIcon : List (S.Attribute msg) -> H.Html msg
@@ -14687,7 +14687,7 @@ sendToBackIcon options =
 
 {-| separatorHorizontalIcon
 
-lucide-separator-horizontal
+separator-horizontal
 
 -}
 separatorHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -14697,7 +14697,7 @@ separatorHorizontalIcon options =
 
 {-| separatorVerticalIcon
 
-lucide-separator-vertical
+separator-vertical
 
 -}
 separatorVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -14707,7 +14707,7 @@ separatorVerticalIcon options =
 
 {-| serverIcon
 
-lucide-server
+server
 
 -}
 serverIcon : List (S.Attribute msg) -> H.Html msg
@@ -14717,7 +14717,7 @@ serverIcon options =
 
 {-| serverCogIcon
 
-lucide-server-cog
+server-cog
 
 -}
 serverCogIcon : List (S.Attribute msg) -> H.Html msg
@@ -14727,7 +14727,7 @@ serverCogIcon options =
 
 {-| serverCrashIcon
 
-lucide-server-crash
+server-crash
 
 -}
 serverCrashIcon : List (S.Attribute msg) -> H.Html msg
@@ -14737,7 +14737,7 @@ serverCrashIcon options =
 
 {-| serverOffIcon
 
-lucide-server-off
+server-off
 
 -}
 serverOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -14747,7 +14747,7 @@ serverOffIcon options =
 
 {-| settingsIcon
 
-lucide-settings
+settings
 
 -}
 settingsIcon : List (S.Attribute msg) -> H.Html msg
@@ -14757,7 +14757,7 @@ settingsIcon options =
 
 {-| settings2Icon
 
-lucide-settings-2
+settings-2
 
 -}
 settings2Icon : List (S.Attribute msg) -> H.Html msg
@@ -14767,7 +14767,7 @@ settings2Icon options =
 
 {-| shapesIcon
 
-lucide-shapes
+shapes
 
 -}
 shapesIcon : List (S.Attribute msg) -> H.Html msg
@@ -14777,7 +14777,7 @@ shapesIcon options =
 
 {-| shareIcon
 
-lucide-share
+share
 
 -}
 shareIcon : List (S.Attribute msg) -> H.Html msg
@@ -14787,7 +14787,7 @@ shareIcon options =
 
 {-| share2Icon
 
-lucide-share-2
+share-2
 
 -}
 share2Icon : List (S.Attribute msg) -> H.Html msg
@@ -14797,7 +14797,7 @@ share2Icon options =
 
 {-| sheetIcon
 
-lucide-sheet
+sheet
 
 -}
 sheetIcon : List (S.Attribute msg) -> H.Html msg
@@ -14807,7 +14807,7 @@ sheetIcon options =
 
 {-| shellIcon
 
-lucide-shell
+shell
 
 -}
 shellIcon : List (S.Attribute msg) -> H.Html msg
@@ -14817,7 +14817,7 @@ shellIcon options =
 
 {-| shieldIcon
 
-lucide-shield
+shield
 
 -}
 shieldIcon : List (S.Attribute msg) -> H.Html msg
@@ -14827,7 +14827,7 @@ shieldIcon options =
 
 {-| shieldAlertIcon
 
-lucide-shield-alert
+shield-alert
 
 -}
 shieldAlertIcon : List (S.Attribute msg) -> H.Html msg
@@ -14837,7 +14837,7 @@ shieldAlertIcon options =
 
 {-| shieldBanIcon
 
-lucide-shield-ban
+shield-ban
 
 -}
 shieldBanIcon : List (S.Attribute msg) -> H.Html msg
@@ -14847,7 +14847,7 @@ shieldBanIcon options =
 
 {-| shieldCheckIcon
 
-lucide-shield-check
+shield-check
 
 -}
 shieldCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -14857,7 +14857,7 @@ shieldCheckIcon options =
 
 {-| shieldCloseIcon
 
-lucide-shield-x
+shield-x
 
 -}
 shieldCloseIcon : List (S.Attribute msg) -> H.Html msg
@@ -14867,7 +14867,7 @@ shieldCloseIcon options =
 
 {-| shieldEllipsisIcon
 
-lucide-shield-ellipsis
+shield-ellipsis
 
 -}
 shieldEllipsisIcon : List (S.Attribute msg) -> H.Html msg
@@ -14877,7 +14877,7 @@ shieldEllipsisIcon options =
 
 {-| shieldHalfIcon
 
-lucide-shield-half
+shield-half
 
 -}
 shieldHalfIcon : List (S.Attribute msg) -> H.Html msg
@@ -14887,7 +14887,7 @@ shieldHalfIcon options =
 
 {-| shieldMinusIcon
 
-lucide-shield-minus
+shield-minus
 
 -}
 shieldMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -14897,7 +14897,7 @@ shieldMinusIcon options =
 
 {-| shieldOffIcon
 
-lucide-shield-off
+shield-off
 
 -}
 shieldOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -14907,7 +14907,7 @@ shieldOffIcon options =
 
 {-| shieldPlusIcon
 
-lucide-shield-plus
+shield-plus
 
 -}
 shieldPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -14917,7 +14917,7 @@ shieldPlusIcon options =
 
 {-| shieldQuestionIcon
 
-lucide-shield-question-mark
+shield-question-mark
 
 -}
 shieldQuestionIcon : List (S.Attribute msg) -> H.Html msg
@@ -14927,7 +14927,7 @@ shieldQuestionIcon options =
 
 {-| shieldQuestionMarkIcon
 
-lucide-shield-question-mark
+shield-question-mark
 
 -}
 shieldQuestionMarkIcon : List (S.Attribute msg) -> H.Html msg
@@ -14937,7 +14937,7 @@ shieldQuestionMarkIcon options =
 
 {-| shieldUserIcon
 
-lucide-shield-user
+shield-user
 
 -}
 shieldUserIcon : List (S.Attribute msg) -> H.Html msg
@@ -14947,7 +14947,7 @@ shieldUserIcon options =
 
 {-| shieldXIcon
 
-lucide-shield-x
+shield-x
 
 -}
 shieldXIcon : List (S.Attribute msg) -> H.Html msg
@@ -14957,7 +14957,7 @@ shieldXIcon options =
 
 {-| shipIcon
 
-lucide-ship
+ship
 
 -}
 shipIcon : List (S.Attribute msg) -> H.Html msg
@@ -14967,7 +14967,7 @@ shipIcon options =
 
 {-| shipWheelIcon
 
-lucide-ship-wheel
+ship-wheel
 
 -}
 shipWheelIcon : List (S.Attribute msg) -> H.Html msg
@@ -14977,7 +14977,7 @@ shipWheelIcon options =
 
 {-| shirtIcon
 
-lucide-shirt
+shirt
 
 -}
 shirtIcon : List (S.Attribute msg) -> H.Html msg
@@ -14987,7 +14987,7 @@ shirtIcon options =
 
 {-| shoppingBagIcon
 
-lucide-shopping-bag
+shopping-bag
 
 -}
 shoppingBagIcon : List (S.Attribute msg) -> H.Html msg
@@ -14997,7 +14997,7 @@ shoppingBagIcon options =
 
 {-| shoppingBasketIcon
 
-lucide-shopping-basket
+shopping-basket
 
 -}
 shoppingBasketIcon : List (S.Attribute msg) -> H.Html msg
@@ -15007,7 +15007,7 @@ shoppingBasketIcon options =
 
 {-| shoppingCartIcon
 
-lucide-shopping-cart
+shopping-cart
 
 -}
 shoppingCartIcon : List (S.Attribute msg) -> H.Html msg
@@ -15017,7 +15017,7 @@ shoppingCartIcon options =
 
 {-| shovelIcon
 
-lucide-shovel
+shovel
 
 -}
 shovelIcon : List (S.Attribute msg) -> H.Html msg
@@ -15027,7 +15027,7 @@ shovelIcon options =
 
 {-| showerHeadIcon
 
-lucide-shower-head
+shower-head
 
 -}
 showerHeadIcon : List (S.Attribute msg) -> H.Html msg
@@ -15037,7 +15037,7 @@ showerHeadIcon options =
 
 {-| shredderIcon
 
-lucide-shredder
+shredder
 
 -}
 shredderIcon : List (S.Attribute msg) -> H.Html msg
@@ -15047,7 +15047,7 @@ shredderIcon options =
 
 {-| shrimpIcon
 
-lucide-shrimp
+shrimp
 
 -}
 shrimpIcon : List (S.Attribute msg) -> H.Html msg
@@ -15057,7 +15057,7 @@ shrimpIcon options =
 
 {-| shrinkIcon
 
-lucide-shrink
+shrink
 
 -}
 shrinkIcon : List (S.Attribute msg) -> H.Html msg
@@ -15067,7 +15067,7 @@ shrinkIcon options =
 
 {-| shrubIcon
 
-lucide-shrub
+shrub
 
 -}
 shrubIcon : List (S.Attribute msg) -> H.Html msg
@@ -15077,7 +15077,7 @@ shrubIcon options =
 
 {-| shuffleIcon
 
-lucide-shuffle
+shuffle
 
 -}
 shuffleIcon : List (S.Attribute msg) -> H.Html msg
@@ -15087,7 +15087,7 @@ shuffleIcon options =
 
 {-| sidebarIcon
 
-lucide-panel-left
+panel-left
 
 -}
 sidebarIcon : List (S.Attribute msg) -> H.Html msg
@@ -15097,7 +15097,7 @@ sidebarIcon options =
 
 {-| sidebarCloseIcon
 
-lucide-panel-left-close
+panel-left-close
 
 -}
 sidebarCloseIcon : List (S.Attribute msg) -> H.Html msg
@@ -15107,7 +15107,7 @@ sidebarCloseIcon options =
 
 {-| sidebarOpenIcon
 
-lucide-panel-left-open
+panel-left-open
 
 -}
 sidebarOpenIcon : List (S.Attribute msg) -> H.Html msg
@@ -15117,7 +15117,7 @@ sidebarOpenIcon options =
 
 {-| sigmaIcon
 
-lucide-sigma
+sigma
 
 -}
 sigmaIcon : List (S.Attribute msg) -> H.Html msg
@@ -15127,7 +15127,7 @@ sigmaIcon options =
 
 {-| sigmaSquareIcon
 
-lucide-square-sigma
+square-sigma
 
 -}
 sigmaSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -15137,7 +15137,7 @@ sigmaSquareIcon options =
 
 {-| signalIcon
 
-lucide-signal
+signal
 
 -}
 signalIcon : List (S.Attribute msg) -> H.Html msg
@@ -15147,7 +15147,7 @@ signalIcon options =
 
 {-| signalHighIcon
 
-lucide-signal-high
+signal-high
 
 -}
 signalHighIcon : List (S.Attribute msg) -> H.Html msg
@@ -15157,7 +15157,7 @@ signalHighIcon options =
 
 {-| signalLowIcon
 
-lucide-signal-low
+signal-low
 
 -}
 signalLowIcon : List (S.Attribute msg) -> H.Html msg
@@ -15167,7 +15167,7 @@ signalLowIcon options =
 
 {-| signalMediumIcon
 
-lucide-signal-medium
+signal-medium
 
 -}
 signalMediumIcon : List (S.Attribute msg) -> H.Html msg
@@ -15177,7 +15177,7 @@ signalMediumIcon options =
 
 {-| signalZeroIcon
 
-lucide-signal-zero
+signal-zero
 
 -}
 signalZeroIcon : List (S.Attribute msg) -> H.Html msg
@@ -15187,7 +15187,7 @@ signalZeroIcon options =
 
 {-| signatureIcon
 
-lucide-signature
+signature
 
 -}
 signatureIcon : List (S.Attribute msg) -> H.Html msg
@@ -15197,7 +15197,7 @@ signatureIcon options =
 
 {-| signpostIcon
 
-lucide-signpost
+signpost
 
 -}
 signpostIcon : List (S.Attribute msg) -> H.Html msg
@@ -15207,7 +15207,7 @@ signpostIcon options =
 
 {-| signpostBigIcon
 
-lucide-signpost-big
+signpost-big
 
 -}
 signpostBigIcon : List (S.Attribute msg) -> H.Html msg
@@ -15217,7 +15217,7 @@ signpostBigIcon options =
 
 {-| sirenIcon
 
-lucide-siren
+siren
 
 -}
 sirenIcon : List (S.Attribute msg) -> H.Html msg
@@ -15227,7 +15227,7 @@ sirenIcon options =
 
 {-| skipBackIcon
 
-lucide-skip-back
+skip-back
 
 -}
 skipBackIcon : List (S.Attribute msg) -> H.Html msg
@@ -15237,7 +15237,7 @@ skipBackIcon options =
 
 {-| skipForwardIcon
 
-lucide-skip-forward
+skip-forward
 
 -}
 skipForwardIcon : List (S.Attribute msg) -> H.Html msg
@@ -15247,7 +15247,7 @@ skipForwardIcon options =
 
 {-| skullIcon
 
-lucide-skull
+skull
 
 -}
 skullIcon : List (S.Attribute msg) -> H.Html msg
@@ -15257,7 +15257,7 @@ skullIcon options =
 
 {-| slackIcon
 
-lucide-slack
+slack
 
 -}
 slackIcon : List (S.Attribute msg) -> H.Html msg
@@ -15267,7 +15267,7 @@ slackIcon options =
 
 {-| slashIcon
 
-lucide-slash
+slash
 
 -}
 slashIcon : List (S.Attribute msg) -> H.Html msg
@@ -15277,7 +15277,7 @@ slashIcon options =
 
 {-| slashSquareIcon
 
-lucide-square-slash
+square-slash
 
 -}
 slashSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -15287,7 +15287,7 @@ slashSquareIcon options =
 
 {-| sliceIcon
 
-lucide-slice
+slice
 
 -}
 sliceIcon : List (S.Attribute msg) -> H.Html msg
@@ -15297,7 +15297,7 @@ sliceIcon options =
 
 {-| slidersIcon
 
-lucide-sliders-vertical
+sliders-vertical
 
 -}
 slidersIcon : List (S.Attribute msg) -> H.Html msg
@@ -15307,7 +15307,7 @@ slidersIcon options =
 
 {-| slidersHorizontalIcon
 
-lucide-sliders-horizontal
+sliders-horizontal
 
 -}
 slidersHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -15317,7 +15317,7 @@ slidersHorizontalIcon options =
 
 {-| slidersVerticalIcon
 
-lucide-sliders-vertical
+sliders-vertical
 
 -}
 slidersVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -15327,7 +15327,7 @@ slidersVerticalIcon options =
 
 {-| smartphoneIcon
 
-lucide-smartphone
+smartphone
 
 -}
 smartphoneIcon : List (S.Attribute msg) -> H.Html msg
@@ -15337,7 +15337,7 @@ smartphoneIcon options =
 
 {-| smartphoneChargingIcon
 
-lucide-smartphone-charging
+smartphone-charging
 
 -}
 smartphoneChargingIcon : List (S.Attribute msg) -> H.Html msg
@@ -15347,7 +15347,7 @@ smartphoneChargingIcon options =
 
 {-| smartphoneNfcIcon
 
-lucide-smartphone-nfc
+smartphone-nfc
 
 -}
 smartphoneNfcIcon : List (S.Attribute msg) -> H.Html msg
@@ -15357,7 +15357,7 @@ smartphoneNfcIcon options =
 
 {-| smileIcon
 
-lucide-smile
+smile
 
 -}
 smileIcon : List (S.Attribute msg) -> H.Html msg
@@ -15367,7 +15367,7 @@ smileIcon options =
 
 {-| smilePlusIcon
 
-lucide-smile-plus
+smile-plus
 
 -}
 smilePlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -15377,7 +15377,7 @@ smilePlusIcon options =
 
 {-| snailIcon
 
-lucide-snail
+snail
 
 -}
 snailIcon : List (S.Attribute msg) -> H.Html msg
@@ -15387,7 +15387,7 @@ snailIcon options =
 
 {-| snowflakeIcon
 
-lucide-snowflake
+snowflake
 
 -}
 snowflakeIcon : List (S.Attribute msg) -> H.Html msg
@@ -15397,7 +15397,7 @@ snowflakeIcon options =
 
 {-| soapDispenserDropletIcon
 
-lucide-soap-dispenser-droplet
+soap-dispenser-droplet
 
 -}
 soapDispenserDropletIcon : List (S.Attribute msg) -> H.Html msg
@@ -15407,7 +15407,7 @@ soapDispenserDropletIcon options =
 
 {-| sofaIcon
 
-lucide-sofa
+sofa
 
 -}
 sofaIcon : List (S.Attribute msg) -> H.Html msg
@@ -15417,7 +15417,7 @@ sofaIcon options =
 
 {-| solarPanelIcon
 
-lucide-solar-panel
+solar-panel
 
 -}
 solarPanelIcon : List (S.Attribute msg) -> H.Html msg
@@ -15427,7 +15427,7 @@ solarPanelIcon options =
 
 {-| sortAscIcon
 
-lucide-arrow-up-narrow-wide
+arrow-up-narrow-wide
 
 -}
 sortAscIcon : List (S.Attribute msg) -> H.Html msg
@@ -15437,7 +15437,7 @@ sortAscIcon options =
 
 {-| sortDescIcon
 
-lucide-arrow-down-wide-narrow
+arrow-down-wide-narrow
 
 -}
 sortDescIcon : List (S.Attribute msg) -> H.Html msg
@@ -15447,7 +15447,7 @@ sortDescIcon options =
 
 {-| soupIcon
 
-lucide-soup
+soup
 
 -}
 soupIcon : List (S.Attribute msg) -> H.Html msg
@@ -15457,7 +15457,7 @@ soupIcon options =
 
 {-| spaceIcon
 
-lucide-space
+space
 
 -}
 spaceIcon : List (S.Attribute msg) -> H.Html msg
@@ -15467,7 +15467,7 @@ spaceIcon options =
 
 {-| spadeIcon
 
-lucide-spade
+spade
 
 -}
 spadeIcon : List (S.Attribute msg) -> H.Html msg
@@ -15477,7 +15477,7 @@ spadeIcon options =
 
 {-| sparkleIcon
 
-lucide-sparkle
+sparkle
 
 -}
 sparkleIcon : List (S.Attribute msg) -> H.Html msg
@@ -15487,7 +15487,7 @@ sparkleIcon options =
 
 {-| sparklesIcon
 
-lucide-sparkles
+sparkles
 
 -}
 sparklesIcon : List (S.Attribute msg) -> H.Html msg
@@ -15497,7 +15497,7 @@ sparklesIcon options =
 
 {-| speakerIcon
 
-lucide-speaker
+speaker
 
 -}
 speakerIcon : List (S.Attribute msg) -> H.Html msg
@@ -15507,7 +15507,7 @@ speakerIcon options =
 
 {-| speechIcon
 
-lucide-speech
+speech
 
 -}
 speechIcon : List (S.Attribute msg) -> H.Html msg
@@ -15517,7 +15517,7 @@ speechIcon options =
 
 {-| spellCheckIcon
 
-lucide-spell-check
+spell-check
 
 -}
 spellCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -15527,7 +15527,7 @@ spellCheckIcon options =
 
 {-| spellCheck2Icon
 
-lucide-spell-check-2
+spell-check-2
 
 -}
 spellCheck2Icon : List (S.Attribute msg) -> H.Html msg
@@ -15537,7 +15537,7 @@ spellCheck2Icon options =
 
 {-| splineIcon
 
-lucide-spline
+spline
 
 -}
 splineIcon : List (S.Attribute msg) -> H.Html msg
@@ -15547,7 +15547,7 @@ splineIcon options =
 
 {-| splinePointerIcon
 
-lucide-spline-pointer
+spline-pointer
 
 -}
 splinePointerIcon : List (S.Attribute msg) -> H.Html msg
@@ -15557,7 +15557,7 @@ splinePointerIcon options =
 
 {-| splitIcon
 
-lucide-split
+split
 
 -}
 splitIcon : List (S.Attribute msg) -> H.Html msg
@@ -15567,7 +15567,7 @@ splitIcon options =
 
 {-| splitSquareHorizontalIcon
 
-lucide-square-split-horizontal
+square-split-horizontal
 
 -}
 splitSquareHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -15577,7 +15577,7 @@ splitSquareHorizontalIcon options =
 
 {-| splitSquareVerticalIcon
 
-lucide-square-split-vertical
+square-split-vertical
 
 -}
 splitSquareVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -15587,7 +15587,7 @@ splitSquareVerticalIcon options =
 
 {-| spoolIcon
 
-lucide-spool
+spool
 
 -}
 spoolIcon : List (S.Attribute msg) -> H.Html msg
@@ -15597,7 +15597,7 @@ spoolIcon options =
 
 {-| spotlightIcon
 
-lucide-spotlight
+spotlight
 
 -}
 spotlightIcon : List (S.Attribute msg) -> H.Html msg
@@ -15607,7 +15607,7 @@ spotlightIcon options =
 
 {-| sprayCanIcon
 
-lucide-spray-can
+spray-can
 
 -}
 sprayCanIcon : List (S.Attribute msg) -> H.Html msg
@@ -15617,7 +15617,7 @@ sprayCanIcon options =
 
 {-| sproutIcon
 
-lucide-sprout
+sprout
 
 -}
 sproutIcon : List (S.Attribute msg) -> H.Html msg
@@ -15627,7 +15627,7 @@ sproutIcon options =
 
 {-| squareIcon
 
-lucide-square
+square
 
 -}
 squareIcon : List (S.Attribute msg) -> H.Html msg
@@ -15637,7 +15637,7 @@ squareIcon options =
 
 {-| squareActivityIcon
 
-lucide-square-activity
+square-activity
 
 -}
 squareActivityIcon : List (S.Attribute msg) -> H.Html msg
@@ -15647,7 +15647,7 @@ squareActivityIcon options =
 
 {-| squareArrowDownIcon
 
-lucide-square-arrow-down
+square-arrow-down
 
 -}
 squareArrowDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -15657,7 +15657,7 @@ squareArrowDownIcon options =
 
 {-| squareArrowDownLeftIcon
 
-lucide-square-arrow-down-left
+square-arrow-down-left
 
 -}
 squareArrowDownLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -15667,7 +15667,7 @@ squareArrowDownLeftIcon options =
 
 {-| squareArrowDownRightIcon
 
-lucide-square-arrow-down-right
+square-arrow-down-right
 
 -}
 squareArrowDownRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -15677,7 +15677,7 @@ squareArrowDownRightIcon options =
 
 {-| squareArrowLeftIcon
 
-lucide-square-arrow-left
+square-arrow-left
 
 -}
 squareArrowLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -15687,7 +15687,7 @@ squareArrowLeftIcon options =
 
 {-| squareArrowOutDownLeftIcon
 
-lucide-square-arrow-out-down-left
+square-arrow-out-down-left
 
 -}
 squareArrowOutDownLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -15697,7 +15697,7 @@ squareArrowOutDownLeftIcon options =
 
 {-| squareArrowOutDownRightIcon
 
-lucide-square-arrow-out-down-right
+square-arrow-out-down-right
 
 -}
 squareArrowOutDownRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -15707,7 +15707,7 @@ squareArrowOutDownRightIcon options =
 
 {-| squareArrowOutUpLeftIcon
 
-lucide-square-arrow-out-up-left
+square-arrow-out-up-left
 
 -}
 squareArrowOutUpLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -15717,7 +15717,7 @@ squareArrowOutUpLeftIcon options =
 
 {-| squareArrowOutUpRightIcon
 
-lucide-square-arrow-out-up-right
+square-arrow-out-up-right
 
 -}
 squareArrowOutUpRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -15727,7 +15727,7 @@ squareArrowOutUpRightIcon options =
 
 {-| squareArrowRightIcon
 
-lucide-square-arrow-right
+square-arrow-right
 
 -}
 squareArrowRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -15737,7 +15737,7 @@ squareArrowRightIcon options =
 
 {-| squareArrowUpIcon
 
-lucide-square-arrow-up
+square-arrow-up
 
 -}
 squareArrowUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -15747,7 +15747,7 @@ squareArrowUpIcon options =
 
 {-| squareArrowUpLeftIcon
 
-lucide-square-arrow-up-left
+square-arrow-up-left
 
 -}
 squareArrowUpLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -15757,7 +15757,7 @@ squareArrowUpLeftIcon options =
 
 {-| squareArrowUpRightIcon
 
-lucide-square-arrow-up-right
+square-arrow-up-right
 
 -}
 squareArrowUpRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -15767,7 +15767,7 @@ squareArrowUpRightIcon options =
 
 {-| squareAsteriskIcon
 
-lucide-square-asterisk
+square-asterisk
 
 -}
 squareAsteriskIcon : List (S.Attribute msg) -> H.Html msg
@@ -15777,7 +15777,7 @@ squareAsteriskIcon options =
 
 {-| squareBottomDashedScissorsIcon
 
-lucide-square-bottom-dashed-scissors
+square-bottom-dashed-scissors
 
 -}
 squareBottomDashedScissorsIcon : List (S.Attribute msg) -> H.Html msg
@@ -15787,7 +15787,7 @@ squareBottomDashedScissorsIcon options =
 
 {-| squareChartGanttIcon
 
-lucide-square-chart-gantt
+square-chart-gantt
 
 -}
 squareChartGanttIcon : List (S.Attribute msg) -> H.Html msg
@@ -15797,7 +15797,7 @@ squareChartGanttIcon options =
 
 {-| squareCheckIcon
 
-lucide-square-check
+square-check
 
 -}
 squareCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -15807,7 +15807,7 @@ squareCheckIcon options =
 
 {-| squareCheckBigIcon
 
-lucide-square-check-big
+square-check-big
 
 -}
 squareCheckBigIcon : List (S.Attribute msg) -> H.Html msg
@@ -15817,7 +15817,7 @@ squareCheckBigIcon options =
 
 {-| squareChevronDownIcon
 
-lucide-square-chevron-down
+square-chevron-down
 
 -}
 squareChevronDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -15827,7 +15827,7 @@ squareChevronDownIcon options =
 
 {-| squareChevronLeftIcon
 
-lucide-square-chevron-left
+square-chevron-left
 
 -}
 squareChevronLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -15837,7 +15837,7 @@ squareChevronLeftIcon options =
 
 {-| squareChevronRightIcon
 
-lucide-square-chevron-right
+square-chevron-right
 
 -}
 squareChevronRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -15847,7 +15847,7 @@ squareChevronRightIcon options =
 
 {-| squareChevronUpIcon
 
-lucide-square-chevron-up
+square-chevron-up
 
 -}
 squareChevronUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -15857,7 +15857,7 @@ squareChevronUpIcon options =
 
 {-| squareCodeIcon
 
-lucide-square-code
+square-code
 
 -}
 squareCodeIcon : List (S.Attribute msg) -> H.Html msg
@@ -15867,7 +15867,7 @@ squareCodeIcon options =
 
 {-| squareDashedIcon
 
-lucide-square-dashed
+square-dashed
 
 -}
 squareDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -15877,7 +15877,7 @@ squareDashedIcon options =
 
 {-| squareDashedBottomIcon
 
-lucide-square-dashed-bottom
+square-dashed-bottom
 
 -}
 squareDashedBottomIcon : List (S.Attribute msg) -> H.Html msg
@@ -15887,7 +15887,7 @@ squareDashedBottomIcon options =
 
 {-| squareDashedBottomCodeIcon
 
-lucide-square-dashed-bottom-code
+square-dashed-bottom-code
 
 -}
 squareDashedBottomCodeIcon : List (S.Attribute msg) -> H.Html msg
@@ -15897,7 +15897,7 @@ squareDashedBottomCodeIcon options =
 
 {-| squareDashedKanbanIcon
 
-lucide-square-dashed-kanban
+square-dashed-kanban
 
 -}
 squareDashedKanbanIcon : List (S.Attribute msg) -> H.Html msg
@@ -15907,7 +15907,7 @@ squareDashedKanbanIcon options =
 
 {-| squareDashedMousePointerIcon
 
-lucide-square-dashed-mouse-pointer
+square-dashed-mouse-pointer
 
 -}
 squareDashedMousePointerIcon : List (S.Attribute msg) -> H.Html msg
@@ -15917,7 +15917,7 @@ squareDashedMousePointerIcon options =
 
 {-| squareDashedTopSolidIcon
 
-lucide-square-dashed-top-solid
+square-dashed-top-solid
 
 -}
 squareDashedTopSolidIcon : List (S.Attribute msg) -> H.Html msg
@@ -15927,7 +15927,7 @@ squareDashedTopSolidIcon options =
 
 {-| squareDivideIcon
 
-lucide-square-divide
+square-divide
 
 -}
 squareDivideIcon : List (S.Attribute msg) -> H.Html msg
@@ -15937,7 +15937,7 @@ squareDivideIcon options =
 
 {-| squareDotIcon
 
-lucide-square-dot
+square-dot
 
 -}
 squareDotIcon : List (S.Attribute msg) -> H.Html msg
@@ -15947,7 +15947,7 @@ squareDotIcon options =
 
 {-| squareEqualIcon
 
-lucide-square-equal
+square-equal
 
 -}
 squareEqualIcon : List (S.Attribute msg) -> H.Html msg
@@ -15957,7 +15957,7 @@ squareEqualIcon options =
 
 {-| squareFunctionIcon
 
-lucide-square-function
+square-function
 
 -}
 squareFunctionIcon : List (S.Attribute msg) -> H.Html msg
@@ -15967,7 +15967,7 @@ squareFunctionIcon options =
 
 {-| squareGanttChartIcon
 
-lucide-square-chart-gantt
+square-chart-gantt
 
 -}
 squareGanttChartIcon : List (S.Attribute msg) -> H.Html msg
@@ -15977,7 +15977,7 @@ squareGanttChartIcon options =
 
 {-| squareKanbanIcon
 
-lucide-square-kanban
+square-kanban
 
 -}
 squareKanbanIcon : List (S.Attribute msg) -> H.Html msg
@@ -15987,7 +15987,7 @@ squareKanbanIcon options =
 
 {-| squareLibraryIcon
 
-lucide-square-library
+square-library
 
 -}
 squareLibraryIcon : List (S.Attribute msg) -> H.Html msg
@@ -15997,7 +15997,7 @@ squareLibraryIcon options =
 
 {-| squareMIcon
 
-lucide-square-m
+square-m
 
 -}
 squareMIcon : List (S.Attribute msg) -> H.Html msg
@@ -16007,7 +16007,7 @@ squareMIcon options =
 
 {-| squareMenuIcon
 
-lucide-square-menu
+square-menu
 
 -}
 squareMenuIcon : List (S.Attribute msg) -> H.Html msg
@@ -16017,7 +16017,7 @@ squareMenuIcon options =
 
 {-| squareMinusIcon
 
-lucide-square-minus
+square-minus
 
 -}
 squareMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -16027,7 +16027,7 @@ squareMinusIcon options =
 
 {-| squareMousePointerIcon
 
-lucide-square-mouse-pointer
+square-mouse-pointer
 
 -}
 squareMousePointerIcon : List (S.Attribute msg) -> H.Html msg
@@ -16037,7 +16037,7 @@ squareMousePointerIcon options =
 
 {-| squareParkingIcon
 
-lucide-square-parking
+square-parking
 
 -}
 squareParkingIcon : List (S.Attribute msg) -> H.Html msg
@@ -16047,7 +16047,7 @@ squareParkingIcon options =
 
 {-| squareParkingOffIcon
 
-lucide-square-parking-off
+square-parking-off
 
 -}
 squareParkingOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -16057,7 +16057,7 @@ squareParkingOffIcon options =
 
 {-| squarePauseIcon
 
-lucide-square-pause
+square-pause
 
 -}
 squarePauseIcon : List (S.Attribute msg) -> H.Html msg
@@ -16067,7 +16067,7 @@ squarePauseIcon options =
 
 {-| squarePenIcon
 
-lucide-square-pen
+square-pen
 
 -}
 squarePenIcon : List (S.Attribute msg) -> H.Html msg
@@ -16077,7 +16077,7 @@ squarePenIcon options =
 
 {-| squarePercentIcon
 
-lucide-square-percent
+square-percent
 
 -}
 squarePercentIcon : List (S.Attribute msg) -> H.Html msg
@@ -16087,7 +16087,7 @@ squarePercentIcon options =
 
 {-| squarePiIcon
 
-lucide-square-pi
+square-pi
 
 -}
 squarePiIcon : List (S.Attribute msg) -> H.Html msg
@@ -16097,7 +16097,7 @@ squarePiIcon options =
 
 {-| squarePilcrowIcon
 
-lucide-square-pilcrow
+square-pilcrow
 
 -}
 squarePilcrowIcon : List (S.Attribute msg) -> H.Html msg
@@ -16107,7 +16107,7 @@ squarePilcrowIcon options =
 
 {-| squarePlayIcon
 
-lucide-square-play
+square-play
 
 -}
 squarePlayIcon : List (S.Attribute msg) -> H.Html msg
@@ -16117,7 +16117,7 @@ squarePlayIcon options =
 
 {-| squarePlusIcon
 
-lucide-square-plus
+square-plus
 
 -}
 squarePlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -16127,7 +16127,7 @@ squarePlusIcon options =
 
 {-| squarePowerIcon
 
-lucide-square-power
+square-power
 
 -}
 squarePowerIcon : List (S.Attribute msg) -> H.Html msg
@@ -16137,7 +16137,7 @@ squarePowerIcon options =
 
 {-| squareRadicalIcon
 
-lucide-square-radical
+square-radical
 
 -}
 squareRadicalIcon : List (S.Attribute msg) -> H.Html msg
@@ -16147,7 +16147,7 @@ squareRadicalIcon options =
 
 {-| squareRoundCornerIcon
 
-lucide-square-round-corner
+square-round-corner
 
 -}
 squareRoundCornerIcon : List (S.Attribute msg) -> H.Html msg
@@ -16157,7 +16157,7 @@ squareRoundCornerIcon options =
 
 {-| squareScissorsIcon
 
-lucide-square-scissors
+square-scissors
 
 -}
 squareScissorsIcon : List (S.Attribute msg) -> H.Html msg
@@ -16167,7 +16167,7 @@ squareScissorsIcon options =
 
 {-| squareSigmaIcon
 
-lucide-square-sigma
+square-sigma
 
 -}
 squareSigmaIcon : List (S.Attribute msg) -> H.Html msg
@@ -16177,7 +16177,7 @@ squareSigmaIcon options =
 
 {-| squareSlashIcon
 
-lucide-square-slash
+square-slash
 
 -}
 squareSlashIcon : List (S.Attribute msg) -> H.Html msg
@@ -16187,7 +16187,7 @@ squareSlashIcon options =
 
 {-| squareSplitHorizontalIcon
 
-lucide-square-split-horizontal
+square-split-horizontal
 
 -}
 squareSplitHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -16197,7 +16197,7 @@ squareSplitHorizontalIcon options =
 
 {-| squareSplitVerticalIcon
 
-lucide-square-split-vertical
+square-split-vertical
 
 -}
 squareSplitVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -16207,7 +16207,7 @@ squareSplitVerticalIcon options =
 
 {-| squareSquareIcon
 
-lucide-square-square
+square-square
 
 -}
 squareSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -16217,7 +16217,7 @@ squareSquareIcon options =
 
 {-| squareStackIcon
 
-lucide-square-stack
+square-stack
 
 -}
 squareStackIcon : List (S.Attribute msg) -> H.Html msg
@@ -16227,7 +16227,7 @@ squareStackIcon options =
 
 {-| squareStarIcon
 
-lucide-square-star
+square-star
 
 -}
 squareStarIcon : List (S.Attribute msg) -> H.Html msg
@@ -16237,7 +16237,7 @@ squareStarIcon options =
 
 {-| squareStopIcon
 
-lucide-square-stop
+square-stop
 
 -}
 squareStopIcon : List (S.Attribute msg) -> H.Html msg
@@ -16247,7 +16247,7 @@ squareStopIcon options =
 
 {-| squareTerminalIcon
 
-lucide-square-terminal
+square-terminal
 
 -}
 squareTerminalIcon : List (S.Attribute msg) -> H.Html msg
@@ -16257,7 +16257,7 @@ squareTerminalIcon options =
 
 {-| squareUserIcon
 
-lucide-square-user
+square-user
 
 -}
 squareUserIcon : List (S.Attribute msg) -> H.Html msg
@@ -16267,7 +16267,7 @@ squareUserIcon options =
 
 {-| squareUserRoundIcon
 
-lucide-square-user-round
+square-user-round
 
 -}
 squareUserRoundIcon : List (S.Attribute msg) -> H.Html msg
@@ -16277,7 +16277,7 @@ squareUserRoundIcon options =
 
 {-| squareXIcon
 
-lucide-square-x
+square-x
 
 -}
 squareXIcon : List (S.Attribute msg) -> H.Html msg
@@ -16287,7 +16287,7 @@ squareXIcon options =
 
 {-| squaresExcludeIcon
 
-lucide-squares-exclude
+squares-exclude
 
 -}
 squaresExcludeIcon : List (S.Attribute msg) -> H.Html msg
@@ -16297,7 +16297,7 @@ squaresExcludeIcon options =
 
 {-| squaresIntersectIcon
 
-lucide-squares-intersect
+squares-intersect
 
 -}
 squaresIntersectIcon : List (S.Attribute msg) -> H.Html msg
@@ -16307,7 +16307,7 @@ squaresIntersectIcon options =
 
 {-| squaresSubtractIcon
 
-lucide-squares-subtract
+squares-subtract
 
 -}
 squaresSubtractIcon : List (S.Attribute msg) -> H.Html msg
@@ -16317,7 +16317,7 @@ squaresSubtractIcon options =
 
 {-| squaresUniteIcon
 
-lucide-squares-unite
+squares-unite
 
 -}
 squaresUniteIcon : List (S.Attribute msg) -> H.Html msg
@@ -16327,7 +16327,7 @@ squaresUniteIcon options =
 
 {-| squircleIcon
 
-lucide-squircle
+squircle
 
 -}
 squircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -16337,7 +16337,7 @@ squircleIcon options =
 
 {-| squircleDashedIcon
 
-lucide-squircle-dashed
+squircle-dashed
 
 -}
 squircleDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -16347,7 +16347,7 @@ squircleDashedIcon options =
 
 {-| squirrelIcon
 
-lucide-squirrel
+squirrel
 
 -}
 squirrelIcon : List (S.Attribute msg) -> H.Html msg
@@ -16357,7 +16357,7 @@ squirrelIcon options =
 
 {-| stampIcon
 
-lucide-stamp
+stamp
 
 -}
 stampIcon : List (S.Attribute msg) -> H.Html msg
@@ -16367,7 +16367,7 @@ stampIcon options =
 
 {-| starIcon
 
-lucide-star
+star
 
 -}
 starIcon : List (S.Attribute msg) -> H.Html msg
@@ -16377,7 +16377,7 @@ starIcon options =
 
 {-| starHalfIcon
 
-lucide-star-half
+star-half
 
 -}
 starHalfIcon : List (S.Attribute msg) -> H.Html msg
@@ -16387,7 +16387,7 @@ starHalfIcon options =
 
 {-| starOffIcon
 
-lucide-star-off
+star-off
 
 -}
 starOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -16397,7 +16397,7 @@ starOffIcon options =
 
 {-| starsIcon
 
-lucide-sparkles
+sparkles
 
 -}
 starsIcon : List (S.Attribute msg) -> H.Html msg
@@ -16407,7 +16407,7 @@ starsIcon options =
 
 {-| stepBackIcon
 
-lucide-step-back
+step-back
 
 -}
 stepBackIcon : List (S.Attribute msg) -> H.Html msg
@@ -16417,7 +16417,7 @@ stepBackIcon options =
 
 {-| stepForwardIcon
 
-lucide-step-forward
+step-forward
 
 -}
 stepForwardIcon : List (S.Attribute msg) -> H.Html msg
@@ -16427,7 +16427,7 @@ stepForwardIcon options =
 
 {-| stethoscopeIcon
 
-lucide-stethoscope
+stethoscope
 
 -}
 stethoscopeIcon : List (S.Attribute msg) -> H.Html msg
@@ -16437,7 +16437,7 @@ stethoscopeIcon options =
 
 {-| stickerIcon
 
-lucide-sticker
+sticker
 
 -}
 stickerIcon : List (S.Attribute msg) -> H.Html msg
@@ -16447,7 +16447,7 @@ stickerIcon options =
 
 {-| stickyNoteIcon
 
-lucide-sticky-note
+sticky-note
 
 -}
 stickyNoteIcon : List (S.Attribute msg) -> H.Html msg
@@ -16457,7 +16457,7 @@ stickyNoteIcon options =
 
 {-| stopCircleIcon
 
-lucide-circle-stop
+circle-stop
 
 -}
 stopCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -16467,7 +16467,7 @@ stopCircleIcon options =
 
 {-| storeIcon
 
-lucide-store
+store
 
 -}
 storeIcon : List (S.Attribute msg) -> H.Html msg
@@ -16477,7 +16477,7 @@ storeIcon options =
 
 {-| stretchHorizontalIcon
 
-lucide-stretch-horizontal
+stretch-horizontal
 
 -}
 stretchHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -16487,7 +16487,7 @@ stretchHorizontalIcon options =
 
 {-| stretchVerticalIcon
 
-lucide-stretch-vertical
+stretch-vertical
 
 -}
 stretchVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -16497,7 +16497,7 @@ stretchVerticalIcon options =
 
 {-| strikethroughIcon
 
-lucide-strikethrough
+strikethrough
 
 -}
 strikethroughIcon : List (S.Attribute msg) -> H.Html msg
@@ -16507,7 +16507,7 @@ strikethroughIcon options =
 
 {-| subscriptIcon
 
-lucide-subscript
+subscript
 
 -}
 subscriptIcon : List (S.Attribute msg) -> H.Html msg
@@ -16517,7 +16517,7 @@ subscriptIcon options =
 
 {-| subtitlesIcon
 
-lucide-captions
+captions
 
 -}
 subtitlesIcon : List (S.Attribute msg) -> H.Html msg
@@ -16527,7 +16527,7 @@ subtitlesIcon options =
 
 {-| sunIcon
 
-lucide-sun
+sun
 
 -}
 sunIcon : List (S.Attribute msg) -> H.Html msg
@@ -16537,7 +16537,7 @@ sunIcon options =
 
 {-| sunDimIcon
 
-lucide-sun-dim
+sun-dim
 
 -}
 sunDimIcon : List (S.Attribute msg) -> H.Html msg
@@ -16547,7 +16547,7 @@ sunDimIcon options =
 
 {-| sunMediumIcon
 
-lucide-sun-medium
+sun-medium
 
 -}
 sunMediumIcon : List (S.Attribute msg) -> H.Html msg
@@ -16557,7 +16557,7 @@ sunMediumIcon options =
 
 {-| sunMoonIcon
 
-lucide-sun-moon
+sun-moon
 
 -}
 sunMoonIcon : List (S.Attribute msg) -> H.Html msg
@@ -16567,7 +16567,7 @@ sunMoonIcon options =
 
 {-| sunSnowIcon
 
-lucide-sun-snow
+sun-snow
 
 -}
 sunSnowIcon : List (S.Attribute msg) -> H.Html msg
@@ -16577,7 +16577,7 @@ sunSnowIcon options =
 
 {-| sunriseIcon
 
-lucide-sunrise
+sunrise
 
 -}
 sunriseIcon : List (S.Attribute msg) -> H.Html msg
@@ -16587,7 +16587,7 @@ sunriseIcon options =
 
 {-| sunsetIcon
 
-lucide-sunset
+sunset
 
 -}
 sunsetIcon : List (S.Attribute msg) -> H.Html msg
@@ -16597,7 +16597,7 @@ sunsetIcon options =
 
 {-| superscriptIcon
 
-lucide-superscript
+superscript
 
 -}
 superscriptIcon : List (S.Attribute msg) -> H.Html msg
@@ -16607,7 +16607,7 @@ superscriptIcon options =
 
 {-| swatchBookIcon
 
-lucide-swatch-book
+swatch-book
 
 -}
 swatchBookIcon : List (S.Attribute msg) -> H.Html msg
@@ -16617,7 +16617,7 @@ swatchBookIcon options =
 
 {-| swissFrancIcon
 
-lucide-swiss-franc
+swiss-franc
 
 -}
 swissFrancIcon : List (S.Attribute msg) -> H.Html msg
@@ -16627,7 +16627,7 @@ swissFrancIcon options =
 
 {-| switchCameraIcon
 
-lucide-switch-camera
+switch-camera
 
 -}
 switchCameraIcon : List (S.Attribute msg) -> H.Html msg
@@ -16637,7 +16637,7 @@ switchCameraIcon options =
 
 {-| swordIcon
 
-lucide-sword
+sword
 
 -}
 swordIcon : List (S.Attribute msg) -> H.Html msg
@@ -16647,7 +16647,7 @@ swordIcon options =
 
 {-| swordsIcon
 
-lucide-swords
+swords
 
 -}
 swordsIcon : List (S.Attribute msg) -> H.Html msg
@@ -16657,7 +16657,7 @@ swordsIcon options =
 
 {-| syringeIcon
 
-lucide-syringe
+syringe
 
 -}
 syringeIcon : List (S.Attribute msg) -> H.Html msg
@@ -16667,7 +16667,7 @@ syringeIcon options =
 
 {-| tableIcon
 
-lucide-table
+table
 
 -}
 tableIcon : List (S.Attribute msg) -> H.Html msg
@@ -16677,7 +16677,7 @@ tableIcon options =
 
 {-| table2Icon
 
-lucide-table-2
+table-2
 
 -}
 table2Icon : List (S.Attribute msg) -> H.Html msg
@@ -16687,7 +16687,7 @@ table2Icon options =
 
 {-| tableCellsMergeIcon
 
-lucide-table-cells-merge
+table-cells-merge
 
 -}
 tableCellsMergeIcon : List (S.Attribute msg) -> H.Html msg
@@ -16697,7 +16697,7 @@ tableCellsMergeIcon options =
 
 {-| tableCellsSplitIcon
 
-lucide-table-cells-split
+table-cells-split
 
 -}
 tableCellsSplitIcon : List (S.Attribute msg) -> H.Html msg
@@ -16707,7 +16707,7 @@ tableCellsSplitIcon options =
 
 {-| tableColumnsSplitIcon
 
-lucide-table-columns-split
+table-columns-split
 
 -}
 tableColumnsSplitIcon : List (S.Attribute msg) -> H.Html msg
@@ -16717,7 +16717,7 @@ tableColumnsSplitIcon options =
 
 {-| tableConfigIcon
 
-lucide-columns-3-cog
+columns-3-cog
 
 -}
 tableConfigIcon : List (S.Attribute msg) -> H.Html msg
@@ -16727,7 +16727,7 @@ tableConfigIcon options =
 
 {-| tableOfContentsIcon
 
-lucide-table-of-contents
+table-of-contents
 
 -}
 tableOfContentsIcon : List (S.Attribute msg) -> H.Html msg
@@ -16737,7 +16737,7 @@ tableOfContentsIcon options =
 
 {-| tablePropertiesIcon
 
-lucide-table-properties
+table-properties
 
 -}
 tablePropertiesIcon : List (S.Attribute msg) -> H.Html msg
@@ -16747,7 +16747,7 @@ tablePropertiesIcon options =
 
 {-| tableRowsSplitIcon
 
-lucide-table-rows-split
+table-rows-split
 
 -}
 tableRowsSplitIcon : List (S.Attribute msg) -> H.Html msg
@@ -16757,7 +16757,7 @@ tableRowsSplitIcon options =
 
 {-| tabletIcon
 
-lucide-tablet
+tablet
 
 -}
 tabletIcon : List (S.Attribute msg) -> H.Html msg
@@ -16767,7 +16767,7 @@ tabletIcon options =
 
 {-| tabletSmartphoneIcon
 
-lucide-tablet-smartphone
+tablet-smartphone
 
 -}
 tabletSmartphoneIcon : List (S.Attribute msg) -> H.Html msg
@@ -16777,7 +16777,7 @@ tabletSmartphoneIcon options =
 
 {-| tabletsIcon
 
-lucide-tablets
+tablets
 
 -}
 tabletsIcon : List (S.Attribute msg) -> H.Html msg
@@ -16787,7 +16787,7 @@ tabletsIcon options =
 
 {-| tagIcon
 
-lucide-tag
+tag
 
 -}
 tagIcon : List (S.Attribute msg) -> H.Html msg
@@ -16797,7 +16797,7 @@ tagIcon options =
 
 {-| tagsIcon
 
-lucide-tags
+tags
 
 -}
 tagsIcon : List (S.Attribute msg) -> H.Html msg
@@ -16807,7 +16807,7 @@ tagsIcon options =
 
 {-| tally1Icon
 
-lucide-tally-1
+tally-1
 
 -}
 tally1Icon : List (S.Attribute msg) -> H.Html msg
@@ -16817,7 +16817,7 @@ tally1Icon options =
 
 {-| tally2Icon
 
-lucide-tally-2
+tally-2
 
 -}
 tally2Icon : List (S.Attribute msg) -> H.Html msg
@@ -16827,7 +16827,7 @@ tally2Icon options =
 
 {-| tally3Icon
 
-lucide-tally-3
+tally-3
 
 -}
 tally3Icon : List (S.Attribute msg) -> H.Html msg
@@ -16837,7 +16837,7 @@ tally3Icon options =
 
 {-| tally4Icon
 
-lucide-tally-4
+tally-4
 
 -}
 tally4Icon : List (S.Attribute msg) -> H.Html msg
@@ -16847,7 +16847,7 @@ tally4Icon options =
 
 {-| tally5Icon
 
-lucide-tally-5
+tally-5
 
 -}
 tally5Icon : List (S.Attribute msg) -> H.Html msg
@@ -16857,7 +16857,7 @@ tally5Icon options =
 
 {-| tangentIcon
 
-lucide-tangent
+tangent
 
 -}
 tangentIcon : List (S.Attribute msg) -> H.Html msg
@@ -16867,7 +16867,7 @@ tangentIcon options =
 
 {-| targetIcon
 
-lucide-target
+target
 
 -}
 targetIcon : List (S.Attribute msg) -> H.Html msg
@@ -16877,7 +16877,7 @@ targetIcon options =
 
 {-| telescopeIcon
 
-lucide-telescope
+telescope
 
 -}
 telescopeIcon : List (S.Attribute msg) -> H.Html msg
@@ -16887,7 +16887,7 @@ telescopeIcon options =
 
 {-| tentIcon
 
-lucide-tent
+tent
 
 -}
 tentIcon : List (S.Attribute msg) -> H.Html msg
@@ -16897,7 +16897,7 @@ tentIcon options =
 
 {-| tentTreeIcon
 
-lucide-tent-tree
+tent-tree
 
 -}
 tentTreeIcon : List (S.Attribute msg) -> H.Html msg
@@ -16907,7 +16907,7 @@ tentTreeIcon options =
 
 {-| terminalIcon
 
-lucide-terminal
+terminal
 
 -}
 terminalIcon : List (S.Attribute msg) -> H.Html msg
@@ -16917,7 +16917,7 @@ terminalIcon options =
 
 {-| terminalSquareIcon
 
-lucide-square-terminal
+square-terminal
 
 -}
 terminalSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -16927,7 +16927,7 @@ terminalSquareIcon options =
 
 {-| testTubeIcon
 
-lucide-test-tube
+test-tube
 
 -}
 testTubeIcon : List (S.Attribute msg) -> H.Html msg
@@ -16937,7 +16937,7 @@ testTubeIcon options =
 
 {-| testTube2Icon
 
-lucide-test-tube-diagonal
+test-tube-diagonal
 
 -}
 testTube2Icon : List (S.Attribute msg) -> H.Html msg
@@ -16947,7 +16947,7 @@ testTube2Icon options =
 
 {-| testTubeDiagonalIcon
 
-lucide-test-tube-diagonal
+test-tube-diagonal
 
 -}
 testTubeDiagonalIcon : List (S.Attribute msg) -> H.Html msg
@@ -16957,7 +16957,7 @@ testTubeDiagonalIcon options =
 
 {-| testTubesIcon
 
-lucide-test-tubes
+test-tubes
 
 -}
 testTubesIcon : List (S.Attribute msg) -> H.Html msg
@@ -16967,7 +16967,7 @@ testTubesIcon options =
 
 {-| textIcon
 
-lucide-text-align-start
+text-align-start
 
 -}
 textIcon : List (S.Attribute msg) -> H.Html msg
@@ -16977,7 +16977,7 @@ textIcon options =
 
 {-| textAlignCenterIcon
 
-lucide-text-align-center
+text-align-center
 
 -}
 textAlignCenterIcon : List (S.Attribute msg) -> H.Html msg
@@ -16987,7 +16987,7 @@ textAlignCenterIcon options =
 
 {-| textAlignEndIcon
 
-lucide-text-align-end
+text-align-end
 
 -}
 textAlignEndIcon : List (S.Attribute msg) -> H.Html msg
@@ -16997,7 +16997,7 @@ textAlignEndIcon options =
 
 {-| textAlignJustifyIcon
 
-lucide-text-align-justify
+text-align-justify
 
 -}
 textAlignJustifyIcon : List (S.Attribute msg) -> H.Html msg
@@ -17007,7 +17007,7 @@ textAlignJustifyIcon options =
 
 {-| textAlignStartIcon
 
-lucide-text-align-start
+text-align-start
 
 -}
 textAlignStartIcon : List (S.Attribute msg) -> H.Html msg
@@ -17017,7 +17017,7 @@ textAlignStartIcon options =
 
 {-| textCursorIcon
 
-lucide-text-cursor
+text-cursor
 
 -}
 textCursorIcon : List (S.Attribute msg) -> H.Html msg
@@ -17027,7 +17027,7 @@ textCursorIcon options =
 
 {-| textCursorInputIcon
 
-lucide-text-cursor-input
+text-cursor-input
 
 -}
 textCursorInputIcon : List (S.Attribute msg) -> H.Html msg
@@ -17037,7 +17037,7 @@ textCursorInputIcon options =
 
 {-| textInitialIcon
 
-lucide-text-initial
+text-initial
 
 -}
 textInitialIcon : List (S.Attribute msg) -> H.Html msg
@@ -17047,7 +17047,7 @@ textInitialIcon options =
 
 {-| textQuoteIcon
 
-lucide-text-quote
+text-quote
 
 -}
 textQuoteIcon : List (S.Attribute msg) -> H.Html msg
@@ -17057,7 +17057,7 @@ textQuoteIcon options =
 
 {-| textSearchIcon
 
-lucide-text-search
+text-search
 
 -}
 textSearchIcon : List (S.Attribute msg) -> H.Html msg
@@ -17067,7 +17067,7 @@ textSearchIcon options =
 
 {-| textSelectIcon
 
-lucide-text-select
+text-select
 
 -}
 textSelectIcon : List (S.Attribute msg) -> H.Html msg
@@ -17077,7 +17077,7 @@ textSelectIcon options =
 
 {-| textSelectionIcon
 
-lucide-text-select
+text-select
 
 -}
 textSelectionIcon : List (S.Attribute msg) -> H.Html msg
@@ -17087,7 +17087,7 @@ textSelectionIcon options =
 
 {-| textWrapIcon
 
-lucide-text-wrap
+text-wrap
 
 -}
 textWrapIcon : List (S.Attribute msg) -> H.Html msg
@@ -17097,7 +17097,7 @@ textWrapIcon options =
 
 {-| theaterIcon
 
-lucide-theater
+theater
 
 -}
 theaterIcon : List (S.Attribute msg) -> H.Html msg
@@ -17107,7 +17107,7 @@ theaterIcon options =
 
 {-| thermometerIcon
 
-lucide-thermometer
+thermometer
 
 -}
 thermometerIcon : List (S.Attribute msg) -> H.Html msg
@@ -17117,7 +17117,7 @@ thermometerIcon options =
 
 {-| thermometerSnowflakeIcon
 
-lucide-thermometer-snowflake
+thermometer-snowflake
 
 -}
 thermometerSnowflakeIcon : List (S.Attribute msg) -> H.Html msg
@@ -17127,7 +17127,7 @@ thermometerSnowflakeIcon options =
 
 {-| thermometerSunIcon
 
-lucide-thermometer-sun
+thermometer-sun
 
 -}
 thermometerSunIcon : List (S.Attribute msg) -> H.Html msg
@@ -17137,7 +17137,7 @@ thermometerSunIcon options =
 
 {-| thumbsDownIcon
 
-lucide-thumbs-down
+thumbs-down
 
 -}
 thumbsDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -17147,7 +17147,7 @@ thumbsDownIcon options =
 
 {-| thumbsUpIcon
 
-lucide-thumbs-up
+thumbs-up
 
 -}
 thumbsUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -17157,7 +17157,7 @@ thumbsUpIcon options =
 
 {-| ticketIcon
 
-lucide-ticket
+ticket
 
 -}
 ticketIcon : List (S.Attribute msg) -> H.Html msg
@@ -17167,7 +17167,7 @@ ticketIcon options =
 
 {-| ticketCheckIcon
 
-lucide-ticket-check
+ticket-check
 
 -}
 ticketCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -17177,7 +17177,7 @@ ticketCheckIcon options =
 
 {-| ticketMinusIcon
 
-lucide-ticket-minus
+ticket-minus
 
 -}
 ticketMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -17187,7 +17187,7 @@ ticketMinusIcon options =
 
 {-| ticketPercentIcon
 
-lucide-ticket-percent
+ticket-percent
 
 -}
 ticketPercentIcon : List (S.Attribute msg) -> H.Html msg
@@ -17197,7 +17197,7 @@ ticketPercentIcon options =
 
 {-| ticketPlusIcon
 
-lucide-ticket-plus
+ticket-plus
 
 -}
 ticketPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -17207,7 +17207,7 @@ ticketPlusIcon options =
 
 {-| ticketSlashIcon
 
-lucide-ticket-slash
+ticket-slash
 
 -}
 ticketSlashIcon : List (S.Attribute msg) -> H.Html msg
@@ -17217,7 +17217,7 @@ ticketSlashIcon options =
 
 {-| ticketXIcon
 
-lucide-ticket-x
+ticket-x
 
 -}
 ticketXIcon : List (S.Attribute msg) -> H.Html msg
@@ -17227,7 +17227,7 @@ ticketXIcon options =
 
 {-| ticketsIcon
 
-lucide-tickets
+tickets
 
 -}
 ticketsIcon : List (S.Attribute msg) -> H.Html msg
@@ -17237,7 +17237,7 @@ ticketsIcon options =
 
 {-| ticketsPlaneIcon
 
-lucide-tickets-plane
+tickets-plane
 
 -}
 ticketsPlaneIcon : List (S.Attribute msg) -> H.Html msg
@@ -17247,7 +17247,7 @@ ticketsPlaneIcon options =
 
 {-| timerIcon
 
-lucide-timer
+timer
 
 -}
 timerIcon : List (S.Attribute msg) -> H.Html msg
@@ -17257,7 +17257,7 @@ timerIcon options =
 
 {-| timerOffIcon
 
-lucide-timer-off
+timer-off
 
 -}
 timerOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -17267,7 +17267,7 @@ timerOffIcon options =
 
 {-| timerResetIcon
 
-lucide-timer-reset
+timer-reset
 
 -}
 timerResetIcon : List (S.Attribute msg) -> H.Html msg
@@ -17277,7 +17277,7 @@ timerResetIcon options =
 
 {-| toggleLeftIcon
 
-lucide-toggle-left
+toggle-left
 
 -}
 toggleLeftIcon : List (S.Attribute msg) -> H.Html msg
@@ -17287,7 +17287,7 @@ toggleLeftIcon options =
 
 {-| toggleRightIcon
 
-lucide-toggle-right
+toggle-right
 
 -}
 toggleRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -17297,7 +17297,7 @@ toggleRightIcon options =
 
 {-| toiletIcon
 
-lucide-toilet
+toilet
 
 -}
 toiletIcon : List (S.Attribute msg) -> H.Html msg
@@ -17307,7 +17307,7 @@ toiletIcon options =
 
 {-| toolCaseIcon
 
-lucide-tool-case
+tool-case
 
 -}
 toolCaseIcon : List (S.Attribute msg) -> H.Html msg
@@ -17317,7 +17317,7 @@ toolCaseIcon options =
 
 {-| tornadoIcon
 
-lucide-tornado
+tornado
 
 -}
 tornadoIcon : List (S.Attribute msg) -> H.Html msg
@@ -17327,7 +17327,7 @@ tornadoIcon options =
 
 {-| torusIcon
 
-lucide-torus
+torus
 
 -}
 torusIcon : List (S.Attribute msg) -> H.Html msg
@@ -17337,7 +17337,7 @@ torusIcon options =
 
 {-| touchpadIcon
 
-lucide-touchpad
+touchpad
 
 -}
 touchpadIcon : List (S.Attribute msg) -> H.Html msg
@@ -17347,7 +17347,7 @@ touchpadIcon options =
 
 {-| touchpadOffIcon
 
-lucide-touchpad-off
+touchpad-off
 
 -}
 touchpadOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -17357,7 +17357,7 @@ touchpadOffIcon options =
 
 {-| towerControlIcon
 
-lucide-tower-control
+tower-control
 
 -}
 towerControlIcon : List (S.Attribute msg) -> H.Html msg
@@ -17367,7 +17367,7 @@ towerControlIcon options =
 
 {-| toyBrickIcon
 
-lucide-toy-brick
+toy-brick
 
 -}
 toyBrickIcon : List (S.Attribute msg) -> H.Html msg
@@ -17377,7 +17377,7 @@ toyBrickIcon options =
 
 {-| tractorIcon
 
-lucide-tractor
+tractor
 
 -}
 tractorIcon : List (S.Attribute msg) -> H.Html msg
@@ -17387,7 +17387,7 @@ tractorIcon options =
 
 {-| trafficConeIcon
 
-lucide-traffic-cone
+traffic-cone
 
 -}
 trafficConeIcon : List (S.Attribute msg) -> H.Html msg
@@ -17397,7 +17397,7 @@ trafficConeIcon options =
 
 {-| trainIcon
 
-lucide-tram-front
+tram-front
 
 -}
 trainIcon : List (S.Attribute msg) -> H.Html msg
@@ -17407,7 +17407,7 @@ trainIcon options =
 
 {-| trainFrontIcon
 
-lucide-train-front
+train-front
 
 -}
 trainFrontIcon : List (S.Attribute msg) -> H.Html msg
@@ -17417,7 +17417,7 @@ trainFrontIcon options =
 
 {-| trainFrontTunnelIcon
 
-lucide-train-front-tunnel
+train-front-tunnel
 
 -}
 trainFrontTunnelIcon : List (S.Attribute msg) -> H.Html msg
@@ -17427,7 +17427,7 @@ trainFrontTunnelIcon options =
 
 {-| trainTrackIcon
 
-lucide-train-track
+train-track
 
 -}
 trainTrackIcon : List (S.Attribute msg) -> H.Html msg
@@ -17437,7 +17437,7 @@ trainTrackIcon options =
 
 {-| tramFrontIcon
 
-lucide-tram-front
+tram-front
 
 -}
 tramFrontIcon : List (S.Attribute msg) -> H.Html msg
@@ -17447,7 +17447,7 @@ tramFrontIcon options =
 
 {-| transgenderIcon
 
-lucide-transgender
+transgender
 
 -}
 transgenderIcon : List (S.Attribute msg) -> H.Html msg
@@ -17457,7 +17457,7 @@ transgenderIcon options =
 
 {-| trashIcon
 
-lucide-trash
+trash
 
 -}
 trashIcon : List (S.Attribute msg) -> H.Html msg
@@ -17467,7 +17467,7 @@ trashIcon options =
 
 {-| trash2Icon
 
-lucide-trash-2
+trash-2
 
 -}
 trash2Icon : List (S.Attribute msg) -> H.Html msg
@@ -17477,7 +17477,7 @@ trash2Icon options =
 
 {-| treeDeciduousIcon
 
-lucide-tree-deciduous
+tree-deciduous
 
 -}
 treeDeciduousIcon : List (S.Attribute msg) -> H.Html msg
@@ -17487,7 +17487,7 @@ treeDeciduousIcon options =
 
 {-| treePalmIcon
 
-lucide-tree-palm
+tree-palm
 
 -}
 treePalmIcon : List (S.Attribute msg) -> H.Html msg
@@ -17497,7 +17497,7 @@ treePalmIcon options =
 
 {-| treePineIcon
 
-lucide-tree-pine
+tree-pine
 
 -}
 treePineIcon : List (S.Attribute msg) -> H.Html msg
@@ -17507,7 +17507,7 @@ treePineIcon options =
 
 {-| treesIcon
 
-lucide-trees
+trees
 
 -}
 treesIcon : List (S.Attribute msg) -> H.Html msg
@@ -17517,7 +17517,7 @@ treesIcon options =
 
 {-| trelloIcon
 
-lucide-trello
+trello
 
 -}
 trelloIcon : List (S.Attribute msg) -> H.Html msg
@@ -17527,7 +17527,7 @@ trelloIcon options =
 
 {-| trendingDownIcon
 
-lucide-trending-down
+trending-down
 
 -}
 trendingDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -17537,7 +17537,7 @@ trendingDownIcon options =
 
 {-| trendingUpIcon
 
-lucide-trending-up
+trending-up
 
 -}
 trendingUpIcon : List (S.Attribute msg) -> H.Html msg
@@ -17547,7 +17547,7 @@ trendingUpIcon options =
 
 {-| trendingUpDownIcon
 
-lucide-trending-up-down
+trending-up-down
 
 -}
 trendingUpDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -17557,7 +17557,7 @@ trendingUpDownIcon options =
 
 {-| triangleIcon
 
-lucide-triangle
+triangle
 
 -}
 triangleIcon : List (S.Attribute msg) -> H.Html msg
@@ -17567,7 +17567,7 @@ triangleIcon options =
 
 {-| triangleAlertIcon
 
-lucide-triangle-alert
+triangle-alert
 
 -}
 triangleAlertIcon : List (S.Attribute msg) -> H.Html msg
@@ -17577,7 +17577,7 @@ triangleAlertIcon options =
 
 {-| triangleDashedIcon
 
-lucide-triangle-dashed
+triangle-dashed
 
 -}
 triangleDashedIcon : List (S.Attribute msg) -> H.Html msg
@@ -17587,7 +17587,7 @@ triangleDashedIcon options =
 
 {-| triangleRightIcon
 
-lucide-triangle-right
+triangle-right
 
 -}
 triangleRightIcon : List (S.Attribute msg) -> H.Html msg
@@ -17597,7 +17597,7 @@ triangleRightIcon options =
 
 {-| trophyIcon
 
-lucide-trophy
+trophy
 
 -}
 trophyIcon : List (S.Attribute msg) -> H.Html msg
@@ -17607,7 +17607,7 @@ trophyIcon options =
 
 {-| truckIcon
 
-lucide-truck
+truck
 
 -}
 truckIcon : List (S.Attribute msg) -> H.Html msg
@@ -17617,7 +17617,7 @@ truckIcon options =
 
 {-| truckElectricIcon
 
-lucide-truck-electric
+truck-electric
 
 -}
 truckElectricIcon : List (S.Attribute msg) -> H.Html msg
@@ -17627,7 +17627,7 @@ truckElectricIcon options =
 
 {-| turkishLiraIcon
 
-lucide-turkish-lira
+turkish-lira
 
 -}
 turkishLiraIcon : List (S.Attribute msg) -> H.Html msg
@@ -17637,7 +17637,7 @@ turkishLiraIcon options =
 
 {-| turntableIcon
 
-lucide-turntable
+turntable
 
 -}
 turntableIcon : List (S.Attribute msg) -> H.Html msg
@@ -17647,7 +17647,7 @@ turntableIcon options =
 
 {-| turtleIcon
 
-lucide-turtle
+turtle
 
 -}
 turtleIcon : List (S.Attribute msg) -> H.Html msg
@@ -17657,7 +17657,7 @@ turtleIcon options =
 
 {-| tvIcon
 
-lucide-tv
+tv
 
 -}
 tvIcon : List (S.Attribute msg) -> H.Html msg
@@ -17667,7 +17667,7 @@ tvIcon options =
 
 {-| tv2Icon
 
-lucide-tv-minimal
+tv-minimal
 
 -}
 tv2Icon : List (S.Attribute msg) -> H.Html msg
@@ -17677,7 +17677,7 @@ tv2Icon options =
 
 {-| tvMinimalIcon
 
-lucide-tv-minimal
+tv-minimal
 
 -}
 tvMinimalIcon : List (S.Attribute msg) -> H.Html msg
@@ -17687,7 +17687,7 @@ tvMinimalIcon options =
 
 {-| tvMinimalPlayIcon
 
-lucide-tv-minimal-play
+tv-minimal-play
 
 -}
 tvMinimalPlayIcon : List (S.Attribute msg) -> H.Html msg
@@ -17697,7 +17697,7 @@ tvMinimalPlayIcon options =
 
 {-| twitchIcon
 
-lucide-twitch
+twitch
 
 -}
 twitchIcon : List (S.Attribute msg) -> H.Html msg
@@ -17707,7 +17707,7 @@ twitchIcon options =
 
 {-| twitterIcon
 
-lucide-twitter
+twitter
 
 -}
 twitterIcon : List (S.Attribute msg) -> H.Html msg
@@ -17717,7 +17717,7 @@ twitterIcon options =
 
 {-| typeIcon
 
-lucide-type
+type
 
 -}
 typeIcon : List (S.Attribute msg) -> H.Html msg
@@ -17727,7 +17727,7 @@ typeIcon options =
 
 {-| typeOutlineIcon
 
-lucide-type-outline
+type-outline
 
 -}
 typeOutlineIcon : List (S.Attribute msg) -> H.Html msg
@@ -17737,7 +17737,7 @@ typeOutlineIcon options =
 
 {-| umbrellaIcon
 
-lucide-umbrella
+umbrella
 
 -}
 umbrellaIcon : List (S.Attribute msg) -> H.Html msg
@@ -17747,7 +17747,7 @@ umbrellaIcon options =
 
 {-| umbrellaOffIcon
 
-lucide-umbrella-off
+umbrella-off
 
 -}
 umbrellaOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -17757,7 +17757,7 @@ umbrellaOffIcon options =
 
 {-| underlineIcon
 
-lucide-underline
+underline
 
 -}
 underlineIcon : List (S.Attribute msg) -> H.Html msg
@@ -17767,7 +17767,7 @@ underlineIcon options =
 
 {-| undoIcon
 
-lucide-undo
+undo
 
 -}
 undoIcon : List (S.Attribute msg) -> H.Html msg
@@ -17777,7 +17777,7 @@ undoIcon options =
 
 {-| undo2Icon
 
-lucide-undo-2
+undo-2
 
 -}
 undo2Icon : List (S.Attribute msg) -> H.Html msg
@@ -17787,7 +17787,7 @@ undo2Icon options =
 
 {-| undoDotIcon
 
-lucide-undo-dot
+undo-dot
 
 -}
 undoDotIcon : List (S.Attribute msg) -> H.Html msg
@@ -17797,7 +17797,7 @@ undoDotIcon options =
 
 {-| unfoldHorizontalIcon
 
-lucide-unfold-horizontal
+unfold-horizontal
 
 -}
 unfoldHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -17807,7 +17807,7 @@ unfoldHorizontalIcon options =
 
 {-| unfoldVerticalIcon
 
-lucide-unfold-vertical
+unfold-vertical
 
 -}
 unfoldVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -17817,7 +17817,7 @@ unfoldVerticalIcon options =
 
 {-| ungroupIcon
 
-lucide-ungroup
+ungroup
 
 -}
 ungroupIcon : List (S.Attribute msg) -> H.Html msg
@@ -17827,7 +17827,7 @@ ungroupIcon options =
 
 {-| universityIcon
 
-lucide-university
+university
 
 -}
 universityIcon : List (S.Attribute msg) -> H.Html msg
@@ -17837,7 +17837,7 @@ universityIcon options =
 
 {-| unlinkIcon
 
-lucide-unlink
+unlink
 
 -}
 unlinkIcon : List (S.Attribute msg) -> H.Html msg
@@ -17847,7 +17847,7 @@ unlinkIcon options =
 
 {-| unlink2Icon
 
-lucide-unlink-2
+unlink-2
 
 -}
 unlink2Icon : List (S.Attribute msg) -> H.Html msg
@@ -17857,7 +17857,7 @@ unlink2Icon options =
 
 {-| unlockIcon
 
-lucide-lock-open
+lock-open
 
 -}
 unlockIcon : List (S.Attribute msg) -> H.Html msg
@@ -17867,7 +17867,7 @@ unlockIcon options =
 
 {-| unlockKeyholeIcon
 
-lucide-lock-keyhole-open
+lock-keyhole-open
 
 -}
 unlockKeyholeIcon : List (S.Attribute msg) -> H.Html msg
@@ -17877,7 +17877,7 @@ unlockKeyholeIcon options =
 
 {-| unplugIcon
 
-lucide-unplug
+unplug
 
 -}
 unplugIcon : List (S.Attribute msg) -> H.Html msg
@@ -17887,7 +17887,7 @@ unplugIcon options =
 
 {-| uploadIcon
 
-lucide-upload
+upload
 
 -}
 uploadIcon : List (S.Attribute msg) -> H.Html msg
@@ -17897,7 +17897,7 @@ uploadIcon options =
 
 {-| uploadCloudIcon
 
-lucide-cloud-upload
+cloud-upload
 
 -}
 uploadCloudIcon : List (S.Attribute msg) -> H.Html msg
@@ -17907,7 +17907,7 @@ uploadCloudIcon options =
 
 {-| usbIcon
 
-lucide-usb
+usb
 
 -}
 usbIcon : List (S.Attribute msg) -> H.Html msg
@@ -17917,7 +17917,7 @@ usbIcon options =
 
 {-| userIcon
 
-lucide-user
+user
 
 -}
 userIcon : List (S.Attribute msg) -> H.Html msg
@@ -17927,7 +17927,7 @@ userIcon options =
 
 {-| user2Icon
 
-lucide-user-round
+user-round
 
 -}
 user2Icon : List (S.Attribute msg) -> H.Html msg
@@ -17937,7 +17937,7 @@ user2Icon options =
 
 {-| userCheckIcon
 
-lucide-user-check
+user-check
 
 -}
 userCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -17947,7 +17947,7 @@ userCheckIcon options =
 
 {-| userCheck2Icon
 
-lucide-user-round-check
+user-round-check
 
 -}
 userCheck2Icon : List (S.Attribute msg) -> H.Html msg
@@ -17957,7 +17957,7 @@ userCheck2Icon options =
 
 {-| userCircleIcon
 
-lucide-circle-user
+circle-user
 
 -}
 userCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -17967,7 +17967,7 @@ userCircleIcon options =
 
 {-| userCircle2Icon
 
-lucide-circle-user-round
+circle-user-round
 
 -}
 userCircle2Icon : List (S.Attribute msg) -> H.Html msg
@@ -17977,7 +17977,7 @@ userCircle2Icon options =
 
 {-| userCogIcon
 
-lucide-user-cog
+user-cog
 
 -}
 userCogIcon : List (S.Attribute msg) -> H.Html msg
@@ -17987,7 +17987,7 @@ userCogIcon options =
 
 {-| userCog2Icon
 
-lucide-user-round-cog
+user-round-cog
 
 -}
 userCog2Icon : List (S.Attribute msg) -> H.Html msg
@@ -17997,7 +17997,7 @@ userCog2Icon options =
 
 {-| userLockIcon
 
-lucide-user-lock
+user-lock
 
 -}
 userLockIcon : List (S.Attribute msg) -> H.Html msg
@@ -18007,7 +18007,7 @@ userLockIcon options =
 
 {-| userMinusIcon
 
-lucide-user-minus
+user-minus
 
 -}
 userMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -18017,7 +18017,7 @@ userMinusIcon options =
 
 {-| userMinus2Icon
 
-lucide-user-round-minus
+user-round-minus
 
 -}
 userMinus2Icon : List (S.Attribute msg) -> H.Html msg
@@ -18027,7 +18027,7 @@ userMinus2Icon options =
 
 {-| userPenIcon
 
-lucide-user-pen
+user-pen
 
 -}
 userPenIcon : List (S.Attribute msg) -> H.Html msg
@@ -18037,7 +18037,7 @@ userPenIcon options =
 
 {-| userPlusIcon
 
-lucide-user-plus
+user-plus
 
 -}
 userPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -18047,7 +18047,7 @@ userPlusIcon options =
 
 {-| userPlus2Icon
 
-lucide-user-round-plus
+user-round-plus
 
 -}
 userPlus2Icon : List (S.Attribute msg) -> H.Html msg
@@ -18057,7 +18057,7 @@ userPlus2Icon options =
 
 {-| userRoundIcon
 
-lucide-user-round
+user-round
 
 -}
 userRoundIcon : List (S.Attribute msg) -> H.Html msg
@@ -18067,7 +18067,7 @@ userRoundIcon options =
 
 {-| userRoundCheckIcon
 
-lucide-user-round-check
+user-round-check
 
 -}
 userRoundCheckIcon : List (S.Attribute msg) -> H.Html msg
@@ -18077,7 +18077,7 @@ userRoundCheckIcon options =
 
 {-| userRoundCogIcon
 
-lucide-user-round-cog
+user-round-cog
 
 -}
 userRoundCogIcon : List (S.Attribute msg) -> H.Html msg
@@ -18087,7 +18087,7 @@ userRoundCogIcon options =
 
 {-| userRoundMinusIcon
 
-lucide-user-round-minus
+user-round-minus
 
 -}
 userRoundMinusIcon : List (S.Attribute msg) -> H.Html msg
@@ -18097,7 +18097,7 @@ userRoundMinusIcon options =
 
 {-| userRoundPenIcon
 
-lucide-user-round-pen
+user-round-pen
 
 -}
 userRoundPenIcon : List (S.Attribute msg) -> H.Html msg
@@ -18107,7 +18107,7 @@ userRoundPenIcon options =
 
 {-| userRoundPlusIcon
 
-lucide-user-round-plus
+user-round-plus
 
 -}
 userRoundPlusIcon : List (S.Attribute msg) -> H.Html msg
@@ -18117,7 +18117,7 @@ userRoundPlusIcon options =
 
 {-| userRoundSearchIcon
 
-lucide-user-round-search
+user-round-search
 
 -}
 userRoundSearchIcon : List (S.Attribute msg) -> H.Html msg
@@ -18127,7 +18127,7 @@ userRoundSearchIcon options =
 
 {-| userRoundXIcon
 
-lucide-user-round-x
+user-round-x
 
 -}
 userRoundXIcon : List (S.Attribute msg) -> H.Html msg
@@ -18137,7 +18137,7 @@ userRoundXIcon options =
 
 {-| userSearchIcon
 
-lucide-user-search
+user-search
 
 -}
 userSearchIcon : List (S.Attribute msg) -> H.Html msg
@@ -18147,7 +18147,7 @@ userSearchIcon options =
 
 {-| userSquareIcon
 
-lucide-square-user
+square-user
 
 -}
 userSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -18157,7 +18157,7 @@ userSquareIcon options =
 
 {-| userSquare2Icon
 
-lucide-square-user-round
+square-user-round
 
 -}
 userSquare2Icon : List (S.Attribute msg) -> H.Html msg
@@ -18167,7 +18167,7 @@ userSquare2Icon options =
 
 {-| userStarIcon
 
-lucide-user-star
+user-star
 
 -}
 userStarIcon : List (S.Attribute msg) -> H.Html msg
@@ -18177,7 +18177,7 @@ userStarIcon options =
 
 {-| userXIcon
 
-lucide-user-x
+user-x
 
 -}
 userXIcon : List (S.Attribute msg) -> H.Html msg
@@ -18187,7 +18187,7 @@ userXIcon options =
 
 {-| userX2Icon
 
-lucide-user-round-x
+user-round-x
 
 -}
 userX2Icon : List (S.Attribute msg) -> H.Html msg
@@ -18197,7 +18197,7 @@ userX2Icon options =
 
 {-| usersIcon
 
-lucide-users
+users
 
 -}
 usersIcon : List (S.Attribute msg) -> H.Html msg
@@ -18207,7 +18207,7 @@ usersIcon options =
 
 {-| users2Icon
 
-lucide-users-round
+users-round
 
 -}
 users2Icon : List (S.Attribute msg) -> H.Html msg
@@ -18217,7 +18217,7 @@ users2Icon options =
 
 {-| usersRoundIcon
 
-lucide-users-round
+users-round
 
 -}
 usersRoundIcon : List (S.Attribute msg) -> H.Html msg
@@ -18227,7 +18227,7 @@ usersRoundIcon options =
 
 {-| utensilsIcon
 
-lucide-utensils
+utensils
 
 -}
 utensilsIcon : List (S.Attribute msg) -> H.Html msg
@@ -18237,7 +18237,7 @@ utensilsIcon options =
 
 {-| utensilsCrossedIcon
 
-lucide-utensils-crossed
+utensils-crossed
 
 -}
 utensilsCrossedIcon : List (S.Attribute msg) -> H.Html msg
@@ -18247,7 +18247,7 @@ utensilsCrossedIcon options =
 
 {-| utilityPoleIcon
 
-lucide-utility-pole
+utility-pole
 
 -}
 utilityPoleIcon : List (S.Attribute msg) -> H.Html msg
@@ -18257,7 +18257,7 @@ utilityPoleIcon options =
 
 {-| variableIcon
 
-lucide-variable
+variable
 
 -}
 variableIcon : List (S.Attribute msg) -> H.Html msg
@@ -18267,7 +18267,7 @@ variableIcon options =
 
 {-| vaultIcon
 
-lucide-vault
+vault
 
 -}
 vaultIcon : List (S.Attribute msg) -> H.Html msg
@@ -18277,7 +18277,7 @@ vaultIcon options =
 
 {-| vectorSquareIcon
 
-lucide-vector-square
+vector-square
 
 -}
 vectorSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -18287,7 +18287,7 @@ vectorSquareIcon options =
 
 {-| veganIcon
 
-lucide-vegan
+vegan
 
 -}
 veganIcon : List (S.Attribute msg) -> H.Html msg
@@ -18297,7 +18297,7 @@ veganIcon options =
 
 {-| venetianMaskIcon
 
-lucide-venetian-mask
+venetian-mask
 
 -}
 venetianMaskIcon : List (S.Attribute msg) -> H.Html msg
@@ -18307,7 +18307,7 @@ venetianMaskIcon options =
 
 {-| venusIcon
 
-lucide-venus
+venus
 
 -}
 venusIcon : List (S.Attribute msg) -> H.Html msg
@@ -18317,7 +18317,7 @@ venusIcon options =
 
 {-| venusAndMarsIcon
 
-lucide-venus-and-mars
+venus-and-mars
 
 -}
 venusAndMarsIcon : List (S.Attribute msg) -> H.Html msg
@@ -18327,7 +18327,7 @@ venusAndMarsIcon options =
 
 {-| verifiedIcon
 
-lucide-badge-check
+badge-check
 
 -}
 verifiedIcon : List (S.Attribute msg) -> H.Html msg
@@ -18337,7 +18337,7 @@ verifiedIcon options =
 
 {-| vibrateIcon
 
-lucide-vibrate
+vibrate
 
 -}
 vibrateIcon : List (S.Attribute msg) -> H.Html msg
@@ -18347,7 +18347,7 @@ vibrateIcon options =
 
 {-| vibrateOffIcon
 
-lucide-vibrate-off
+vibrate-off
 
 -}
 vibrateOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -18357,7 +18357,7 @@ vibrateOffIcon options =
 
 {-| videoIcon
 
-lucide-video
+video
 
 -}
 videoIcon : List (S.Attribute msg) -> H.Html msg
@@ -18367,7 +18367,7 @@ videoIcon options =
 
 {-| videoOffIcon
 
-lucide-video-off
+video-off
 
 -}
 videoOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -18377,7 +18377,7 @@ videoOffIcon options =
 
 {-| videotapeIcon
 
-lucide-videotape
+videotape
 
 -}
 videotapeIcon : List (S.Attribute msg) -> H.Html msg
@@ -18387,7 +18387,7 @@ videotapeIcon options =
 
 {-| viewIcon
 
-lucide-view
+view
 
 -}
 viewIcon : List (S.Attribute msg) -> H.Html msg
@@ -18397,7 +18397,7 @@ viewIcon options =
 
 {-| voicemailIcon
 
-lucide-voicemail
+voicemail
 
 -}
 voicemailIcon : List (S.Attribute msg) -> H.Html msg
@@ -18407,7 +18407,7 @@ voicemailIcon options =
 
 {-| volleyballIcon
 
-lucide-volleyball
+volleyball
 
 -}
 volleyballIcon : List (S.Attribute msg) -> H.Html msg
@@ -18417,7 +18417,7 @@ volleyballIcon options =
 
 {-| volumeIcon
 
-lucide-volume
+volume
 
 -}
 volumeIcon : List (S.Attribute msg) -> H.Html msg
@@ -18427,7 +18427,7 @@ volumeIcon options =
 
 {-| volume1Icon
 
-lucide-volume-1
+volume-1
 
 -}
 volume1Icon : List (S.Attribute msg) -> H.Html msg
@@ -18437,7 +18437,7 @@ volume1Icon options =
 
 {-| volume2Icon
 
-lucide-volume-2
+volume-2
 
 -}
 volume2Icon : List (S.Attribute msg) -> H.Html msg
@@ -18447,7 +18447,7 @@ volume2Icon options =
 
 {-| volumeOffIcon
 
-lucide-volume-off
+volume-off
 
 -}
 volumeOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -18457,7 +18457,7 @@ volumeOffIcon options =
 
 {-| volumeXIcon
 
-lucide-volume-x
+volume-x
 
 -}
 volumeXIcon : List (S.Attribute msg) -> H.Html msg
@@ -18467,7 +18467,7 @@ volumeXIcon options =
 
 {-| voteIcon
 
-lucide-vote
+vote
 
 -}
 voteIcon : List (S.Attribute msg) -> H.Html msg
@@ -18477,7 +18477,7 @@ voteIcon options =
 
 {-| walletIcon
 
-lucide-wallet
+wallet
 
 -}
 walletIcon : List (S.Attribute msg) -> H.Html msg
@@ -18487,7 +18487,7 @@ walletIcon options =
 
 {-| wallet2Icon
 
-lucide-wallet-minimal
+wallet-minimal
 
 -}
 wallet2Icon : List (S.Attribute msg) -> H.Html msg
@@ -18497,7 +18497,7 @@ wallet2Icon options =
 
 {-| walletCardsIcon
 
-lucide-wallet-cards
+wallet-cards
 
 -}
 walletCardsIcon : List (S.Attribute msg) -> H.Html msg
@@ -18507,7 +18507,7 @@ walletCardsIcon options =
 
 {-| walletMinimalIcon
 
-lucide-wallet-minimal
+wallet-minimal
 
 -}
 walletMinimalIcon : List (S.Attribute msg) -> H.Html msg
@@ -18517,7 +18517,7 @@ walletMinimalIcon options =
 
 {-| wallpaperIcon
 
-lucide-wallpaper
+wallpaper
 
 -}
 wallpaperIcon : List (S.Attribute msg) -> H.Html msg
@@ -18527,7 +18527,7 @@ wallpaperIcon options =
 
 {-| wandIcon
 
-lucide-wand
+wand
 
 -}
 wandIcon : List (S.Attribute msg) -> H.Html msg
@@ -18537,7 +18537,7 @@ wandIcon options =
 
 {-| wand2Icon
 
-lucide-wand-sparkles
+wand-sparkles
 
 -}
 wand2Icon : List (S.Attribute msg) -> H.Html msg
@@ -18547,7 +18547,7 @@ wand2Icon options =
 
 {-| wandSparklesIcon
 
-lucide-wand-sparkles
+wand-sparkles
 
 -}
 wandSparklesIcon : List (S.Attribute msg) -> H.Html msg
@@ -18557,7 +18557,7 @@ wandSparklesIcon options =
 
 {-| warehouseIcon
 
-lucide-warehouse
+warehouse
 
 -}
 warehouseIcon : List (S.Attribute msg) -> H.Html msg
@@ -18567,7 +18567,7 @@ warehouseIcon options =
 
 {-| washingMachineIcon
 
-lucide-washing-machine
+washing-machine
 
 -}
 washingMachineIcon : List (S.Attribute msg) -> H.Html msg
@@ -18577,7 +18577,7 @@ washingMachineIcon options =
 
 {-| watchIcon
 
-lucide-watch
+watch
 
 -}
 watchIcon : List (S.Attribute msg) -> H.Html msg
@@ -18587,7 +18587,7 @@ watchIcon options =
 
 {-| wavesIcon
 
-lucide-waves
+waves
 
 -}
 wavesIcon : List (S.Attribute msg) -> H.Html msg
@@ -18597,7 +18597,7 @@ wavesIcon options =
 
 {-| wavesLadderIcon
 
-lucide-waves-ladder
+waves-ladder
 
 -}
 wavesLadderIcon : List (S.Attribute msg) -> H.Html msg
@@ -18607,7 +18607,7 @@ wavesLadderIcon options =
 
 {-| waypointsIcon
 
-lucide-waypoints
+waypoints
 
 -}
 waypointsIcon : List (S.Attribute msg) -> H.Html msg
@@ -18617,7 +18617,7 @@ waypointsIcon options =
 
 {-| webcamIcon
 
-lucide-webcam
+webcam
 
 -}
 webcamIcon : List (S.Attribute msg) -> H.Html msg
@@ -18627,7 +18627,7 @@ webcamIcon options =
 
 {-| webhookIcon
 
-lucide-webhook
+webhook
 
 -}
 webhookIcon : List (S.Attribute msg) -> H.Html msg
@@ -18637,7 +18637,7 @@ webhookIcon options =
 
 {-| webhookOffIcon
 
-lucide-webhook-off
+webhook-off
 
 -}
 webhookOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -18647,7 +18647,7 @@ webhookOffIcon options =
 
 {-| weightIcon
 
-lucide-weight
+weight
 
 -}
 weightIcon : List (S.Attribute msg) -> H.Html msg
@@ -18657,7 +18657,7 @@ weightIcon options =
 
 {-| wheatIcon
 
-lucide-wheat
+wheat
 
 -}
 wheatIcon : List (S.Attribute msg) -> H.Html msg
@@ -18667,7 +18667,7 @@ wheatIcon options =
 
 {-| wheatOffIcon
 
-lucide-wheat-off
+wheat-off
 
 -}
 wheatOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -18677,7 +18677,7 @@ wheatOffIcon options =
 
 {-| wholeWordIcon
 
-lucide-whole-word
+whole-word
 
 -}
 wholeWordIcon : List (S.Attribute msg) -> H.Html msg
@@ -18687,7 +18687,7 @@ wholeWordIcon options =
 
 {-| wifiIcon
 
-lucide-wifi
+wifi
 
 -}
 wifiIcon : List (S.Attribute msg) -> H.Html msg
@@ -18697,7 +18697,7 @@ wifiIcon options =
 
 {-| wifiCogIcon
 
-lucide-wifi-cog
+wifi-cog
 
 -}
 wifiCogIcon : List (S.Attribute msg) -> H.Html msg
@@ -18707,7 +18707,7 @@ wifiCogIcon options =
 
 {-| wifiHighIcon
 
-lucide-wifi-high
+wifi-high
 
 -}
 wifiHighIcon : List (S.Attribute msg) -> H.Html msg
@@ -18717,7 +18717,7 @@ wifiHighIcon options =
 
 {-| wifiLowIcon
 
-lucide-wifi-low
+wifi-low
 
 -}
 wifiLowIcon : List (S.Attribute msg) -> H.Html msg
@@ -18727,7 +18727,7 @@ wifiLowIcon options =
 
 {-| wifiOffIcon
 
-lucide-wifi-off
+wifi-off
 
 -}
 wifiOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -18737,7 +18737,7 @@ wifiOffIcon options =
 
 {-| wifiPenIcon
 
-lucide-wifi-pen
+wifi-pen
 
 -}
 wifiPenIcon : List (S.Attribute msg) -> H.Html msg
@@ -18747,7 +18747,7 @@ wifiPenIcon options =
 
 {-| wifiSyncIcon
 
-lucide-wifi-sync
+wifi-sync
 
 -}
 wifiSyncIcon : List (S.Attribute msg) -> H.Html msg
@@ -18757,7 +18757,7 @@ wifiSyncIcon options =
 
 {-| wifiZeroIcon
 
-lucide-wifi-zero
+wifi-zero
 
 -}
 wifiZeroIcon : List (S.Attribute msg) -> H.Html msg
@@ -18767,7 +18767,7 @@ wifiZeroIcon options =
 
 {-| windIcon
 
-lucide-wind
+wind
 
 -}
 windIcon : List (S.Attribute msg) -> H.Html msg
@@ -18777,7 +18777,7 @@ windIcon options =
 
 {-| windArrowDownIcon
 
-lucide-wind-arrow-down
+wind-arrow-down
 
 -}
 windArrowDownIcon : List (S.Attribute msg) -> H.Html msg
@@ -18787,7 +18787,7 @@ windArrowDownIcon options =
 
 {-| wineIcon
 
-lucide-wine
+wine
 
 -}
 wineIcon : List (S.Attribute msg) -> H.Html msg
@@ -18797,7 +18797,7 @@ wineIcon options =
 
 {-| wineOffIcon
 
-lucide-wine-off
+wine-off
 
 -}
 wineOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -18807,7 +18807,7 @@ wineOffIcon options =
 
 {-| workflowIcon
 
-lucide-workflow
+workflow
 
 -}
 workflowIcon : List (S.Attribute msg) -> H.Html msg
@@ -18817,7 +18817,7 @@ workflowIcon options =
 
 {-| wormIcon
 
-lucide-worm
+worm
 
 -}
 wormIcon : List (S.Attribute msg) -> H.Html msg
@@ -18827,7 +18827,7 @@ wormIcon options =
 
 {-| wrapTextIcon
 
-lucide-text-wrap
+text-wrap
 
 -}
 wrapTextIcon : List (S.Attribute msg) -> H.Html msg
@@ -18837,7 +18837,7 @@ wrapTextIcon options =
 
 {-| wrenchIcon
 
-lucide-wrench
+wrench
 
 -}
 wrenchIcon : List (S.Attribute msg) -> H.Html msg
@@ -18847,7 +18847,7 @@ wrenchIcon options =
 
 {-| xIcon
 
-lucide-x
+x
 
 -}
 xIcon : List (S.Attribute msg) -> H.Html msg
@@ -18857,7 +18857,7 @@ xIcon options =
 
 {-| xCircleIcon
 
-lucide-circle-x
+circle-x
 
 -}
 xCircleIcon : List (S.Attribute msg) -> H.Html msg
@@ -18867,7 +18867,7 @@ xCircleIcon options =
 
 {-| xOctagonIcon
 
-lucide-octagon-x
+octagon-x
 
 -}
 xOctagonIcon : List (S.Attribute msg) -> H.Html msg
@@ -18877,7 +18877,7 @@ xOctagonIcon options =
 
 {-| xSquareIcon
 
-lucide-square-x
+square-x
 
 -}
 xSquareIcon : List (S.Attribute msg) -> H.Html msg
@@ -18887,7 +18887,7 @@ xSquareIcon options =
 
 {-| youtubeIcon
 
-lucide-youtube
+youtube
 
 -}
 youtubeIcon : List (S.Attribute msg) -> H.Html msg
@@ -18897,7 +18897,7 @@ youtubeIcon options =
 
 {-| zapIcon
 
-lucide-zap
+zap
 
 -}
 zapIcon : List (S.Attribute msg) -> H.Html msg
@@ -18907,7 +18907,7 @@ zapIcon options =
 
 {-| zapOffIcon
 
-lucide-zap-off
+zap-off
 
 -}
 zapOffIcon : List (S.Attribute msg) -> H.Html msg
@@ -18917,7 +18917,7 @@ zapOffIcon options =
 
 {-| zoomInIcon
 
-lucide-zoom-in
+zoom-in
 
 -}
 zoomInIcon : List (S.Attribute msg) -> H.Html msg
@@ -18927,7 +18927,7 @@ zoomInIcon options =
 
 {-| zoomOutIcon
 
-lucide-zoom-out
+zoom-out
 
 -}
 zoomOutIcon : List (S.Attribute msg) -> H.Html msg
