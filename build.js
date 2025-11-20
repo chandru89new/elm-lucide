@@ -67,6 +67,14 @@ const fileHeader = (icons) => `module LucideIcons exposing (${icons
   .map((icon) => `${makeElmName(icon)}Icon`)
   .join(",\n")})
 
+{-| Lucide icons in Elm.
+
+Checkout the readme for usage instructions.
+
+@docs ${icons.map((icon) => `${makeElmName(icon)}Icon`).join(", ")}
+
+-}
+
 import Json.Encode
 import Svg as S
 import Svg.Attributes as SA
