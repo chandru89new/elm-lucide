@@ -76,6 +76,7 @@ const fileHeader = (icons) => `module LucideIcons exposing (${icons
 
 Checkout the [readme](https://github.com/chandru89new/elm-lucide) for usage instructions.
 
+@docs ${icons.map((ic) => `${makeElmName(ic)}Icon`).join(", ")}
 -}
 
 import Json.Encode
