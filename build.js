@@ -12,7 +12,7 @@ const main = () => {
       getIntermediateRepresentation(`${icon}Icon`, lucide[icon])
     );
   });
-  let final = `${fileHeader}${iconsString.join("")}`;
+  let final = `${fileHeader(icons)}${iconsString.join("")}`;
   fs.writeFileSync("src/LucideIcons.elm", final, { encoding: "utf-8" });
 };
 
@@ -62,7 +62,9 @@ ${makeElmName(
 
 const makeElmName = (name) => name.slice(0, 1).toLowerCase() + name.slice(1);
 
-const fileHeader = `module LucideIcons exposing (..)
+const fileHeader = (icons) => `module LucideIcons exposing (${icons
+  .map((icon) => `${makeElmName(icon)}Icon`)
+  .join(",\n")})
 
 import Json.Encode
 import Svg as S
