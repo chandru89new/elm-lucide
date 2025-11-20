@@ -14,6 +14,7 @@ const main = () => {
   });
   let final = `${fileHeader(icons)}${iconsString.join("")}`;
   fs.writeFileSync("src/LucideIcons.elm", final, { encoding: "utf-8" });
+  execSync(`yarn elm-format src/LucideIcons.elm --yes`);
 };
 
 const getIntermediateRepresentation = (name, svgString) => {
