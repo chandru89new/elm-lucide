@@ -1,6 +1,6 @@
 # Lucide Icons in Elm
 
-- This package currently supports **Lucide v0.555.0**.
+- This package currently supports **Lucide v0.562.0**.
 
 ## Install
 
@@ -55,7 +55,7 @@ LucideIcon.trash2Icon
 ## Icons
 
 - [List of all Lucide icons](https://lucide.dev/icons)
-- This package currently supports **Lucide v0.555.0**.
+- This package currently supports **Lucide v0.562.0**.
 
 ## Type signature
 
