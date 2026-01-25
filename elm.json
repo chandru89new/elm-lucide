@@ -3,7 +3,7 @@
     "name": "chandru89new/elm-lucide",
     "summary": "Lucide icons in Elm",
     "license": "BSD-3-Clause",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "exposed-modules": [
         "LucideIcons"
     ],
