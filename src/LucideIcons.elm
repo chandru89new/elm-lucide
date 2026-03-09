@@ -1,10 +1,10 @@
-module LucideIcons exposing (aArrowDownIcon, aArrowUpIcon, aLargeSmallIcon, accessibilityIcon, activityIcon, activitySquareIcon, airVentIcon, airplayIcon, alarmCheckIcon, alarmClockIcon, alarmClockCheckIcon, alarmClockMinusIcon, alarmClockOffIcon, alarmClockPlusIcon, alarmMinusIcon, alarmPlusIcon, alarmSmokeIcon, albumIcon, alertCircleIcon, alertOctagonIcon, alertTriangleIcon, alignCenterIcon, alignCenterHorizontalIcon, alignCenterVerticalIcon, alignEndHorizontalIcon, alignEndVerticalIcon, alignHorizontalDistributeCenterIcon, alignHorizontalDistributeEndIcon, alignHorizontalDistributeStartIcon, alignHorizontalJustifyCenterIcon, alignHorizontalJustifyEndIcon, alignHorizontalJustifyStartIcon, alignHorizontalSpaceAroundIcon, alignHorizontalSpaceBetweenIcon, alignJustifyIcon, alignLeftIcon, alignRightIcon, alignStartHorizontalIcon, alignStartVerticalIcon, alignVerticalDistributeCenterIcon, alignVerticalDistributeEndIcon, alignVerticalDistributeStartIcon, alignVerticalJustifyCenterIcon, alignVerticalJustifyEndIcon, alignVerticalJustifyStartIcon, alignVerticalSpaceAroundIcon, alignVerticalSpaceBetweenIcon, ambulanceIcon, ampersandIcon, ampersandsIcon, amphoraIcon, anchorIcon, angryIcon, annoyedIcon, antennaIcon, anvilIcon, apertureIcon, appWindowIcon, appWindowMacIcon, appleIcon, archiveIcon, archiveRestoreIcon, archiveXIcon, areaChartIcon, armchairIcon, arrowBigDownIcon, arrowBigDownDashIcon, arrowBigLeftIcon, arrowBigLeftDashIcon, arrowBigRightIcon, arrowBigRightDashIcon, arrowBigUpIcon, arrowBigUpDashIcon, arrowDownIcon, arrowDown01Icon, arrowDown10Icon, arrowDownAZIcon, arrowDownAzIcon, arrowDownCircleIcon, arrowDownFromLineIcon, arrowDownLeftIcon, arrowDownLeftFromCircleIcon, arrowDownLeftFromSquareIcon, arrowDownLeftSquareIcon, arrowDownNarrowWideIcon, arrowDownRightIcon, arrowDownRightFromCircleIcon, arrowDownRightFromSquareIcon, arrowDownRightSquareIcon, arrowDownSquareIcon, arrowDownToDotIcon, arrowDownToLineIcon, arrowDownUpIcon, arrowDownWideNarrowIcon, arrowDownZAIcon, arrowDownZaIcon, arrowLeftIcon, arrowLeftCircleIcon, arrowLeftFromLineIcon, arrowLeftRightIcon, arrowLeftSquareIcon, arrowLeftToLineIcon, arrowRightIcon, arrowRightCircleIcon, arrowRightFromLineIcon, arrowRightLeftIcon, arrowRightSquareIcon, arrowRightToLineIcon, arrowUpIcon, arrowUp01Icon, arrowUp10Icon, arrowUpAZIcon, arrowUpAzIcon, arrowUpCircleIcon, arrowUpDownIcon, arrowUpFromDotIcon, arrowUpFromLineIcon, arrowUpLeftIcon, arrowUpLeftFromCircleIcon, arrowUpLeftFromSquareIcon, arrowUpLeftSquareIcon, arrowUpNarrowWideIcon, arrowUpRightIcon, arrowUpRightFromCircleIcon, arrowUpRightFromSquareIcon, arrowUpRightSquareIcon, arrowUpSquareIcon, arrowUpToLineIcon, arrowUpWideNarrowIcon, arrowUpZAIcon, arrowUpZaIcon, arrowsUpFromLineIcon, asteriskIcon, asteriskSquareIcon, atSignIcon, atomIcon, audioLinesIcon, audioWaveformIcon, awardIcon, axeIcon, axis3DIcon, axis3dIcon, babyIcon, backpackIcon, badgeIcon, badgeAlertIcon, badgeCentIcon, badgeCheckIcon, badgeDollarSignIcon, badgeEuroIcon, badgeHelpIcon, badgeIndianRupeeIcon, badgeInfoIcon, badgeJapaneseYenIcon, badgeMinusIcon, badgePercentIcon, badgePlusIcon, badgePoundSterlingIcon, badgeQuestionMarkIcon, badgeRussianRubleIcon, badgeSwissFrancIcon, badgeTurkishLiraIcon, badgeXIcon, baggageClaimIcon, balloonIcon, banIcon, bananaIcon, bandageIcon, banknoteIcon, banknoteArrowDownIcon, banknoteArrowUpIcon, banknoteXIcon, barChartIcon, barChart2Icon, barChart3Icon, barChart4Icon, barChartBigIcon, barChartHorizontalIcon, barChartHorizontalBigIcon, barcodeIcon, barrelIcon, baselineIcon, bathIcon, batteryIcon, batteryChargingIcon, batteryFullIcon, batteryLowIcon, batteryMediumIcon, batteryPlusIcon, batteryWarningIcon, beakerIcon, beanIcon, beanOffIcon, bedIcon, bedDoubleIcon, bedSingleIcon, beefIcon, beerIcon, beerOffIcon, bellIcon, bellDotIcon, bellElectricIcon, bellMinusIcon, bellOffIcon, bellPlusIcon, bellRingIcon, betweenHorizonalEndIcon, betweenHorizonalStartIcon, betweenHorizontalEndIcon, betweenHorizontalStartIcon, betweenVerticalEndIcon, betweenVerticalStartIcon, bicepsFlexedIcon, bikeIcon, binaryIcon, binocularsIcon, biohazardIcon, birdIcon, birdhouseIcon, bitcoinIcon, blendIcon, blindsIcon, blocksIcon, bluetoothIcon, bluetoothConnectedIcon, bluetoothOffIcon, bluetoothSearchingIcon, boldIcon, boltIcon, bombIcon, boneIcon, bookIcon, bookAIcon, bookAlertIcon, bookAudioIcon, bookCheckIcon, bookCopyIcon, bookDashedIcon, bookDownIcon, bookHeadphonesIcon, bookHeartIcon, bookImageIcon, bookKeyIcon, bookLockIcon, bookMarkedIcon, bookMinusIcon, bookOpenIcon, bookOpenCheckIcon, bookOpenTextIcon, bookPlusIcon, bookSearchIcon, bookTemplateIcon, bookTextIcon, bookTypeIcon, bookUpIcon, bookUp2Icon, bookUserIcon, bookXIcon, bookmarkIcon, bookmarkCheckIcon, bookmarkMinusIcon, bookmarkPlusIcon, bookmarkXIcon, boomBoxIcon, botIcon, botMessageSquareIcon, botOffIcon, bottleWineIcon, bowArrowIcon, boxIcon, boxSelectIcon, boxesIcon, bracesIcon, bracketsIcon, brainIcon, brainCircuitIcon, brainCogIcon, brickWallIcon, brickWallFireIcon, brickWallShieldIcon, briefcaseIcon, briefcaseBusinessIcon, briefcaseConveyorBeltIcon, briefcaseMedicalIcon, bringToFrontIcon, brushIcon, brushCleaningIcon, bubblesIcon, bugIcon, bugOffIcon, bugPlayIcon, buildingIcon, building2Icon, busIcon, busFrontIcon, cableIcon, cableCarIcon, cakeIcon, cakeSliceIcon, calculatorIcon, calendarIcon, calendar1Icon, calendarArrowDownIcon, calendarArrowUpIcon, calendarCheckIcon, calendarCheck2Icon, calendarClockIcon, calendarCogIcon, calendarDaysIcon, calendarFoldIcon, calendarHeartIcon, calendarMinusIcon, calendarMinus2Icon, calendarOffIcon, calendarPlusIcon, calendarPlus2Icon, calendarRangeIcon, calendarSearchIcon, calendarSyncIcon, calendarXIcon, calendarX2Icon, calendarsIcon, cameraIcon, cameraOffIcon, candlestickChartIcon, candyIcon, candyCaneIcon, candyOffIcon, cannabisIcon, cannabisOffIcon, captionsIcon, captionsOffIcon, carIcon, carFrontIcon, carTaxiFrontIcon, caravanIcon, cardSimIcon, carrotIcon, caseLowerIcon, caseSensitiveIcon, caseUpperIcon, cassetteTapeIcon, castIcon, castleIcon, catIcon, cctvIcon, chartAreaIcon, chartBarIcon, chartBarBigIcon, chartBarDecreasingIcon, chartBarIncreasingIcon, chartBarStackedIcon, chartCandlestickIcon, chartColumnIcon, chartColumnBigIcon, chartColumnDecreasingIcon, chartColumnIncreasingIcon, chartColumnStackedIcon, chartGanttIcon, chartLineIcon, chartNetworkIcon, chartNoAxesColumnIcon, chartNoAxesColumnDecreasingIcon, chartNoAxesColumnIncreasingIcon, chartNoAxesCombinedIcon, chartNoAxesGanttIcon, chartPieIcon, chartScatterIcon, chartSplineIcon, checkIcon, checkCheckIcon, checkCircleIcon, checkCircle2Icon, checkLineIcon, checkSquareIcon, checkSquare2Icon, chefHatIcon, cherryIcon, chessBishopIcon, chessKingIcon, chessKnightIcon, chessPawnIcon, chessQueenIcon, chessRookIcon, chevronDownIcon, chevronDownCircleIcon, chevronDownSquareIcon, chevronFirstIcon, chevronLastIcon, chevronLeftIcon, chevronLeftCircleIcon, chevronLeftSquareIcon, chevronRightIcon, chevronRightCircleIcon, chevronRightSquareIcon, chevronUpIcon, chevronUpCircleIcon, chevronUpSquareIcon, chevronsDownIcon, chevronsDownUpIcon, chevronsLeftIcon, chevronsLeftRightIcon, chevronsLeftRightEllipsisIcon, chevronsRightIcon, chevronsRightLeftIcon, chevronsUpIcon, chevronsUpDownIcon, chromeIcon, chromiumIcon, churchIcon, cigaretteIcon, cigaretteOffIcon, circleIcon, circleAlertIcon, circleArrowDownIcon, circleArrowLeftIcon, circleArrowOutDownLeftIcon, circleArrowOutDownRightIcon, circleArrowOutUpLeftIcon, circleArrowOutUpRightIcon, circleArrowRightIcon, circleArrowUpIcon, circleCheckIcon, circleCheckBigIcon, circleChevronDownIcon, circleChevronLeftIcon, circleChevronRightIcon, circleChevronUpIcon, circleDashedIcon, circleDivideIcon, circleDollarSignIcon, circleDotIcon, circleDotDashedIcon, circleEllipsisIcon, circleEqualIcon, circleFadingArrowUpIcon, circleFadingPlusIcon, circleGaugeIcon, circleHelpIcon, circleMinusIcon, circleOffIcon, circleParkingIcon, circleParkingOffIcon, circlePauseIcon, circlePercentIcon, circlePileIcon, circlePlayIcon, circlePlusIcon, circlePoundSterlingIcon, circlePowerIcon, circleQuestionMarkIcon, circleSlashIcon, circleSlash2Icon, circleSlashedIcon, circleSmallIcon, circleStarIcon, circleStopIcon, circleUserIcon, circleUserRoundIcon, circleXIcon, circuitBoardIcon, citrusIcon, clapperboardIcon, clipboardIcon, clipboardCheckIcon, clipboardClockIcon, clipboardCopyIcon, clipboardEditIcon, clipboardListIcon, clipboardMinusIcon, clipboardPasteIcon, clipboardPenIcon, clipboardPenLineIcon, clipboardPlusIcon, clipboardSignatureIcon, clipboardTypeIcon, clipboardXIcon, clockIcon, clock1Icon, clock10Icon, clock11Icon, clock12Icon, clock2Icon, clock3Icon, clock4Icon, clock5Icon, clock6Icon, clock7Icon, clock8Icon, clock9Icon, clockAlertIcon, clockArrowDownIcon, clockArrowUpIcon, clockCheckIcon, clockFadingIcon, clockPlusIcon, closedCaptionIcon, cloudIcon, cloudAlertIcon, cloudBackupIcon, cloudCheckIcon, cloudCogIcon, cloudDownloadIcon, cloudDrizzleIcon, cloudFogIcon, cloudHailIcon, cloudLightningIcon, cloudMoonIcon, cloudMoonRainIcon, cloudOffIcon, cloudRainIcon, cloudRainWindIcon, cloudSnowIcon, cloudSunIcon, cloudSunRainIcon, cloudSyncIcon, cloudUploadIcon, cloudyIcon, cloverIcon, clubIcon, codeIcon, code2Icon, codeSquareIcon, codeXmlIcon, codepenIcon, codesandboxIcon, coffeeIcon, cogIcon, coinsIcon, columnsIcon, columns2Icon, columns3Icon, columns3CogIcon, columns4Icon, columnsSettingsIcon, combineIcon, commandIcon, compassIcon, componentIcon, computerIcon, conciergeBellIcon, coneIcon, constructionIcon, contactIcon, contact2Icon, contactRoundIcon, containerIcon, contrastIcon, cookieIcon, cookingPotIcon, copyIcon, copyCheckIcon, copyMinusIcon, copyPlusIcon, copySlashIcon, copyXIcon, copyleftIcon, copyrightIcon, cornerDownLeftIcon, cornerDownRightIcon, cornerLeftDownIcon, cornerLeftUpIcon, cornerRightDownIcon, cornerRightUpIcon, cornerUpLeftIcon, cornerUpRightIcon, cpuIcon, creativeCommonsIcon, creditCardIcon, croissantIcon, cropIcon, crossIcon, crosshairIcon, crownIcon, cuboidIcon, cupSodaIcon, curlyBracesIcon, currencyIcon, cylinderIcon, damIcon, databaseIcon, databaseBackupIcon, databaseZapIcon, decimalsArrowLeftIcon, decimalsArrowRightIcon, deleteIcon, dessertIcon, diameterIcon, diamondIcon, diamondMinusIcon, diamondPercentIcon, diamondPlusIcon, dice1Icon, dice2Icon, dice3Icon, dice4Icon, dice5Icon, dice6Icon, dicesIcon, diffIcon, discIcon, disc2Icon, disc3Icon, discAlbumIcon, divideIcon, divideCircleIcon, divideSquareIcon, dnaIcon, dnaOffIcon, dockIcon, dogIcon, dollarSignIcon, donutIcon, doorClosedIcon, doorClosedLockedIcon, doorOpenIcon, dotIcon, dotSquareIcon, downloadIcon, downloadCloudIcon, draftingCompassIcon, dramaIcon, dribbbleIcon, drillIcon, droneIcon, dropletIcon, dropletOffIcon, dropletsIcon, drumIcon, drumstickIcon, dumbbellIcon, earIcon, earOffIcon, earthIcon, earthLockIcon, eclipseIcon, editIcon, edit2Icon, edit3Icon, eggIcon, eggFriedIcon, eggOffIcon, ellipsisIcon, ellipsisVerticalIcon, equalIcon, equalApproximatelyIcon, equalNotIcon, equalSquareIcon, eraserIcon, ethernetPortIcon, euroIcon, evChargerIcon, expandIcon, externalLinkIcon, eyeIcon, eyeClosedIcon, eyeOffIcon, facebookIcon, factoryIcon, fanIcon, fastForwardIcon, featherIcon, fenceIcon, ferrisWheelIcon, figmaIcon, fileIcon, fileArchiveIcon, fileAudioIcon, fileAudio2Icon, fileAxis3DIcon, fileAxis3dIcon, fileBadgeIcon, fileBadge2Icon, fileBarChartIcon, fileBarChart2Icon, fileBoxIcon, fileBracesIcon, fileBracesCornerIcon, fileChartColumnIcon, fileChartColumnIncreasingIcon, fileChartLineIcon, fileChartPieIcon, fileCheckIcon, fileCheck2Icon, fileCheckCornerIcon, fileClockIcon, fileCodeIcon, fileCode2Icon, fileCodeCornerIcon, fileCogIcon, fileCog2Icon, fileDiffIcon, fileDigitIcon, fileDownIcon, fileEditIcon, fileExclamationPointIcon, fileHeadphoneIcon, fileHeartIcon, fileImageIcon, fileInputIcon, fileJsonIcon, fileJson2Icon, fileKeyIcon, fileKey2Icon, fileLineChartIcon, fileLockIcon, fileLock2Icon, fileMinusIcon, fileMinus2Icon, fileMinusCornerIcon, fileMusicIcon, fileOutputIcon, filePenIcon, filePenLineIcon, filePieChartIcon, filePlayIcon, filePlusIcon, filePlus2Icon, filePlusCornerIcon, fileQuestionIcon, fileQuestionMarkIcon, fileScanIcon, fileSearchIcon, fileSearch2Icon, fileSearchCornerIcon, fileSignalIcon, fileSignatureIcon, fileSlidersIcon, fileSpreadsheetIcon, fileStackIcon, fileSymlinkIcon, fileTerminalIcon, fileTextIcon, fileTypeIcon, fileType2Icon, fileTypeCornerIcon, fileUpIcon, fileUserIcon, fileVideoIcon, fileVideo2Icon, fileVideoCameraIcon, fileVolumeIcon, fileVolume2Icon, fileWarningIcon, fileXIcon, fileX2Icon, fileXCornerIcon, filesIcon, filmIcon, filterIcon, filterXIcon, fingerprintIcon, fingerprintPatternIcon, fireExtinguisherIcon, fishIcon, fishOffIcon, fishSymbolIcon, fishingHookIcon, flagIcon, flagOffIcon, flagTriangleLeftIcon, flagTriangleRightIcon, flameIcon, flameKindlingIcon, flashlightIcon, flashlightOffIcon, flaskConicalIcon, flaskConicalOffIcon, flaskRoundIcon, flipHorizontalIcon, flipHorizontal2Icon, flipVerticalIcon, flipVertical2Icon, flowerIcon, flower2Icon, focusIcon, foldHorizontalIcon, foldVerticalIcon, folderIcon, folderArchiveIcon, folderCheckIcon, folderClockIcon, folderClosedIcon, folderCodeIcon, folderCogIcon, folderCog2Icon, folderDotIcon, folderDownIcon, folderEditIcon, folderGitIcon, folderGit2Icon, folderHeartIcon, folderInputIcon, folderKanbanIcon, folderKeyIcon, folderLockIcon, folderMinusIcon, folderOpenIcon, folderOpenDotIcon, folderOutputIcon, folderPenIcon, folderPlusIcon, folderRootIcon, folderSearchIcon, folderSearch2Icon, folderSymlinkIcon, folderSyncIcon, folderTreeIcon, folderUpIcon, folderXIcon, foldersIcon, footprintsIcon, forkKnifeIcon, forkKnifeCrossedIcon, forkliftIcon, formIcon, formInputIcon, forwardIcon, frameIcon, framerIcon, frownIcon, fuelIcon, fullscreenIcon, functionSquareIcon, funnelIcon, funnelPlusIcon, funnelXIcon, galleryHorizontalIcon, galleryHorizontalEndIcon, galleryThumbnailsIcon, galleryVerticalIcon, galleryVerticalEndIcon, gamepadIcon, gamepad2Icon, gamepadDirectionalIcon, ganttChartIcon, ganttChartSquareIcon, gaugeIcon, gaugeCircleIcon, gavelIcon, gemIcon, georgianLariIcon, ghostIcon, giftIcon, gitBranchIcon, gitBranchMinusIcon, gitBranchPlusIcon, gitCommitIcon, gitCommitHorizontalIcon, gitCommitVerticalIcon, gitCompareIcon, gitCompareArrowsIcon, gitForkIcon, gitGraphIcon, gitMergeIcon, gitPullRequestIcon, gitPullRequestArrowIcon, gitPullRequestClosedIcon, gitPullRequestCreateIcon, gitPullRequestCreateArrowIcon, gitPullRequestDraftIcon, githubIcon, gitlabIcon, glassWaterIcon, glassesIcon, globeIcon, globe2Icon, globeLockIcon, globeXIcon, goalIcon, gpuIcon, grabIcon, graduationCapIcon, grapeIcon, gridIcon, grid2X2Icon, grid2X2CheckIcon, grid2X2PlusIcon, grid2X2XIcon, grid2x2Icon, grid2x2CheckIcon, grid2x2PlusIcon, grid2x2XIcon, grid3X3Icon, grid3x2Icon, grid3x3Icon, gripIcon, gripHorizontalIcon, gripVerticalIcon, groupIcon, guitarIcon, hamIcon, hamburgerIcon, hammerIcon, handIcon, handCoinsIcon, handFistIcon, handGrabIcon, handHeartIcon, handHelpingIcon, handMetalIcon, handPlatterIcon, handbagIcon, handshakeIcon, hardDriveIcon, hardDriveDownloadIcon, hardDriveUploadIcon, hardHatIcon, hashIcon, hatGlassesIcon, hazeIcon, hdIcon, hdmiPortIcon, headingIcon, heading1Icon, heading2Icon, heading3Icon, heading4Icon, heading5Icon, heading6Icon, headphoneOffIcon, headphonesIcon, headsetIcon, heartIcon, heartCrackIcon, heartHandshakeIcon, heartMinusIcon, heartOffIcon, heartPlusIcon, heartPulseIcon, heaterIcon, helicopterIcon, helpCircleIcon, helpingHandIcon, hexagonIcon, highlighterIcon, historyIcon, homeIcon, hopIcon, hopOffIcon, hospitalIcon, hotelIcon, hourglassIcon, houseIcon, houseHeartIcon, housePlugIcon, housePlusIcon, houseWifiIcon, iceCreamIcon, iceCream2Icon, iceCreamBowlIcon, iceCreamConeIcon, idCardIcon, idCardLanyardIcon, imageIcon, imageDownIcon, imageMinusIcon, imageOffIcon, imagePlayIcon, imagePlusIcon, imageUpIcon, imageUpscaleIcon, imagesIcon, importIcon, inboxIcon, indentIcon, indentDecreaseIcon, indentIncreaseIcon, indianRupeeIcon, infinityIcon, infoIcon, inspectIcon, inspectionPanelIcon, instagramIcon, italicIcon, iterationCcwIcon, iterationCwIcon, japaneseYenIcon, joystickIcon, kanbanIcon, kanbanSquareIcon, kanbanSquareDashedIcon, kayakIcon, keyIcon, keyRoundIcon, keySquareIcon, keyboardIcon, keyboardMusicIcon, keyboardOffIcon, lampIcon, lampCeilingIcon, lampDeskIcon, lampFloorIcon, lampWallDownIcon, lampWallUpIcon, landPlotIcon, landmarkIcon, languagesIcon, laptopIcon, laptop2Icon, laptopMinimalIcon, laptopMinimalCheckIcon, lassoIcon, lassoSelectIcon, laughIcon, layersIcon, layers2Icon, layers3Icon, layersPlusIcon, layoutIcon, layoutDashboardIcon, layoutGridIcon, layoutListIcon, layoutPanelLeftIcon, layoutPanelTopIcon, layoutTemplateIcon, leafIcon, leafyGreenIcon, lecternIcon, letterTextIcon, libraryIcon, libraryBigIcon, librarySquareIcon, lifeBuoyIcon, ligatureIcon, lightbulbIcon, lightbulbOffIcon, lineChartIcon, lineSquiggleIcon, linkIcon, link2Icon, link2OffIcon, linkedinIcon, listIcon, listCheckIcon, listChecksIcon, listChevronsDownUpIcon, listChevronsUpDownIcon, listCollapseIcon, listEndIcon, listFilterIcon, listFilterPlusIcon, listIndentDecreaseIcon, listIndentIncreaseIcon, listMinusIcon, listMusicIcon, listOrderedIcon, listPlusIcon, listRestartIcon, listStartIcon, listTodoIcon, listTreeIcon, listVideoIcon, listXIcon, loaderIcon, loader2Icon, loaderCircleIcon, loaderPinwheelIcon, locateIcon, locateFixedIcon, locateOffIcon, locationEditIcon, lockIcon, lockKeyholeIcon, lockKeyholeOpenIcon, lockOpenIcon, logInIcon, logOutIcon, logsIcon, lollipopIcon, luggageIcon, mSquareIcon, magnetIcon, mailIcon, mailCheckIcon, mailMinusIcon, mailOpenIcon, mailPlusIcon, mailQuestionIcon, mailQuestionMarkIcon, mailSearchIcon, mailWarningIcon, mailXIcon, mailboxIcon, mailsIcon, mapIcon, mapMinusIcon, mapPinIcon, mapPinCheckIcon, mapPinCheckInsideIcon, mapPinHouseIcon, mapPinMinusIcon, mapPinMinusInsideIcon, mapPinOffIcon, mapPinPenIcon, mapPinPlusIcon, mapPinPlusInsideIcon, mapPinXIcon, mapPinXInsideIcon, mapPinnedIcon, mapPlusIcon, marsIcon, marsStrokeIcon, martiniIcon, maximizeIcon, maximize2Icon, medalIcon, megaphoneIcon, megaphoneOffIcon, mehIcon, memoryStickIcon, menuIcon, menuSquareIcon, mergeIcon, messageCircleIcon, messageCircleCodeIcon, messageCircleDashedIcon, messageCircleHeartIcon, messageCircleMoreIcon, messageCircleOffIcon, messageCirclePlusIcon, messageCircleQuestionIcon, messageCircleQuestionMarkIcon, messageCircleReplyIcon, messageCircleWarningIcon, messageCircleXIcon, messageSquareIcon, messageSquareCodeIcon, messageSquareDashedIcon, messageSquareDiffIcon, messageSquareDotIcon, messageSquareHeartIcon, messageSquareLockIcon, messageSquareMoreIcon, messageSquareOffIcon, messageSquarePlusIcon, messageSquareQuoteIcon, messageSquareReplyIcon, messageSquareShareIcon, messageSquareTextIcon, messageSquareWarningIcon, messageSquareXIcon, messagesSquareIcon, micIcon, mic2Icon, micOffIcon, micVocalIcon, microchipIcon, microscopeIcon, microwaveIcon, milestoneIcon, milkIcon, milkOffIcon, minimizeIcon, minimize2Icon, minusIcon, minusCircleIcon, minusSquareIcon, monitorIcon, monitorCheckIcon, monitorCloudIcon, monitorCogIcon, monitorDotIcon, monitorDownIcon, monitorOffIcon, monitorPauseIcon, monitorPlayIcon, monitorSmartphoneIcon, monitorSpeakerIcon, monitorStopIcon, monitorUpIcon, monitorXIcon, moonIcon, moonStarIcon, moreHorizontalIcon, moreVerticalIcon, motorbikeIcon, mountainIcon, mountainSnowIcon, mouseIcon, mouseOffIcon, mousePointerIcon, mousePointer2Icon, mousePointer2OffIcon, mousePointerBanIcon, mousePointerClickIcon, mousePointerSquareDashedIcon, moveIcon, move3DIcon, move3dIcon, moveDiagonalIcon, moveDiagonal2Icon, moveDownIcon, moveDownLeftIcon, moveDownRightIcon, moveHorizontalIcon, moveLeftIcon, moveRightIcon, moveUpIcon, moveUpLeftIcon, moveUpRightIcon, moveVerticalIcon, musicIcon, music2Icon, music3Icon, music4Icon, navigationIcon, navigation2Icon, navigation2OffIcon, navigationOffIcon, networkIcon, newspaperIcon, nfcIcon, nonBinaryIcon, notebookIcon, notebookPenIcon, notebookTabsIcon, notebookTextIcon, notepadTextIcon, notepadTextDashedIcon, nutIcon, nutOffIcon, octagonIcon, octagonAlertIcon, octagonMinusIcon, octagonPauseIcon, octagonXIcon, omegaIcon, optionIcon, orbitIcon, origamiIcon, outdentIcon, packageIcon, package2Icon, packageCheckIcon, packageMinusIcon, packageOpenIcon, packagePlusIcon, packageSearchIcon, packageXIcon, paintBucketIcon, paintRollerIcon, paintbrushIcon, paintbrush2Icon, paintbrushVerticalIcon, paletteIcon, palmtreeIcon, pandaIcon, panelBottomIcon, panelBottomCloseIcon, panelBottomDashedIcon, panelBottomInactiveIcon, panelBottomOpenIcon, panelLeftIcon, panelLeftCloseIcon, panelLeftDashedIcon, panelLeftInactiveIcon, panelLeftOpenIcon, panelLeftRightDashedIcon, panelRightIcon, panelRightCloseIcon, panelRightDashedIcon, panelRightInactiveIcon, panelRightOpenIcon, panelTopIcon, panelTopBottomDashedIcon, panelTopCloseIcon, panelTopDashedIcon, panelTopInactiveIcon, panelTopOpenIcon, panelsLeftBottomIcon, panelsLeftRightIcon, panelsRightBottomIcon, panelsTopBottomIcon, panelsTopLeftIcon, paperclipIcon, parenthesesIcon, parkingCircleIcon, parkingCircleOffIcon, parkingMeterIcon, parkingSquareIcon, parkingSquareOffIcon, partyPopperIcon, pauseIcon, pauseCircleIcon, pauseOctagonIcon, pawPrintIcon, pcCaseIcon, penIcon, penBoxIcon, penLineIcon, penOffIcon, penSquareIcon, penToolIcon, pencilIcon, pencilLineIcon, pencilOffIcon, pencilRulerIcon, pentagonIcon, percentIcon, percentCircleIcon, percentDiamondIcon, percentSquareIcon, personStandingIcon, philippinePesoIcon, phoneIcon, phoneCallIcon, phoneForwardedIcon, phoneIncomingIcon, phoneMissedIcon, phoneOffIcon, phoneOutgoingIcon, piIcon, piSquareIcon, pianoIcon, pickaxeIcon, pictureInPictureIcon, pictureInPicture2Icon, pieChartIcon, piggyBankIcon, pilcrowIcon, pilcrowLeftIcon, pilcrowRightIcon, pilcrowSquareIcon, pillIcon, pillBottleIcon, pinIcon, pinOffIcon, pipetteIcon, pizzaIcon, planeIcon, planeLandingIcon, planeTakeoffIcon, playIcon, playCircleIcon, playSquareIcon, plugIcon, plug2Icon, plugZapIcon, plugZap2Icon, plusIcon, plusCircleIcon, plusSquareIcon, pocketIcon, pocketKnifeIcon, podcastIcon, pointerIcon, pointerOffIcon, popcornIcon, popsicleIcon, poundSterlingIcon, powerIcon, powerCircleIcon, powerOffIcon, powerSquareIcon, presentationIcon, printerIcon, printerCheckIcon, printerXIcon, projectorIcon, proportionsIcon, puzzleIcon, pyramidIcon, qrCodeIcon, quoteIcon, rabbitIcon, radarIcon, radiationIcon, radicalIcon, radioIcon, radioReceiverIcon, radioTowerIcon, radiusIcon, railSymbolIcon, rainbowIcon, ratIcon, ratioIcon, receiptIcon, receiptCentIcon, receiptEuroIcon, receiptIndianRupeeIcon, receiptJapaneseYenIcon, receiptPoundSterlingIcon, receiptRussianRubleIcon, receiptSwissFrancIcon, receiptTextIcon, receiptTurkishLiraIcon, rectangleCircleIcon, rectangleEllipsisIcon, rectangleGogglesIcon, rectangleHorizontalIcon, rectangleVerticalIcon, recycleIcon, redoIcon, redo2Icon, redoDotIcon, refreshCcwIcon, refreshCcwDotIcon, refreshCwIcon, refreshCwOffIcon, refrigeratorIcon, regexIcon, removeFormattingIcon, repeatIcon, repeat1Icon, repeat2Icon, replaceIcon, replaceAllIcon, replyIcon, replyAllIcon, rewindIcon, ribbonIcon, rocketIcon, rockingChairIcon, rollerCoasterIcon, roseIcon, rotate3DIcon, rotate3dIcon, rotateCcwIcon, rotateCcwKeyIcon, rotateCcwSquareIcon, rotateCwIcon, rotateCwSquareIcon, routeIcon, routeOffIcon, routerIcon, rowsIcon, rows2Icon, rows3Icon, rows4Icon, rssIcon, rulerIcon, rulerDimensionLineIcon, russianRubleIcon, sailboatIcon, saladIcon, sandwichIcon, satelliteIcon, satelliteDishIcon, saudiRiyalIcon, saveIcon, saveAllIcon, saveOffIcon, scaleIcon, scale3DIcon, scale3dIcon, scalingIcon, scanIcon, scanBarcodeIcon, scanEyeIcon, scanFaceIcon, scanHeartIcon, scanLineIcon, scanQrCodeIcon, scanSearchIcon, scanTextIcon, scatterChartIcon, schoolIcon, school2Icon, scissorsIcon, scissorsLineDashedIcon, scissorsSquareIcon, scissorsSquareDashedBottomIcon, scooterIcon, screenShareIcon, screenShareOffIcon, scrollIcon, scrollTextIcon, searchIcon, searchAlertIcon, searchCheckIcon, searchCodeIcon, searchSlashIcon, searchXIcon, sectionIcon, sendIcon, sendHorizonalIcon, sendHorizontalIcon, sendToBackIcon, separatorHorizontalIcon, separatorVerticalIcon, serverIcon, serverCogIcon, serverCrashIcon, serverOffIcon, settingsIcon, settings2Icon, shapesIcon, shareIcon, share2Icon, sheetIcon, shellIcon, shieldIcon, shieldAlertIcon, shieldBanIcon, shieldCheckIcon, shieldCloseIcon, shieldEllipsisIcon, shieldHalfIcon, shieldMinusIcon, shieldOffIcon, shieldPlusIcon, shieldQuestionIcon, shieldQuestionMarkIcon, shieldUserIcon, shieldXIcon, shipIcon, shipWheelIcon, shirtIcon, shoppingBagIcon, shoppingBasketIcon, shoppingCartIcon, shovelIcon, showerHeadIcon, shredderIcon, shrimpIcon, shrinkIcon, shrubIcon, shuffleIcon, sidebarIcon, sidebarCloseIcon, sidebarOpenIcon, sigmaIcon, sigmaSquareIcon, signalIcon, signalHighIcon, signalLowIcon, signalMediumIcon, signalZeroIcon, signatureIcon, signpostIcon, signpostBigIcon, sirenIcon, skipBackIcon, skipForwardIcon, skullIcon, slackIcon, slashIcon, slashSquareIcon, sliceIcon, slidersIcon, slidersHorizontalIcon, slidersVerticalIcon, smartphoneIcon, smartphoneChargingIcon, smartphoneNfcIcon, smileIcon, smilePlusIcon, snailIcon, snowflakeIcon, soapDispenserDropletIcon, sofaIcon, solarPanelIcon, sortAscIcon, sortDescIcon, soupIcon, spaceIcon, spadeIcon, sparkleIcon, sparklesIcon, speakerIcon, speechIcon, spellCheckIcon, spellCheck2Icon, splineIcon, splinePointerIcon, splitIcon, splitSquareHorizontalIcon, splitSquareVerticalIcon, spoolIcon, spotlightIcon, sprayCanIcon, sproutIcon, squareIcon, squareActivityIcon, squareArrowDownIcon, squareArrowDownLeftIcon, squareArrowDownRightIcon, squareArrowLeftIcon, squareArrowOutDownLeftIcon, squareArrowOutDownRightIcon, squareArrowOutUpLeftIcon, squareArrowOutUpRightIcon, squareArrowRightIcon, squareArrowUpIcon, squareArrowUpLeftIcon, squareArrowUpRightIcon, squareAsteriskIcon, squareBottomDashedScissorsIcon, squareChartGanttIcon, squareCheckIcon, squareCheckBigIcon, squareChevronDownIcon, squareChevronLeftIcon, squareChevronRightIcon, squareChevronUpIcon, squareCodeIcon, squareDashedIcon, squareDashedBottomIcon, squareDashedBottomCodeIcon, squareDashedKanbanIcon, squareDashedMousePointerIcon, squareDashedTopSolidIcon, squareDivideIcon, squareDotIcon, squareEqualIcon, squareFunctionIcon, squareGanttChartIcon, squareKanbanIcon, squareLibraryIcon, squareMIcon, squareMenuIcon, squareMinusIcon, squareMousePointerIcon, squareParkingIcon, squareParkingOffIcon, squarePauseIcon, squarePenIcon, squarePercentIcon, squarePiIcon, squarePilcrowIcon, squarePlayIcon, squarePlusIcon, squarePowerIcon, squareRadicalIcon, squareRoundCornerIcon, squareScissorsIcon, squareSigmaIcon, squareSlashIcon, squareSplitHorizontalIcon, squareSplitVerticalIcon, squareSquareIcon, squareStackIcon, squareStarIcon, squareStopIcon, squareTerminalIcon, squareUserIcon, squareUserRoundIcon, squareXIcon, squaresExcludeIcon, squaresIntersectIcon, squaresSubtractIcon, squaresUniteIcon, squircleIcon, squircleDashedIcon, squirrelIcon, stampIcon, starIcon, starHalfIcon, starOffIcon, starsIcon, stepBackIcon, stepForwardIcon, stethoscopeIcon, stickerIcon, stickyNoteIcon, stoneIcon, stopCircleIcon, storeIcon, stretchHorizontalIcon, stretchVerticalIcon, strikethroughIcon, subscriptIcon, subtitlesIcon, sunIcon, sunDimIcon, sunMediumIcon, sunMoonIcon, sunSnowIcon, sunriseIcon, sunsetIcon, superscriptIcon, swatchBookIcon, swissFrancIcon, switchCameraIcon, swordIcon, swordsIcon, syringeIcon, tableIcon, table2Icon, tableCellsMergeIcon, tableCellsSplitIcon, tableColumnsSplitIcon, tableConfigIcon, tableOfContentsIcon, tablePropertiesIcon, tableRowsSplitIcon, tabletIcon, tabletSmartphoneIcon, tabletsIcon, tagIcon, tagsIcon, tally1Icon, tally2Icon, tally3Icon, tally4Icon, tally5Icon, tangentIcon, targetIcon, telescopeIcon, tentIcon, tentTreeIcon, terminalIcon, terminalSquareIcon, testTubeIcon, testTube2Icon, testTubeDiagonalIcon, testTubesIcon, textIcon, textAlignCenterIcon, textAlignEndIcon, textAlignJustifyIcon, textAlignStartIcon, textCursorIcon, textCursorInputIcon, textInitialIcon, textQuoteIcon, textSearchIcon, textSelectIcon, textSelectionIcon, textWrapIcon, theaterIcon, thermometerIcon, thermometerSnowflakeIcon, thermometerSunIcon, thumbsDownIcon, thumbsUpIcon, ticketIcon, ticketCheckIcon, ticketMinusIcon, ticketPercentIcon, ticketPlusIcon, ticketSlashIcon, ticketXIcon, ticketsIcon, ticketsPlaneIcon, timerIcon, timerOffIcon, timerResetIcon, toggleLeftIcon, toggleRightIcon, toiletIcon, toolCaseIcon, toolboxIcon, tornadoIcon, torusIcon, touchpadIcon, touchpadOffIcon, towerControlIcon, toyBrickIcon, tractorIcon, trafficConeIcon, trainIcon, trainFrontIcon, trainFrontTunnelIcon, trainTrackIcon, tramFrontIcon, transgenderIcon, trashIcon, trash2Icon, treeDeciduousIcon, treePalmIcon, treePineIcon, treesIcon, trelloIcon, trendingDownIcon, trendingUpIcon, trendingUpDownIcon, triangleIcon, triangleAlertIcon, triangleDashedIcon, triangleRightIcon, trophyIcon, truckIcon, truckElectricIcon, turkishLiraIcon, turntableIcon, turtleIcon, tvIcon, tv2Icon, tvMinimalIcon, tvMinimalPlayIcon, twitchIcon, twitterIcon, typeIcon, typeOutlineIcon, umbrellaIcon, umbrellaOffIcon, underlineIcon, undoIcon, undo2Icon, undoDotIcon, unfoldHorizontalIcon, unfoldVerticalIcon, ungroupIcon, universityIcon, unlinkIcon, unlink2Icon, unlockIcon, unlockKeyholeIcon, unplugIcon, uploadIcon, uploadCloudIcon, usbIcon, userIcon, user2Icon, userCheckIcon, userCheck2Icon, userCircleIcon, userCircle2Icon, userCogIcon, userCog2Icon, userLockIcon, userMinusIcon, userMinus2Icon, userPenIcon, userPlusIcon, userPlus2Icon, userRoundIcon, userRoundCheckIcon, userRoundCogIcon, userRoundMinusIcon, userRoundPenIcon, userRoundPlusIcon, userRoundSearchIcon, userRoundXIcon, userSearchIcon, userSquareIcon, userSquare2Icon, userStarIcon, userXIcon, userX2Icon, usersIcon, users2Icon, usersRoundIcon, utensilsIcon, utensilsCrossedIcon, utilityPoleIcon, vanIcon, variableIcon, vaultIcon, vectorSquareIcon, veganIcon, venetianMaskIcon, venusIcon, venusAndMarsIcon, verifiedIcon, vibrateIcon, vibrateOffIcon, videoIcon, videoOffIcon, videotapeIcon, viewIcon, voicemailIcon, volleyballIcon, volumeIcon, volume1Icon, volume2Icon, volumeOffIcon, volumeXIcon, voteIcon, walletIcon, wallet2Icon, walletCardsIcon, walletMinimalIcon, wallpaperIcon, wandIcon, wand2Icon, wandSparklesIcon, warehouseIcon, washingMachineIcon, watchIcon, wavesIcon, wavesArrowDownIcon, wavesArrowUpIcon, wavesLadderIcon, waypointsIcon, webcamIcon, webhookIcon, webhookOffIcon, weightIcon, weightTildeIcon, wheatIcon, wheatOffIcon, wholeWordIcon, wifiIcon, wifiCogIcon, wifiHighIcon, wifiLowIcon, wifiOffIcon, wifiPenIcon, wifiSyncIcon, wifiZeroIcon, windIcon, windArrowDownIcon, wineIcon, wineOffIcon, workflowIcon, wormIcon, wrapTextIcon, wrenchIcon, xIcon, xCircleIcon, xOctagonIcon, xSquareIcon, youtubeIcon, zapIcon, zapOffIcon, zoomInIcon, zoomOutIcon)
+module LucideIcons exposing (aArrowDownIcon, aArrowUpIcon, aLargeSmallIcon, accessibilityIcon, activityIcon, activitySquareIcon, airVentIcon, airplayIcon, alarmCheckIcon, alarmClockIcon, alarmClockCheckIcon, alarmClockMinusIcon, alarmClockOffIcon, alarmClockPlusIcon, alarmMinusIcon, alarmPlusIcon, alarmSmokeIcon, albumIcon, alertCircleIcon, alertOctagonIcon, alertTriangleIcon, alignCenterIcon, alignCenterHorizontalIcon, alignCenterVerticalIcon, alignEndHorizontalIcon, alignEndVerticalIcon, alignHorizontalDistributeCenterIcon, alignHorizontalDistributeEndIcon, alignHorizontalDistributeStartIcon, alignHorizontalJustifyCenterIcon, alignHorizontalJustifyEndIcon, alignHorizontalJustifyStartIcon, alignHorizontalSpaceAroundIcon, alignHorizontalSpaceBetweenIcon, alignJustifyIcon, alignLeftIcon, alignRightIcon, alignStartHorizontalIcon, alignStartVerticalIcon, alignVerticalDistributeCenterIcon, alignVerticalDistributeEndIcon, alignVerticalDistributeStartIcon, alignVerticalJustifyCenterIcon, alignVerticalJustifyEndIcon, alignVerticalJustifyStartIcon, alignVerticalSpaceAroundIcon, alignVerticalSpaceBetweenIcon, ambulanceIcon, ampersandIcon, ampersandsIcon, amphoraIcon, anchorIcon, angryIcon, annoyedIcon, antennaIcon, anvilIcon, apertureIcon, appWindowIcon, appWindowMacIcon, appleIcon, archiveIcon, archiveRestoreIcon, archiveXIcon, areaChartIcon, armchairIcon, arrowBigDownIcon, arrowBigDownDashIcon, arrowBigLeftIcon, arrowBigLeftDashIcon, arrowBigRightIcon, arrowBigRightDashIcon, arrowBigUpIcon, arrowBigUpDashIcon, arrowDownIcon, arrowDown01Icon, arrowDown10Icon, arrowDownAZIcon, arrowDownAzIcon, arrowDownCircleIcon, arrowDownFromLineIcon, arrowDownLeftIcon, arrowDownLeftFromCircleIcon, arrowDownLeftFromSquareIcon, arrowDownLeftSquareIcon, arrowDownNarrowWideIcon, arrowDownRightIcon, arrowDownRightFromCircleIcon, arrowDownRightFromSquareIcon, arrowDownRightSquareIcon, arrowDownSquareIcon, arrowDownToDotIcon, arrowDownToLineIcon, arrowDownUpIcon, arrowDownWideNarrowIcon, arrowDownZAIcon, arrowDownZaIcon, arrowLeftIcon, arrowLeftCircleIcon, arrowLeftFromLineIcon, arrowLeftRightIcon, arrowLeftSquareIcon, arrowLeftToLineIcon, arrowRightIcon, arrowRightCircleIcon, arrowRightFromLineIcon, arrowRightLeftIcon, arrowRightSquareIcon, arrowRightToLineIcon, arrowUpIcon, arrowUp01Icon, arrowUp10Icon, arrowUpAZIcon, arrowUpAzIcon, arrowUpCircleIcon, arrowUpDownIcon, arrowUpFromDotIcon, arrowUpFromLineIcon, arrowUpLeftIcon, arrowUpLeftFromCircleIcon, arrowUpLeftFromSquareIcon, arrowUpLeftSquareIcon, arrowUpNarrowWideIcon, arrowUpRightIcon, arrowUpRightFromCircleIcon, arrowUpRightFromSquareIcon, arrowUpRightSquareIcon, arrowUpSquareIcon, arrowUpToLineIcon, arrowUpWideNarrowIcon, arrowUpZAIcon, arrowUpZaIcon, arrowsUpFromLineIcon, asteriskIcon, asteriskSquareIcon, atSignIcon, atomIcon, audioLinesIcon, audioWaveformIcon, awardIcon, axeIcon, axis3DIcon, axis3dIcon, babyIcon, backpackIcon, badgeIcon, badgeAlertIcon, badgeCentIcon, badgeCheckIcon, badgeDollarSignIcon, badgeEuroIcon, badgeHelpIcon, badgeIndianRupeeIcon, badgeInfoIcon, badgeJapaneseYenIcon, badgeMinusIcon, badgePercentIcon, badgePlusIcon, badgePoundSterlingIcon, badgeQuestionMarkIcon, badgeRussianRubleIcon, badgeSwissFrancIcon, badgeTurkishLiraIcon, badgeXIcon, baggageClaimIcon, balloonIcon, banIcon, bananaIcon, bandageIcon, banknoteIcon, banknoteArrowDownIcon, banknoteArrowUpIcon, banknoteXIcon, barChartIcon, barChart2Icon, barChart3Icon, barChart4Icon, barChartBigIcon, barChartHorizontalIcon, barChartHorizontalBigIcon, barcodeIcon, barrelIcon, baselineIcon, bathIcon, batteryIcon, batteryChargingIcon, batteryFullIcon, batteryLowIcon, batteryMediumIcon, batteryPlusIcon, batteryWarningIcon, beakerIcon, beanIcon, beanOffIcon, bedIcon, bedDoubleIcon, bedSingleIcon, beefIcon, beerIcon, beerOffIcon, bellIcon, bellDotIcon, bellElectricIcon, bellMinusIcon, bellOffIcon, bellPlusIcon, bellRingIcon, betweenHorizonalEndIcon, betweenHorizonalStartIcon, betweenHorizontalEndIcon, betweenHorizontalStartIcon, betweenVerticalEndIcon, betweenVerticalStartIcon, bicepsFlexedIcon, bikeIcon, binaryIcon, binocularsIcon, biohazardIcon, birdIcon, birdhouseIcon, bitcoinIcon, blendIcon, blindsIcon, blocksIcon, bluetoothIcon, bluetoothConnectedIcon, bluetoothOffIcon, bluetoothSearchingIcon, boldIcon, boltIcon, bombIcon, boneIcon, bookIcon, bookAIcon, bookAlertIcon, bookAudioIcon, bookCheckIcon, bookCopyIcon, bookDashedIcon, bookDownIcon, bookHeadphonesIcon, bookHeartIcon, bookImageIcon, bookKeyIcon, bookLockIcon, bookMarkedIcon, bookMinusIcon, bookOpenIcon, bookOpenCheckIcon, bookOpenTextIcon, bookPlusIcon, bookSearchIcon, bookTemplateIcon, bookTextIcon, bookTypeIcon, bookUpIcon, bookUp2Icon, bookUserIcon, bookXIcon, bookmarkIcon, bookmarkCheckIcon, bookmarkMinusIcon, bookmarkPlusIcon, bookmarkXIcon, boomBoxIcon, botIcon, botMessageSquareIcon, botOffIcon, bottleWineIcon, bowArrowIcon, boxIcon, boxSelectIcon, boxesIcon, bracesIcon, bracketsIcon, brainIcon, brainCircuitIcon, brainCogIcon, brickWallIcon, brickWallFireIcon, brickWallShieldIcon, briefcaseIcon, briefcaseBusinessIcon, briefcaseConveyorBeltIcon, briefcaseMedicalIcon, bringToFrontIcon, brushIcon, brushCleaningIcon, bubblesIcon, bugIcon, bugOffIcon, bugPlayIcon, buildingIcon, building2Icon, busIcon, busFrontIcon, cableIcon, cableCarIcon, cakeIcon, cakeSliceIcon, calculatorIcon, calendarIcon, calendar1Icon, calendarArrowDownIcon, calendarArrowUpIcon, calendarCheckIcon, calendarCheck2Icon, calendarClockIcon, calendarCogIcon, calendarDaysIcon, calendarFoldIcon, calendarHeartIcon, calendarMinusIcon, calendarMinus2Icon, calendarOffIcon, calendarPlusIcon, calendarPlus2Icon, calendarRangeIcon, calendarSearchIcon, calendarSyncIcon, calendarXIcon, calendarX2Icon, calendarsIcon, cameraIcon, cameraOffIcon, candlestickChartIcon, candyIcon, candyCaneIcon, candyOffIcon, cannabisIcon, cannabisOffIcon, captionsIcon, captionsOffIcon, carIcon, carFrontIcon, carTaxiFrontIcon, caravanIcon, cardSimIcon, carrotIcon, caseLowerIcon, caseSensitiveIcon, caseUpperIcon, cassetteTapeIcon, castIcon, castleIcon, catIcon, cctvIcon, chartAreaIcon, chartBarIcon, chartBarBigIcon, chartBarDecreasingIcon, chartBarIncreasingIcon, chartBarStackedIcon, chartCandlestickIcon, chartColumnIcon, chartColumnBigIcon, chartColumnDecreasingIcon, chartColumnIncreasingIcon, chartColumnStackedIcon, chartGanttIcon, chartLineIcon, chartNetworkIcon, chartNoAxesColumnIcon, chartNoAxesColumnDecreasingIcon, chartNoAxesColumnIncreasingIcon, chartNoAxesCombinedIcon, chartNoAxesGanttIcon, chartPieIcon, chartScatterIcon, chartSplineIcon, checkIcon, checkCheckIcon, checkCircleIcon, checkCircle2Icon, checkLineIcon, checkSquareIcon, checkSquare2Icon, chefHatIcon, cherryIcon, chessBishopIcon, chessKingIcon, chessKnightIcon, chessPawnIcon, chessQueenIcon, chessRookIcon, chevronDownIcon, chevronDownCircleIcon, chevronDownSquareIcon, chevronFirstIcon, chevronLastIcon, chevronLeftIcon, chevronLeftCircleIcon, chevronLeftSquareIcon, chevronRightIcon, chevronRightCircleIcon, chevronRightSquareIcon, chevronUpIcon, chevronUpCircleIcon, chevronUpSquareIcon, chevronsDownIcon, chevronsDownUpIcon, chevronsLeftIcon, chevronsLeftRightIcon, chevronsLeftRightEllipsisIcon, chevronsRightIcon, chevronsRightLeftIcon, chevronsUpIcon, chevronsUpDownIcon, chromeIcon, chromiumIcon, churchIcon, cigaretteIcon, cigaretteOffIcon, circleIcon, circleAlertIcon, circleArrowDownIcon, circleArrowLeftIcon, circleArrowOutDownLeftIcon, circleArrowOutDownRightIcon, circleArrowOutUpLeftIcon, circleArrowOutUpRightIcon, circleArrowRightIcon, circleArrowUpIcon, circleCheckIcon, circleCheckBigIcon, circleChevronDownIcon, circleChevronLeftIcon, circleChevronRightIcon, circleChevronUpIcon, circleDashedIcon, circleDivideIcon, circleDollarSignIcon, circleDotIcon, circleDotDashedIcon, circleEllipsisIcon, circleEqualIcon, circleFadingArrowUpIcon, circleFadingPlusIcon, circleGaugeIcon, circleHelpIcon, circleMinusIcon, circleOffIcon, circleParkingIcon, circleParkingOffIcon, circlePauseIcon, circlePercentIcon, circlePileIcon, circlePlayIcon, circlePlusIcon, circlePoundSterlingIcon, circlePowerIcon, circleQuestionMarkIcon, circleSlashIcon, circleSlash2Icon, circleSlashedIcon, circleSmallIcon, circleStarIcon, circleStopIcon, circleUserIcon, circleUserRoundIcon, circleXIcon, circuitBoardIcon, citrusIcon, clapperboardIcon, clipboardIcon, clipboardCheckIcon, clipboardClockIcon, clipboardCopyIcon, clipboardEditIcon, clipboardListIcon, clipboardMinusIcon, clipboardPasteIcon, clipboardPenIcon, clipboardPenLineIcon, clipboardPlusIcon, clipboardSignatureIcon, clipboardTypeIcon, clipboardXIcon, clockIcon, clock1Icon, clock10Icon, clock11Icon, clock12Icon, clock2Icon, clock3Icon, clock4Icon, clock5Icon, clock6Icon, clock7Icon, clock8Icon, clock9Icon, clockAlertIcon, clockArrowDownIcon, clockArrowUpIcon, clockCheckIcon, clockFadingIcon, clockPlusIcon, closedCaptionIcon, cloudIcon, cloudAlertIcon, cloudBackupIcon, cloudCheckIcon, cloudCogIcon, cloudDownloadIcon, cloudDrizzleIcon, cloudFogIcon, cloudHailIcon, cloudLightningIcon, cloudMoonIcon, cloudMoonRainIcon, cloudOffIcon, cloudRainIcon, cloudRainWindIcon, cloudSnowIcon, cloudSunIcon, cloudSunRainIcon, cloudSyncIcon, cloudUploadIcon, cloudyIcon, cloverIcon, clubIcon, codeIcon, code2Icon, codeSquareIcon, codeXmlIcon, codepenIcon, codesandboxIcon, coffeeIcon, cogIcon, coinsIcon, columnsIcon, columns2Icon, columns3Icon, columns3CogIcon, columns4Icon, columnsSettingsIcon, combineIcon, commandIcon, compassIcon, componentIcon, computerIcon, conciergeBellIcon, coneIcon, constructionIcon, contactIcon, contact2Icon, contactRoundIcon, containerIcon, contrastIcon, cookieIcon, cookingPotIcon, copyIcon, copyCheckIcon, copyMinusIcon, copyPlusIcon, copySlashIcon, copyXIcon, copyleftIcon, copyrightIcon, cornerDownLeftIcon, cornerDownRightIcon, cornerLeftDownIcon, cornerLeftUpIcon, cornerRightDownIcon, cornerRightUpIcon, cornerUpLeftIcon, cornerUpRightIcon, cpuIcon, creativeCommonsIcon, creditCardIcon, croissantIcon, cropIcon, crossIcon, crosshairIcon, crownIcon, cuboidIcon, cupSodaIcon, curlyBracesIcon, currencyIcon, cylinderIcon, damIcon, databaseIcon, databaseBackupIcon, databaseSearchIcon, databaseZapIcon, decimalsArrowLeftIcon, decimalsArrowRightIcon, deleteIcon, dessertIcon, diameterIcon, diamondIcon, diamondMinusIcon, diamondPercentIcon, diamondPlusIcon, dice1Icon, dice2Icon, dice3Icon, dice4Icon, dice5Icon, dice6Icon, dicesIcon, diffIcon, discIcon, disc2Icon, disc3Icon, discAlbumIcon, divideIcon, divideCircleIcon, divideSquareIcon, dnaIcon, dnaOffIcon, dockIcon, dogIcon, dollarSignIcon, donutIcon, doorClosedIcon, doorClosedLockedIcon, doorOpenIcon, dotIcon, dotSquareIcon, downloadIcon, downloadCloudIcon, draftingCompassIcon, dramaIcon, dribbbleIcon, drillIcon, droneIcon, dropletIcon, dropletOffIcon, dropletsIcon, drumIcon, drumstickIcon, dumbbellIcon, earIcon, earOffIcon, earthIcon, earthLockIcon, eclipseIcon, editIcon, edit2Icon, edit3Icon, eggIcon, eggFriedIcon, eggOffIcon, ellipseIcon, ellipsisIcon, ellipsisVerticalIcon, equalIcon, equalApproximatelyIcon, equalNotIcon, equalSquareIcon, eraserIcon, ethernetPortIcon, euroIcon, evChargerIcon, expandIcon, externalLinkIcon, eyeIcon, eyeClosedIcon, eyeOffIcon, facebookIcon, factoryIcon, fanIcon, fastForwardIcon, featherIcon, fenceIcon, ferrisWheelIcon, figmaIcon, fileIcon, fileArchiveIcon, fileAudioIcon, fileAudio2Icon, fileAxis3DIcon, fileAxis3dIcon, fileBadgeIcon, fileBadge2Icon, fileBarChartIcon, fileBarChart2Icon, fileBoxIcon, fileBracesIcon, fileBracesCornerIcon, fileChartColumnIcon, fileChartColumnIncreasingIcon, fileChartLineIcon, fileChartPieIcon, fileCheckIcon, fileCheck2Icon, fileCheckCornerIcon, fileClockIcon, fileCodeIcon, fileCode2Icon, fileCodeCornerIcon, fileCogIcon, fileCog2Icon, fileDiffIcon, fileDigitIcon, fileDownIcon, fileEditIcon, fileExclamationPointIcon, fileHeadphoneIcon, fileHeartIcon, fileImageIcon, fileInputIcon, fileJsonIcon, fileJson2Icon, fileKeyIcon, fileKey2Icon, fileLineChartIcon, fileLockIcon, fileLock2Icon, fileMinusIcon, fileMinus2Icon, fileMinusCornerIcon, fileMusicIcon, fileOutputIcon, filePenIcon, filePenLineIcon, filePieChartIcon, filePlayIcon, filePlusIcon, filePlus2Icon, filePlusCornerIcon, fileQuestionIcon, fileQuestionMarkIcon, fileScanIcon, fileSearchIcon, fileSearch2Icon, fileSearchCornerIcon, fileSignalIcon, fileSignatureIcon, fileSlidersIcon, fileSpreadsheetIcon, fileStackIcon, fileSymlinkIcon, fileTerminalIcon, fileTextIcon, fileTypeIcon, fileType2Icon, fileTypeCornerIcon, fileUpIcon, fileUserIcon, fileVideoIcon, fileVideo2Icon, fileVideoCameraIcon, fileVolumeIcon, fileVolume2Icon, fileWarningIcon, fileXIcon, fileX2Icon, fileXCornerIcon, filesIcon, filmIcon, filterIcon, filterXIcon, fingerprintIcon, fingerprintPatternIcon, fireExtinguisherIcon, fishIcon, fishOffIcon, fishSymbolIcon, fishingHookIcon, fishingRodIcon, flagIcon, flagOffIcon, flagTriangleLeftIcon, flagTriangleRightIcon, flameIcon, flameKindlingIcon, flashlightIcon, flashlightOffIcon, flaskConicalIcon, flaskConicalOffIcon, flaskRoundIcon, flipHorizontalIcon, flipHorizontal2Icon, flipVerticalIcon, flipVertical2Icon, flowerIcon, flower2Icon, focusIcon, foldHorizontalIcon, foldVerticalIcon, folderIcon, folderArchiveIcon, folderCheckIcon, folderClockIcon, folderClosedIcon, folderCodeIcon, folderCogIcon, folderCog2Icon, folderDotIcon, folderDownIcon, folderEditIcon, folderGitIcon, folderGit2Icon, folderHeartIcon, folderInputIcon, folderKanbanIcon, folderKeyIcon, folderLockIcon, folderMinusIcon, folderOpenIcon, folderOpenDotIcon, folderOutputIcon, folderPenIcon, folderPlusIcon, folderRootIcon, folderSearchIcon, folderSearch2Icon, folderSymlinkIcon, folderSyncIcon, folderTreeIcon, folderUpIcon, folderXIcon, foldersIcon, footprintsIcon, forkKnifeIcon, forkKnifeCrossedIcon, forkliftIcon, formIcon, formInputIcon, forwardIcon, frameIcon, framerIcon, frownIcon, fuelIcon, fullscreenIcon, functionSquareIcon, funnelIcon, funnelPlusIcon, funnelXIcon, galleryHorizontalIcon, galleryHorizontalEndIcon, galleryThumbnailsIcon, galleryVerticalIcon, galleryVerticalEndIcon, gamepadIcon, gamepad2Icon, gamepadDirectionalIcon, ganttChartIcon, ganttChartSquareIcon, gaugeIcon, gaugeCircleIcon, gavelIcon, gemIcon, georgianLariIcon, ghostIcon, giftIcon, gitBranchIcon, gitBranchMinusIcon, gitBranchPlusIcon, gitCommitIcon, gitCommitHorizontalIcon, gitCommitVerticalIcon, gitCompareIcon, gitCompareArrowsIcon, gitForkIcon, gitGraphIcon, gitMergeIcon, gitMergeConflictIcon, gitPullRequestIcon, gitPullRequestArrowIcon, gitPullRequestClosedIcon, gitPullRequestCreateIcon, gitPullRequestCreateArrowIcon, gitPullRequestDraftIcon, githubIcon, gitlabIcon, glassWaterIcon, glassesIcon, globeIcon, globe2Icon, globeLockIcon, globeOffIcon, globeXIcon, goalIcon, gpuIcon, grabIcon, graduationCapIcon, grapeIcon, gridIcon, grid2X2Icon, grid2X2CheckIcon, grid2X2PlusIcon, grid2X2XIcon, grid2x2Icon, grid2x2CheckIcon, grid2x2PlusIcon, grid2x2XIcon, grid3X3Icon, grid3x2Icon, grid3x3Icon, gripIcon, gripHorizontalIcon, gripVerticalIcon, groupIcon, guitarIcon, hamIcon, hamburgerIcon, hammerIcon, handIcon, handCoinsIcon, handFistIcon, handGrabIcon, handHeartIcon, handHelpingIcon, handMetalIcon, handPlatterIcon, handbagIcon, handshakeIcon, hardDriveIcon, hardDriveDownloadIcon, hardDriveUploadIcon, hardHatIcon, hashIcon, hatGlassesIcon, hazeIcon, hdIcon, hdmiPortIcon, headingIcon, heading1Icon, heading2Icon, heading3Icon, heading4Icon, heading5Icon, heading6Icon, headphoneOffIcon, headphonesIcon, headsetIcon, heartIcon, heartCrackIcon, heartHandshakeIcon, heartMinusIcon, heartOffIcon, heartPlusIcon, heartPulseIcon, heaterIcon, helicopterIcon, helpCircleIcon, helpingHandIcon, hexagonIcon, highlighterIcon, historyIcon, homeIcon, hopIcon, hopOffIcon, hospitalIcon, hotelIcon, hourglassIcon, houseIcon, houseHeartIcon, housePlugIcon, housePlusIcon, houseWifiIcon, iceCreamIcon, iceCream2Icon, iceCreamBowlIcon, iceCreamConeIcon, idCardIcon, idCardLanyardIcon, imageIcon, imageDownIcon, imageMinusIcon, imageOffIcon, imagePlayIcon, imagePlusIcon, imageUpIcon, imageUpscaleIcon, imagesIcon, importIcon, inboxIcon, indentIcon, indentDecreaseIcon, indentIncreaseIcon, indianRupeeIcon, infinityIcon, infoIcon, inspectIcon, inspectionPanelIcon, instagramIcon, italicIcon, iterationCcwIcon, iterationCwIcon, japaneseYenIcon, joystickIcon, kanbanIcon, kanbanSquareIcon, kanbanSquareDashedIcon, kayakIcon, keyIcon, keyRoundIcon, keySquareIcon, keyboardIcon, keyboardMusicIcon, keyboardOffIcon, lampIcon, lampCeilingIcon, lampDeskIcon, lampFloorIcon, lampWallDownIcon, lampWallUpIcon, landPlotIcon, landmarkIcon, languagesIcon, laptopIcon, laptop2Icon, laptopMinimalIcon, laptopMinimalCheckIcon, lassoIcon, lassoSelectIcon, laughIcon, layersIcon, layers2Icon, layers3Icon, layersPlusIcon, layoutIcon, layoutDashboardIcon, layoutGridIcon, layoutListIcon, layoutPanelLeftIcon, layoutPanelTopIcon, layoutTemplateIcon, leafIcon, leafyGreenIcon, lecternIcon, lensConcaveIcon, lensConvexIcon, letterTextIcon, libraryIcon, libraryBigIcon, librarySquareIcon, lifeBuoyIcon, ligatureIcon, lightbulbIcon, lightbulbOffIcon, lineChartIcon, lineDotRightHorizontalIcon, lineSquiggleIcon, linkIcon, link2Icon, link2OffIcon, linkedinIcon, listIcon, listCheckIcon, listChecksIcon, listChevronsDownUpIcon, listChevronsUpDownIcon, listCollapseIcon, listEndIcon, listFilterIcon, listFilterPlusIcon, listIndentDecreaseIcon, listIndentIncreaseIcon, listMinusIcon, listMusicIcon, listOrderedIcon, listPlusIcon, listRestartIcon, listStartIcon, listTodoIcon, listTreeIcon, listVideoIcon, listXIcon, loaderIcon, loader2Icon, loaderCircleIcon, loaderPinwheelIcon, locateIcon, locateFixedIcon, locateOffIcon, locationEditIcon, lockIcon, lockKeyholeIcon, lockKeyholeOpenIcon, lockOpenIcon, logInIcon, logOutIcon, logsIcon, lollipopIcon, luggageIcon, mSquareIcon, magnetIcon, mailIcon, mailCheckIcon, mailMinusIcon, mailOpenIcon, mailPlusIcon, mailQuestionIcon, mailQuestionMarkIcon, mailSearchIcon, mailWarningIcon, mailXIcon, mailboxIcon, mailsIcon, mapIcon, mapMinusIcon, mapPinIcon, mapPinCheckIcon, mapPinCheckInsideIcon, mapPinHouseIcon, mapPinMinusIcon, mapPinMinusInsideIcon, mapPinOffIcon, mapPinPenIcon, mapPinPlusIcon, mapPinPlusInsideIcon, mapPinXIcon, mapPinXInsideIcon, mapPinnedIcon, mapPlusIcon, marsIcon, marsStrokeIcon, martiniIcon, maximizeIcon, maximize2Icon, medalIcon, megaphoneIcon, megaphoneOffIcon, mehIcon, memoryStickIcon, menuIcon, menuSquareIcon, mergeIcon, messageCircleIcon, messageCircleCheckIcon, messageCircleCodeIcon, messageCircleDashedIcon, messageCircleHeartIcon, messageCircleMoreIcon, messageCircleOffIcon, messageCirclePlusIcon, messageCircleQuestionIcon, messageCircleQuestionMarkIcon, messageCircleReplyIcon, messageCircleWarningIcon, messageCircleXIcon, messageSquareIcon, messageSquareCheckIcon, messageSquareCodeIcon, messageSquareDashedIcon, messageSquareDiffIcon, messageSquareDotIcon, messageSquareHeartIcon, messageSquareLockIcon, messageSquareMoreIcon, messageSquareOffIcon, messageSquarePlusIcon, messageSquareQuoteIcon, messageSquareReplyIcon, messageSquareShareIcon, messageSquareTextIcon, messageSquareWarningIcon, messageSquareXIcon, messagesSquareIcon, metronomeIcon, micIcon, mic2Icon, micOffIcon, micVocalIcon, microchipIcon, microscopeIcon, microwaveIcon, milestoneIcon, milkIcon, milkOffIcon, minimizeIcon, minimize2Icon, minusIcon, minusCircleIcon, minusSquareIcon, mirrorRectangularIcon, mirrorRoundIcon, monitorIcon, monitorCheckIcon, monitorCloudIcon, monitorCogIcon, monitorDotIcon, monitorDownIcon, monitorOffIcon, monitorPauseIcon, monitorPlayIcon, monitorSmartphoneIcon, monitorSpeakerIcon, monitorStopIcon, monitorUpIcon, monitorXIcon, moonIcon, moonStarIcon, moreHorizontalIcon, moreVerticalIcon, motorbikeIcon, mountainIcon, mountainSnowIcon, mouseIcon, mouseLeftIcon, mouseOffIcon, mousePointerIcon, mousePointer2Icon, mousePointer2OffIcon, mousePointerBanIcon, mousePointerClickIcon, mousePointerSquareDashedIcon, mouseRightIcon, moveIcon, move3DIcon, move3dIcon, moveDiagonalIcon, moveDiagonal2Icon, moveDownIcon, moveDownLeftIcon, moveDownRightIcon, moveHorizontalIcon, moveLeftIcon, moveRightIcon, moveUpIcon, moveUpLeftIcon, moveUpRightIcon, moveVerticalIcon, musicIcon, music2Icon, music3Icon, music4Icon, navigationIcon, navigation2Icon, navigation2OffIcon, navigationOffIcon, networkIcon, newspaperIcon, nfcIcon, nonBinaryIcon, notebookIcon, notebookPenIcon, notebookTabsIcon, notebookTextIcon, notepadTextIcon, notepadTextDashedIcon, nutIcon, nutOffIcon, octagonIcon, octagonAlertIcon, octagonMinusIcon, octagonPauseIcon, octagonXIcon, omegaIcon, optionIcon, orbitIcon, origamiIcon, outdentIcon, packageIcon, package2Icon, packageCheckIcon, packageMinusIcon, packageOpenIcon, packagePlusIcon, packageSearchIcon, packageXIcon, paintBucketIcon, paintRollerIcon, paintbrushIcon, paintbrush2Icon, paintbrushVerticalIcon, paletteIcon, palmtreeIcon, pandaIcon, panelBottomIcon, panelBottomCloseIcon, panelBottomDashedIcon, panelBottomInactiveIcon, panelBottomOpenIcon, panelLeftIcon, panelLeftCloseIcon, panelLeftDashedIcon, panelLeftInactiveIcon, panelLeftOpenIcon, panelLeftRightDashedIcon, panelRightIcon, panelRightCloseIcon, panelRightDashedIcon, panelRightInactiveIcon, panelRightOpenIcon, panelTopIcon, panelTopBottomDashedIcon, panelTopCloseIcon, panelTopDashedIcon, panelTopInactiveIcon, panelTopOpenIcon, panelsLeftBottomIcon, panelsLeftRightIcon, panelsRightBottomIcon, panelsTopBottomIcon, panelsTopLeftIcon, paperclipIcon, parenthesesIcon, parkingCircleIcon, parkingCircleOffIcon, parkingMeterIcon, parkingSquareIcon, parkingSquareOffIcon, partyPopperIcon, pauseIcon, pauseCircleIcon, pauseOctagonIcon, pawPrintIcon, pcCaseIcon, penIcon, penBoxIcon, penLineIcon, penOffIcon, penSquareIcon, penToolIcon, pencilIcon, pencilLineIcon, pencilOffIcon, pencilRulerIcon, pentagonIcon, percentIcon, percentCircleIcon, percentDiamondIcon, percentSquareIcon, personStandingIcon, philippinePesoIcon, phoneIcon, phoneCallIcon, phoneForwardedIcon, phoneIncomingIcon, phoneMissedIcon, phoneOffIcon, phoneOutgoingIcon, piIcon, piSquareIcon, pianoIcon, pickaxeIcon, pictureInPictureIcon, pictureInPicture2Icon, pieChartIcon, piggyBankIcon, pilcrowIcon, pilcrowLeftIcon, pilcrowRightIcon, pilcrowSquareIcon, pillIcon, pillBottleIcon, pinIcon, pinOffIcon, pipetteIcon, pizzaIcon, planeIcon, planeLandingIcon, planeTakeoffIcon, playIcon, playCircleIcon, playSquareIcon, plugIcon, plug2Icon, plugZapIcon, plugZap2Icon, plusIcon, plusCircleIcon, plusSquareIcon, pocketIcon, pocketKnifeIcon, podcastIcon, pointerIcon, pointerOffIcon, popcornIcon, popsicleIcon, poundSterlingIcon, powerIcon, powerCircleIcon, powerOffIcon, powerSquareIcon, presentationIcon, printerIcon, printerCheckIcon, printerXIcon, projectorIcon, proportionsIcon, puzzleIcon, pyramidIcon, qrCodeIcon, quoteIcon, rabbitIcon, radarIcon, radiationIcon, radicalIcon, radioIcon, radioReceiverIcon, radioTowerIcon, radiusIcon, railSymbolIcon, rainbowIcon, ratIcon, ratioIcon, receiptIcon, receiptCentIcon, receiptEuroIcon, receiptIndianRupeeIcon, receiptJapaneseYenIcon, receiptPoundSterlingIcon, receiptRussianRubleIcon, receiptSwissFrancIcon, receiptTextIcon, receiptTurkishLiraIcon, rectangleCircleIcon, rectangleEllipsisIcon, rectangleGogglesIcon, rectangleHorizontalIcon, rectangleVerticalIcon, recycleIcon, redoIcon, redo2Icon, redoDotIcon, refreshCcwIcon, refreshCcwDotIcon, refreshCwIcon, refreshCwOffIcon, refrigeratorIcon, regexIcon, removeFormattingIcon, repeatIcon, repeat1Icon, repeat2Icon, replaceIcon, replaceAllIcon, replyIcon, replyAllIcon, rewindIcon, ribbonIcon, rocketIcon, rockingChairIcon, rollerCoasterIcon, roseIcon, rotate3DIcon, rotate3dIcon, rotateCcwIcon, rotateCcwKeyIcon, rotateCcwSquareIcon, rotateCwIcon, rotateCwSquareIcon, routeIcon, routeOffIcon, routerIcon, rowsIcon, rows2Icon, rows3Icon, rows4Icon, rssIcon, rulerIcon, rulerDimensionLineIcon, russianRubleIcon, sailboatIcon, saladIcon, sandwichIcon, satelliteIcon, satelliteDishIcon, saudiRiyalIcon, saveIcon, saveAllIcon, saveOffIcon, scaleIcon, scale3DIcon, scale3dIcon, scalingIcon, scanIcon, scanBarcodeIcon, scanEyeIcon, scanFaceIcon, scanHeartIcon, scanLineIcon, scanQrCodeIcon, scanSearchIcon, scanTextIcon, scatterChartIcon, schoolIcon, school2Icon, scissorsIcon, scissorsLineDashedIcon, scissorsSquareIcon, scissorsSquareDashedBottomIcon, scooterIcon, screenShareIcon, screenShareOffIcon, scrollIcon, scrollTextIcon, searchIcon, searchAlertIcon, searchCheckIcon, searchCodeIcon, searchSlashIcon, searchXIcon, sectionIcon, sendIcon, sendHorizonalIcon, sendHorizontalIcon, sendToBackIcon, separatorHorizontalIcon, separatorVerticalIcon, serverIcon, serverCogIcon, serverCrashIcon, serverOffIcon, settingsIcon, settings2Icon, shapesIcon, shareIcon, share2Icon, sheetIcon, shellIcon, shelvingUnitIcon, shieldIcon, shieldAlertIcon, shieldBanIcon, shieldCheckIcon, shieldCloseIcon, shieldEllipsisIcon, shieldHalfIcon, shieldMinusIcon, shieldOffIcon, shieldPlusIcon, shieldQuestionIcon, shieldQuestionMarkIcon, shieldUserIcon, shieldXIcon, shipIcon, shipWheelIcon, shirtIcon, shoppingBagIcon, shoppingBasketIcon, shoppingCartIcon, shovelIcon, showerHeadIcon, shredderIcon, shrimpIcon, shrinkIcon, shrubIcon, shuffleIcon, sidebarIcon, sidebarCloseIcon, sidebarOpenIcon, sigmaIcon, sigmaSquareIcon, signalIcon, signalHighIcon, signalLowIcon, signalMediumIcon, signalZeroIcon, signatureIcon, signpostIcon, signpostBigIcon, sirenIcon, skipBackIcon, skipForwardIcon, skullIcon, slackIcon, slashIcon, slashSquareIcon, sliceIcon, slidersIcon, slidersHorizontalIcon, slidersVerticalIcon, smartphoneIcon, smartphoneChargingIcon, smartphoneNfcIcon, smileIcon, smilePlusIcon, snailIcon, snowflakeIcon, soapDispenserDropletIcon, sofaIcon, solarPanelIcon, sortAscIcon, sortDescIcon, soupIcon, spaceIcon, spadeIcon, sparkleIcon, sparklesIcon, speakerIcon, speechIcon, spellCheckIcon, spellCheck2Icon, splineIcon, splinePointerIcon, splitIcon, splitSquareHorizontalIcon, splitSquareVerticalIcon, spoolIcon, spotlightIcon, sprayCanIcon, sproutIcon, squareIcon, squareActivityIcon, squareArrowDownIcon, squareArrowDownLeftIcon, squareArrowDownRightIcon, squareArrowLeftIcon, squareArrowOutDownLeftIcon, squareArrowOutDownRightIcon, squareArrowOutUpLeftIcon, squareArrowOutUpRightIcon, squareArrowRightIcon, squareArrowRightEnterIcon, squareArrowRightExitIcon, squareArrowUpIcon, squareArrowUpLeftIcon, squareArrowUpRightIcon, squareAsteriskIcon, squareBottomDashedScissorsIcon, squareCenterlineDashedHorizontalIcon, squareCenterlineDashedVerticalIcon, squareChartGanttIcon, squareCheckIcon, squareCheckBigIcon, squareChevronDownIcon, squareChevronLeftIcon, squareChevronRightIcon, squareChevronUpIcon, squareCodeIcon, squareDashedIcon, squareDashedBottomIcon, squareDashedBottomCodeIcon, squareDashedKanbanIcon, squareDashedMousePointerIcon, squareDashedTopSolidIcon, squareDivideIcon, squareDotIcon, squareEqualIcon, squareFunctionIcon, squareGanttChartIcon, squareKanbanIcon, squareLibraryIcon, squareMIcon, squareMenuIcon, squareMinusIcon, squareMousePointerIcon, squareParkingIcon, squareParkingOffIcon, squarePauseIcon, squarePenIcon, squarePercentIcon, squarePiIcon, squarePilcrowIcon, squarePlayIcon, squarePlusIcon, squarePowerIcon, squareRadicalIcon, squareRoundCornerIcon, squareScissorsIcon, squareSigmaIcon, squareSlashIcon, squareSplitHorizontalIcon, squareSplitVerticalIcon, squareSquareIcon, squareStackIcon, squareStarIcon, squareStopIcon, squareTerminalIcon, squareUserIcon, squareUserRoundIcon, squareXIcon, squaresExcludeIcon, squaresIntersectIcon, squaresSubtractIcon, squaresUniteIcon, squircleIcon, squircleDashedIcon, squirrelIcon, stampIcon, starIcon, starHalfIcon, starOffIcon, starsIcon, stepBackIcon, stepForwardIcon, stethoscopeIcon, stickerIcon, stickyNoteIcon, stoneIcon, stopCircleIcon, storeIcon, stretchHorizontalIcon, stretchVerticalIcon, strikethroughIcon, subscriptIcon, subtitlesIcon, sunIcon, sunDimIcon, sunMediumIcon, sunMoonIcon, sunSnowIcon, sunriseIcon, sunsetIcon, superscriptIcon, swatchBookIcon, swissFrancIcon, switchCameraIcon, swordIcon, swordsIcon, syringeIcon, tableIcon, table2Icon, tableCellsMergeIcon, tableCellsSplitIcon, tableColumnsSplitIcon, tableConfigIcon, tableOfContentsIcon, tablePropertiesIcon, tableRowsSplitIcon, tabletIcon, tabletSmartphoneIcon, tabletsIcon, tagIcon, tagsIcon, tally1Icon, tally2Icon, tally3Icon, tally4Icon, tally5Icon, tangentIcon, targetIcon, telescopeIcon, tentIcon, tentTreeIcon, terminalIcon, terminalSquareIcon, testTubeIcon, testTube2Icon, testTubeDiagonalIcon, testTubesIcon, textIcon, textAlignCenterIcon, textAlignEndIcon, textAlignJustifyIcon, textAlignStartIcon, textCursorIcon, textCursorInputIcon, textInitialIcon, textQuoteIcon, textSearchIcon, textSelectIcon, textSelectionIcon, textWrapIcon, theaterIcon, thermometerIcon, thermometerSnowflakeIcon, thermometerSunIcon, thumbsDownIcon, thumbsUpIcon, ticketIcon, ticketCheckIcon, ticketMinusIcon, ticketPercentIcon, ticketPlusIcon, ticketSlashIcon, ticketXIcon, ticketsIcon, ticketsPlaneIcon, timerIcon, timerOffIcon, timerResetIcon, toggleLeftIcon, toggleRightIcon, toiletIcon, toolCaseIcon, toolboxIcon, tornadoIcon, torusIcon, touchpadIcon, touchpadOffIcon, towelRackIcon, towerControlIcon, toyBrickIcon, tractorIcon, trafficConeIcon, trainIcon, trainFrontIcon, trainFrontTunnelIcon, trainTrackIcon, tramFrontIcon, transgenderIcon, trashIcon, trash2Icon, treeDeciduousIcon, treePalmIcon, treePineIcon, treesIcon, trelloIcon, trendingDownIcon, trendingUpIcon, trendingUpDownIcon, triangleIcon, triangleAlertIcon, triangleDashedIcon, triangleRightIcon, trophyIcon, truckIcon, truckElectricIcon, turkishLiraIcon, turntableIcon, turtleIcon, tvIcon, tv2Icon, tvMinimalIcon, tvMinimalPlayIcon, twitchIcon, twitterIcon, typeIcon, typeOutlineIcon, umbrellaIcon, umbrellaOffIcon, underlineIcon, undoIcon, undo2Icon, undoDotIcon, unfoldHorizontalIcon, unfoldVerticalIcon, ungroupIcon, universityIcon, unlinkIcon, unlink2Icon, unlockIcon, unlockKeyholeIcon, unplugIcon, uploadIcon, uploadCloudIcon, usbIcon, userIcon, user2Icon, userCheckIcon, userCheck2Icon, userCircleIcon, userCircle2Icon, userCogIcon, userCog2Icon, userKeyIcon, userLockIcon, userMinusIcon, userMinus2Icon, userPenIcon, userPlusIcon, userPlus2Icon, userRoundIcon, userRoundCheckIcon, userRoundCogIcon, userRoundKeyIcon, userRoundMinusIcon, userRoundPenIcon, userRoundPlusIcon, userRoundSearchIcon, userRoundXIcon, userSearchIcon, userSquareIcon, userSquare2Icon, userStarIcon, userXIcon, userX2Icon, usersIcon, users2Icon, usersRoundIcon, utensilsIcon, utensilsCrossedIcon, utilityPoleIcon, vanIcon, variableIcon, vaultIcon, vectorSquareIcon, veganIcon, venetianMaskIcon, venusIcon, venusAndMarsIcon, verifiedIcon, vibrateIcon, vibrateOffIcon, videoIcon, videoOffIcon, videotapeIcon, viewIcon, voicemailIcon, volleyballIcon, volumeIcon, volume1Icon, volume2Icon, volumeOffIcon, volumeXIcon, voteIcon, walletIcon, wallet2Icon, walletCardsIcon, walletMinimalIcon, wallpaperIcon, wandIcon, wand2Icon, wandSparklesIcon, warehouseIcon, washingMachineIcon, watchIcon, wavesIcon, wavesArrowDownIcon, wavesArrowUpIcon, wavesLadderIcon, waypointsIcon, webcamIcon, webhookIcon, webhookOffIcon, weightIcon, weightTildeIcon, wheatIcon, wheatOffIcon, wholeWordIcon, wifiIcon, wifiCogIcon, wifiHighIcon, wifiLowIcon, wifiOffIcon, wifiPenIcon, wifiSyncIcon, wifiZeroIcon, windIcon, windArrowDownIcon, wineIcon, wineOffIcon, workflowIcon, wormIcon, wrapTextIcon, wrenchIcon, xIcon, xCircleIcon, xLineTopIcon, xOctagonIcon, xSquareIcon, youtubeIcon, zapIcon, zapOffIcon, zodiacAquariusIcon, zodiacAriesIcon, zodiacCancerIcon, zodiacCapricornIcon, zodiacGeminiIcon, zodiacLeoIcon, zodiacLibraIcon, zodiacOphiuchusIcon, zodiacPiscesIcon, zodiacSagittariusIcon, zodiacScorpioIcon, zodiacTaurusIcon, zodiacVirgoIcon, zoomInIcon, zoomOutIcon)
 
 {-| Lucide icons in Elm.
 
 Checkout the [readme](https://github.com/chandru89new/elm-lucide) for usage instructions.
 
-@docs aArrowDownIcon, aArrowUpIcon, aLargeSmallIcon, accessibilityIcon, activityIcon, activitySquareIcon, airVentIcon, airplayIcon, alarmCheckIcon, alarmClockIcon, alarmClockCheckIcon, alarmClockMinusIcon, alarmClockOffIcon, alarmClockPlusIcon, alarmMinusIcon, alarmPlusIcon, alarmSmokeIcon, albumIcon, alertCircleIcon, alertOctagonIcon, alertTriangleIcon, alignCenterIcon, alignCenterHorizontalIcon, alignCenterVerticalIcon, alignEndHorizontalIcon, alignEndVerticalIcon, alignHorizontalDistributeCenterIcon, alignHorizontalDistributeEndIcon, alignHorizontalDistributeStartIcon, alignHorizontalJustifyCenterIcon, alignHorizontalJustifyEndIcon, alignHorizontalJustifyStartIcon, alignHorizontalSpaceAroundIcon, alignHorizontalSpaceBetweenIcon, alignJustifyIcon, alignLeftIcon, alignRightIcon, alignStartHorizontalIcon, alignStartVerticalIcon, alignVerticalDistributeCenterIcon, alignVerticalDistributeEndIcon, alignVerticalDistributeStartIcon, alignVerticalJustifyCenterIcon, alignVerticalJustifyEndIcon, alignVerticalJustifyStartIcon, alignVerticalSpaceAroundIcon, alignVerticalSpaceBetweenIcon, ambulanceIcon, ampersandIcon, ampersandsIcon, amphoraIcon, anchorIcon, angryIcon, annoyedIcon, antennaIcon, anvilIcon, apertureIcon, appWindowIcon, appWindowMacIcon, appleIcon, archiveIcon, archiveRestoreIcon, archiveXIcon, areaChartIcon, armchairIcon, arrowBigDownIcon, arrowBigDownDashIcon, arrowBigLeftIcon, arrowBigLeftDashIcon, arrowBigRightIcon, arrowBigRightDashIcon, arrowBigUpIcon, arrowBigUpDashIcon, arrowDownIcon, arrowDown01Icon, arrowDown10Icon, arrowDownAZIcon, arrowDownAzIcon, arrowDownCircleIcon, arrowDownFromLineIcon, arrowDownLeftIcon, arrowDownLeftFromCircleIcon, arrowDownLeftFromSquareIcon, arrowDownLeftSquareIcon, arrowDownNarrowWideIcon, arrowDownRightIcon, arrowDownRightFromCircleIcon, arrowDownRightFromSquareIcon, arrowDownRightSquareIcon, arrowDownSquareIcon, arrowDownToDotIcon, arrowDownToLineIcon, arrowDownUpIcon, arrowDownWideNarrowIcon, arrowDownZAIcon, arrowDownZaIcon, arrowLeftIcon, arrowLeftCircleIcon, arrowLeftFromLineIcon, arrowLeftRightIcon, arrowLeftSquareIcon, arrowLeftToLineIcon, arrowRightIcon, arrowRightCircleIcon, arrowRightFromLineIcon, arrowRightLeftIcon, arrowRightSquareIcon, arrowRightToLineIcon, arrowUpIcon, arrowUp01Icon, arrowUp10Icon, arrowUpAZIcon, arrowUpAzIcon, arrowUpCircleIcon, arrowUpDownIcon, arrowUpFromDotIcon, arrowUpFromLineIcon, arrowUpLeftIcon, arrowUpLeftFromCircleIcon, arrowUpLeftFromSquareIcon, arrowUpLeftSquareIcon, arrowUpNarrowWideIcon, arrowUpRightIcon, arrowUpRightFromCircleIcon, arrowUpRightFromSquareIcon, arrowUpRightSquareIcon, arrowUpSquareIcon, arrowUpToLineIcon, arrowUpWideNarrowIcon, arrowUpZAIcon, arrowUpZaIcon, arrowsUpFromLineIcon, asteriskIcon, asteriskSquareIcon, atSignIcon, atomIcon, audioLinesIcon, audioWaveformIcon, awardIcon, axeIcon, axis3DIcon, axis3dIcon, babyIcon, backpackIcon, badgeIcon, badgeAlertIcon, badgeCentIcon, badgeCheckIcon, badgeDollarSignIcon, badgeEuroIcon, badgeHelpIcon, badgeIndianRupeeIcon, badgeInfoIcon, badgeJapaneseYenIcon, badgeMinusIcon, badgePercentIcon, badgePlusIcon, badgePoundSterlingIcon, badgeQuestionMarkIcon, badgeRussianRubleIcon, badgeSwissFrancIcon, badgeTurkishLiraIcon, badgeXIcon, baggageClaimIcon, balloonIcon, banIcon, bananaIcon, bandageIcon, banknoteIcon, banknoteArrowDownIcon, banknoteArrowUpIcon, banknoteXIcon, barChartIcon, barChart2Icon, barChart3Icon, barChart4Icon, barChartBigIcon, barChartHorizontalIcon, barChartHorizontalBigIcon, barcodeIcon, barrelIcon, baselineIcon, bathIcon, batteryIcon, batteryChargingIcon, batteryFullIcon, batteryLowIcon, batteryMediumIcon, batteryPlusIcon, batteryWarningIcon, beakerIcon, beanIcon, beanOffIcon, bedIcon, bedDoubleIcon, bedSingleIcon, beefIcon, beerIcon, beerOffIcon, bellIcon, bellDotIcon, bellElectricIcon, bellMinusIcon, bellOffIcon, bellPlusIcon, bellRingIcon, betweenHorizonalEndIcon, betweenHorizonalStartIcon, betweenHorizontalEndIcon, betweenHorizontalStartIcon, betweenVerticalEndIcon, betweenVerticalStartIcon, bicepsFlexedIcon, bikeIcon, binaryIcon, binocularsIcon, biohazardIcon, birdIcon, birdhouseIcon, bitcoinIcon, blendIcon, blindsIcon, blocksIcon, bluetoothIcon, bluetoothConnectedIcon, bluetoothOffIcon, bluetoothSearchingIcon, boldIcon, boltIcon, bombIcon, boneIcon, bookIcon, bookAIcon, bookAlertIcon, bookAudioIcon, bookCheckIcon, bookCopyIcon, bookDashedIcon, bookDownIcon, bookHeadphonesIcon, bookHeartIcon, bookImageIcon, bookKeyIcon, bookLockIcon, bookMarkedIcon, bookMinusIcon, bookOpenIcon, bookOpenCheckIcon, bookOpenTextIcon, bookPlusIcon, bookSearchIcon, bookTemplateIcon, bookTextIcon, bookTypeIcon, bookUpIcon, bookUp2Icon, bookUserIcon, bookXIcon, bookmarkIcon, bookmarkCheckIcon, bookmarkMinusIcon, bookmarkPlusIcon, bookmarkXIcon, boomBoxIcon, botIcon, botMessageSquareIcon, botOffIcon, bottleWineIcon, bowArrowIcon, boxIcon, boxSelectIcon, boxesIcon, bracesIcon, bracketsIcon, brainIcon, brainCircuitIcon, brainCogIcon, brickWallIcon, brickWallFireIcon, brickWallShieldIcon, briefcaseIcon, briefcaseBusinessIcon, briefcaseConveyorBeltIcon, briefcaseMedicalIcon, bringToFrontIcon, brushIcon, brushCleaningIcon, bubblesIcon, bugIcon, bugOffIcon, bugPlayIcon, buildingIcon, building2Icon, busIcon, busFrontIcon, cableIcon, cableCarIcon, cakeIcon, cakeSliceIcon, calculatorIcon, calendarIcon, calendar1Icon, calendarArrowDownIcon, calendarArrowUpIcon, calendarCheckIcon, calendarCheck2Icon, calendarClockIcon, calendarCogIcon, calendarDaysIcon, calendarFoldIcon, calendarHeartIcon, calendarMinusIcon, calendarMinus2Icon, calendarOffIcon, calendarPlusIcon, calendarPlus2Icon, calendarRangeIcon, calendarSearchIcon, calendarSyncIcon, calendarXIcon, calendarX2Icon, calendarsIcon, cameraIcon, cameraOffIcon, candlestickChartIcon, candyIcon, candyCaneIcon, candyOffIcon, cannabisIcon, cannabisOffIcon, captionsIcon, captionsOffIcon, carIcon, carFrontIcon, carTaxiFrontIcon, caravanIcon, cardSimIcon, carrotIcon, caseLowerIcon, caseSensitiveIcon, caseUpperIcon, cassetteTapeIcon, castIcon, castleIcon, catIcon, cctvIcon, chartAreaIcon, chartBarIcon, chartBarBigIcon, chartBarDecreasingIcon, chartBarIncreasingIcon, chartBarStackedIcon, chartCandlestickIcon, chartColumnIcon, chartColumnBigIcon, chartColumnDecreasingIcon, chartColumnIncreasingIcon, chartColumnStackedIcon, chartGanttIcon, chartLineIcon, chartNetworkIcon, chartNoAxesColumnIcon, chartNoAxesColumnDecreasingIcon, chartNoAxesColumnIncreasingIcon, chartNoAxesCombinedIcon, chartNoAxesGanttIcon, chartPieIcon, chartScatterIcon, chartSplineIcon, checkIcon, checkCheckIcon, checkCircleIcon, checkCircle2Icon, checkLineIcon, checkSquareIcon, checkSquare2Icon, chefHatIcon, cherryIcon, chessBishopIcon, chessKingIcon, chessKnightIcon, chessPawnIcon, chessQueenIcon, chessRookIcon, chevronDownIcon, chevronDownCircleIcon, chevronDownSquareIcon, chevronFirstIcon, chevronLastIcon, chevronLeftIcon, chevronLeftCircleIcon, chevronLeftSquareIcon, chevronRightIcon, chevronRightCircleIcon, chevronRightSquareIcon, chevronUpIcon, chevronUpCircleIcon, chevronUpSquareIcon, chevronsDownIcon, chevronsDownUpIcon, chevronsLeftIcon, chevronsLeftRightIcon, chevronsLeftRightEllipsisIcon, chevronsRightIcon, chevronsRightLeftIcon, chevronsUpIcon, chevronsUpDownIcon, chromeIcon, chromiumIcon, churchIcon, cigaretteIcon, cigaretteOffIcon, circleIcon, circleAlertIcon, circleArrowDownIcon, circleArrowLeftIcon, circleArrowOutDownLeftIcon, circleArrowOutDownRightIcon, circleArrowOutUpLeftIcon, circleArrowOutUpRightIcon, circleArrowRightIcon, circleArrowUpIcon, circleCheckIcon, circleCheckBigIcon, circleChevronDownIcon, circleChevronLeftIcon, circleChevronRightIcon, circleChevronUpIcon, circleDashedIcon, circleDivideIcon, circleDollarSignIcon, circleDotIcon, circleDotDashedIcon, circleEllipsisIcon, circleEqualIcon, circleFadingArrowUpIcon, circleFadingPlusIcon, circleGaugeIcon, circleHelpIcon, circleMinusIcon, circleOffIcon, circleParkingIcon, circleParkingOffIcon, circlePauseIcon, circlePercentIcon, circlePileIcon, circlePlayIcon, circlePlusIcon, circlePoundSterlingIcon, circlePowerIcon, circleQuestionMarkIcon, circleSlashIcon, circleSlash2Icon, circleSlashedIcon, circleSmallIcon, circleStarIcon, circleStopIcon, circleUserIcon, circleUserRoundIcon, circleXIcon, circuitBoardIcon, citrusIcon, clapperboardIcon, clipboardIcon, clipboardCheckIcon, clipboardClockIcon, clipboardCopyIcon, clipboardEditIcon, clipboardListIcon, clipboardMinusIcon, clipboardPasteIcon, clipboardPenIcon, clipboardPenLineIcon, clipboardPlusIcon, clipboardSignatureIcon, clipboardTypeIcon, clipboardXIcon, clockIcon, clock1Icon, clock10Icon, clock11Icon, clock12Icon, clock2Icon, clock3Icon, clock4Icon, clock5Icon, clock6Icon, clock7Icon, clock8Icon, clock9Icon, clockAlertIcon, clockArrowDownIcon, clockArrowUpIcon, clockCheckIcon, clockFadingIcon, clockPlusIcon, closedCaptionIcon, cloudIcon, cloudAlertIcon, cloudBackupIcon, cloudCheckIcon, cloudCogIcon, cloudDownloadIcon, cloudDrizzleIcon, cloudFogIcon, cloudHailIcon, cloudLightningIcon, cloudMoonIcon, cloudMoonRainIcon, cloudOffIcon, cloudRainIcon, cloudRainWindIcon, cloudSnowIcon, cloudSunIcon, cloudSunRainIcon, cloudSyncIcon, cloudUploadIcon, cloudyIcon, cloverIcon, clubIcon, codeIcon, code2Icon, codeSquareIcon, codeXmlIcon, codepenIcon, codesandboxIcon, coffeeIcon, cogIcon, coinsIcon, columnsIcon, columns2Icon, columns3Icon, columns3CogIcon, columns4Icon, columnsSettingsIcon, combineIcon, commandIcon, compassIcon, componentIcon, computerIcon, conciergeBellIcon, coneIcon, constructionIcon, contactIcon, contact2Icon, contactRoundIcon, containerIcon, contrastIcon, cookieIcon, cookingPotIcon, copyIcon, copyCheckIcon, copyMinusIcon, copyPlusIcon, copySlashIcon, copyXIcon, copyleftIcon, copyrightIcon, cornerDownLeftIcon, cornerDownRightIcon, cornerLeftDownIcon, cornerLeftUpIcon, cornerRightDownIcon, cornerRightUpIcon, cornerUpLeftIcon, cornerUpRightIcon, cpuIcon, creativeCommonsIcon, creditCardIcon, croissantIcon, cropIcon, crossIcon, crosshairIcon, crownIcon, cuboidIcon, cupSodaIcon, curlyBracesIcon, currencyIcon, cylinderIcon, damIcon, databaseIcon, databaseBackupIcon, databaseZapIcon, decimalsArrowLeftIcon, decimalsArrowRightIcon, deleteIcon, dessertIcon, diameterIcon, diamondIcon, diamondMinusIcon, diamondPercentIcon, diamondPlusIcon, dice1Icon, dice2Icon, dice3Icon, dice4Icon, dice5Icon, dice6Icon, dicesIcon, diffIcon, discIcon, disc2Icon, disc3Icon, discAlbumIcon, divideIcon, divideCircleIcon, divideSquareIcon, dnaIcon, dnaOffIcon, dockIcon, dogIcon, dollarSignIcon, donutIcon, doorClosedIcon, doorClosedLockedIcon, doorOpenIcon, dotIcon, dotSquareIcon, downloadIcon, downloadCloudIcon, draftingCompassIcon, dramaIcon, dribbbleIcon, drillIcon, droneIcon, dropletIcon, dropletOffIcon, dropletsIcon, drumIcon, drumstickIcon, dumbbellIcon, earIcon, earOffIcon, earthIcon, earthLockIcon, eclipseIcon, editIcon, edit2Icon, edit3Icon, eggIcon, eggFriedIcon, eggOffIcon, ellipsisIcon, ellipsisVerticalIcon, equalIcon, equalApproximatelyIcon, equalNotIcon, equalSquareIcon, eraserIcon, ethernetPortIcon, euroIcon, evChargerIcon, expandIcon, externalLinkIcon, eyeIcon, eyeClosedIcon, eyeOffIcon, facebookIcon, factoryIcon, fanIcon, fastForwardIcon, featherIcon, fenceIcon, ferrisWheelIcon, figmaIcon, fileIcon, fileArchiveIcon, fileAudioIcon, fileAudio2Icon, fileAxis3DIcon, fileAxis3dIcon, fileBadgeIcon, fileBadge2Icon, fileBarChartIcon, fileBarChart2Icon, fileBoxIcon, fileBracesIcon, fileBracesCornerIcon, fileChartColumnIcon, fileChartColumnIncreasingIcon, fileChartLineIcon, fileChartPieIcon, fileCheckIcon, fileCheck2Icon, fileCheckCornerIcon, fileClockIcon, fileCodeIcon, fileCode2Icon, fileCodeCornerIcon, fileCogIcon, fileCog2Icon, fileDiffIcon, fileDigitIcon, fileDownIcon, fileEditIcon, fileExclamationPointIcon, fileHeadphoneIcon, fileHeartIcon, fileImageIcon, fileInputIcon, fileJsonIcon, fileJson2Icon, fileKeyIcon, fileKey2Icon, fileLineChartIcon, fileLockIcon, fileLock2Icon, fileMinusIcon, fileMinus2Icon, fileMinusCornerIcon, fileMusicIcon, fileOutputIcon, filePenIcon, filePenLineIcon, filePieChartIcon, filePlayIcon, filePlusIcon, filePlus2Icon, filePlusCornerIcon, fileQuestionIcon, fileQuestionMarkIcon, fileScanIcon, fileSearchIcon, fileSearch2Icon, fileSearchCornerIcon, fileSignalIcon, fileSignatureIcon, fileSlidersIcon, fileSpreadsheetIcon, fileStackIcon, fileSymlinkIcon, fileTerminalIcon, fileTextIcon, fileTypeIcon, fileType2Icon, fileTypeCornerIcon, fileUpIcon, fileUserIcon, fileVideoIcon, fileVideo2Icon, fileVideoCameraIcon, fileVolumeIcon, fileVolume2Icon, fileWarningIcon, fileXIcon, fileX2Icon, fileXCornerIcon, filesIcon, filmIcon, filterIcon, filterXIcon, fingerprintIcon, fingerprintPatternIcon, fireExtinguisherIcon, fishIcon, fishOffIcon, fishSymbolIcon, fishingHookIcon, flagIcon, flagOffIcon, flagTriangleLeftIcon, flagTriangleRightIcon, flameIcon, flameKindlingIcon, flashlightIcon, flashlightOffIcon, flaskConicalIcon, flaskConicalOffIcon, flaskRoundIcon, flipHorizontalIcon, flipHorizontal2Icon, flipVerticalIcon, flipVertical2Icon, flowerIcon, flower2Icon, focusIcon, foldHorizontalIcon, foldVerticalIcon, folderIcon, folderArchiveIcon, folderCheckIcon, folderClockIcon, folderClosedIcon, folderCodeIcon, folderCogIcon, folderCog2Icon, folderDotIcon, folderDownIcon, folderEditIcon, folderGitIcon, folderGit2Icon, folderHeartIcon, folderInputIcon, folderKanbanIcon, folderKeyIcon, folderLockIcon, folderMinusIcon, folderOpenIcon, folderOpenDotIcon, folderOutputIcon, folderPenIcon, folderPlusIcon, folderRootIcon, folderSearchIcon, folderSearch2Icon, folderSymlinkIcon, folderSyncIcon, folderTreeIcon, folderUpIcon, folderXIcon, foldersIcon, footprintsIcon, forkKnifeIcon, forkKnifeCrossedIcon, forkliftIcon, formIcon, formInputIcon, forwardIcon, frameIcon, framerIcon, frownIcon, fuelIcon, fullscreenIcon, functionSquareIcon, funnelIcon, funnelPlusIcon, funnelXIcon, galleryHorizontalIcon, galleryHorizontalEndIcon, galleryThumbnailsIcon, galleryVerticalIcon, galleryVerticalEndIcon, gamepadIcon, gamepad2Icon, gamepadDirectionalIcon, ganttChartIcon, ganttChartSquareIcon, gaugeIcon, gaugeCircleIcon, gavelIcon, gemIcon, georgianLariIcon, ghostIcon, giftIcon, gitBranchIcon, gitBranchMinusIcon, gitBranchPlusIcon, gitCommitIcon, gitCommitHorizontalIcon, gitCommitVerticalIcon, gitCompareIcon, gitCompareArrowsIcon, gitForkIcon, gitGraphIcon, gitMergeIcon, gitPullRequestIcon, gitPullRequestArrowIcon, gitPullRequestClosedIcon, gitPullRequestCreateIcon, gitPullRequestCreateArrowIcon, gitPullRequestDraftIcon, githubIcon, gitlabIcon, glassWaterIcon, glassesIcon, globeIcon, globe2Icon, globeLockIcon, globeXIcon, goalIcon, gpuIcon, grabIcon, graduationCapIcon, grapeIcon, gridIcon, grid2X2Icon, grid2X2CheckIcon, grid2X2PlusIcon, grid2X2XIcon, grid2x2Icon, grid2x2CheckIcon, grid2x2PlusIcon, grid2x2XIcon, grid3X3Icon, grid3x2Icon, grid3x3Icon, gripIcon, gripHorizontalIcon, gripVerticalIcon, groupIcon, guitarIcon, hamIcon, hamburgerIcon, hammerIcon, handIcon, handCoinsIcon, handFistIcon, handGrabIcon, handHeartIcon, handHelpingIcon, handMetalIcon, handPlatterIcon, handbagIcon, handshakeIcon, hardDriveIcon, hardDriveDownloadIcon, hardDriveUploadIcon, hardHatIcon, hashIcon, hatGlassesIcon, hazeIcon, hdIcon, hdmiPortIcon, headingIcon, heading1Icon, heading2Icon, heading3Icon, heading4Icon, heading5Icon, heading6Icon, headphoneOffIcon, headphonesIcon, headsetIcon, heartIcon, heartCrackIcon, heartHandshakeIcon, heartMinusIcon, heartOffIcon, heartPlusIcon, heartPulseIcon, heaterIcon, helicopterIcon, helpCircleIcon, helpingHandIcon, hexagonIcon, highlighterIcon, historyIcon, homeIcon, hopIcon, hopOffIcon, hospitalIcon, hotelIcon, hourglassIcon, houseIcon, houseHeartIcon, housePlugIcon, housePlusIcon, houseWifiIcon, iceCreamIcon, iceCream2Icon, iceCreamBowlIcon, iceCreamConeIcon, idCardIcon, idCardLanyardIcon, imageIcon, imageDownIcon, imageMinusIcon, imageOffIcon, imagePlayIcon, imagePlusIcon, imageUpIcon, imageUpscaleIcon, imagesIcon, importIcon, inboxIcon, indentIcon, indentDecreaseIcon, indentIncreaseIcon, indianRupeeIcon, infinityIcon, infoIcon, inspectIcon, inspectionPanelIcon, instagramIcon, italicIcon, iterationCcwIcon, iterationCwIcon, japaneseYenIcon, joystickIcon, kanbanIcon, kanbanSquareIcon, kanbanSquareDashedIcon, kayakIcon, keyIcon, keyRoundIcon, keySquareIcon, keyboardIcon, keyboardMusicIcon, keyboardOffIcon, lampIcon, lampCeilingIcon, lampDeskIcon, lampFloorIcon, lampWallDownIcon, lampWallUpIcon, landPlotIcon, landmarkIcon, languagesIcon, laptopIcon, laptop2Icon, laptopMinimalIcon, laptopMinimalCheckIcon, lassoIcon, lassoSelectIcon, laughIcon, layersIcon, layers2Icon, layers3Icon, layersPlusIcon, layoutIcon, layoutDashboardIcon, layoutGridIcon, layoutListIcon, layoutPanelLeftIcon, layoutPanelTopIcon, layoutTemplateIcon, leafIcon, leafyGreenIcon, lecternIcon, letterTextIcon, libraryIcon, libraryBigIcon, librarySquareIcon, lifeBuoyIcon, ligatureIcon, lightbulbIcon, lightbulbOffIcon, lineChartIcon, lineSquiggleIcon, linkIcon, link2Icon, link2OffIcon, linkedinIcon, listIcon, listCheckIcon, listChecksIcon, listChevronsDownUpIcon, listChevronsUpDownIcon, listCollapseIcon, listEndIcon, listFilterIcon, listFilterPlusIcon, listIndentDecreaseIcon, listIndentIncreaseIcon, listMinusIcon, listMusicIcon, listOrderedIcon, listPlusIcon, listRestartIcon, listStartIcon, listTodoIcon, listTreeIcon, listVideoIcon, listXIcon, loaderIcon, loader2Icon, loaderCircleIcon, loaderPinwheelIcon, locateIcon, locateFixedIcon, locateOffIcon, locationEditIcon, lockIcon, lockKeyholeIcon, lockKeyholeOpenIcon, lockOpenIcon, logInIcon, logOutIcon, logsIcon, lollipopIcon, luggageIcon, mSquareIcon, magnetIcon, mailIcon, mailCheckIcon, mailMinusIcon, mailOpenIcon, mailPlusIcon, mailQuestionIcon, mailQuestionMarkIcon, mailSearchIcon, mailWarningIcon, mailXIcon, mailboxIcon, mailsIcon, mapIcon, mapMinusIcon, mapPinIcon, mapPinCheckIcon, mapPinCheckInsideIcon, mapPinHouseIcon, mapPinMinusIcon, mapPinMinusInsideIcon, mapPinOffIcon, mapPinPenIcon, mapPinPlusIcon, mapPinPlusInsideIcon, mapPinXIcon, mapPinXInsideIcon, mapPinnedIcon, mapPlusIcon, marsIcon, marsStrokeIcon, martiniIcon, maximizeIcon, maximize2Icon, medalIcon, megaphoneIcon, megaphoneOffIcon, mehIcon, memoryStickIcon, menuIcon, menuSquareIcon, mergeIcon, messageCircleIcon, messageCircleCodeIcon, messageCircleDashedIcon, messageCircleHeartIcon, messageCircleMoreIcon, messageCircleOffIcon, messageCirclePlusIcon, messageCircleQuestionIcon, messageCircleQuestionMarkIcon, messageCircleReplyIcon, messageCircleWarningIcon, messageCircleXIcon, messageSquareIcon, messageSquareCodeIcon, messageSquareDashedIcon, messageSquareDiffIcon, messageSquareDotIcon, messageSquareHeartIcon, messageSquareLockIcon, messageSquareMoreIcon, messageSquareOffIcon, messageSquarePlusIcon, messageSquareQuoteIcon, messageSquareReplyIcon, messageSquareShareIcon, messageSquareTextIcon, messageSquareWarningIcon, messageSquareXIcon, messagesSquareIcon, micIcon, mic2Icon, micOffIcon, micVocalIcon, microchipIcon, microscopeIcon, microwaveIcon, milestoneIcon, milkIcon, milkOffIcon, minimizeIcon, minimize2Icon, minusIcon, minusCircleIcon, minusSquareIcon, monitorIcon, monitorCheckIcon, monitorCloudIcon, monitorCogIcon, monitorDotIcon, monitorDownIcon, monitorOffIcon, monitorPauseIcon, monitorPlayIcon, monitorSmartphoneIcon, monitorSpeakerIcon, monitorStopIcon, monitorUpIcon, monitorXIcon, moonIcon, moonStarIcon, moreHorizontalIcon, moreVerticalIcon, motorbikeIcon, mountainIcon, mountainSnowIcon, mouseIcon, mouseOffIcon, mousePointerIcon, mousePointer2Icon, mousePointer2OffIcon, mousePointerBanIcon, mousePointerClickIcon, mousePointerSquareDashedIcon, moveIcon, move3DIcon, move3dIcon, moveDiagonalIcon, moveDiagonal2Icon, moveDownIcon, moveDownLeftIcon, moveDownRightIcon, moveHorizontalIcon, moveLeftIcon, moveRightIcon, moveUpIcon, moveUpLeftIcon, moveUpRightIcon, moveVerticalIcon, musicIcon, music2Icon, music3Icon, music4Icon, navigationIcon, navigation2Icon, navigation2OffIcon, navigationOffIcon, networkIcon, newspaperIcon, nfcIcon, nonBinaryIcon, notebookIcon, notebookPenIcon, notebookTabsIcon, notebookTextIcon, notepadTextIcon, notepadTextDashedIcon, nutIcon, nutOffIcon, octagonIcon, octagonAlertIcon, octagonMinusIcon, octagonPauseIcon, octagonXIcon, omegaIcon, optionIcon, orbitIcon, origamiIcon, outdentIcon, packageIcon, package2Icon, packageCheckIcon, packageMinusIcon, packageOpenIcon, packagePlusIcon, packageSearchIcon, packageXIcon, paintBucketIcon, paintRollerIcon, paintbrushIcon, paintbrush2Icon, paintbrushVerticalIcon, paletteIcon, palmtreeIcon, pandaIcon, panelBottomIcon, panelBottomCloseIcon, panelBottomDashedIcon, panelBottomInactiveIcon, panelBottomOpenIcon, panelLeftIcon, panelLeftCloseIcon, panelLeftDashedIcon, panelLeftInactiveIcon, panelLeftOpenIcon, panelLeftRightDashedIcon, panelRightIcon, panelRightCloseIcon, panelRightDashedIcon, panelRightInactiveIcon, panelRightOpenIcon, panelTopIcon, panelTopBottomDashedIcon, panelTopCloseIcon, panelTopDashedIcon, panelTopInactiveIcon, panelTopOpenIcon, panelsLeftBottomIcon, panelsLeftRightIcon, panelsRightBottomIcon, panelsTopBottomIcon, panelsTopLeftIcon, paperclipIcon, parenthesesIcon, parkingCircleIcon, parkingCircleOffIcon, parkingMeterIcon, parkingSquareIcon, parkingSquareOffIcon, partyPopperIcon, pauseIcon, pauseCircleIcon, pauseOctagonIcon, pawPrintIcon, pcCaseIcon, penIcon, penBoxIcon, penLineIcon, penOffIcon, penSquareIcon, penToolIcon, pencilIcon, pencilLineIcon, pencilOffIcon, pencilRulerIcon, pentagonIcon, percentIcon, percentCircleIcon, percentDiamondIcon, percentSquareIcon, personStandingIcon, philippinePesoIcon, phoneIcon, phoneCallIcon, phoneForwardedIcon, phoneIncomingIcon, phoneMissedIcon, phoneOffIcon, phoneOutgoingIcon, piIcon, piSquareIcon, pianoIcon, pickaxeIcon, pictureInPictureIcon, pictureInPicture2Icon, pieChartIcon, piggyBankIcon, pilcrowIcon, pilcrowLeftIcon, pilcrowRightIcon, pilcrowSquareIcon, pillIcon, pillBottleIcon, pinIcon, pinOffIcon, pipetteIcon, pizzaIcon, planeIcon, planeLandingIcon, planeTakeoffIcon, playIcon, playCircleIcon, playSquareIcon, plugIcon, plug2Icon, plugZapIcon, plugZap2Icon, plusIcon, plusCircleIcon, plusSquareIcon, pocketIcon, pocketKnifeIcon, podcastIcon, pointerIcon, pointerOffIcon, popcornIcon, popsicleIcon, poundSterlingIcon, powerIcon, powerCircleIcon, powerOffIcon, powerSquareIcon, presentationIcon, printerIcon, printerCheckIcon, printerXIcon, projectorIcon, proportionsIcon, puzzleIcon, pyramidIcon, qrCodeIcon, quoteIcon, rabbitIcon, radarIcon, radiationIcon, radicalIcon, radioIcon, radioReceiverIcon, radioTowerIcon, radiusIcon, railSymbolIcon, rainbowIcon, ratIcon, ratioIcon, receiptIcon, receiptCentIcon, receiptEuroIcon, receiptIndianRupeeIcon, receiptJapaneseYenIcon, receiptPoundSterlingIcon, receiptRussianRubleIcon, receiptSwissFrancIcon, receiptTextIcon, receiptTurkishLiraIcon, rectangleCircleIcon, rectangleEllipsisIcon, rectangleGogglesIcon, rectangleHorizontalIcon, rectangleVerticalIcon, recycleIcon, redoIcon, redo2Icon, redoDotIcon, refreshCcwIcon, refreshCcwDotIcon, refreshCwIcon, refreshCwOffIcon, refrigeratorIcon, regexIcon, removeFormattingIcon, repeatIcon, repeat1Icon, repeat2Icon, replaceIcon, replaceAllIcon, replyIcon, replyAllIcon, rewindIcon, ribbonIcon, rocketIcon, rockingChairIcon, rollerCoasterIcon, roseIcon, rotate3DIcon, rotate3dIcon, rotateCcwIcon, rotateCcwKeyIcon, rotateCcwSquareIcon, rotateCwIcon, rotateCwSquareIcon, routeIcon, routeOffIcon, routerIcon, rowsIcon, rows2Icon, rows3Icon, rows4Icon, rssIcon, rulerIcon, rulerDimensionLineIcon, russianRubleIcon, sailboatIcon, saladIcon, sandwichIcon, satelliteIcon, satelliteDishIcon, saudiRiyalIcon, saveIcon, saveAllIcon, saveOffIcon, scaleIcon, scale3DIcon, scale3dIcon, scalingIcon, scanIcon, scanBarcodeIcon, scanEyeIcon, scanFaceIcon, scanHeartIcon, scanLineIcon, scanQrCodeIcon, scanSearchIcon, scanTextIcon, scatterChartIcon, schoolIcon, school2Icon, scissorsIcon, scissorsLineDashedIcon, scissorsSquareIcon, scissorsSquareDashedBottomIcon, scooterIcon, screenShareIcon, screenShareOffIcon, scrollIcon, scrollTextIcon, searchIcon, searchAlertIcon, searchCheckIcon, searchCodeIcon, searchSlashIcon, searchXIcon, sectionIcon, sendIcon, sendHorizonalIcon, sendHorizontalIcon, sendToBackIcon, separatorHorizontalIcon, separatorVerticalIcon, serverIcon, serverCogIcon, serverCrashIcon, serverOffIcon, settingsIcon, settings2Icon, shapesIcon, shareIcon, share2Icon, sheetIcon, shellIcon, shieldIcon, shieldAlertIcon, shieldBanIcon, shieldCheckIcon, shieldCloseIcon, shieldEllipsisIcon, shieldHalfIcon, shieldMinusIcon, shieldOffIcon, shieldPlusIcon, shieldQuestionIcon, shieldQuestionMarkIcon, shieldUserIcon, shieldXIcon, shipIcon, shipWheelIcon, shirtIcon, shoppingBagIcon, shoppingBasketIcon, shoppingCartIcon, shovelIcon, showerHeadIcon, shredderIcon, shrimpIcon, shrinkIcon, shrubIcon, shuffleIcon, sidebarIcon, sidebarCloseIcon, sidebarOpenIcon, sigmaIcon, sigmaSquareIcon, signalIcon, signalHighIcon, signalLowIcon, signalMediumIcon, signalZeroIcon, signatureIcon, signpostIcon, signpostBigIcon, sirenIcon, skipBackIcon, skipForwardIcon, skullIcon, slackIcon, slashIcon, slashSquareIcon, sliceIcon, slidersIcon, slidersHorizontalIcon, slidersVerticalIcon, smartphoneIcon, smartphoneChargingIcon, smartphoneNfcIcon, smileIcon, smilePlusIcon, snailIcon, snowflakeIcon, soapDispenserDropletIcon, sofaIcon, solarPanelIcon, sortAscIcon, sortDescIcon, soupIcon, spaceIcon, spadeIcon, sparkleIcon, sparklesIcon, speakerIcon, speechIcon, spellCheckIcon, spellCheck2Icon, splineIcon, splinePointerIcon, splitIcon, splitSquareHorizontalIcon, splitSquareVerticalIcon, spoolIcon, spotlightIcon, sprayCanIcon, sproutIcon, squareIcon, squareActivityIcon, squareArrowDownIcon, squareArrowDownLeftIcon, squareArrowDownRightIcon, squareArrowLeftIcon, squareArrowOutDownLeftIcon, squareArrowOutDownRightIcon, squareArrowOutUpLeftIcon, squareArrowOutUpRightIcon, squareArrowRightIcon, squareArrowUpIcon, squareArrowUpLeftIcon, squareArrowUpRightIcon, squareAsteriskIcon, squareBottomDashedScissorsIcon, squareChartGanttIcon, squareCheckIcon, squareCheckBigIcon, squareChevronDownIcon, squareChevronLeftIcon, squareChevronRightIcon, squareChevronUpIcon, squareCodeIcon, squareDashedIcon, squareDashedBottomIcon, squareDashedBottomCodeIcon, squareDashedKanbanIcon, squareDashedMousePointerIcon, squareDashedTopSolidIcon, squareDivideIcon, squareDotIcon, squareEqualIcon, squareFunctionIcon, squareGanttChartIcon, squareKanbanIcon, squareLibraryIcon, squareMIcon, squareMenuIcon, squareMinusIcon, squareMousePointerIcon, squareParkingIcon, squareParkingOffIcon, squarePauseIcon, squarePenIcon, squarePercentIcon, squarePiIcon, squarePilcrowIcon, squarePlayIcon, squarePlusIcon, squarePowerIcon, squareRadicalIcon, squareRoundCornerIcon, squareScissorsIcon, squareSigmaIcon, squareSlashIcon, squareSplitHorizontalIcon, squareSplitVerticalIcon, squareSquareIcon, squareStackIcon, squareStarIcon, squareStopIcon, squareTerminalIcon, squareUserIcon, squareUserRoundIcon, squareXIcon, squaresExcludeIcon, squaresIntersectIcon, squaresSubtractIcon, squaresUniteIcon, squircleIcon, squircleDashedIcon, squirrelIcon, stampIcon, starIcon, starHalfIcon, starOffIcon, starsIcon, stepBackIcon, stepForwardIcon, stethoscopeIcon, stickerIcon, stickyNoteIcon, stoneIcon, stopCircleIcon, storeIcon, stretchHorizontalIcon, stretchVerticalIcon, strikethroughIcon, subscriptIcon, subtitlesIcon, sunIcon, sunDimIcon, sunMediumIcon, sunMoonIcon, sunSnowIcon, sunriseIcon, sunsetIcon, superscriptIcon, swatchBookIcon, swissFrancIcon, switchCameraIcon, swordIcon, swordsIcon, syringeIcon, tableIcon, table2Icon, tableCellsMergeIcon, tableCellsSplitIcon, tableColumnsSplitIcon, tableConfigIcon, tableOfContentsIcon, tablePropertiesIcon, tableRowsSplitIcon, tabletIcon, tabletSmartphoneIcon, tabletsIcon, tagIcon, tagsIcon, tally1Icon, tally2Icon, tally3Icon, tally4Icon, tally5Icon, tangentIcon, targetIcon, telescopeIcon, tentIcon, tentTreeIcon, terminalIcon, terminalSquareIcon, testTubeIcon, testTube2Icon, testTubeDiagonalIcon, testTubesIcon, textIcon, textAlignCenterIcon, textAlignEndIcon, textAlignJustifyIcon, textAlignStartIcon, textCursorIcon, textCursorInputIcon, textInitialIcon, textQuoteIcon, textSearchIcon, textSelectIcon, textSelectionIcon, textWrapIcon, theaterIcon, thermometerIcon, thermometerSnowflakeIcon, thermometerSunIcon, thumbsDownIcon, thumbsUpIcon, ticketIcon, ticketCheckIcon, ticketMinusIcon, ticketPercentIcon, ticketPlusIcon, ticketSlashIcon, ticketXIcon, ticketsIcon, ticketsPlaneIcon, timerIcon, timerOffIcon, timerResetIcon, toggleLeftIcon, toggleRightIcon, toiletIcon, toolCaseIcon, toolboxIcon, tornadoIcon, torusIcon, touchpadIcon, touchpadOffIcon, towerControlIcon, toyBrickIcon, tractorIcon, trafficConeIcon, trainIcon, trainFrontIcon, trainFrontTunnelIcon, trainTrackIcon, tramFrontIcon, transgenderIcon, trashIcon, trash2Icon, treeDeciduousIcon, treePalmIcon, treePineIcon, treesIcon, trelloIcon, trendingDownIcon, trendingUpIcon, trendingUpDownIcon, triangleIcon, triangleAlertIcon, triangleDashedIcon, triangleRightIcon, trophyIcon, truckIcon, truckElectricIcon, turkishLiraIcon, turntableIcon, turtleIcon, tvIcon, tv2Icon, tvMinimalIcon, tvMinimalPlayIcon, twitchIcon, twitterIcon, typeIcon, typeOutlineIcon, umbrellaIcon, umbrellaOffIcon, underlineIcon, undoIcon, undo2Icon, undoDotIcon, unfoldHorizontalIcon, unfoldVerticalIcon, ungroupIcon, universityIcon, unlinkIcon, unlink2Icon, unlockIcon, unlockKeyholeIcon, unplugIcon, uploadIcon, uploadCloudIcon, usbIcon, userIcon, user2Icon, userCheckIcon, userCheck2Icon, userCircleIcon, userCircle2Icon, userCogIcon, userCog2Icon, userLockIcon, userMinusIcon, userMinus2Icon, userPenIcon, userPlusIcon, userPlus2Icon, userRoundIcon, userRoundCheckIcon, userRoundCogIcon, userRoundMinusIcon, userRoundPenIcon, userRoundPlusIcon, userRoundSearchIcon, userRoundXIcon, userSearchIcon, userSquareIcon, userSquare2Icon, userStarIcon, userXIcon, userX2Icon, usersIcon, users2Icon, usersRoundIcon, utensilsIcon, utensilsCrossedIcon, utilityPoleIcon, vanIcon, variableIcon, vaultIcon, vectorSquareIcon, veganIcon, venetianMaskIcon, venusIcon, venusAndMarsIcon, verifiedIcon, vibrateIcon, vibrateOffIcon, videoIcon, videoOffIcon, videotapeIcon, viewIcon, voicemailIcon, volleyballIcon, volumeIcon, volume1Icon, volume2Icon, volumeOffIcon, volumeXIcon, voteIcon, walletIcon, wallet2Icon, walletCardsIcon, walletMinimalIcon, wallpaperIcon, wandIcon, wand2Icon, wandSparklesIcon, warehouseIcon, washingMachineIcon, watchIcon, wavesIcon, wavesArrowDownIcon, wavesArrowUpIcon, wavesLadderIcon, waypointsIcon, webcamIcon, webhookIcon, webhookOffIcon, weightIcon, weightTildeIcon, wheatIcon, wheatOffIcon, wholeWordIcon, wifiIcon, wifiCogIcon, wifiHighIcon, wifiLowIcon, wifiOffIcon, wifiPenIcon, wifiSyncIcon, wifiZeroIcon, windIcon, windArrowDownIcon, wineIcon, wineOffIcon, workflowIcon, wormIcon, wrapTextIcon, wrenchIcon, xIcon, xCircleIcon, xOctagonIcon, xSquareIcon, youtubeIcon, zapIcon, zapOffIcon, zoomInIcon, zoomOutIcon
+@docs aArrowDownIcon, aArrowUpIcon, aLargeSmallIcon, accessibilityIcon, activityIcon, activitySquareIcon, airVentIcon, airplayIcon, alarmCheckIcon, alarmClockIcon, alarmClockCheckIcon, alarmClockMinusIcon, alarmClockOffIcon, alarmClockPlusIcon, alarmMinusIcon, alarmPlusIcon, alarmSmokeIcon, albumIcon, alertCircleIcon, alertOctagonIcon, alertTriangleIcon, alignCenterIcon, alignCenterHorizontalIcon, alignCenterVerticalIcon, alignEndHorizontalIcon, alignEndVerticalIcon, alignHorizontalDistributeCenterIcon, alignHorizontalDistributeEndIcon, alignHorizontalDistributeStartIcon, alignHorizontalJustifyCenterIcon, alignHorizontalJustifyEndIcon, alignHorizontalJustifyStartIcon, alignHorizontalSpaceAroundIcon, alignHorizontalSpaceBetweenIcon, alignJustifyIcon, alignLeftIcon, alignRightIcon, alignStartHorizontalIcon, alignStartVerticalIcon, alignVerticalDistributeCenterIcon, alignVerticalDistributeEndIcon, alignVerticalDistributeStartIcon, alignVerticalJustifyCenterIcon, alignVerticalJustifyEndIcon, alignVerticalJustifyStartIcon, alignVerticalSpaceAroundIcon, alignVerticalSpaceBetweenIcon, ambulanceIcon, ampersandIcon, ampersandsIcon, amphoraIcon, anchorIcon, angryIcon, annoyedIcon, antennaIcon, anvilIcon, apertureIcon, appWindowIcon, appWindowMacIcon, appleIcon, archiveIcon, archiveRestoreIcon, archiveXIcon, areaChartIcon, armchairIcon, arrowBigDownIcon, arrowBigDownDashIcon, arrowBigLeftIcon, arrowBigLeftDashIcon, arrowBigRightIcon, arrowBigRightDashIcon, arrowBigUpIcon, arrowBigUpDashIcon, arrowDownIcon, arrowDown01Icon, arrowDown10Icon, arrowDownAZIcon, arrowDownAzIcon, arrowDownCircleIcon, arrowDownFromLineIcon, arrowDownLeftIcon, arrowDownLeftFromCircleIcon, arrowDownLeftFromSquareIcon, arrowDownLeftSquareIcon, arrowDownNarrowWideIcon, arrowDownRightIcon, arrowDownRightFromCircleIcon, arrowDownRightFromSquareIcon, arrowDownRightSquareIcon, arrowDownSquareIcon, arrowDownToDotIcon, arrowDownToLineIcon, arrowDownUpIcon, arrowDownWideNarrowIcon, arrowDownZAIcon, arrowDownZaIcon, arrowLeftIcon, arrowLeftCircleIcon, arrowLeftFromLineIcon, arrowLeftRightIcon, arrowLeftSquareIcon, arrowLeftToLineIcon, arrowRightIcon, arrowRightCircleIcon, arrowRightFromLineIcon, arrowRightLeftIcon, arrowRightSquareIcon, arrowRightToLineIcon, arrowUpIcon, arrowUp01Icon, arrowUp10Icon, arrowUpAZIcon, arrowUpAzIcon, arrowUpCircleIcon, arrowUpDownIcon, arrowUpFromDotIcon, arrowUpFromLineIcon, arrowUpLeftIcon, arrowUpLeftFromCircleIcon, arrowUpLeftFromSquareIcon, arrowUpLeftSquareIcon, arrowUpNarrowWideIcon, arrowUpRightIcon, arrowUpRightFromCircleIcon, arrowUpRightFromSquareIcon, arrowUpRightSquareIcon, arrowUpSquareIcon, arrowUpToLineIcon, arrowUpWideNarrowIcon, arrowUpZAIcon, arrowUpZaIcon, arrowsUpFromLineIcon, asteriskIcon, asteriskSquareIcon, atSignIcon, atomIcon, audioLinesIcon, audioWaveformIcon, awardIcon, axeIcon, axis3DIcon, axis3dIcon, babyIcon, backpackIcon, badgeIcon, badgeAlertIcon, badgeCentIcon, badgeCheckIcon, badgeDollarSignIcon, badgeEuroIcon, badgeHelpIcon, badgeIndianRupeeIcon, badgeInfoIcon, badgeJapaneseYenIcon, badgeMinusIcon, badgePercentIcon, badgePlusIcon, badgePoundSterlingIcon, badgeQuestionMarkIcon, badgeRussianRubleIcon, badgeSwissFrancIcon, badgeTurkishLiraIcon, badgeXIcon, baggageClaimIcon, balloonIcon, banIcon, bananaIcon, bandageIcon, banknoteIcon, banknoteArrowDownIcon, banknoteArrowUpIcon, banknoteXIcon, barChartIcon, barChart2Icon, barChart3Icon, barChart4Icon, barChartBigIcon, barChartHorizontalIcon, barChartHorizontalBigIcon, barcodeIcon, barrelIcon, baselineIcon, bathIcon, batteryIcon, batteryChargingIcon, batteryFullIcon, batteryLowIcon, batteryMediumIcon, batteryPlusIcon, batteryWarningIcon, beakerIcon, beanIcon, beanOffIcon, bedIcon, bedDoubleIcon, bedSingleIcon, beefIcon, beerIcon, beerOffIcon, bellIcon, bellDotIcon, bellElectricIcon, bellMinusIcon, bellOffIcon, bellPlusIcon, bellRingIcon, betweenHorizonalEndIcon, betweenHorizonalStartIcon, betweenHorizontalEndIcon, betweenHorizontalStartIcon, betweenVerticalEndIcon, betweenVerticalStartIcon, bicepsFlexedIcon, bikeIcon, binaryIcon, binocularsIcon, biohazardIcon, birdIcon, birdhouseIcon, bitcoinIcon, blendIcon, blindsIcon, blocksIcon, bluetoothIcon, bluetoothConnectedIcon, bluetoothOffIcon, bluetoothSearchingIcon, boldIcon, boltIcon, bombIcon, boneIcon, bookIcon, bookAIcon, bookAlertIcon, bookAudioIcon, bookCheckIcon, bookCopyIcon, bookDashedIcon, bookDownIcon, bookHeadphonesIcon, bookHeartIcon, bookImageIcon, bookKeyIcon, bookLockIcon, bookMarkedIcon, bookMinusIcon, bookOpenIcon, bookOpenCheckIcon, bookOpenTextIcon, bookPlusIcon, bookSearchIcon, bookTemplateIcon, bookTextIcon, bookTypeIcon, bookUpIcon, bookUp2Icon, bookUserIcon, bookXIcon, bookmarkIcon, bookmarkCheckIcon, bookmarkMinusIcon, bookmarkPlusIcon, bookmarkXIcon, boomBoxIcon, botIcon, botMessageSquareIcon, botOffIcon, bottleWineIcon, bowArrowIcon, boxIcon, boxSelectIcon, boxesIcon, bracesIcon, bracketsIcon, brainIcon, brainCircuitIcon, brainCogIcon, brickWallIcon, brickWallFireIcon, brickWallShieldIcon, briefcaseIcon, briefcaseBusinessIcon, briefcaseConveyorBeltIcon, briefcaseMedicalIcon, bringToFrontIcon, brushIcon, brushCleaningIcon, bubblesIcon, bugIcon, bugOffIcon, bugPlayIcon, buildingIcon, building2Icon, busIcon, busFrontIcon, cableIcon, cableCarIcon, cakeIcon, cakeSliceIcon, calculatorIcon, calendarIcon, calendar1Icon, calendarArrowDownIcon, calendarArrowUpIcon, calendarCheckIcon, calendarCheck2Icon, calendarClockIcon, calendarCogIcon, calendarDaysIcon, calendarFoldIcon, calendarHeartIcon, calendarMinusIcon, calendarMinus2Icon, calendarOffIcon, calendarPlusIcon, calendarPlus2Icon, calendarRangeIcon, calendarSearchIcon, calendarSyncIcon, calendarXIcon, calendarX2Icon, calendarsIcon, cameraIcon, cameraOffIcon, candlestickChartIcon, candyIcon, candyCaneIcon, candyOffIcon, cannabisIcon, cannabisOffIcon, captionsIcon, captionsOffIcon, carIcon, carFrontIcon, carTaxiFrontIcon, caravanIcon, cardSimIcon, carrotIcon, caseLowerIcon, caseSensitiveIcon, caseUpperIcon, cassetteTapeIcon, castIcon, castleIcon, catIcon, cctvIcon, chartAreaIcon, chartBarIcon, chartBarBigIcon, chartBarDecreasingIcon, chartBarIncreasingIcon, chartBarStackedIcon, chartCandlestickIcon, chartColumnIcon, chartColumnBigIcon, chartColumnDecreasingIcon, chartColumnIncreasingIcon, chartColumnStackedIcon, chartGanttIcon, chartLineIcon, chartNetworkIcon, chartNoAxesColumnIcon, chartNoAxesColumnDecreasingIcon, chartNoAxesColumnIncreasingIcon, chartNoAxesCombinedIcon, chartNoAxesGanttIcon, chartPieIcon, chartScatterIcon, chartSplineIcon, checkIcon, checkCheckIcon, checkCircleIcon, checkCircle2Icon, checkLineIcon, checkSquareIcon, checkSquare2Icon, chefHatIcon, cherryIcon, chessBishopIcon, chessKingIcon, chessKnightIcon, chessPawnIcon, chessQueenIcon, chessRookIcon, chevronDownIcon, chevronDownCircleIcon, chevronDownSquareIcon, chevronFirstIcon, chevronLastIcon, chevronLeftIcon, chevronLeftCircleIcon, chevronLeftSquareIcon, chevronRightIcon, chevronRightCircleIcon, chevronRightSquareIcon, chevronUpIcon, chevronUpCircleIcon, chevronUpSquareIcon, chevronsDownIcon, chevronsDownUpIcon, chevronsLeftIcon, chevronsLeftRightIcon, chevronsLeftRightEllipsisIcon, chevronsRightIcon, chevronsRightLeftIcon, chevronsUpIcon, chevronsUpDownIcon, chromeIcon, chromiumIcon, churchIcon, cigaretteIcon, cigaretteOffIcon, circleIcon, circleAlertIcon, circleArrowDownIcon, circleArrowLeftIcon, circleArrowOutDownLeftIcon, circleArrowOutDownRightIcon, circleArrowOutUpLeftIcon, circleArrowOutUpRightIcon, circleArrowRightIcon, circleArrowUpIcon, circleCheckIcon, circleCheckBigIcon, circleChevronDownIcon, circleChevronLeftIcon, circleChevronRightIcon, circleChevronUpIcon, circleDashedIcon, circleDivideIcon, circleDollarSignIcon, circleDotIcon, circleDotDashedIcon, circleEllipsisIcon, circleEqualIcon, circleFadingArrowUpIcon, circleFadingPlusIcon, circleGaugeIcon, circleHelpIcon, circleMinusIcon, circleOffIcon, circleParkingIcon, circleParkingOffIcon, circlePauseIcon, circlePercentIcon, circlePileIcon, circlePlayIcon, circlePlusIcon, circlePoundSterlingIcon, circlePowerIcon, circleQuestionMarkIcon, circleSlashIcon, circleSlash2Icon, circleSlashedIcon, circleSmallIcon, circleStarIcon, circleStopIcon, circleUserIcon, circleUserRoundIcon, circleXIcon, circuitBoardIcon, citrusIcon, clapperboardIcon, clipboardIcon, clipboardCheckIcon, clipboardClockIcon, clipboardCopyIcon, clipboardEditIcon, clipboardListIcon, clipboardMinusIcon, clipboardPasteIcon, clipboardPenIcon, clipboardPenLineIcon, clipboardPlusIcon, clipboardSignatureIcon, clipboardTypeIcon, clipboardXIcon, clockIcon, clock1Icon, clock10Icon, clock11Icon, clock12Icon, clock2Icon, clock3Icon, clock4Icon, clock5Icon, clock6Icon, clock7Icon, clock8Icon, clock9Icon, clockAlertIcon, clockArrowDownIcon, clockArrowUpIcon, clockCheckIcon, clockFadingIcon, clockPlusIcon, closedCaptionIcon, cloudIcon, cloudAlertIcon, cloudBackupIcon, cloudCheckIcon, cloudCogIcon, cloudDownloadIcon, cloudDrizzleIcon, cloudFogIcon, cloudHailIcon, cloudLightningIcon, cloudMoonIcon, cloudMoonRainIcon, cloudOffIcon, cloudRainIcon, cloudRainWindIcon, cloudSnowIcon, cloudSunIcon, cloudSunRainIcon, cloudSyncIcon, cloudUploadIcon, cloudyIcon, cloverIcon, clubIcon, codeIcon, code2Icon, codeSquareIcon, codeXmlIcon, codepenIcon, codesandboxIcon, coffeeIcon, cogIcon, coinsIcon, columnsIcon, columns2Icon, columns3Icon, columns3CogIcon, columns4Icon, columnsSettingsIcon, combineIcon, commandIcon, compassIcon, componentIcon, computerIcon, conciergeBellIcon, coneIcon, constructionIcon, contactIcon, contact2Icon, contactRoundIcon, containerIcon, contrastIcon, cookieIcon, cookingPotIcon, copyIcon, copyCheckIcon, copyMinusIcon, copyPlusIcon, copySlashIcon, copyXIcon, copyleftIcon, copyrightIcon, cornerDownLeftIcon, cornerDownRightIcon, cornerLeftDownIcon, cornerLeftUpIcon, cornerRightDownIcon, cornerRightUpIcon, cornerUpLeftIcon, cornerUpRightIcon, cpuIcon, creativeCommonsIcon, creditCardIcon, croissantIcon, cropIcon, crossIcon, crosshairIcon, crownIcon, cuboidIcon, cupSodaIcon, curlyBracesIcon, currencyIcon, cylinderIcon, damIcon, databaseIcon, databaseBackupIcon, databaseSearchIcon, databaseZapIcon, decimalsArrowLeftIcon, decimalsArrowRightIcon, deleteIcon, dessertIcon, diameterIcon, diamondIcon, diamondMinusIcon, diamondPercentIcon, diamondPlusIcon, dice1Icon, dice2Icon, dice3Icon, dice4Icon, dice5Icon, dice6Icon, dicesIcon, diffIcon, discIcon, disc2Icon, disc3Icon, discAlbumIcon, divideIcon, divideCircleIcon, divideSquareIcon, dnaIcon, dnaOffIcon, dockIcon, dogIcon, dollarSignIcon, donutIcon, doorClosedIcon, doorClosedLockedIcon, doorOpenIcon, dotIcon, dotSquareIcon, downloadIcon, downloadCloudIcon, draftingCompassIcon, dramaIcon, dribbbleIcon, drillIcon, droneIcon, dropletIcon, dropletOffIcon, dropletsIcon, drumIcon, drumstickIcon, dumbbellIcon, earIcon, earOffIcon, earthIcon, earthLockIcon, eclipseIcon, editIcon, edit2Icon, edit3Icon, eggIcon, eggFriedIcon, eggOffIcon, ellipseIcon, ellipsisIcon, ellipsisVerticalIcon, equalIcon, equalApproximatelyIcon, equalNotIcon, equalSquareIcon, eraserIcon, ethernetPortIcon, euroIcon, evChargerIcon, expandIcon, externalLinkIcon, eyeIcon, eyeClosedIcon, eyeOffIcon, facebookIcon, factoryIcon, fanIcon, fastForwardIcon, featherIcon, fenceIcon, ferrisWheelIcon, figmaIcon, fileIcon, fileArchiveIcon, fileAudioIcon, fileAudio2Icon, fileAxis3DIcon, fileAxis3dIcon, fileBadgeIcon, fileBadge2Icon, fileBarChartIcon, fileBarChart2Icon, fileBoxIcon, fileBracesIcon, fileBracesCornerIcon, fileChartColumnIcon, fileChartColumnIncreasingIcon, fileChartLineIcon, fileChartPieIcon, fileCheckIcon, fileCheck2Icon, fileCheckCornerIcon, fileClockIcon, fileCodeIcon, fileCode2Icon, fileCodeCornerIcon, fileCogIcon, fileCog2Icon, fileDiffIcon, fileDigitIcon, fileDownIcon, fileEditIcon, fileExclamationPointIcon, fileHeadphoneIcon, fileHeartIcon, fileImageIcon, fileInputIcon, fileJsonIcon, fileJson2Icon, fileKeyIcon, fileKey2Icon, fileLineChartIcon, fileLockIcon, fileLock2Icon, fileMinusIcon, fileMinus2Icon, fileMinusCornerIcon, fileMusicIcon, fileOutputIcon, filePenIcon, filePenLineIcon, filePieChartIcon, filePlayIcon, filePlusIcon, filePlus2Icon, filePlusCornerIcon, fileQuestionIcon, fileQuestionMarkIcon, fileScanIcon, fileSearchIcon, fileSearch2Icon, fileSearchCornerIcon, fileSignalIcon, fileSignatureIcon, fileSlidersIcon, fileSpreadsheetIcon, fileStackIcon, fileSymlinkIcon, fileTerminalIcon, fileTextIcon, fileTypeIcon, fileType2Icon, fileTypeCornerIcon, fileUpIcon, fileUserIcon, fileVideoIcon, fileVideo2Icon, fileVideoCameraIcon, fileVolumeIcon, fileVolume2Icon, fileWarningIcon, fileXIcon, fileX2Icon, fileXCornerIcon, filesIcon, filmIcon, filterIcon, filterXIcon, fingerprintIcon, fingerprintPatternIcon, fireExtinguisherIcon, fishIcon, fishOffIcon, fishSymbolIcon, fishingHookIcon, fishingRodIcon, flagIcon, flagOffIcon, flagTriangleLeftIcon, flagTriangleRightIcon, flameIcon, flameKindlingIcon, flashlightIcon, flashlightOffIcon, flaskConicalIcon, flaskConicalOffIcon, flaskRoundIcon, flipHorizontalIcon, flipHorizontal2Icon, flipVerticalIcon, flipVertical2Icon, flowerIcon, flower2Icon, focusIcon, foldHorizontalIcon, foldVerticalIcon, folderIcon, folderArchiveIcon, folderCheckIcon, folderClockIcon, folderClosedIcon, folderCodeIcon, folderCogIcon, folderCog2Icon, folderDotIcon, folderDownIcon, folderEditIcon, folderGitIcon, folderGit2Icon, folderHeartIcon, folderInputIcon, folderKanbanIcon, folderKeyIcon, folderLockIcon, folderMinusIcon, folderOpenIcon, folderOpenDotIcon, folderOutputIcon, folderPenIcon, folderPlusIcon, folderRootIcon, folderSearchIcon, folderSearch2Icon, folderSymlinkIcon, folderSyncIcon, folderTreeIcon, folderUpIcon, folderXIcon, foldersIcon, footprintsIcon, forkKnifeIcon, forkKnifeCrossedIcon, forkliftIcon, formIcon, formInputIcon, forwardIcon, frameIcon, framerIcon, frownIcon, fuelIcon, fullscreenIcon, functionSquareIcon, funnelIcon, funnelPlusIcon, funnelXIcon, galleryHorizontalIcon, galleryHorizontalEndIcon, galleryThumbnailsIcon, galleryVerticalIcon, galleryVerticalEndIcon, gamepadIcon, gamepad2Icon, gamepadDirectionalIcon, ganttChartIcon, ganttChartSquareIcon, gaugeIcon, gaugeCircleIcon, gavelIcon, gemIcon, georgianLariIcon, ghostIcon, giftIcon, gitBranchIcon, gitBranchMinusIcon, gitBranchPlusIcon, gitCommitIcon, gitCommitHorizontalIcon, gitCommitVerticalIcon, gitCompareIcon, gitCompareArrowsIcon, gitForkIcon, gitGraphIcon, gitMergeIcon, gitMergeConflictIcon, gitPullRequestIcon, gitPullRequestArrowIcon, gitPullRequestClosedIcon, gitPullRequestCreateIcon, gitPullRequestCreateArrowIcon, gitPullRequestDraftIcon, githubIcon, gitlabIcon, glassWaterIcon, glassesIcon, globeIcon, globe2Icon, globeLockIcon, globeOffIcon, globeXIcon, goalIcon, gpuIcon, grabIcon, graduationCapIcon, grapeIcon, gridIcon, grid2X2Icon, grid2X2CheckIcon, grid2X2PlusIcon, grid2X2XIcon, grid2x2Icon, grid2x2CheckIcon, grid2x2PlusIcon, grid2x2XIcon, grid3X3Icon, grid3x2Icon, grid3x3Icon, gripIcon, gripHorizontalIcon, gripVerticalIcon, groupIcon, guitarIcon, hamIcon, hamburgerIcon, hammerIcon, handIcon, handCoinsIcon, handFistIcon, handGrabIcon, handHeartIcon, handHelpingIcon, handMetalIcon, handPlatterIcon, handbagIcon, handshakeIcon, hardDriveIcon, hardDriveDownloadIcon, hardDriveUploadIcon, hardHatIcon, hashIcon, hatGlassesIcon, hazeIcon, hdIcon, hdmiPortIcon, headingIcon, heading1Icon, heading2Icon, heading3Icon, heading4Icon, heading5Icon, heading6Icon, headphoneOffIcon, headphonesIcon, headsetIcon, heartIcon, heartCrackIcon, heartHandshakeIcon, heartMinusIcon, heartOffIcon, heartPlusIcon, heartPulseIcon, heaterIcon, helicopterIcon, helpCircleIcon, helpingHandIcon, hexagonIcon, highlighterIcon, historyIcon, homeIcon, hopIcon, hopOffIcon, hospitalIcon, hotelIcon, hourglassIcon, houseIcon, houseHeartIcon, housePlugIcon, housePlusIcon, houseWifiIcon, iceCreamIcon, iceCream2Icon, iceCreamBowlIcon, iceCreamConeIcon, idCardIcon, idCardLanyardIcon, imageIcon, imageDownIcon, imageMinusIcon, imageOffIcon, imagePlayIcon, imagePlusIcon, imageUpIcon, imageUpscaleIcon, imagesIcon, importIcon, inboxIcon, indentIcon, indentDecreaseIcon, indentIncreaseIcon, indianRupeeIcon, infinityIcon, infoIcon, inspectIcon, inspectionPanelIcon, instagramIcon, italicIcon, iterationCcwIcon, iterationCwIcon, japaneseYenIcon, joystickIcon, kanbanIcon, kanbanSquareIcon, kanbanSquareDashedIcon, kayakIcon, keyIcon, keyRoundIcon, keySquareIcon, keyboardIcon, keyboardMusicIcon, keyboardOffIcon, lampIcon, lampCeilingIcon, lampDeskIcon, lampFloorIcon, lampWallDownIcon, lampWallUpIcon, landPlotIcon, landmarkIcon, languagesIcon, laptopIcon, laptop2Icon, laptopMinimalIcon, laptopMinimalCheckIcon, lassoIcon, lassoSelectIcon, laughIcon, layersIcon, layers2Icon, layers3Icon, layersPlusIcon, layoutIcon, layoutDashboardIcon, layoutGridIcon, layoutListIcon, layoutPanelLeftIcon, layoutPanelTopIcon, layoutTemplateIcon, leafIcon, leafyGreenIcon, lecternIcon, lensConcaveIcon, lensConvexIcon, letterTextIcon, libraryIcon, libraryBigIcon, librarySquareIcon, lifeBuoyIcon, ligatureIcon, lightbulbIcon, lightbulbOffIcon, lineChartIcon, lineDotRightHorizontalIcon, lineSquiggleIcon, linkIcon, link2Icon, link2OffIcon, linkedinIcon, listIcon, listCheckIcon, listChecksIcon, listChevronsDownUpIcon, listChevronsUpDownIcon, listCollapseIcon, listEndIcon, listFilterIcon, listFilterPlusIcon, listIndentDecreaseIcon, listIndentIncreaseIcon, listMinusIcon, listMusicIcon, listOrderedIcon, listPlusIcon, listRestartIcon, listStartIcon, listTodoIcon, listTreeIcon, listVideoIcon, listXIcon, loaderIcon, loader2Icon, loaderCircleIcon, loaderPinwheelIcon, locateIcon, locateFixedIcon, locateOffIcon, locationEditIcon, lockIcon, lockKeyholeIcon, lockKeyholeOpenIcon, lockOpenIcon, logInIcon, logOutIcon, logsIcon, lollipopIcon, luggageIcon, mSquareIcon, magnetIcon, mailIcon, mailCheckIcon, mailMinusIcon, mailOpenIcon, mailPlusIcon, mailQuestionIcon, mailQuestionMarkIcon, mailSearchIcon, mailWarningIcon, mailXIcon, mailboxIcon, mailsIcon, mapIcon, mapMinusIcon, mapPinIcon, mapPinCheckIcon, mapPinCheckInsideIcon, mapPinHouseIcon, mapPinMinusIcon, mapPinMinusInsideIcon, mapPinOffIcon, mapPinPenIcon, mapPinPlusIcon, mapPinPlusInsideIcon, mapPinXIcon, mapPinXInsideIcon, mapPinnedIcon, mapPlusIcon, marsIcon, marsStrokeIcon, martiniIcon, maximizeIcon, maximize2Icon, medalIcon, megaphoneIcon, megaphoneOffIcon, mehIcon, memoryStickIcon, menuIcon, menuSquareIcon, mergeIcon, messageCircleIcon, messageCircleCheckIcon, messageCircleCodeIcon, messageCircleDashedIcon, messageCircleHeartIcon, messageCircleMoreIcon, messageCircleOffIcon, messageCirclePlusIcon, messageCircleQuestionIcon, messageCircleQuestionMarkIcon, messageCircleReplyIcon, messageCircleWarningIcon, messageCircleXIcon, messageSquareIcon, messageSquareCheckIcon, messageSquareCodeIcon, messageSquareDashedIcon, messageSquareDiffIcon, messageSquareDotIcon, messageSquareHeartIcon, messageSquareLockIcon, messageSquareMoreIcon, messageSquareOffIcon, messageSquarePlusIcon, messageSquareQuoteIcon, messageSquareReplyIcon, messageSquareShareIcon, messageSquareTextIcon, messageSquareWarningIcon, messageSquareXIcon, messagesSquareIcon, metronomeIcon, micIcon, mic2Icon, micOffIcon, micVocalIcon, microchipIcon, microscopeIcon, microwaveIcon, milestoneIcon, milkIcon, milkOffIcon, minimizeIcon, minimize2Icon, minusIcon, minusCircleIcon, minusSquareIcon, mirrorRectangularIcon, mirrorRoundIcon, monitorIcon, monitorCheckIcon, monitorCloudIcon, monitorCogIcon, monitorDotIcon, monitorDownIcon, monitorOffIcon, monitorPauseIcon, monitorPlayIcon, monitorSmartphoneIcon, monitorSpeakerIcon, monitorStopIcon, monitorUpIcon, monitorXIcon, moonIcon, moonStarIcon, moreHorizontalIcon, moreVerticalIcon, motorbikeIcon, mountainIcon, mountainSnowIcon, mouseIcon, mouseLeftIcon, mouseOffIcon, mousePointerIcon, mousePointer2Icon, mousePointer2OffIcon, mousePointerBanIcon, mousePointerClickIcon, mousePointerSquareDashedIcon, mouseRightIcon, moveIcon, move3DIcon, move3dIcon, moveDiagonalIcon, moveDiagonal2Icon, moveDownIcon, moveDownLeftIcon, moveDownRightIcon, moveHorizontalIcon, moveLeftIcon, moveRightIcon, moveUpIcon, moveUpLeftIcon, moveUpRightIcon, moveVerticalIcon, musicIcon, music2Icon, music3Icon, music4Icon, navigationIcon, navigation2Icon, navigation2OffIcon, navigationOffIcon, networkIcon, newspaperIcon, nfcIcon, nonBinaryIcon, notebookIcon, notebookPenIcon, notebookTabsIcon, notebookTextIcon, notepadTextIcon, notepadTextDashedIcon, nutIcon, nutOffIcon, octagonIcon, octagonAlertIcon, octagonMinusIcon, octagonPauseIcon, octagonXIcon, omegaIcon, optionIcon, orbitIcon, origamiIcon, outdentIcon, packageIcon, package2Icon, packageCheckIcon, packageMinusIcon, packageOpenIcon, packagePlusIcon, packageSearchIcon, packageXIcon, paintBucketIcon, paintRollerIcon, paintbrushIcon, paintbrush2Icon, paintbrushVerticalIcon, paletteIcon, palmtreeIcon, pandaIcon, panelBottomIcon, panelBottomCloseIcon, panelBottomDashedIcon, panelBottomInactiveIcon, panelBottomOpenIcon, panelLeftIcon, panelLeftCloseIcon, panelLeftDashedIcon, panelLeftInactiveIcon, panelLeftOpenIcon, panelLeftRightDashedIcon, panelRightIcon, panelRightCloseIcon, panelRightDashedIcon, panelRightInactiveIcon, panelRightOpenIcon, panelTopIcon, panelTopBottomDashedIcon, panelTopCloseIcon, panelTopDashedIcon, panelTopInactiveIcon, panelTopOpenIcon, panelsLeftBottomIcon, panelsLeftRightIcon, panelsRightBottomIcon, panelsTopBottomIcon, panelsTopLeftIcon, paperclipIcon, parenthesesIcon, parkingCircleIcon, parkingCircleOffIcon, parkingMeterIcon, parkingSquareIcon, parkingSquareOffIcon, partyPopperIcon, pauseIcon, pauseCircleIcon, pauseOctagonIcon, pawPrintIcon, pcCaseIcon, penIcon, penBoxIcon, penLineIcon, penOffIcon, penSquareIcon, penToolIcon, pencilIcon, pencilLineIcon, pencilOffIcon, pencilRulerIcon, pentagonIcon, percentIcon, percentCircleIcon, percentDiamondIcon, percentSquareIcon, personStandingIcon, philippinePesoIcon, phoneIcon, phoneCallIcon, phoneForwardedIcon, phoneIncomingIcon, phoneMissedIcon, phoneOffIcon, phoneOutgoingIcon, piIcon, piSquareIcon, pianoIcon, pickaxeIcon, pictureInPictureIcon, pictureInPicture2Icon, pieChartIcon, piggyBankIcon, pilcrowIcon, pilcrowLeftIcon, pilcrowRightIcon, pilcrowSquareIcon, pillIcon, pillBottleIcon, pinIcon, pinOffIcon, pipetteIcon, pizzaIcon, planeIcon, planeLandingIcon, planeTakeoffIcon, playIcon, playCircleIcon, playSquareIcon, plugIcon, plug2Icon, plugZapIcon, plugZap2Icon, plusIcon, plusCircleIcon, plusSquareIcon, pocketIcon, pocketKnifeIcon, podcastIcon, pointerIcon, pointerOffIcon, popcornIcon, popsicleIcon, poundSterlingIcon, powerIcon, powerCircleIcon, powerOffIcon, powerSquareIcon, presentationIcon, printerIcon, printerCheckIcon, printerXIcon, projectorIcon, proportionsIcon, puzzleIcon, pyramidIcon, qrCodeIcon, quoteIcon, rabbitIcon, radarIcon, radiationIcon, radicalIcon, radioIcon, radioReceiverIcon, radioTowerIcon, radiusIcon, railSymbolIcon, rainbowIcon, ratIcon, ratioIcon, receiptIcon, receiptCentIcon, receiptEuroIcon, receiptIndianRupeeIcon, receiptJapaneseYenIcon, receiptPoundSterlingIcon, receiptRussianRubleIcon, receiptSwissFrancIcon, receiptTextIcon, receiptTurkishLiraIcon, rectangleCircleIcon, rectangleEllipsisIcon, rectangleGogglesIcon, rectangleHorizontalIcon, rectangleVerticalIcon, recycleIcon, redoIcon, redo2Icon, redoDotIcon, refreshCcwIcon, refreshCcwDotIcon, refreshCwIcon, refreshCwOffIcon, refrigeratorIcon, regexIcon, removeFormattingIcon, repeatIcon, repeat1Icon, repeat2Icon, replaceIcon, replaceAllIcon, replyIcon, replyAllIcon, rewindIcon, ribbonIcon, rocketIcon, rockingChairIcon, rollerCoasterIcon, roseIcon, rotate3DIcon, rotate3dIcon, rotateCcwIcon, rotateCcwKeyIcon, rotateCcwSquareIcon, rotateCwIcon, rotateCwSquareIcon, routeIcon, routeOffIcon, routerIcon, rowsIcon, rows2Icon, rows3Icon, rows4Icon, rssIcon, rulerIcon, rulerDimensionLineIcon, russianRubleIcon, sailboatIcon, saladIcon, sandwichIcon, satelliteIcon, satelliteDishIcon, saudiRiyalIcon, saveIcon, saveAllIcon, saveOffIcon, scaleIcon, scale3DIcon, scale3dIcon, scalingIcon, scanIcon, scanBarcodeIcon, scanEyeIcon, scanFaceIcon, scanHeartIcon, scanLineIcon, scanQrCodeIcon, scanSearchIcon, scanTextIcon, scatterChartIcon, schoolIcon, school2Icon, scissorsIcon, scissorsLineDashedIcon, scissorsSquareIcon, scissorsSquareDashedBottomIcon, scooterIcon, screenShareIcon, screenShareOffIcon, scrollIcon, scrollTextIcon, searchIcon, searchAlertIcon, searchCheckIcon, searchCodeIcon, searchSlashIcon, searchXIcon, sectionIcon, sendIcon, sendHorizonalIcon, sendHorizontalIcon, sendToBackIcon, separatorHorizontalIcon, separatorVerticalIcon, serverIcon, serverCogIcon, serverCrashIcon, serverOffIcon, settingsIcon, settings2Icon, shapesIcon, shareIcon, share2Icon, sheetIcon, shellIcon, shelvingUnitIcon, shieldIcon, shieldAlertIcon, shieldBanIcon, shieldCheckIcon, shieldCloseIcon, shieldEllipsisIcon, shieldHalfIcon, shieldMinusIcon, shieldOffIcon, shieldPlusIcon, shieldQuestionIcon, shieldQuestionMarkIcon, shieldUserIcon, shieldXIcon, shipIcon, shipWheelIcon, shirtIcon, shoppingBagIcon, shoppingBasketIcon, shoppingCartIcon, shovelIcon, showerHeadIcon, shredderIcon, shrimpIcon, shrinkIcon, shrubIcon, shuffleIcon, sidebarIcon, sidebarCloseIcon, sidebarOpenIcon, sigmaIcon, sigmaSquareIcon, signalIcon, signalHighIcon, signalLowIcon, signalMediumIcon, signalZeroIcon, signatureIcon, signpostIcon, signpostBigIcon, sirenIcon, skipBackIcon, skipForwardIcon, skullIcon, slackIcon, slashIcon, slashSquareIcon, sliceIcon, slidersIcon, slidersHorizontalIcon, slidersVerticalIcon, smartphoneIcon, smartphoneChargingIcon, smartphoneNfcIcon, smileIcon, smilePlusIcon, snailIcon, snowflakeIcon, soapDispenserDropletIcon, sofaIcon, solarPanelIcon, sortAscIcon, sortDescIcon, soupIcon, spaceIcon, spadeIcon, sparkleIcon, sparklesIcon, speakerIcon, speechIcon, spellCheckIcon, spellCheck2Icon, splineIcon, splinePointerIcon, splitIcon, splitSquareHorizontalIcon, splitSquareVerticalIcon, spoolIcon, spotlightIcon, sprayCanIcon, sproutIcon, squareIcon, squareActivityIcon, squareArrowDownIcon, squareArrowDownLeftIcon, squareArrowDownRightIcon, squareArrowLeftIcon, squareArrowOutDownLeftIcon, squareArrowOutDownRightIcon, squareArrowOutUpLeftIcon, squareArrowOutUpRightIcon, squareArrowRightIcon, squareArrowRightEnterIcon, squareArrowRightExitIcon, squareArrowUpIcon, squareArrowUpLeftIcon, squareArrowUpRightIcon, squareAsteriskIcon, squareBottomDashedScissorsIcon, squareCenterlineDashedHorizontalIcon, squareCenterlineDashedVerticalIcon, squareChartGanttIcon, squareCheckIcon, squareCheckBigIcon, squareChevronDownIcon, squareChevronLeftIcon, squareChevronRightIcon, squareChevronUpIcon, squareCodeIcon, squareDashedIcon, squareDashedBottomIcon, squareDashedBottomCodeIcon, squareDashedKanbanIcon, squareDashedMousePointerIcon, squareDashedTopSolidIcon, squareDivideIcon, squareDotIcon, squareEqualIcon, squareFunctionIcon, squareGanttChartIcon, squareKanbanIcon, squareLibraryIcon, squareMIcon, squareMenuIcon, squareMinusIcon, squareMousePointerIcon, squareParkingIcon, squareParkingOffIcon, squarePauseIcon, squarePenIcon, squarePercentIcon, squarePiIcon, squarePilcrowIcon, squarePlayIcon, squarePlusIcon, squarePowerIcon, squareRadicalIcon, squareRoundCornerIcon, squareScissorsIcon, squareSigmaIcon, squareSlashIcon, squareSplitHorizontalIcon, squareSplitVerticalIcon, squareSquareIcon, squareStackIcon, squareStarIcon, squareStopIcon, squareTerminalIcon, squareUserIcon, squareUserRoundIcon, squareXIcon, squaresExcludeIcon, squaresIntersectIcon, squaresSubtractIcon, squaresUniteIcon, squircleIcon, squircleDashedIcon, squirrelIcon, stampIcon, starIcon, starHalfIcon, starOffIcon, starsIcon, stepBackIcon, stepForwardIcon, stethoscopeIcon, stickerIcon, stickyNoteIcon, stoneIcon, stopCircleIcon, storeIcon, stretchHorizontalIcon, stretchVerticalIcon, strikethroughIcon, subscriptIcon, subtitlesIcon, sunIcon, sunDimIcon, sunMediumIcon, sunMoonIcon, sunSnowIcon, sunriseIcon, sunsetIcon, superscriptIcon, swatchBookIcon, swissFrancIcon, switchCameraIcon, swordIcon, swordsIcon, syringeIcon, tableIcon, table2Icon, tableCellsMergeIcon, tableCellsSplitIcon, tableColumnsSplitIcon, tableConfigIcon, tableOfContentsIcon, tablePropertiesIcon, tableRowsSplitIcon, tabletIcon, tabletSmartphoneIcon, tabletsIcon, tagIcon, tagsIcon, tally1Icon, tally2Icon, tally3Icon, tally4Icon, tally5Icon, tangentIcon, targetIcon, telescopeIcon, tentIcon, tentTreeIcon, terminalIcon, terminalSquareIcon, testTubeIcon, testTube2Icon, testTubeDiagonalIcon, testTubesIcon, textIcon, textAlignCenterIcon, textAlignEndIcon, textAlignJustifyIcon, textAlignStartIcon, textCursorIcon, textCursorInputIcon, textInitialIcon, textQuoteIcon, textSearchIcon, textSelectIcon, textSelectionIcon, textWrapIcon, theaterIcon, thermometerIcon, thermometerSnowflakeIcon, thermometerSunIcon, thumbsDownIcon, thumbsUpIcon, ticketIcon, ticketCheckIcon, ticketMinusIcon, ticketPercentIcon, ticketPlusIcon, ticketSlashIcon, ticketXIcon, ticketsIcon, ticketsPlaneIcon, timerIcon, timerOffIcon, timerResetIcon, toggleLeftIcon, toggleRightIcon, toiletIcon, toolCaseIcon, toolboxIcon, tornadoIcon, torusIcon, touchpadIcon, touchpadOffIcon, towelRackIcon, towerControlIcon, toyBrickIcon, tractorIcon, trafficConeIcon, trainIcon, trainFrontIcon, trainFrontTunnelIcon, trainTrackIcon, tramFrontIcon, transgenderIcon, trashIcon, trash2Icon, treeDeciduousIcon, treePalmIcon, treePineIcon, treesIcon, trelloIcon, trendingDownIcon, trendingUpIcon, trendingUpDownIcon, triangleIcon, triangleAlertIcon, triangleDashedIcon, triangleRightIcon, trophyIcon, truckIcon, truckElectricIcon, turkishLiraIcon, turntableIcon, turtleIcon, tvIcon, tv2Icon, tvMinimalIcon, tvMinimalPlayIcon, twitchIcon, twitterIcon, typeIcon, typeOutlineIcon, umbrellaIcon, umbrellaOffIcon, underlineIcon, undoIcon, undo2Icon, undoDotIcon, unfoldHorizontalIcon, unfoldVerticalIcon, ungroupIcon, universityIcon, unlinkIcon, unlink2Icon, unlockIcon, unlockKeyholeIcon, unplugIcon, uploadIcon, uploadCloudIcon, usbIcon, userIcon, user2Icon, userCheckIcon, userCheck2Icon, userCircleIcon, userCircle2Icon, userCogIcon, userCog2Icon, userKeyIcon, userLockIcon, userMinusIcon, userMinus2Icon, userPenIcon, userPlusIcon, userPlus2Icon, userRoundIcon, userRoundCheckIcon, userRoundCogIcon, userRoundKeyIcon, userRoundMinusIcon, userRoundPenIcon, userRoundPlusIcon, userRoundSearchIcon, userRoundXIcon, userSearchIcon, userSquareIcon, userSquare2Icon, userStarIcon, userXIcon, userX2Icon, usersIcon, users2Icon, usersRoundIcon, utensilsIcon, utensilsCrossedIcon, utilityPoleIcon, vanIcon, variableIcon, vaultIcon, vectorSquareIcon, veganIcon, venetianMaskIcon, venusIcon, venusAndMarsIcon, verifiedIcon, vibrateIcon, vibrateOffIcon, videoIcon, videoOffIcon, videotapeIcon, viewIcon, voicemailIcon, volleyballIcon, volumeIcon, volume1Icon, volume2Icon, volumeOffIcon, volumeXIcon, voteIcon, walletIcon, wallet2Icon, walletCardsIcon, walletMinimalIcon, wallpaperIcon, wandIcon, wand2Icon, wandSparklesIcon, warehouseIcon, washingMachineIcon, watchIcon, wavesIcon, wavesArrowDownIcon, wavesArrowUpIcon, wavesLadderIcon, waypointsIcon, webcamIcon, webhookIcon, webhookOffIcon, weightIcon, weightTildeIcon, wheatIcon, wheatOffIcon, wholeWordIcon, wifiIcon, wifiCogIcon, wifiHighIcon, wifiLowIcon, wifiOffIcon, wifiPenIcon, wifiSyncIcon, wifiZeroIcon, windIcon, windArrowDownIcon, wineIcon, wineOffIcon, workflowIcon, wormIcon, wrapTextIcon, wrenchIcon, xIcon, xCircleIcon, xLineTopIcon, xOctagonIcon, xSquareIcon, youtubeIcon, zapIcon, zapOffIcon, zodiacAquariusIcon, zodiacAriesIcon, zodiacCancerIcon, zodiacCapricornIcon, zodiacGeminiIcon, zodiacLeoIcon, zodiacLibraIcon, zodiacOphiuchusIcon, zodiacPiscesIcon, zodiacSagittariusIcon, zodiacScorpioIcon, zodiacTaurusIcon, zodiacVirgoIcon, zoomInIcon, zoomOutIcon
 
 -}
 
@@ -1692,7 +1692,7 @@ ban
 -}
 banIcon : List (S.Attribute msg) -> H.Html msg
 banIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M4.929 4.929 19.07 19.071" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M4.929 4.929 19.07 19.071" ] [] ]
 
 
 {-| bananaIcon
@@ -1712,7 +1712,7 @@ bandage
 -}
 bandageIcon : List (S.Attribute msg) -> H.Html msg
 bandageIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10 10.01h.01" ] [], S.path [ SA.d "M10 14.01h.01" ] [], S.path [ SA.d "M14 10.01h.01" ] [], S.path [ SA.d "M14 14.01h.01" ] [], S.path [ SA.d "M18 6v11.5" ] [], S.path [ SA.d "M6 6v12" ] [], S.rect [ SA.x "2", SA.y "6", SA.width "20", SA.height "12", SA.rx "2" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10 10.01h.01" ] [], S.path [ SA.d "M10 14.01h.01" ] [], S.path [ SA.d "M14 10.01h.01" ] [], S.path [ SA.d "M14 14.01h.01" ] [], S.path [ SA.d "M18 6v12" ] [], S.path [ SA.d "M6 6v12" ] [], S.rect [ SA.x "2", SA.y "6", SA.width "20", SA.height "12", SA.rx "2" ] [] ]
 
 
 {-| banknoteIcon
@@ -2042,7 +2042,7 @@ bell-dot
 -}
 bellDotIcon : List (S.Attribute msg) -> H.Html msg
 bellDotIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10.268 21a2 2 0 0 0 3.464 0" ] [], S.path [ SA.d "M13.916 2.314A6 6 0 0 0 6 8c0 4.499-1.411 5.956-2.74 7.327A1 1 0 0 0 4 17h16a1 1 0 0 0 .74-1.673 9 9 0 0 1-.585-.665" ] [], S.circle [ SA.cx "18", SA.cy "8", SA.r "3" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10.268 21a2 2 0 0 0 3.464 0" ] [], S.path [ SA.d "M11.68 2.009A6 6 0 0 0 6 8c0 4.499-1.411 5.956-2.738 7.326A1 1 0 0 0 4 17h16a1 1 0 0 0 .74-1.673c-.824-.85-1.678-1.731-2.21-3.348" ] [], S.circle [ SA.cx "18", SA.cy "5", SA.r "3" ] [] ]
 
 
 {-| bellElectricIcon
@@ -2462,7 +2462,7 @@ book-key
 -}
 bookKeyIcon : List (S.Attribute msg) -> H.Html msg
 bookKeyIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "m19 3 1 1" ] [], S.path [ SA.d "m20 2-4.5 4.5" ] [], S.path [ SA.d "M20 7.898V21a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20" ] [], S.path [ SA.d "M4 19.5v-15A2.5 2.5 0 0 1 6.5 2h7.844" ] [], S.circle [ SA.cx "14", SA.cy "8", SA.r "2" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M13 2H6.5A2.5 2.5 0 0 0 4 4.5v15" ] [], S.path [ SA.d "M17 2v6" ] [], S.path [ SA.d "M17 4h2" ] [], S.path [ SA.d "M20 15.2V21a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20" ] [], S.circle [ SA.cx "17", SA.cy "10", SA.r "2" ] [] ]
 
 
 {-| bookLockIcon
@@ -2932,7 +2932,7 @@ bug-off
 -}
 bugOffIcon : List (S.Attribute msg) -> H.Html msg
 bugOffIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 20v-8" ] [], S.path [ SA.d "M14.12 3.88 16 2" ] [], S.path [ SA.d "M15 7.13V6a3 3 0 0 0-5.14-2.1L8 2" ] [], S.path [ SA.d "M18 12.34V11a4 4 0 0 0-4-4h-1.3" ] [], S.path [ SA.d "m2 2 20 20" ] [], S.path [ SA.d "M21 5a4 4 0 0 1-3.55 3.97" ] [], S.path [ SA.d "M22 13h-3.34" ] [], S.path [ SA.d "M3 21a4 4 0 0 1 3.81-4" ] [], S.path [ SA.d "M6 13H2" ] [], S.path [ SA.d "M7.7 7.7A4 4 0 0 0 6 11v3a6 6 0 0 0 11.13 3.13" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 20v-8" ] [], S.path [ SA.d "M12.656 7H14a4 4 0 0 1 4 4v1.344" ] [], S.path [ SA.d "M14.12 3.88 16 2" ] [], S.path [ SA.d "M17.123 17.123A6 6 0 0 1 6 14v-3a4 4 0 0 1 1.72-3.287" ] [], S.path [ SA.d "m2 2 20 20" ] [], S.path [ SA.d "M21 5a4 4 0 0 1-3.55 3.97" ] [], S.path [ SA.d "M22 13h-3.344" ] [], S.path [ SA.d "M3 21a4 4 0 0 1 3.81-4" ] [], S.path [ SA.d "M3 5a4 4 0 0 0 3.55 3.97" ] [], S.path [ SA.d "M6 13H2" ] [], S.path [ SA.d "m8 2 1.88 1.88" ] [], S.path [ SA.d "M9.712 4.06A3 3 0 0 1 15 6v1.13" ] [] ]
 
 
 {-| bugPlayIcon
@@ -4332,7 +4332,7 @@ circle-divide
 -}
 circleDivideIcon : List (S.Attribute msg) -> H.Html msg
 circleDivideIcon options =
-    S.svg (baseOptions ++ options) [ S.line [ SA.x1 "8", SA.x2 "16", SA.y1 "12", SA.y2 "12" ] [], S.line [ SA.x1 "12", SA.x2 "12", SA.y1 "16", SA.y2 "16" ] [], S.line [ SA.x1 "12", SA.x2 "12", SA.y1 "8", SA.y2 "8" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.line [ SA.x1 "8", SA.x2 "16", SA.y1 "12", SA.y2 "12" ] [], S.line [ SA.x1 "12", SA.x2 "12", SA.y1 "16", SA.y2 "16" ] [], S.line [ SA.x1 "12", SA.x2 "12", SA.y1 "8", SA.y2 "8" ] [] ]
 
 
 {-| circleDollarSignIcon
@@ -4382,7 +4382,7 @@ circle-equal
 -}
 circleEqualIcon : List (S.Attribute msg) -> H.Html msg
 circleEqualIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M7 10h10" ] [], S.path [ SA.d "M7 14h10" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M7 10h10" ] [], S.path [ SA.d "M7 14h10" ] [] ]
 
 
 {-| circleFadingArrowUpIcon
@@ -4522,7 +4522,7 @@ circle-pound-sterling
 -}
 circlePoundSterlingIcon : List (S.Attribute msg) -> H.Html msg
 circlePoundSterlingIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10 16V9.5a1 1 0 0 1 5 0" ] [], S.path [ SA.d "M8 12h4" ] [], S.path [ SA.d "M8 16h7" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M10 16V9.5a1 1 0 0 1 5 0" ] [], S.path [ SA.d "M8 12h4" ] [], S.path [ SA.d "M8 16h7" ] [] ]
 
 
 {-| circlePowerIcon
@@ -4532,7 +4532,7 @@ circle-power
 -}
 circlePowerIcon : List (S.Attribute msg) -> H.Html msg
 circlePowerIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 7v4" ] [], S.path [ SA.d "M7.998 9.003a5 5 0 1 0 8-.005" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M12 7v4" ] [], S.path [ SA.d "M7.998 9.003a5 5 0 1 0 8-.005" ] [] ]
 
 
 {-| circleQuestionMarkIcon
@@ -4562,7 +4562,7 @@ circle-slash-2
 -}
 circleSlash2Icon : List (S.Attribute msg) -> H.Html msg
 circleSlash2Icon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M22 2 2 22" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M22 2 2 22" ] [] ]
 
 
 {-| circleSlashedIcon
@@ -4572,7 +4572,7 @@ circle-slash-2
 -}
 circleSlashedIcon : List (S.Attribute msg) -> H.Html msg
 circleSlashedIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M22 2 2 22" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M22 2 2 22" ] [] ]
 
 
 {-| circleSmallIcon
@@ -4592,7 +4592,7 @@ circle-star
 -}
 circleStarIcon : List (S.Attribute msg) -> H.Html msg
 circleStarIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M11.051 7.616a1 1 0 0 1 1.909.024l.737 1.452a1 1 0 0 0 .737.535l1.634.256a1 1 0 0 1 .588 1.806l-1.172 1.168a1 1 0 0 0-.282.866l.259 1.613a1 1 0 0 1-1.541 1.134l-1.465-.75a1 1 0 0 0-.912 0l-1.465.75a1 1 0 0 1-1.539-1.133l.258-1.613a1 1 0 0 0-.282-.867l-1.156-1.152a1 1 0 0 1 .572-1.822l1.633-.256a1 1 0 0 0 .737-.535z" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M11.051 7.616a1 1 0 0 1 1.909.024l.737 1.452a1 1 0 0 0 .737.535l1.634.256a1 1 0 0 1 .588 1.806l-1.172 1.168a1 1 0 0 0-.282.866l.259 1.613a1 1 0 0 1-1.541 1.134l-1.465-.75a1 1 0 0 0-.912 0l-1.465.75a1 1 0 0 1-1.539-1.133l.258-1.613a1 1 0 0 0-.282-.867l-1.156-1.152a1 1 0 0 1 .572-1.822l1.633-.256a1 1 0 0 0 .737-.535z" ] [] ]
 
 
 {-| circleStopIcon
@@ -4662,7 +4662,7 @@ clapperboard
 -}
 clapperboardIcon : List (S.Attribute msg) -> H.Html msg
 clapperboardIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M20.2 6 3 11l-.9-2.4c-.3-1.1.3-2.2 1.3-2.5l13.5-4c1.1-.3 2.2.3 2.5 1.3Z" ] [], S.path [ SA.d "m6.2 5.3 3.1 3.9" ] [], S.path [ SA.d "m12.4 3.4 3.1 4" ] [], S.path [ SA.d "M3 11h18v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Z" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "m12.296 3.464 3.02 3.956" ] [], S.path [ SA.d "M20.2 6 3 11l-.9-2.4c-.3-1.1.3-2.2 1.3-2.5l13.5-4c1.1-.3 2.2.3 2.5 1.3z" ] [], S.path [ SA.d "M3 11h18v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" ] [], S.path [ SA.d "m6.18 5.276 3.1 3.899" ] [] ]
 
 
 {-| clipboardIcon
@@ -4712,7 +4712,7 @@ clipboard-pen
 -}
 clipboardEditIcon : List (S.Attribute msg) -> H.Html msg
 clipboardEditIcon options =
-    S.svg (baseOptions ++ options) [ S.rect [ SA.width "8", SA.height "4", SA.x "8", SA.y "2", SA.rx "1" ] [], S.path [ SA.d "M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-5.5" ] [], S.path [ SA.d "M4 13.5V6a2 2 0 0 1 2-2h2" ] [], S.path [ SA.d "M13.378 15.626a1 1 0 1 0-3.004-3.004l-5.01 5.012a2 2 0 0 0-.506.854l-.837 2.87a.5.5 0 0 0 .62.62l2.87-.837a2 2 0 0 0 .854-.506z" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M16 4h2a2 2 0 0 1 2 2v2" ] [], S.path [ SA.d "M21.34 15.664a1 1 0 1 0-3.004-3.004l-5.01 5.012a2 2 0 0 0-.506.854l-.837 2.87a.5.5 0 0 0 .62.62l2.87-.837a2 2 0 0 0 .854-.506z" ] [], S.path [ SA.d "M8 22H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2" ] [], S.rect [ SA.x "8", SA.y "2", SA.width "8", SA.height "4", SA.rx "1" ] [] ]
 
 
 {-| clipboardListIcon
@@ -4752,7 +4752,7 @@ clipboard-pen
 -}
 clipboardPenIcon : List (S.Attribute msg) -> H.Html msg
 clipboardPenIcon options =
-    S.svg (baseOptions ++ options) [ S.rect [ SA.width "8", SA.height "4", SA.x "8", SA.y "2", SA.rx "1" ] [], S.path [ SA.d "M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-5.5" ] [], S.path [ SA.d "M4 13.5V6a2 2 0 0 1 2-2h2" ] [], S.path [ SA.d "M13.378 15.626a1 1 0 1 0-3.004-3.004l-5.01 5.012a2 2 0 0 0-.506.854l-.837 2.87a.5.5 0 0 0 .62.62l2.87-.837a2 2 0 0 0 .854-.506z" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M16 4h2a2 2 0 0 1 2 2v2" ] [], S.path [ SA.d "M21.34 15.664a1 1 0 1 0-3.004-3.004l-5.01 5.012a2 2 0 0 0-.506.854l-.837 2.87a.5.5 0 0 0 .62.62l2.87-.837a2 2 0 0 0 .854-.506z" ] [], S.path [ SA.d "M8 22H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2" ] [], S.rect [ SA.x "8", SA.y "2", SA.width "8", SA.height "4", SA.rx "1" ] [] ]
 
 
 {-| clipboardPenLineIcon
@@ -4812,7 +4812,7 @@ clock
 -}
 clockIcon : List (S.Attribute msg) -> H.Html msg
 clockIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 6v6l4 2" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M12 6v6l4 2" ] [] ]
 
 
 {-| clock1Icon
@@ -4822,7 +4822,7 @@ clock-1
 -}
 clock1Icon : List (S.Attribute msg) -> H.Html msg
 clock1Icon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 6v6l2-4" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M12 6v6l2-4" ] [] ]
 
 
 {-| clock10Icon
@@ -4832,7 +4832,7 @@ clock-10
 -}
 clock10Icon : List (S.Attribute msg) -> H.Html msg
 clock10Icon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 6v6l-4-2" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M12 6v6l-4-2" ] [] ]
 
 
 {-| clock11Icon
@@ -4842,7 +4842,7 @@ clock-11
 -}
 clock11Icon : List (S.Attribute msg) -> H.Html msg
 clock11Icon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 6v6l-2-4" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M12 6v6l-2-4" ] [] ]
 
 
 {-| clock12Icon
@@ -4852,7 +4852,7 @@ clock-12
 -}
 clock12Icon : List (S.Attribute msg) -> H.Html msg
 clock12Icon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 6v6" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M12 6v6" ] [] ]
 
 
 {-| clock2Icon
@@ -4862,7 +4862,7 @@ clock-2
 -}
 clock2Icon : List (S.Attribute msg) -> H.Html msg
 clock2Icon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 6v6l4-2" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M12 6v6l4-2" ] [] ]
 
 
 {-| clock3Icon
@@ -4872,7 +4872,7 @@ clock-3
 -}
 clock3Icon : List (S.Attribute msg) -> H.Html msg
 clock3Icon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 6v6h4" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M12 6v6h4" ] [] ]
 
 
 {-| clock4Icon
@@ -4882,7 +4882,7 @@ clock-4
 -}
 clock4Icon : List (S.Attribute msg) -> H.Html msg
 clock4Icon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 6v6l4 2" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M12 6v6l4 2" ] [] ]
 
 
 {-| clock5Icon
@@ -4892,7 +4892,7 @@ clock-5
 -}
 clock5Icon : List (S.Attribute msg) -> H.Html msg
 clock5Icon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 6v6l2 4" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M12 6v6l2 4" ] [] ]
 
 
 {-| clock6Icon
@@ -4902,7 +4902,7 @@ clock-6
 -}
 clock6Icon : List (S.Attribute msg) -> H.Html msg
 clock6Icon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 6v10" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M12 6v10" ] [] ]
 
 
 {-| clock7Icon
@@ -4912,7 +4912,7 @@ clock-7
 -}
 clock7Icon : List (S.Attribute msg) -> H.Html msg
 clock7Icon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 6v6l-2 4" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M12 6v6l-2 4" ] [] ]
 
 
 {-| clock8Icon
@@ -4922,7 +4922,7 @@ clock-8
 -}
 clock8Icon : List (S.Attribute msg) -> H.Html msg
 clock8Icon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 6v6l-4 2" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M12 6v6l-4 2" ] [] ]
 
 
 {-| clock9Icon
@@ -4932,7 +4932,7 @@ clock-9
 -}
 clock9Icon : List (S.Attribute msg) -> H.Html msg
 clock9Icon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 6v6H8" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M12 6v6H8" ] [] ]
 
 
 {-| clockAlertIcon
@@ -5022,7 +5022,7 @@ cloud-alert
 -}
 cloudAlertIcon : List (S.Attribute msg) -> H.Html msg
 cloudAlertIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 12v4" ] [], S.path [ SA.d "M12 20h.01" ] [], S.path [ SA.d "M17 18h.5a1 1 0 0 0 0-9h-1.79A7 7 0 1 0 7 17.708" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 12v4" ] [], S.path [ SA.d "M12 20h.01" ] [], S.path [ SA.d "M8.128 16.949A7 7 0 1 1 15.71 8h1.79a1 1 0 0 1 0 9h-1.642" ] [] ]
 
 
 {-| cloudBackupIcon
@@ -5042,7 +5042,7 @@ cloud-check
 -}
 cloudCheckIcon : List (S.Attribute msg) -> H.Html msg
 cloudCheckIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "m17 15-5.5 5.5L9 18" ] [], S.path [ SA.d "M5 17.743A7 7 0 1 1 15.71 10h1.79a4.5 4.5 0 0 1 1.5 8.742" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "m17 15-5.5 5.5L9 18" ] [], S.path [ SA.d "M5.516 16.07A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 3.501 7.327" ] [] ]
 
 
 {-| cloudCogIcon
@@ -5322,7 +5322,7 @@ coins
 -}
 coinsIcon : List (S.Attribute msg) -> H.Html msg
 coinsIcon options =
-    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "8", SA.cy "8", SA.r "6" ] [], S.path [ SA.d "M18.09 10.37A6 6 0 1 1 10.34 18" ] [], S.path [ SA.d "M7 6h1v4" ] [], S.path [ SA.d "m16.71 13.88.7.71-2.82 2.82" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M13.744 17.736a6 6 0 1 1-7.48-7.48" ] [], S.path [ SA.d "M15 6h1v4" ] [], S.path [ SA.d "m6.134 14.768.866-.5 2 3.464" ] [], S.circle [ SA.cx "16", SA.cy "8", SA.r "6" ] [] ]
 
 
 {-| columnsIcon
@@ -5412,7 +5412,7 @@ compass
 -}
 compassIcon : List (S.Attribute msg) -> H.Html msg
 compassIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z" ] [] ]
 
 
 {-| componentIcon
@@ -5782,7 +5782,7 @@ cuboid
 -}
 cuboidIcon : List (S.Attribute msg) -> H.Html msg
 cuboidIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "m21.12 6.4-6.05-4.06a2 2 0 0 0-2.17-.05L2.95 8.41a2 2 0 0 0-.95 1.7v5.82a2 2 0 0 0 .88 1.66l6.05 4.07a2 2 0 0 0 2.17.05l9.95-6.12a2 2 0 0 0 .95-1.7V8.06a2 2 0 0 0-.88-1.66Z" ] [], S.path [ SA.d "M10 22v-8L2.25 9.15" ] [], S.path [ SA.d "m10 14 11.77-6.87" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10 22v-8" ] [], S.path [ SA.d "M2.336 8.89 10 14l11.715-7.029" ] [], S.path [ SA.d "M22 14a2 2 0 0 1-.971 1.715l-10 6a2 2 0 0 1-2.138-.05l-6-4A2 2 0 0 1 2 16v-6a2 2 0 0 1 .971-1.715l10-6a2 2 0 0 1 2.138.05l6 4A2 2 0 0 1 22 8z" ] [] ]
 
 
 {-| cupSodaIcon
@@ -5853,6 +5853,16 @@ database-backup
 databaseBackupIcon : List (S.Attribute msg) -> H.Html msg
 databaseBackupIcon options =
     S.svg (baseOptions ++ options) [ S.ellipse [ SA.cx "12", SA.cy "5", SA.rx "9", SA.ry "3" ] [], S.path [ SA.d "M3 12a9 3 0 0 0 5 2.69" ] [], S.path [ SA.d "M21 9.3V5" ] [], S.path [ SA.d "M3 5v14a9 3 0 0 0 6.47 2.88" ] [], S.path [ SA.d "M12 12v4h4" ] [], S.path [ SA.d "M13 20a5 5 0 0 0 9-3 4.5 4.5 0 0 0-4.5-4.5c-1.33 0-2.54.54-3.41 1.41L12 16" ] [] ]
+
+
+{-| databaseSearchIcon
+
+database-search
+
+-}
+databaseSearchIcon : List (S.Attribute msg) -> H.Html msg
+databaseSearchIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M21 11.693V5" ] [], S.path [ SA.d "m22 22-1.875-1.875" ] [], S.path [ SA.d "M3 12a9 3 0 0 0 8.697 2.998" ] [], S.path [ SA.d "M3 5v14a9 3 0 0 0 9.28 2.999" ] [], S.circle [ SA.cx "18", SA.cy "18", SA.r "3" ] [], S.ellipse [ SA.cx "12", SA.cy "5", SA.rx "9", SA.ry "3" ] [] ]
 
 
 {-| databaseZapIcon
@@ -6092,7 +6102,7 @@ circle-divide
 -}
 divideCircleIcon : List (S.Attribute msg) -> H.Html msg
 divideCircleIcon options =
-    S.svg (baseOptions ++ options) [ S.line [ SA.x1 "8", SA.x2 "16", SA.y1 "12", SA.y2 "12" ] [], S.line [ SA.x1 "12", SA.x2 "12", SA.y1 "16", SA.y2 "16" ] [], S.line [ SA.x1 "12", SA.x2 "12", SA.y1 "8", SA.y2 "8" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.line [ SA.x1 "8", SA.x2 "16", SA.y1 "12", SA.y2 "12" ] [], S.line [ SA.x1 "12", SA.x2 "12", SA.y1 "16", SA.y2 "16" ] [], S.line [ SA.x1 "12", SA.x2 "12", SA.y1 "8", SA.y2 "8" ] [] ]
 
 
 {-| divideSquareIcon
@@ -6453,6 +6463,16 @@ egg-off
 eggOffIcon : List (S.Attribute msg) -> H.Html msg
 eggOffIcon options =
     S.svg (baseOptions ++ options) [ S.path [ SA.d "m2 2 20 20" ] [], S.path [ SA.d "M20 14.347V14c0-6-4-12-8-12-1.078 0-2.157.436-3.157 1.19" ] [], S.path [ SA.d "M6.206 6.21C4.871 8.4 4 11.2 4 14a8 8 0 0 0 14.568 4.568" ] [] ]
+
+
+{-| ellipseIcon
+
+ellipse
+
+-}
+ellipseIcon : List (S.Attribute msg) -> H.Html msg
+ellipseIcon options =
+    S.svg (baseOptions ++ options) [ S.ellipse [ SA.cx "12", SA.cy "12", SA.rx "10", SA.ry "6" ] [] ]
 
 
 {-| ellipsisIcon
@@ -6932,7 +6952,7 @@ file-cog
 -}
 fileCogIcon : List (S.Attribute msg) -> H.Html msg
 fileCogIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M13.85 22H18a2 2 0 0 0 2-2V8a2 2 0 0 0-.586-1.414l-4-4A2 2 0 0 0 14 2H6a2 2 0 0 0-2 2v6.6" ] [], S.path [ SA.d "M14 2v5a1 1 0 0 0 1 1h5" ] [], S.path [ SA.d "m3.305 19.53.923-.382" ] [], S.path [ SA.d "m4.228 16.852-.924-.383" ] [], S.path [ SA.d "m5.852 15.228-.383-.923" ] [], S.path [ SA.d "m5.852 20.772-.383.924" ] [], S.path [ SA.d "m8.148 15.228.383-.923" ] [], S.path [ SA.d "m8.53 21.696-.382-.924" ] [], S.path [ SA.d "m9.773 16.852.922-.383" ] [], S.path [ SA.d "m9.773 19.148.922.383" ] [], S.circle [ SA.cx "7", SA.cy "18", SA.r "3" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M15 8a1 1 0 0 1-1-1V2a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8z" ] [], S.path [ SA.d "M20 8v12a2 2 0 0 1-2 2h-4.182" ] [], S.path [ SA.d "m3.305 19.53.923-.382" ] [], S.path [ SA.d "M4 10.592V4a2 2 0 0 1 2-2h8" ] [], S.path [ SA.d "m4.228 16.852-.924-.383" ] [], S.path [ SA.d "m5.852 15.228-.383-.923" ] [], S.path [ SA.d "m5.852 20.772-.383.924" ] [], S.path [ SA.d "m8.148 15.228.383-.923" ] [], S.path [ SA.d "m8.53 21.696-.382-.924" ] [], S.path [ SA.d "m9.773 16.852.922-.383" ] [], S.path [ SA.d "m9.773 19.148.922.383" ] [], S.circle [ SA.cx "7", SA.cy "18", SA.r "3" ] [] ]
 
 
 {-| fileCog2Icon
@@ -6942,7 +6962,7 @@ file-cog
 -}
 fileCog2Icon : List (S.Attribute msg) -> H.Html msg
 fileCog2Icon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M13.85 22H18a2 2 0 0 0 2-2V8a2 2 0 0 0-.586-1.414l-4-4A2 2 0 0 0 14 2H6a2 2 0 0 0-2 2v6.6" ] [], S.path [ SA.d "M14 2v5a1 1 0 0 0 1 1h5" ] [], S.path [ SA.d "m3.305 19.53.923-.382" ] [], S.path [ SA.d "m4.228 16.852-.924-.383" ] [], S.path [ SA.d "m5.852 15.228-.383-.923" ] [], S.path [ SA.d "m5.852 20.772-.383.924" ] [], S.path [ SA.d "m8.148 15.228.383-.923" ] [], S.path [ SA.d "m8.53 21.696-.382-.924" ] [], S.path [ SA.d "m9.773 16.852.922-.383" ] [], S.path [ SA.d "m9.773 19.148.922.383" ] [], S.circle [ SA.cx "7", SA.cy "18", SA.r "3" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M15 8a1 1 0 0 1-1-1V2a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8z" ] [], S.path [ SA.d "M20 8v12a2 2 0 0 1-2 2h-4.182" ] [], S.path [ SA.d "m3.305 19.53.923-.382" ] [], S.path [ SA.d "M4 10.592V4a2 2 0 0 1 2-2h8" ] [], S.path [ SA.d "m4.228 16.852-.924-.383" ] [], S.path [ SA.d "m5.852 15.228-.383-.923" ] [], S.path [ SA.d "m5.852 20.772-.383.924" ] [], S.path [ SA.d "m8.148 15.228.383-.923" ] [], S.path [ SA.d "m8.53 21.696-.382-.924" ] [], S.path [ SA.d "m9.773 16.852.922-.383" ] [], S.path [ SA.d "m9.773 19.148.922.383" ] [], S.circle [ SA.cx "7", SA.cy "18", SA.r "3" ] [] ]
 
 
 {-| fileDiffIcon
@@ -7062,7 +7082,7 @@ file-key
 -}
 fileKeyIcon : List (S.Attribute msg) -> H.Html msg
 fileKeyIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10.65 22H18a2 2 0 0 0 2-2V8a2.4 2.4 0 0 0-.706-1.706l-3.588-3.588A2.4 2.4 0 0 0 14 2H6a2 2 0 0 0-2 2v10.1" ] [], S.path [ SA.d "M14 2v5a1 1 0 0 0 1 1h5" ] [], S.path [ SA.d "m10 15 1 1" ] [], S.path [ SA.d "m11 14-4.586 4.586" ] [], S.circle [ SA.cx "5", SA.cy "20", SA.r "2" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M14 2v5a1 1 0 0 0 1 1h5" ] [], S.path [ SA.d "M4 12v6" ] [], S.path [ SA.d "M4 14h2" ] [], S.path [ SA.d "M9.65 22H18a2 2 0 0 0 2-2V8a2.4 2.4 0 0 0-.706-1.706l-3.588-3.588A2.4 2.4 0 0 0 14 2H6a2 2 0 0 0-2 2v4" ] [], S.circle [ SA.cx "4", SA.cy "20", SA.r "2" ] [] ]
 
 
 {-| fileKey2Icon
@@ -7072,7 +7092,7 @@ file-key
 -}
 fileKey2Icon : List (S.Attribute msg) -> H.Html msg
 fileKey2Icon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10.65 22H18a2 2 0 0 0 2-2V8a2.4 2.4 0 0 0-.706-1.706l-3.588-3.588A2.4 2.4 0 0 0 14 2H6a2 2 0 0 0-2 2v10.1" ] [], S.path [ SA.d "M14 2v5a1 1 0 0 0 1 1h5" ] [], S.path [ SA.d "m10 15 1 1" ] [], S.path [ SA.d "m11 14-4.586 4.586" ] [], S.circle [ SA.cx "5", SA.cy "20", SA.r "2" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M14 2v5a1 1 0 0 0 1 1h5" ] [], S.path [ SA.d "M4 12v6" ] [], S.path [ SA.d "M4 14h2" ] [], S.path [ SA.d "M9.65 22H18a2 2 0 0 0 2-2V8a2.4 2.4 0 0 0-.706-1.706l-3.588-3.588A2.4 2.4 0 0 0 14 2H6a2 2 0 0 0-2 2v4" ] [], S.circle [ SA.cx "4", SA.cy "20", SA.r "2" ] [] ]
 
 
 {-| fileLineChartIcon
@@ -7172,7 +7192,7 @@ file-pen-line
 -}
 filePenLineIcon : List (S.Attribute msg) -> H.Html msg
 filePenLineIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "m18.226 5.226-2.52-2.52A2.4 2.4 0 0 0 14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-.351" ] [], S.path [ SA.d "M21.378 12.626a1 1 0 0 0-3.004-3.004l-4.01 4.012a2 2 0 0 0-.506.854l-.837 2.87a.5.5 0 0 0 .62.62l2.87-.837a2 2 0 0 0 .854-.506z" ] [], S.path [ SA.d "M8 18h1" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M14.364 13.634a2 2 0 0 0-.506.854l-.837 2.87a.5.5 0 0 0 .62.62l2.87-.837a2 2 0 0 0 .854-.506l4.013-4.009a1 1 0 0 0-3.004-3.004z" ] [], S.path [ SA.d "M14.487 7.858A1 1 0 0 1 14 7V2" ] [], S.path [ SA.d "M20 19.645V20a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l2.516 2.516" ] [], S.path [ SA.d "M8 18h1" ] [] ]
 
 
 {-| filePieChartIcon
@@ -7302,7 +7322,7 @@ file-pen-line
 -}
 fileSignatureIcon : List (S.Attribute msg) -> H.Html msg
 fileSignatureIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "m18.226 5.226-2.52-2.52A2.4 2.4 0 0 0 14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-.351" ] [], S.path [ SA.d "M21.378 12.626a1 1 0 0 0-3.004-3.004l-4.01 4.012a2 2 0 0 0-.506.854l-.837 2.87a.5.5 0 0 0 .62.62l2.87-.837a2 2 0 0 0 .854-.506z" ] [], S.path [ SA.d "M8 18h1" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M14.364 13.634a2 2 0 0 0-.506.854l-.837 2.87a.5.5 0 0 0 .62.62l2.87-.837a2 2 0 0 0 .854-.506l4.013-4.009a1 1 0 0 0-3.004-3.004z" ] [], S.path [ SA.d "M14.487 7.858A1 1 0 0 1 14 7V2" ] [], S.path [ SA.d "M20 19.645V20a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l2.516 2.516" ] [], S.path [ SA.d "M8 18h1" ] [] ]
 
 
 {-| fileSlidersIcon
@@ -7615,6 +7635,16 @@ fishingHookIcon options =
     S.svg (baseOptions ++ options) [ S.path [ SA.d "m17.586 11.414-5.93 5.93a1 1 0 0 1-8-8l3.137-3.137a.707.707 0 0 1 1.207.5V10" ] [], S.path [ SA.d "M20.414 8.586 22 7" ] [], S.circle [ SA.cx "19", SA.cy "10", SA.r "2" ] [] ]
 
 
+{-| fishingRodIcon
+
+fishing-rod
+
+-}
+fishingRodIcon : List (S.Attribute msg) -> H.Html msg
+fishingRodIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M4 11h1" ] [], S.path [ SA.d "M8 15a2 2 0 0 1-4 0V3a1 1 0 0 1 1-1h.5C14 2 20 9 20 18v4" ] [], S.circle [ SA.cx "18", SA.cy "18", SA.r "2" ] [] ]
+
+
 {-| flagIcon
 
 flag
@@ -7727,7 +7757,7 @@ flaskRoundIcon options =
 
 {-| flipHorizontalIcon
 
-flip-horizontal
+square-centerline-dashed-horizontal
 
 -}
 flipHorizontalIcon : List (S.Attribute msg) -> H.Html msg
@@ -7747,7 +7777,7 @@ flipHorizontal2Icon options =
 
 {-| flipVerticalIcon
 
-flip-vertical
+square-centerline-dashed-vertical
 
 -}
 flipVerticalIcon : List (S.Attribute msg) -> H.Html msg
@@ -7982,7 +8012,7 @@ folder-key
 -}
 folderKeyIcon : List (S.Attribute msg) -> H.Html msg
 folderKeyIcon options =
-    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "16", SA.cy "20", SA.r "2" ] [], S.path [ SA.d "M10 20H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v2" ] [], S.path [ SA.d "m22 14-4.5 4.5" ] [], S.path [ SA.d "m21 15 1 1" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M13 20H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v1.36" ] [], S.path [ SA.d "M19 12v6" ] [], S.path [ SA.d "M19 14h2" ] [], S.circle [ SA.cx "19", SA.cy "20", SA.r "2" ] [] ]
 
 
 {-| folderLockIcon
@@ -8182,7 +8212,7 @@ forklift
 -}
 forkliftIcon : List (S.Attribute msg) -> H.Html msg
 forkliftIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 12H5a2 2 0 0 0-2 2v5" ] [], S.circle [ SA.cx "13", SA.cy "19", SA.r "2" ] [], S.circle [ SA.cx "5", SA.cy "19", SA.r "2" ] [], S.path [ SA.d "M8 19h3m5-17v17h6M6 12V7c0-1.1.9-2 2-2h3l5 5" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 12H5a2 2 0 0 0-2 2v5" ] [], S.path [ SA.d "M15 19h7" ] [], S.path [ SA.d "M16 19V2" ] [], S.path [ SA.d "M6 12V7a2 2 0 0 1 2-2h2.172a2 2 0 0 1 1.414.586l3.828 3.828A2 2 0 0 1 16 10.828" ] [], S.path [ SA.d "M7 19h4" ] [], S.circle [ SA.cx "13", SA.cy "19", SA.r "2" ] [], S.circle [ SA.cx "5", SA.cy "19", SA.r "2" ] [] ]
 
 
 {-| formIcon
@@ -8472,7 +8502,7 @@ gift
 -}
 giftIcon : List (S.Attribute msg) -> H.Html msg
 giftIcon options =
-    S.svg (baseOptions ++ options) [ S.rect [ SA.x "3", SA.y "8", SA.width "18", SA.height "4", SA.rx "1" ] [], S.path [ SA.d "M12 8v13" ] [], S.path [ SA.d "M19 12v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-7" ] [], S.path [ SA.d "M7.5 8a2.5 2.5 0 0 1 0-5A4.8 8 0 0 1 12 8a4.8 8 0 0 1 4.5-5 2.5 2.5 0 0 1 0 5" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 7v14" ] [], S.path [ SA.d "M20 11v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-8" ] [], S.path [ SA.d "M7.5 7a1 1 0 0 1 0-5A4.8 8 0 0 1 12 7a4.8 8 0 0 1 4.5-5 1 1 0 0 1 0 5" ] [], S.rect [ SA.x "3", SA.y "7", SA.width "18", SA.height "4", SA.rx "1" ] [] ]
 
 
 {-| gitBranchIcon
@@ -8482,7 +8512,7 @@ git-branch
 -}
 gitBranchIcon : List (S.Attribute msg) -> H.Html msg
 gitBranchIcon options =
-    S.svg (baseOptions ++ options) [ S.line [ SA.x1 "6", SA.x2 "6", SA.y1 "3", SA.y2 "15" ] [], S.circle [ SA.cx "18", SA.cy "6", SA.r "3" ] [], S.circle [ SA.cx "6", SA.cy "18", SA.r "3" ] [], S.path [ SA.d "M18 9a9 9 0 0 1-9 9" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M15 6a9 9 0 0 0-9 9V3" ] [], S.circle [ SA.cx "18", SA.cy "6", SA.r "3" ] [], S.circle [ SA.cx "6", SA.cy "18", SA.r "3" ] [] ]
 
 
 {-| gitBranchMinusIcon
@@ -8583,6 +8613,16 @@ git-merge
 gitMergeIcon : List (S.Attribute msg) -> H.Html msg
 gitMergeIcon options =
     S.svg (baseOptions ++ options) [ S.circle [ SA.cx "18", SA.cy "18", SA.r "3" ] [], S.circle [ SA.cx "6", SA.cy "6", SA.r "3" ] [], S.path [ SA.d "M6 21V9a9 9 0 0 0 9 9" ] [] ]
+
+
+{-| gitMergeConflictIcon
+
+git-merge-conflict
+
+-}
+gitMergeConflictIcon : List (S.Attribute msg) -> H.Html msg
+gitMergeConflictIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 6h4a2 2 0 0 1 2 2v7" ] [], S.path [ SA.d "M6 12v9" ] [], S.path [ SA.d "M9 3 3 9" ] [], S.path [ SA.d "M9 9 3 3" ] [], S.circle [ SA.cx "18", SA.cy "18", SA.r "3" ] [] ]
 
 
 {-| gitPullRequestIcon
@@ -8713,6 +8753,16 @@ globe-lock
 globeLockIcon : List (S.Attribute msg) -> H.Html msg
 globeLockIcon options =
     S.svg (baseOptions ++ options) [ S.path [ SA.d "M15.686 15A14.5 14.5 0 0 1 12 22a14.5 14.5 0 0 1 0-20 10 10 0 1 0 9.542 13" ] [], S.path [ SA.d "M2 12h8.5" ] [], S.path [ SA.d "M20 6V4a2 2 0 1 0-4 0v2" ] [], S.rect [ SA.width "8", SA.height "5", SA.x "14", SA.y "6", SA.rx "1" ] [] ]
+
+
+{-| globeOffIcon
+
+globe-off
+
+-}
+globeOffIcon : List (S.Attribute msg) -> H.Html msg
+globeOffIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10.114 4.462A14.5 14.5 0 0 1 12 2a10 10 0 0 1 9.313 13.643" ] [], S.path [ SA.d "M15.557 15.556A14.5 14.5 0 0 1 12 22 10 10 0 0 1 4.929 4.929" ] [], S.path [ SA.d "M15.892 10.234A14.5 14.5 0 0 0 12 2a10 10 0 0 0-3.643.687" ] [], S.path [ SA.d "M17.656 12H22" ] [], S.path [ SA.d "M19.071 19.071A10 10 0 0 1 12 22 14.5 14.5 0 0 1 8.44 8.45" ] [], S.path [ SA.d "M2 12h10" ] [], S.path [ SA.d "m2 2 20 20" ] [] ]
 
 
 {-| globeXIcon
@@ -9082,7 +9132,7 @@ hard-drive
 -}
 hardDriveIcon : List (S.Attribute msg) -> H.Html msg
 hardDriveIcon options =
-    S.svg (baseOptions ++ options) [ S.line [ SA.x1 "22", SA.x2 "2", SA.y1 "12", SA.y2 "12" ] [], S.path [ SA.d "M5.45 5.11 2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z" ] [], S.line [ SA.x1 "6", SA.x2 "6.01", SA.y1 "16", SA.y2 "16" ] [], S.line [ SA.x1 "10", SA.x2 "10.01", SA.y1 "16", SA.y2 "16" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10 16h.01" ] [], S.path [ SA.d "M2.212 11.577a2 2 0 0 0-.212.896V18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-5.527a2 2 0 0 0-.212-.896L18.55 5.11A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z" ] [], S.path [ SA.d "M21.946 12.013H2.054" ] [], S.path [ SA.d "M6 16h.01" ] [] ]
 
 
 {-| hardDriveDownloadIcon
@@ -10225,6 +10275,26 @@ lecternIcon options =
     S.svg (baseOptions ++ options) [ S.path [ SA.d "M16 12h3a2 2 0 0 0 1.902-1.38l1.056-3.333A1 1 0 0 0 21 6H3a1 1 0 0 0-.958 1.287l1.056 3.334A2 2 0 0 0 5 12h3" ] [], S.path [ SA.d "M18 6V3a1 1 0 0 0-1-1h-3" ] [], S.rect [ SA.width "8", SA.height "12", SA.x "8", SA.y "10", SA.rx "1" ] [] ]
 
 
+{-| lensConcaveIcon
+
+lens-concave
+
+-}
+lensConcaveIcon : List (S.Attribute msg) -> H.Html msg
+lensConcaveIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M7 2a1 1 0 0 0-.8 1.6 14 14 0 0 1 0 16.8A1 1 0 0 0 7 22h10a1 1 0 0 0 .8-1.6 14 14 0 0 1 0-16.8A1 1 0 0 0 17 2z" ] [] ]
+
+
+{-| lensConvexIcon
+
+lens-convex
+
+-}
+lensConvexIcon : List (S.Attribute msg) -> H.Html msg
+lensConvexIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M13.433 2a1 1 0 0 1 .824.448 18 18 0 0 1 0 19.104 1 1 0 0 1-.824.448h-2.866a1 1 0 0 1-.824-.448 18 18 0 0 1 0-19.104A1 1 0 0 1 10.567 2z" ] [] ]
+
+
 {-| letterTextIcon
 
 text-initial
@@ -10313,6 +10383,16 @@ chart-line
 lineChartIcon : List (S.Attribute msg) -> H.Html msg
 lineChartIcon options =
     S.svg (baseOptions ++ options) [ S.path [ SA.d "M3 3v16a2 2 0 0 0 2 2h16" ] [], S.path [ SA.d "m19 9-5 5-4-4-3 3" ] [] ]
+
+
+{-| lineDotRightHorizontalIcon
+
+line-dot-right-horizontal
+
+-}
+lineDotRightHorizontalIcon : List (S.Attribute msg) -> H.Html msg
+lineDotRightHorizontalIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M 3 12 L 15 12" ] [], S.circle [ SA.cx "18", SA.cy "12", SA.r "3" ] [] ]
 
 
 {-| lineSquiggleIcon
@@ -11185,6 +11265,16 @@ messageCircleIcon options =
     S.svg (baseOptions ++ options) [ S.path [ SA.d "M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719" ] [] ]
 
 
+{-| messageCircleCheckIcon
+
+message-circle-check
+
+-}
+messageCircleCheckIcon : List (S.Attribute msg) -> H.Html msg
+messageCircleCheckIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719" ] [], S.path [ SA.d "m9 12 2 2 4-4" ] [] ]
+
+
 {-| messageCircleCodeIcon
 
 message-circle-code
@@ -11303,6 +11393,16 @@ message-square
 messageSquareIcon : List (S.Attribute msg) -> H.Html msg
 messageSquareIcon options =
     S.svg (baseOptions ++ options) [ S.path [ SA.d "M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z" ] [] ]
+
+
+{-| messageSquareCheckIcon
+
+message-square-check
+
+-}
+messageSquareCheckIcon : List (S.Attribute msg) -> H.Html msg
+messageSquareCheckIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.7.7 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z" ] [], S.path [ SA.d "m9 11 2 2 4-4" ] [] ]
 
 
 {-| messageSquareCodeIcon
@@ -11465,6 +11565,16 @@ messagesSquareIcon options =
     S.svg (baseOptions ++ options) [ S.path [ SA.d "M16 10a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 14.286V4a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" ] [], S.path [ SA.d "M20 9a2 2 0 0 1 2 2v10.286a.71.71 0 0 1-1.212.502l-2.202-2.202A2 2 0 0 0 17.172 19H10a2 2 0 0 1-2-2v-1" ] [] ]
 
 
+{-| metronomeIcon
+
+metronome
+
+-}
+metronomeIcon : List (S.Attribute msg) -> H.Html msg
+metronomeIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 11.4V9.1" ] [], S.path [ SA.d "m12 17 6.59-6.59" ] [], S.path [ SA.d "m15.05 5.7-.218-.691a3 3 0 0 0-5.663 0L4.418 19.695A1 1 0 0 0 5.37 21h13.253a1 1 0 0 0 .951-1.31L18.45 16.2" ] [], S.circle [ SA.cx "20", SA.cy "9", SA.r "2" ] [] ]
+
+
 {-| micIcon
 
 mic
@@ -11613,6 +11723,26 @@ square-minus
 minusSquareIcon : List (S.Attribute msg) -> H.Html msg
 minusSquareIcon options =
     S.svg (baseOptions ++ options) [ S.rect [ SA.width "18", SA.height "18", SA.x "3", SA.y "3", SA.rx "2" ] [], S.path [ SA.d "M8 12h8" ] [] ]
+
+
+{-| mirrorRectangularIcon
+
+mirror-rectangular
+
+-}
+mirrorRectangularIcon : List (S.Attribute msg) -> H.Html msg
+mirrorRectangularIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M11 6 8 9" ] [], S.path [ SA.d "m16 7-8 8" ] [], S.rect [ SA.x "4", SA.y "2", SA.width "16", SA.height "20", SA.rx "2" ] [] ]
+
+
+{-| mirrorRoundIcon
+
+mirror-round
+
+-}
+mirrorRoundIcon : List (S.Attribute msg) -> H.Html msg
+mirrorRoundIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10 6.6 8.6 8" ] [], S.path [ SA.d "M12 18v4" ] [], S.path [ SA.d "M15 7.5 9.5 13" ] [], S.path [ SA.d "M7 22h10" ] [], S.circle [ SA.cx "12", SA.cy "10", SA.r "8" ] [] ]
 
 
 {-| monitorIcon
@@ -11835,6 +11965,16 @@ mouseIcon options =
     S.svg (baseOptions ++ options) [ S.rect [ SA.x "5", SA.y "2", SA.width "14", SA.height "20", SA.rx "7" ] [], S.path [ SA.d "M12 6v4" ] [] ]
 
 
+{-| mouseLeftIcon
+
+mouse-left
+
+-}
+mouseLeftIcon : List (S.Attribute msg) -> H.Html msg
+mouseLeftIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 7.318V10" ] [], S.path [ SA.d "M5 10v5a7 7 0 0 0 14 0V9c0-3.527-2.608-6.515-6-7" ] [], S.circle [ SA.cx "7", SA.cy "4", SA.r "2" ] [] ]
+
+
 {-| mouseOffIcon
 
 mouse-off
@@ -11903,6 +12043,16 @@ square-dashed-mouse-pointer
 mousePointerSquareDashedIcon : List (S.Attribute msg) -> H.Html msg
 mousePointerSquareDashedIcon options =
     S.svg (baseOptions ++ options) [ S.path [ SA.d "M12.034 12.681a.498.498 0 0 1 .647-.647l9 3.5a.5.5 0 0 1-.033.943l-3.444 1.068a1 1 0 0 0-.66.66l-1.067 3.443a.5.5 0 0 1-.943.033z" ] [], S.path [ SA.d "M5 3a2 2 0 0 0-2 2" ] [], S.path [ SA.d "M19 3a2 2 0 0 1 2 2" ] [], S.path [ SA.d "M5 21a2 2 0 0 1-2-2" ] [], S.path [ SA.d "M9 3h1" ] [], S.path [ SA.d "M9 21h2" ] [], S.path [ SA.d "M14 3h1" ] [], S.path [ SA.d "M3 9v1" ] [], S.path [ SA.d "M21 9v2" ] [], S.path [ SA.d "M3 14v1" ] [] ]
+
+
+{-| mouseRightIcon
+
+mouse-right
+
+-}
+mouseRightIcon : List (S.Attribute msg) -> H.Html msg
+mouseRightIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 7.318V10" ] [], S.path [ SA.d "M19 10v5a7 7 0 0 1-14 0V9c0-3.527 2.608-6.515 6-7" ] [], S.circle [ SA.cx "17", SA.cy "4", SA.r "2" ] [] ]
 
 
 {-| moveIcon
@@ -12382,7 +12532,7 @@ package-check
 -}
 packageCheckIcon : List (S.Attribute msg) -> H.Html msg
 packageCheckIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "m16 16 2 2 4-4" ] [], S.path [ SA.d "M21 10V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l2-1.14" ] [], S.path [ SA.d "m7.5 4.27 9 5.15" ] [], S.polyline [ SA.points "3.29 7 12 12 20.71 7" ] [], S.line [ SA.x1 "12", SA.x2 "12", SA.y1 "22", SA.y2 "12" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 22V12" ] [], S.path [ SA.d "m16 17 2 2 4-4" ] [], S.path [ SA.d "M21 11.127V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.729l7 4a2 2 0 0 0 2 .001l1.32-.753" ] [], S.path [ SA.d "M3.29 7 12 12l8.71-5" ] [], S.path [ SA.d "m7.5 4.27 8.997 5.148" ] [] ]
 
 
 {-| packageMinusIcon
@@ -12392,7 +12542,7 @@ package-minus
 -}
 packageMinusIcon : List (S.Attribute msg) -> H.Html msg
 packageMinusIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M16 16h6" ] [], S.path [ SA.d "M21 10V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l2-1.14" ] [], S.path [ SA.d "m7.5 4.27 9 5.15" ] [], S.polyline [ SA.points "3.29 7 12 12 20.71 7" ] [], S.line [ SA.x1 "12", SA.x2 "12", SA.y1 "22", SA.y2 "12" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 22V12" ] [], S.path [ SA.d "M16 17h6" ] [], S.path [ SA.d "M21 13V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.729l7 4a2 2 0 0 0 2 .001l1.675-.955" ] [], S.path [ SA.d "M3.29 7 12 12l8.71-5" ] [], S.path [ SA.d "m7.5 4.27 8.997 5.148" ] [] ]
 
 
 {-| packageOpenIcon
@@ -12412,7 +12562,7 @@ package-plus
 -}
 packagePlusIcon : List (S.Attribute msg) -> H.Html msg
 packagePlusIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M16 16h6" ] [], S.path [ SA.d "M19 13v6" ] [], S.path [ SA.d "M21 10V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l2-1.14" ] [], S.path [ SA.d "m7.5 4.27 9 5.15" ] [], S.polyline [ SA.points "3.29 7 12 12 20.71 7" ] [], S.line [ SA.x1 "12", SA.x2 "12", SA.y1 "22", SA.y2 "12" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 22V12" ] [], S.path [ SA.d "M16 17h6" ] [], S.path [ SA.d "M19 14v6" ] [], S.path [ SA.d "M21 10.535V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.729l7 4a2 2 0 0 0 2 .001l1.675-.955" ] [], S.path [ SA.d "M3.29 7 12 12l8.71-5" ] [], S.path [ SA.d "m7.5 4.27 8.997 5.148" ] [] ]
 
 
 {-| packageSearchIcon
@@ -12422,7 +12572,7 @@ package-search
 -}
 packageSearchIcon : List (S.Attribute msg) -> H.Html msg
 packageSearchIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M21 10V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l2-1.14" ] [], S.path [ SA.d "m7.5 4.27 9 5.15" ] [], S.polyline [ SA.points "3.29 7 12 12 20.71 7" ] [], S.line [ SA.x1 "12", SA.x2 "12", SA.y1 "22", SA.y2 "12" ] [], S.circle [ SA.cx "18.5", SA.cy "15.5", SA.r "2.5" ] [], S.path [ SA.d "M20.27 17.27 22 19" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 22V12" ] [], S.path [ SA.d "M20.27 18.27 22 20" ] [], S.path [ SA.d "M21 10.498V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.729l7 4a2 2 0 0 0 2 .001l.98-.559" ] [], S.path [ SA.d "M3.29 7 12 12l8.71-5" ] [], S.path [ SA.d "m7.5 4.27 8.997 5.148" ] [], S.circle [ SA.cx "18.5", SA.cy "16.5", SA.r "2.5" ] [] ]
 
 
 {-| packageXIcon
@@ -12432,7 +12582,7 @@ package-x
 -}
 packageXIcon : List (S.Attribute msg) -> H.Html msg
 packageXIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M21 10V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l2-1.14" ] [], S.path [ SA.d "m7.5 4.27 9 5.15" ] [], S.polyline [ SA.points "3.29 7 12 12 20.71 7" ] [], S.line [ SA.x1 "12", SA.x2 "12", SA.y1 "22", SA.y2 "12" ] [], S.path [ SA.d "m17 13 5 5m-5 0 5-5" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 22V12" ] [], S.path [ SA.d "m16.5 14.5 5 5" ] [], S.path [ SA.d "m16.5 19.5 5-5" ] [], S.path [ SA.d "M21 10.5V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.729l7 4a2 2 0 0 0 2 .001l.13-.074" ] [], S.path [ SA.d "M3.29 7 12 12l8.71-5" ] [], S.path [ SA.d "m7.5 4.27 8.997 5.148" ] [] ]
 
 
 {-| paintBucketIcon
@@ -13562,7 +13712,7 @@ circle-power
 -}
 powerCircleIcon : List (S.Attribute msg) -> H.Html msg
 powerCircleIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 7v4" ] [], S.path [ SA.d "M7.998 9.003a5 5 0 1 0 8-.005" ] [], S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "M12 7v4" ] [], S.path [ SA.d "M7.998 9.003a5 5 0 1 0 8-.005" ] [] ]
 
 
 {-| powerOffIcon
@@ -13812,7 +13962,7 @@ receipt
 -}
 receiptIcon : List (S.Attribute msg) -> H.Html msg
 receiptIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1Z" ] [], S.path [ SA.d "M16 8h-6a2 2 0 1 0 0 4h4a2 2 0 1 1 0 4H8" ] [], S.path [ SA.d "M12 17.5v-11" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 17V7" ] [], S.path [ SA.d "M16 8h-6a2 2 0 0 0 0 4h4a2 2 0 0 1 0 4H8" ] [], S.path [ SA.d "M4 3a1 1 0 0 1 1-1 1.3 1.3 0 0 1 .7.2l.933.6a1.3 1.3 0 0 0 1.4 0l.934-.6a1.3 1.3 0 0 1 1.4 0l.933.6a1.3 1.3 0 0 0 1.4 0l.933-.6a1.3 1.3 0 0 1 1.4 0l.934.6a1.3 1.3 0 0 0 1.4 0l.933-.6A1.3 1.3 0 0 1 19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1 1.3 1.3 0 0 1-.7-.2l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.934.6a1.3 1.3 0 0 1-1.4 0l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-1.4 0l-.934-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-.7.2 1 1 0 0 1-1-1z" ] [] ]
 
 
 {-| receiptCentIcon
@@ -13822,7 +13972,7 @@ receipt-cent
 -}
 receiptCentIcon : List (S.Attribute msg) -> H.Html msg
 receiptCentIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1Z" ] [], S.path [ SA.d "M12 6.5v11" ] [], S.path [ SA.d "M15 9.4a4 4 0 1 0 0 5.2" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 7v10" ] [], S.path [ SA.d "M14.828 14.829a4 4 0 0 1-5.656 0 4 4 0 0 1 0-5.657 4 4 0 0 1 5.656 0" ] [], S.path [ SA.d "M4 3a1 1 0 0 1 1-1 1.3 1.3 0 0 1 .7.2l.933.6a1.3 1.3 0 0 0 1.4 0l.934-.6a1.3 1.3 0 0 1 1.4 0l.933.6a1.3 1.3 0 0 0 1.4 0l.933-.6a1.3 1.3 0 0 1 1.4 0l.934.6a1.3 1.3 0 0 0 1.4 0l.933-.6A1.3 1.3 0 0 1 19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1 1.3 1.3 0 0 1-.7-.2l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.934.6a1.3 1.3 0 0 1-1.4 0l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-1.4 0l-.934-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-.7.2 1 1 0 0 1-1-1z" ] [] ]
 
 
 {-| receiptEuroIcon
@@ -13832,7 +13982,7 @@ receipt-euro
 -}
 receiptEuroIcon : List (S.Attribute msg) -> H.Html msg
 receiptEuroIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1Z" ] [], S.path [ SA.d "M8 12h5" ] [], S.path [ SA.d "M16 9.5a4 4 0 1 0 0 5.2" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M15.828 14.829a4 4 0 0 1-5.656 0 4 4 0 0 1 0-5.657 4 4 0 0 1 5.656 0" ] [], S.path [ SA.d "M4 3a1 1 0 0 1 1-1 1.3 1.3 0 0 1 .7.2l.933.6a1.3 1.3 0 0 0 1.4 0l.934-.6a1.3 1.3 0 0 1 1.4 0l.933.6a1.3 1.3 0 0 0 1.4 0l.933-.6a1.3 1.3 0 0 1 1.4 0l.934.6a1.3 1.3 0 0 0 1.4 0l.933-.6A1.3 1.3 0 0 1 19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1 1.3 1.3 0 0 1-.7-.2l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.934.6a1.3 1.3 0 0 1-1.4 0l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-1.4 0l-.934-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-.7.2 1 1 0 0 1-1-1z" ] [], S.path [ SA.d "M8 12h5" ] [] ]
 
 
 {-| receiptIndianRupeeIcon
@@ -13842,7 +13992,7 @@ receipt-indian-rupee
 -}
 receiptIndianRupeeIcon : List (S.Attribute msg) -> H.Html msg
 receiptIndianRupeeIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1Z" ] [], S.path [ SA.d "M8 7h8" ] [], S.path [ SA.d "M12 17.5 8 15h1a4 4 0 0 0 0-8" ] [], S.path [ SA.d "M8 11h8" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M4 3a1 1 0 0 1 1-1 1.3 1.3 0 0 1 .7.2l.933.6a1.3 1.3 0 0 0 1.4 0l.934-.6a1.3 1.3 0 0 1 1.4 0l.933.6a1.3 1.3 0 0 0 1.4 0l.933-.6a1.3 1.3 0 0 1 1.4 0l.934.6a1.3 1.3 0 0 0 1.4 0l.933-.6A1.3 1.3 0 0 1 19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1 1.3 1.3 0 0 1-.7-.2l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.934.6a1.3 1.3 0 0 1-1.4 0l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-1.4 0l-.934-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-.7.2 1 1 0 0 1-1-1z" ] [], S.path [ SA.d "M8 11h8" ] [], S.path [ SA.d "M8 7h8" ] [], S.path [ SA.d "M9 7a4 4 0 0 1 0 8H8l3 2" ] [] ]
 
 
 {-| receiptJapaneseYenIcon
@@ -13852,7 +14002,7 @@ receipt-japanese-yen
 -}
 receiptJapaneseYenIcon : List (S.Attribute msg) -> H.Html msg
 receiptJapaneseYenIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1Z" ] [], S.path [ SA.d "m12 10 3-3" ] [], S.path [ SA.d "m9 7 3 3v7.5" ] [], S.path [ SA.d "M9 11h6" ] [], S.path [ SA.d "M9 15h6" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "m12 10 3-3" ] [], S.path [ SA.d "M4 3a1 1 0 0 1 1-1 1.3 1.3 0 0 1 .7.2l.933.6a1.3 1.3 0 0 0 1.4 0l.934-.6a1.3 1.3 0 0 1 1.4 0l.933.6a1.3 1.3 0 0 0 1.4 0l.933-.6a1.3 1.3 0 0 1 1.4 0l.934.6a1.3 1.3 0 0 0 1.4 0l.933-.6A1.3 1.3 0 0 1 19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1 1.3 1.3 0 0 1-.7-.2l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.934.6a1.3 1.3 0 0 1-1.4 0l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-1.4 0l-.934-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-.7.2 1 1 0 0 1-1-1z" ] [], S.path [ SA.d "M9 11h6" ] [], S.path [ SA.d "M9 15h6" ] [], S.path [ SA.d "m9 7 3 3v7" ] [] ]
 
 
 {-| receiptPoundSterlingIcon
@@ -13862,7 +14012,7 @@ receipt-pound-sterling
 -}
 receiptPoundSterlingIcon : List (S.Attribute msg) -> H.Html msg
 receiptPoundSterlingIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1Z" ] [], S.path [ SA.d "M8 13h5" ] [], S.path [ SA.d "M10 17V9.5a2.5 2.5 0 0 1 5 0" ] [], S.path [ SA.d "M8 17h7" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10 17V9.5a1 1 0 0 1 5 0" ] [], S.path [ SA.d "M4 3a1 1 0 0 1 1-1 1.3 1.3 0 0 1 .7.2l.933.6a1.3 1.3 0 0 0 1.4 0l.934-.6a1.3 1.3 0 0 1 1.4 0l.933.6a1.3 1.3 0 0 0 1.4 0l.933-.6a1.3 1.3 0 0 1 1.4 0l.934.6a1.3 1.3 0 0 0 1.4 0l.933-.6A1.3 1.3 0 0 1 19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1 1.3 1.3 0 0 1-.7-.2l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.934.6a1.3 1.3 0 0 1-1.4 0l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-1.4 0l-.934-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-.7.2 1 1 0 0 1-1-1z" ] [], S.path [ SA.d "M8 13h5" ] [], S.path [ SA.d "M8 17h7" ] [] ]
 
 
 {-| receiptRussianRubleIcon
@@ -13872,7 +14022,7 @@ receipt-russian-ruble
 -}
 receiptRussianRubleIcon : List (S.Attribute msg) -> H.Html msg
 receiptRussianRubleIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1Z" ] [], S.path [ SA.d "M8 15h5" ] [], S.path [ SA.d "M8 11h5a2 2 0 1 0 0-4h-3v10" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M4 3a1 1 0 0 1 1-1 1.3 1.3 0 0 1 .7.2l.933.6a1.3 1.3 0 0 0 1.4 0l.934-.6a1.3 1.3 0 0 1 1.4 0l.933.6a1.3 1.3 0 0 0 1.4 0l.933-.6a1.3 1.3 0 0 1 1.4 0l.934.6a1.3 1.3 0 0 0 1.4 0l.933-.6A1.3 1.3 0 0 1 19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1 1.3 1.3 0 0 1-.7-.2l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.934.6a1.3 1.3 0 0 1-1.4 0l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-1.4 0l-.934-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-.7.2 1 1 0 0 1-1-1z" ] [], S.path [ SA.d "M8 11h5a2 2 0 0 0 0-4h-3v10" ] [], S.path [ SA.d "M8 15h5" ] [] ]
 
 
 {-| receiptSwissFrancIcon
@@ -13882,7 +14032,7 @@ receipt-swiss-franc
 -}
 receiptSwissFrancIcon : List (S.Attribute msg) -> H.Html msg
 receiptSwissFrancIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1Z" ] [], S.path [ SA.d "M10 17V7h5" ] [], S.path [ SA.d "M10 11h4" ] [], S.path [ SA.d "M8 15h5" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10 11h4" ] [], S.path [ SA.d "M10 17V7h5" ] [], S.path [ SA.d "M4 3a1 1 0 0 1 1-1 1.3 1.3 0 0 1 .7.2l.933.6a1.3 1.3 0 0 0 1.4 0l.934-.6a1.3 1.3 0 0 1 1.4 0l.933.6a1.3 1.3 0 0 0 1.4 0l.933-.6a1.3 1.3 0 0 1 1.4 0l.934.6a1.3 1.3 0 0 0 1.4 0l.933-.6A1.3 1.3 0 0 1 19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1 1.3 1.3 0 0 1-.7-.2l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.934.6a1.3 1.3 0 0 1-1.4 0l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-1.4 0l-.934-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-.7.2 1 1 0 0 1-1-1z" ] [], S.path [ SA.d "M8 15h5" ] [] ]
 
 
 {-| receiptTextIcon
@@ -13902,7 +14052,7 @@ receipt-turkish-lira
 -}
 receiptTurkishLiraIcon : List (S.Attribute msg) -> H.Html msg
 receiptTurkishLiraIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10 6.5v11a5.5 5.5 0 0 0 5.5-5.5" ] [], S.path [ SA.d "m14 8-6 3" ] [], S.path [ SA.d "M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1z" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10 7v10a5 5 0 0 0 5-5" ] [], S.path [ SA.d "m14 8-6 3" ] [], S.path [ SA.d "M4 3a1 1 0 0 1 1-1 1.3 1.3 0 0 1 .7.2l.933.6a1.3 1.3 0 0 0 1.4 0l.934-.6a1.3 1.3 0 0 1 1.4 0l.933.6a1.3 1.3 0 0 0 1.4 0l.933-.6a1.3 1.3 0 0 1 1.4 0l.934.6a1.3 1.3 0 0 0 1.4 0l.933-.6A1.3 1.3 0 0 1 19 2a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1 1.3 1.3 0 0 1-.7-.2l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.934.6a1.3 1.3 0 0 1-1.4 0l-.933-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-1.4 0l-.934-.6a1.3 1.3 0 0 0-1.4 0l-.933.6a1.3 1.3 0 0 1-.7.2 1 1 0 0 1-1-1z" ] [] ]
 
 
 {-| rectangleCircleIcon
@@ -14162,7 +14312,7 @@ rocket
 -}
 rocketIcon : List (S.Attribute msg) -> H.Html msg
 rocketIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z" ] [], S.path [ SA.d "m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z" ] [], S.path [ SA.d "M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0" ] [], S.path [ SA.d "M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5" ] [], S.path [ SA.d "M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09" ] [], S.path [ SA.d "M9 12a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.4 22.4 0 0 1-4 2z" ] [], S.path [ SA.d "M9 12H4s.55-3.03 2-4c1.62-1.08 5 .05 5 .05" ] [] ]
 
 
 {-| rockingChairIcon
@@ -14172,7 +14322,7 @@ rocking-chair
 -}
 rockingChairIcon : List (S.Attribute msg) -> H.Html msg
 rockingChairIcon options =
-    S.svg (baseOptions ++ options) [ S.polyline [ SA.points "3.5 2 6.5 12.5 18 12.5" ] [], S.line [ SA.x1 "9.5", SA.x2 "5.5", SA.y1 "12.5", SA.y2 "20" ] [], S.line [ SA.x1 "15", SA.x2 "18.5", SA.y1 "12.5", SA.y2 "20" ] [], S.path [ SA.d "M2.75 18a13 13 0 0 0 18.5 0" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "m15 13 3.708 7.416" ] [], S.path [ SA.d "M3 19a15 15 0 0 0 18 0" ] [], S.path [ SA.d "m3 2 3.21 9.633A2 2 0 0 0 8.109 13H18" ] [], S.path [ SA.d "m9 13-3.708 7.416" ] [] ]
 
 
 {-| rollerCoasterIcon
@@ -14232,7 +14382,7 @@ rotate-ccw-key
 -}
 rotateCcwKeyIcon : List (S.Attribute msg) -> H.Html msg
 rotateCcwKeyIcon options =
-    S.svg (baseOptions ++ options) [ S.path [ SA.d "m14.5 9.5 1 1" ] [], S.path [ SA.d "m15.5 8.5-4 4" ] [], S.path [ SA.d "M3 12a9 9 0 1 0 9-9 9.74 9.74 0 0 0-6.74 2.74L3 8" ] [], S.path [ SA.d "M3 3v5h5" ] [], S.circle [ SA.cx "10", SA.cy "14", SA.r "2" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 7v6" ] [], S.path [ SA.d "M12 9h2" ] [], S.path [ SA.d "M3 12a9 9 0 1 0 9-9 9.74 9.74 0 0 0-6.74 2.74L3 8" ] [], S.path [ SA.d "M3 3v5h5" ] [], S.circle [ SA.cx "12", SA.cy "15", SA.r "2" ] [] ]
 
 
 {-| rotateCcwSquareIcon
@@ -14953,6 +15103,16 @@ shell
 shellIcon : List (S.Attribute msg) -> H.Html msg
 shellIcon options =
     S.svg (baseOptions ++ options) [ S.path [ SA.d "M14 11a2 2 0 1 1-4 0 4 4 0 0 1 8 0 6 6 0 0 1-12 0 8 8 0 0 1 16 0 10 10 0 1 1-20 0 11.93 11.93 0 0 1 2.42-7.22 2 2 0 1 1 3.16 2.44" ] [] ]
+
+
+{-| shelvingUnitIcon
+
+shelving-unit
+
+-}
+shelvingUnitIcon : List (S.Attribute msg) -> H.Html msg
+shelvingUnitIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 12V9a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v3" ] [], S.path [ SA.d "M16 20v-3a1 1 0 0 0-1-1h-2a1 1 0 0 0-1 1v3" ] [], S.path [ SA.d "M20 22V2" ] [], S.path [ SA.d "M4 12h16" ] [], S.path [ SA.d "M4 20h16" ] [], S.path [ SA.d "M4 2v20" ] [], S.path [ SA.d "M4 4h16" ] [] ]
 
 
 {-| shieldIcon
@@ -15875,6 +16035,26 @@ squareArrowRightIcon options =
     S.svg (baseOptions ++ options) [ S.rect [ SA.width "18", SA.height "18", SA.x "3", SA.y "3", SA.rx "2" ] [], S.path [ SA.d "M8 12h8" ] [], S.path [ SA.d "m12 16 4-4-4-4" ] [] ]
 
 
+{-| squareArrowRightEnterIcon
+
+square-arrow-right-enter
+
+-}
+squareArrowRightEnterIcon : List (S.Attribute msg) -> H.Html msg
+squareArrowRightEnterIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "m10 16 4-4-4-4" ] [], S.path [ SA.d "M3 12h11" ] [], S.path [ SA.d "M3 8V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-3" ] [] ]
+
+
+{-| squareArrowRightExitIcon
+
+square-arrow-right-exit
+
+-}
+squareArrowRightExitIcon : List (S.Attribute msg) -> H.Html msg
+squareArrowRightExitIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10 12h11" ] [], S.path [ SA.d "m17 16 4-4-4-4" ] [], S.path [ SA.d "M21 6.344V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-1.344" ] [] ]
+
+
 {-| squareArrowUpIcon
 
 square-arrow-up
@@ -15923,6 +16103,26 @@ square-bottom-dashed-scissors
 squareBottomDashedScissorsIcon : List (S.Attribute msg) -> H.Html msg
 squareBottomDashedScissorsIcon options =
     S.svg (baseOptions ++ options) [ S.line [ SA.x1 "5", SA.y1 "3", SA.x2 "19", SA.y2 "3" ] [], S.line [ SA.x1 "3", SA.y1 "5", SA.x2 "3", SA.y2 "19" ] [], S.line [ SA.x1 "21", SA.y1 "5", SA.x2 "21", SA.y2 "19" ] [], S.line [ SA.x1 "9", SA.y1 "21", SA.x2 "10", SA.y2 "21" ] [], S.line [ SA.x1 "14", SA.y1 "21", SA.x2 "15", SA.y2 "21" ] [], S.path [ SA.d "M 3 5 A2 2 0 0 1 5 3" ] [], S.path [ SA.d "M 19 3 A2 2 0 0 1 21 5" ] [], S.path [ SA.d "M 5 21 A2 2 0 0 1 3 19" ] [], S.path [ SA.d "M 21 19 A2 2 0 0 1 19 21" ] [], S.circle [ SA.cx "8.5", SA.cy "8.5", SA.r "1.5" ] [], S.line [ SA.x1 "9.56066", SA.y1 "9.56066", SA.x2 "12", SA.y2 "12" ] [], S.line [ SA.x1 "17", SA.y1 "17", SA.x2 "14.82", SA.y2 "14.82" ] [], S.circle [ SA.cx "8.5", SA.cy "15.5", SA.r "1.5" ] [], S.line [ SA.x1 "9.56066", SA.y1 "14.43934", SA.x2 "17", SA.y2 "7" ] [] ]
+
+
+{-| squareCenterlineDashedHorizontalIcon
+
+square-centerline-dashed-horizontal
+
+-}
+squareCenterlineDashedHorizontalIcon : List (S.Attribute msg) -> H.Html msg
+squareCenterlineDashedHorizontalIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M8 3H5a2 2 0 0 0-2 2v14c0 1.1.9 2 2 2h3" ] [], S.path [ SA.d "M16 3h3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-3" ] [], S.path [ SA.d "M12 20v2" ] [], S.path [ SA.d "M12 14v2" ] [], S.path [ SA.d "M12 8v2" ] [], S.path [ SA.d "M12 2v2" ] [] ]
+
+
+{-| squareCenterlineDashedVerticalIcon
+
+square-centerline-dashed-vertical
+
+-}
+squareCenterlineDashedVerticalIcon : List (S.Attribute msg) -> H.Html msg
+squareCenterlineDashedVerticalIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M21 8V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v3" ] [], S.path [ SA.d "M21 16v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-3" ] [], S.path [ SA.d "M4 12H2" ] [], S.path [ SA.d "M10 12H8" ] [], S.path [ SA.d "M16 12h-2" ] [], S.path [ SA.d "M22 12h-2" ] [] ]
 
 
 {-| squareChartGanttIcon
@@ -17515,6 +17715,16 @@ touchpadOffIcon options =
     S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 20v-6" ] [], S.path [ SA.d "M19.656 14H22" ] [], S.path [ SA.d "M2 14h12" ] [], S.path [ SA.d "m2 2 20 20" ] [], S.path [ SA.d "M20 20H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2" ] [], S.path [ SA.d "M9.656 4H20a2 2 0 0 1 2 2v10.344" ] [] ]
 
 
+{-| towelRackIcon
+
+towel-rack
+
+-}
+towelRackIcon : List (S.Attribute msg) -> H.Html msg
+towelRackIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M22 7h-2" ] [], S.path [ SA.d "M6.5 3h11A2.5 2.5 0 0 1 20 5.5V20a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1V5.5a1 1 0 0 0-5 0V17a1 1 0 0 0 1 1h4" ] [], S.path [ SA.d "M9 7H2" ] [] ]
+
+
 {-| towerControlIcon
 
 tower-control
@@ -18155,6 +18365,16 @@ userCog2Icon options =
     S.svg (baseOptions ++ options) [ S.path [ SA.d "m14.305 19.53.923-.382" ] [], S.path [ SA.d "m15.228 16.852-.923-.383" ] [], S.path [ SA.d "m16.852 15.228-.383-.923" ] [], S.path [ SA.d "m16.852 20.772-.383.924" ] [], S.path [ SA.d "m19.148 15.228.383-.923" ] [], S.path [ SA.d "m19.53 21.696-.382-.924" ] [], S.path [ SA.d "M2 21a8 8 0 0 1 10.434-7.62" ] [], S.path [ SA.d "m20.772 16.852.924-.383" ] [], S.path [ SA.d "m20.772 19.148.924.383" ] [], S.circle [ SA.cx "10", SA.cy "8", SA.r "5" ] [], S.circle [ SA.cx "18", SA.cy "18", SA.r "3" ] [] ]
 
 
+{-| userKeyIcon
+
+user-key
+
+-}
+userKeyIcon : List (S.Attribute msg) -> H.Html msg
+userKeyIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M20 11v6" ] [], S.path [ SA.d "M20 13h2" ] [], S.path [ SA.d "M3 21v-2a4 4 0 0 1 4-4h6a4 4 0 0 1 2.072.578" ] [], S.circle [ SA.cx "10", SA.cy "7", SA.r "4" ] [], S.circle [ SA.cx "20", SA.cy "19", SA.r "2" ] [] ]
+
+
 {-| userLockIcon
 
 user-lock
@@ -18162,7 +18382,7 @@ user-lock
 -}
 userLockIcon : List (S.Attribute msg) -> H.Html msg
 userLockIcon options =
-    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "10", SA.cy "7", SA.r "4" ] [], S.path [ SA.d "M10.3 15H7a4 4 0 0 0-4 4v2" ] [], S.path [ SA.d "M15 15.5V14a2 2 0 0 1 4 0v1.5" ] [], S.rect [ SA.width "8", SA.height "5", SA.x "13", SA.y "16", SA.rx ".899" ] [] ]
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M19 16v-2a2 2 0 0 0-4 0v2" ] [], S.path [ SA.d "M9.5 15H7a4 4 0 0 0-4 4v2" ] [], S.circle [ SA.cx "10", SA.cy "7", SA.r "4" ] [], S.rect [ SA.x "13", SA.y "16", SA.width "8", SA.height "5", SA.rx ".899" ] [] ]
 
 
 {-| userMinusIcon
@@ -18243,6 +18463,16 @@ user-round-cog
 userRoundCogIcon : List (S.Attribute msg) -> H.Html msg
 userRoundCogIcon options =
     S.svg (baseOptions ++ options) [ S.path [ SA.d "m14.305 19.53.923-.382" ] [], S.path [ SA.d "m15.228 16.852-.923-.383" ] [], S.path [ SA.d "m16.852 15.228-.383-.923" ] [], S.path [ SA.d "m16.852 20.772-.383.924" ] [], S.path [ SA.d "m19.148 15.228.383-.923" ] [], S.path [ SA.d "m19.53 21.696-.382-.924" ] [], S.path [ SA.d "M2 21a8 8 0 0 1 10.434-7.62" ] [], S.path [ SA.d "m20.772 16.852.924-.383" ] [], S.path [ SA.d "m20.772 19.148.924.383" ] [], S.circle [ SA.cx "10", SA.cy "8", SA.r "5" ] [], S.circle [ SA.cx "18", SA.cy "18", SA.r "3" ] [] ]
+
+
+{-| userRoundKeyIcon
+
+user-round-key
+
+-}
+userRoundKeyIcon : List (S.Attribute msg) -> H.Html msg
+userRoundKeyIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M19 11v6" ] [], S.path [ SA.d "M19 13h2" ] [], S.path [ SA.d "M2 21a8 8 0 0 1 12.868-6.349" ] [], S.circle [ SA.cx "10", SA.cy "8", SA.r "5" ] [], S.circle [ SA.cx "19", SA.cy "19", SA.r "2" ] [] ]
 
 
 {-| userRoundMinusIcon
@@ -19065,6 +19295,16 @@ xCircleIcon options =
     S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "12", SA.r "10" ] [], S.path [ SA.d "m15 9-6 6" ] [], S.path [ SA.d "m9 9 6 6" ] [] ]
 
 
+{-| xLineTopIcon
+
+x-line-top
+
+-}
+xLineTopIcon : List (S.Attribute msg) -> H.Html msg
+xLineTopIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M18 4H6" ] [], S.path [ SA.d "M18 8 6 20" ] [], S.path [ SA.d "m6 8 12 12" ] [] ]
+
+
 {-| xOctagonIcon
 
 octagon-x
@@ -19113,6 +19353,136 @@ zap-off
 zapOffIcon : List (S.Attribute msg) -> H.Html msg
 zapOffIcon options =
     S.svg (baseOptions ++ options) [ S.path [ SA.d "M10.513 4.856 13.12 2.17a.5.5 0 0 1 .86.46l-1.377 4.317" ] [], S.path [ SA.d "M15.656 10H20a1 1 0 0 1 .78 1.63l-1.72 1.773" ] [], S.path [ SA.d "M16.273 16.273 10.88 21.83a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14H4a1 1 0 0 1-.78-1.63l4.507-4.643" ] [], S.path [ SA.d "m2 2 20 20" ] [] ]
+
+
+{-| zodiacAquariusIcon
+
+zodiac-aquarius
+
+-}
+zodiacAquariusIcon : List (S.Attribute msg) -> H.Html msg
+zodiacAquariusIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "m2 10 2.456-3.684a.7.7 0 0 1 1.106-.013l2.39 3.413a.7.7 0 0 0 1.096-.001l2.402-3.432a.7.7 0 0 1 1.098 0l2.402 3.432a.7.7 0 0 0 1.098 0l2.389-3.413a.7.7 0 0 1 1.106.013L22 10" ] [], S.path [ SA.d "m2 18.002 2.456-3.684a.7.7 0 0 1 1.106-.013l2.39 3.413a.7.7 0 0 0 1.097 0l2.402-3.432a.7.7 0 0 1 1.098 0l2.402 3.432a.7.7 0 0 0 1.098 0l2.389-3.413a.7.7 0 0 1 1.106.013L22 18.002" ] [] ]
+
+
+{-| zodiacAriesIcon
+
+zodiac-aries
+
+-}
+zodiacAriesIcon : List (S.Attribute msg) -> H.Html msg
+zodiacAriesIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M12 7.5a4.5 4.5 0 1 1 5 4.5" ] [], S.path [ SA.d "M7 12a4.5 4.5 0 1 1 5-4.5V21" ] [] ]
+
+
+{-| zodiacCancerIcon
+
+zodiac-cancer
+
+-}
+zodiacCancerIcon : List (S.Attribute msg) -> H.Html msg
+zodiacCancerIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M21 14.5A9 6.5 0 0 1 5.5 19" ] [], S.path [ SA.d "M3 9.5A9 6.5 0 0 1 18.5 5" ] [], S.circle [ SA.cx "17.5", SA.cy "14.5", SA.r "3.5" ] [], S.circle [ SA.cx "6.5", SA.cy "9.5", SA.r "3.5" ] [] ]
+
+
+{-| zodiacCapricornIcon
+
+zodiac-capricorn
+
+-}
+zodiacCapricornIcon : List (S.Attribute msg) -> H.Html msg
+zodiacCapricornIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M11 21a3 3 0 0 0 3-3V6.5a1 1 0 0 0-7 0" ] [], S.path [ SA.d "M7 19V6a3 3 0 0 0-3-3h0" ] [], S.circle [ SA.cx "17", SA.cy "17", SA.r "3" ] [] ]
+
+
+{-| zodiacGeminiIcon
+
+zodiac-gemini
+
+-}
+zodiacGeminiIcon : List (S.Attribute msg) -> H.Html msg
+zodiacGeminiIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M16 4.525v14.948" ] [], S.path [ SA.d "M20 3A17 17 0 0 1 4 3" ] [], S.path [ SA.d "M4 21a17 17 0 0 1 16 0" ] [], S.path [ SA.d "M8 4.525v14.948" ] [] ]
+
+
+{-| zodiacLeoIcon
+
+zodiac-leo
+
+-}
+zodiacLeoIcon : List (S.Attribute msg) -> H.Html msg
+zodiacLeoIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10 16c0-4-3-4.5-3-8a5 5 0 0 1 10 0c0 3.466-3 6.196-3 10a3 3 0 0 0 6 0" ] [], S.circle [ SA.cx "7", SA.cy "16", SA.r "3" ] [] ]
+
+
+{-| zodiacLibraIcon
+
+zodiac-libra
+
+-}
+zodiacLibraIcon : List (S.Attribute msg) -> H.Html msg
+zodiacLibraIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M3 16h6.857c.162-.012.19-.323.038-.38a6 6 0 1 1 4.212 0c-.153.057-.125.368.038.38H21" ] [], S.path [ SA.d "M3 20h18" ] [] ]
+
+
+{-| zodiacOphiuchusIcon
+
+zodiac-ophiuchus
+
+-}
+zodiacOphiuchusIcon : List (S.Attribute msg) -> H.Html msg
+zodiacOphiuchusIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M3 10A6.06 6.06 0 0 1 12 10 A6.06 6.06 0 0 0 21 10" ] [], S.path [ SA.d "M6 3v12a6 6 0 0 0 12 0V3" ] [] ]
+
+
+{-| zodiacPiscesIcon
+
+zodiac-pisces
+
+-}
+zodiacPiscesIcon : List (S.Attribute msg) -> H.Html msg
+zodiacPiscesIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M19 21a15 15 0 0 1 0-18" ] [], S.path [ SA.d "M20 12H4" ] [], S.path [ SA.d "M5 3a15 15 0 0 1 0 18" ] [] ]
+
+
+{-| zodiacSagittariusIcon
+
+zodiac-sagittarius
+
+-}
+zodiacSagittariusIcon : List (S.Attribute msg) -> H.Html msg
+zodiacSagittariusIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M15 3h6v6" ] [], S.path [ SA.d "M21 3 3 21" ] [], S.path [ SA.d "m9 9 6 6" ] [] ]
+
+
+{-| zodiacScorpioIcon
+
+zodiac-scorpio
+
+-}
+zodiacScorpioIcon : List (S.Attribute msg) -> H.Html msg
+zodiacScorpioIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M10 19V5.5a1 1 0 0 1 5 0V17a2 2 0 0 0 2 2h5l-3-3" ] [], S.path [ SA.d "m22 19-3 3" ] [], S.path [ SA.d "M5 19V5.5a1 1 0 0 1 5 0" ] [], S.path [ SA.d "M5 5.5A2.5 2.5 0 0 0 2.5 3" ] [] ]
+
+
+{-| zodiacTaurusIcon
+
+zodiac-taurus
+
+-}
+zodiacTaurusIcon : List (S.Attribute msg) -> H.Html msg
+zodiacTaurusIcon options =
+    S.svg (baseOptions ++ options) [ S.circle [ SA.cx "12", SA.cy "15", SA.r "6" ] [], S.path [ SA.d "M18 3A6 6 0 0 1 6 3" ] [] ]
+
+
+{-| zodiacVirgoIcon
+
+zodiac-virgo
+
+-}
+zodiacVirgoIcon : List (S.Attribute msg) -> H.Html msg
+zodiacVirgoIcon options =
+    S.svg (baseOptions ++ options) [ S.path [ SA.d "M11 5.5a1 1 0 0 1 5 0V16a5 5 0 0 0 5 5" ] [], S.path [ SA.d "M16 11.5a1 1 0 0 1 5 0V16a5 5 0 0 1-5 5" ] [], S.path [ SA.d "M6 19V6a3 3 0 0 0-3-3h0" ] [], S.path [ SA.d "M6 5.5a1 1 0 0 1 5 0V19" ] [] ]
 
 
 {-| zoomInIcon

@@ -28,7 +28,10 @@ const getIntermediateRepresentation = (name, svgString) => {
     icon.children = [];
     let children = Array.from(div.querySelectorAll(`svg > *`));
     icon.children = children
-      .map((c) => [c.nodeName, extractAttributes(c.attributes)])
+      .map((c) => {
+        let a = [c.nodeName, extractAttributes(c.attributes)];
+        return a;
+      })
       .map(childToList);
     return icon;
   } catch (e) {
