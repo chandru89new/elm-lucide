@@ -1,20 +1,27 @@
 const fs = require("fs");
 const { execSync } = require("child_process");
 const jsdom = require("jsdom");
+const path = require("path");
 const { log } = console;
+const root = path.join(__dirname, "..");
 
 const main = () => {
-  execSync(`wget -O lucide-static.js https://unpkg.com/lucide-static@latest`);
-  let lucide = require("./lucide-static.js");
+  execSync(
+    `wget -O ${root}/scripts/lucide-static.js https://unpkg.com/lucide-static@latest`
+  );
+  let version = execSync(`npm view lucide-static version`).toString().trim();
+  let lucide = require(`${root}/scripts/lucide-static.js`);
   let icons = Object.keys(lucide);
   let iconsString = icons.map((icon) => {
     return toElmString(
       getIntermediateRepresentation(`${icon}Icon`, lucide[icon])
     );
   });
-  let final = `${fileHeader(icons)}${iconsString.join("")}`;
-  fs.writeFileSync("src/LucideIcons.elm", final, { encoding: "utf-8" });
-  execSync(`yarn elm-format src/LucideIcons.elm --yes`);
+  let final = `${fileHeader(icons, version)}${iconsString.join("")}`;
+  fs.writeFileSync(`${root}/src/LucideIcons.elm`, final, { encoding: "utf-8" });
+  execSync(`yarn elm-format ${root}/src/LucideIcons.elm --yes`);
+  writeReadme(version);
+  console.log("All done.");
 };
 
 const getIntermediateRepresentation = (name, svgString) => {
@@ -71,13 +78,15 @@ ${makeElmName(
 
 const makeElmName = (name) => name.slice(0, 1).toLowerCase() + name.slice(1);
 
-const fileHeader = (icons) => `module LucideIcons exposing (${icons
+const fileHeader = (icons, version) => `module LucideIcons exposing (${icons
   .map((icon) => `${makeElmName(icon)}Icon`)
   .join(",\n")})
 
 {-| Lucide icons in Elm.
 
 Checkout the [readme](https://github.com/chandru89new/elm-lucide) for usage instructions.
+
+This version has icons from Lucide v${version}.
 
 @docs ${icons.map((ic) => `${makeElmName(ic)}Icon`).join(", ")}
 -}
@@ -108,5 +117,15 @@ xmlns s =
     VirtualDom.property "xmlns" <| Json.Encode.string s
 
 `;
+
+const writeReadme = (version) => {
+  let readmeContents = fs.readFileSync(
+    `${root}/scripts/readme.template`,
+    "utf-8"
+  );
+  readmeContents = readmeContents.replaceAll("{{version}}", version);
+  fs.writeFileSync(`${root}/README.md`, readmeContents, { encoding: "utf-8" });
+  console.log(`Updated README.md.`);
+};
 
 main();
