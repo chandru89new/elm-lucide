@@ -1,6 +1,6 @@
 # Lucide Icons in Elm
 
-- This package currently supports **Lucide v1.7.0**.
+- This package currently supports **Lucide v1.8.0**.
 
 ## Install
 
