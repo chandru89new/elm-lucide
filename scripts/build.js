@@ -7,14 +7,14 @@ const root = path.join(__dirname, "..");
 
 const main = () => {
   execSync(
-    `wget -O ${root}/scripts/lucide-static.js https://unpkg.com/lucide-static@latest`
+    `wget -O ${root}/scripts/lucide-static.js https://unpkg.com/lucide-static@latest`,
   );
-  let version = execSync(`npm view lucide-static version`).toString().trim();
+  let version = `v${execSync(`npm view lucide-static version`).toString().trim()}`;
   let lucide = require(`${root}/scripts/lucide-static.js`);
   let icons = Object.keys(lucide);
   let iconsString = icons.map((icon) => {
     return toElmString(
-      getIntermediateRepresentation(`${icon}Icon`, lucide[icon])
+      getIntermediateRepresentation(`${icon}Icon`, lucide[icon]),
     );
   });
   let final = `${fileHeader(icons, version)}${iconsString.join("")}`;
@@ -28,7 +28,7 @@ const getIntermediateRepresentation = (name, svgString) => {
   let icon = { name };
   try {
     let div = new jsdom.JSDOM(
-      `<div>${svgString}</div>`
+      `<div>${svgString}</div>`,
     ).window.document.querySelector("div");
     let svg = div.querySelector("svg");
     icon.classList = svg.classList.toString();
@@ -70,7 +70,7 @@ ${icon.classList.split(" ")[1].replaceAll("lucide-", "")}
 -}
 ${makeElmName(icon.name)} : List (S.Attribute msg) -> H.Html msg
 ${makeElmName(
-  icon.name
+  icon.name,
 )} options = S.svg (baseOptions ++ options) [ ${icon.children.join(", ")} ]
 
 `;
@@ -86,7 +86,7 @@ const fileHeader = (icons, version) => `module LucideIcons exposing (${icons
 
 Checkout the [readme](https://github.com/chandru89new/elm-lucide) for usage instructions.
 
-This version has icons from Lucide v${version}.
+This version has icons from Lucide ${version}.
 
 @docs ${icons.map((ic) => `${makeElmName(ic)}Icon`).join(", ")}
 -}
@@ -121,7 +121,7 @@ xmlns s =
 const writeReadme = (version) => {
   let readmeContents = fs.readFileSync(
     `${root}/scripts/readme.template`,
-    "utf-8"
+    "utf-8",
   );
   readmeContents = readmeContents.replaceAll("{{version}}", version);
   fs.writeFileSync(`${root}/README.md`, readmeContents, { encoding: "utf-8" });
