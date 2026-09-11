@@ -27,13 +27,12 @@ const main = () => {
 const getIntermediateRepresentation = (name, svgString) => {
   let icon = { name };
   try {
-    let div = new jsdom.JSDOM(
-      `<div>${svgString}</div>`,
-    ).window.document.querySelector("div");
-    let svg = div.querySelector("svg");
+    let svg = new jsdom.JSDOM(`${svgString}`).window.document.querySelector(
+      "svg",
+    );
     icon.classList = svg.classList.toString();
     icon.children = [];
-    let children = Array.from(div.querySelectorAll(`svg > *`));
+    let children = Array.from(svg.querySelectorAll(`*`));
     icon.children = children
       .map((c) => {
         let a = [c.nodeName, extractAttributes(c.attributes)];
@@ -63,9 +62,7 @@ const childToList = (child) => {
 
 const toElmString = (icon) => {
   return `
-{-| ${makeElmName(icon.name)}
-
-${icon.classList.split(" ")[1].replaceAll("lucide-", "")}
+{-| ${icon.classList.split(" ")[1].replaceAll("lucide-", "")}
 
 -}
 ${makeElmName(icon.name)} : List (S.Attribute msg) -> H.Html msg
@@ -107,14 +104,11 @@ baseOptions =
     , SA.strokeLinecap "round"
     , SA.strokeLinejoin "round"
     , SA.viewBox "0 0 24 24"
-    , xmlns "http://www.w3.org/2000/svg"
+    , VirtualDom.property "xmlns" (Json.Encode.string "http://www.w3.org/2000/svg")
     , VirtualDom.property "style" (Json.Encode.string "width:1em;height:1em")
     ]
 
 
-xmlns : String -> S.Attribute a
-xmlns s =
-    VirtualDom.property "xmlns" <| Json.Encode.string s
 
 `;
 
